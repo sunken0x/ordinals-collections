@@ -8,8 +8,8 @@ Each entry includes:
 
 - **name**: collection name
 - **type**: `gallery` or `parent/child`
-- **inscription_id** or **inscription_ids**: gallery uses a single `inscription_id`, parent/child uses an `inscription_ids` array
-- **suggested_slug**: URL-friendly identifier for the collection
+- **id** or **ids**: gallery uses a single `id`, parent/child uses an `ids` array
+- **slug**: URL-friendly identifier for the collection
 
 **Example**
 
@@ -18,14 +18,14 @@ Each entry includes:
   {
     "name": "Dia De Pixales",
     "type": "parent",
-    "inscription_ids": ["681b5373c03e3f819231afd9227f54101395299c9e58356bda278e2f32bef2cdi0"],
-    "suggested_slug": "dia-de-pixales"
+    "ids": ["681b5373c03e3f819231afd9227f54101395299c9e58356bda278e2f32bef2cdi0"],
+    "slug": "dia-de-pixales"
   },
   {
     "name": "The Wizards of Ord",
     "type": "gallery",
-    "inscription_id": "aaaaaaaa...i0",
-    "suggested_slug": "wizards-of-ord"
+    "id": "aaaaaaaa...i0",
+    "slug": "wizards-of-ord"
   }
 ]
 ```
