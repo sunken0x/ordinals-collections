@@ -1,0 +1,7426 @@
+[
+  {
+    "id": "be6f242399e7a608db4b08b48127ce78838be34c852ad085613e1d96ee86ba8ci0",
+    "meta": {
+      "name": "MemFlux #1",
+      "attributes": [
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "472",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/be6f242399e7a608db4b08b48127ce78838be34c852ad085613e1d96ee86ba8ci0-1681306453.jpg"
+    }
+  },
+  {
+    "id": "da1fbbf570491c3e4cf96a2dd470f437e414281851f42f70115d94f9dae9f220i0",
+    "meta": {
+      "name": "MemFlux #2",
+      "attributes": [
+        {
+          "value": "19",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "472",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/da1fbbf570491c3e4cf96a2dd470f437e414281851f42f70115d94f9dae9f220i0-1681306519.jpg"
+    }
+  },
+  {
+    "id": "c63772cdb3e7b02b257123535491a6db07fe095821fbaae06aabf242e9e6dd68i0",
+    "meta": {
+      "name": "MemFlux #3",
+      "attributes": [
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "436",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/c63772cdb3e7b02b257123535491a6db07fe095821fbaae06aabf242e9e6dd68i0-1681306584.jpg"
+    }
+  },
+  {
+    "id": "5f4bbc66f8051585dc8f014164dadada454429d5810fae7f2dbaac53fe8b4aabi0",
+    "meta": {
+      "name": "MemFlux #4",
+      "attributes": [
+        {
+          "value": "12",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "450",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/5f4bbc66f8051585dc8f014164dadada454429d5810fae7f2dbaac53fe8b4aabi0-1681310082.jpg"
+    }
+  },
+  {
+    "id": "20d49d4deb175b1b72f733aa9a8d779c880a271e2f60786c02aedc8521e0a390i0",
+    "meta": {
+      "name": "MemFlux #5",
+      "attributes": [
+        {
+          "value": "17",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "431",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/20d49d4deb175b1b72f733aa9a8d779c880a271e2f60786c02aedc8521e0a390i0-1681310156.jpg"
+    }
+  },
+  {
+    "id": "cb8a5be1bec35385b8137e8f4ca92c7ef2183244da63a7c3a6a5cc1df59e3592i0",
+    "meta": {
+      "name": "MemFlux #6",
+      "attributes": [
+        {
+          "value": "14",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "90",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "medium",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/cb8a5be1bec35385b8137e8f4ca92c7ef2183244da63a7c3a6a5cc1df59e3592i0-1681317514.jpg"
+    }
+  },
+  {
+    "id": "a0109e1d56ff5d32baa2b7c25620ea9db97cef724d36acc9c87561e07c3c3e08i0",
+    "meta": {
+      "name": "MemFlux #7",
+      "attributes": [
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "446",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/a0109e1d56ff5d32baa2b7c25620ea9db97cef724d36acc9c87561e07c3c3e08i0-1681327718.jpg"
+    }
+  },
+  {
+    "id": "d00cfec99f86dc7970ee4051a5a75e2f4de1cf2af3bafcbdc58945903a0a606fi0",
+    "meta": {
+      "name": "MemFlux #8",
+      "attributes": [
+        {
+          "value": "4",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "42",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "insane",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/d00cfec99f86dc7970ee4051a5a75e2f4de1cf2af3bafcbdc58945903a0a606fi0-1681327792.jpg"
+    }
+  },
+  {
+    "id": "23180c677d3485d209eb5374f67f3c876624ab7aa3873eb1ac93d02bb279d35ei0",
+    "meta": {
+      "name": "MemFlux #9",
+      "attributes": [
+        {
+          "value": "11",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "451",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/23180c677d3485d209eb5374f67f3c876624ab7aa3873eb1ac93d02bb279d35ei0-1681327866.jpg"
+    }
+  },
+  {
+    "id": "a363a9aeaa513ada191e147bb951adb91cc5088a08ba8e4b266ab3bb67b2f846i0",
+    "meta": {
+      "name": "MemFlux #10",
+      "attributes": [
+        {
+          "value": "21",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "432",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/a363a9aeaa513ada191e147bb951adb91cc5088a08ba8e4b266ab3bb67b2f846i0-1681327940.jpg"
+    }
+  },
+  {
+    "id": "3de88f9dfca1621e2177d470e5abb6a70d77694336c45da879aac4984a435966i0",
+    "meta": {
+      "name": "MemFlux #11",
+      "attributes": [
+        {
+          "value": "14",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "411",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/3de88f9dfca1621e2177d470e5abb6a70d77694336c45da879aac4984a435966i0-1681328013.jpg"
+    }
+  },
+  {
+    "id": "5b348faf72491bf9615f98032857d62edfad8c50baafbd95e8d5e29a059dc175i0",
+    "meta": {
+      "name": "MemFlux #12",
+      "attributes": [
+        {
+          "value": "6",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "468",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/5b348faf72491bf9615f98032857d62edfad8c50baafbd95e8d5e29a059dc175i0-1681341758.jpg"
+    }
+  },
+  {
+    "id": "0f89a794adb1087ba0785fff7fa01c3c32ad71147264c47aaaa17951e9b31e63i0",
+    "meta": {
+      "name": "MemFlux #13",
+      "attributes": [
+        {
+          "value": "8",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "486",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/0f89a794adb1087ba0785fff7fa01c3c32ad71147264c47aaaa17951e9b31e63i0-1681341833.jpg"
+    }
+  },
+  {
+    "id": "f2e3d2910417381157ec164e467cc0a4fd2f284619e5b9d6b2d1a041b696acfdi0",
+    "meta": {
+      "name": "MemFlux #14",
+      "attributes": [
+        {
+          "value": "5",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "81",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "medium",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/f2e3d2910417381157ec164e467cc0a4fd2f284619e5b9d6b2d1a041b696acfdi0-1681341906.jpg"
+    }
+  },
+  {
+    "id": "17cf83be0a29f1e1038d9e68bf839fa4232cee613ec99216a548a64eea532faei0",
+    "meta": {
+      "name": "MemFlux #15",
+      "attributes": [
+        {
+          "value": "16",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "427",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/17cf83be0a29f1e1038d9e68bf839fa4232cee613ec99216a548a64eea532faei0-1681385154.jpg"
+    }
+  },
+  {
+    "id": "633edfe04997c1ddbefba4aaaf01913ed2de306fd7d39de36f40e1baf3770bd4i0",
+    "meta": {
+      "name": "MemFlux #16",
+      "attributes": [
+        {
+          "value": "8",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "453",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/633edfe04997c1ddbefba4aaaf01913ed2de306fd7d39de36f40e1baf3770bd4i0-1681385228.jpg"
+    }
+  },
+  {
+    "id": "4379809cddc76478547f1323372a531b13ad276157f29e417208899cac418415i0",
+    "meta": {
+      "name": "MemFlux #17",
+      "attributes": [
+        {
+          "value": "3",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "48",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "insane",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/4379809cddc76478547f1323372a531b13ad276157f29e417208899cac418415i0-1681385302.jpg"
+    }
+  },
+  {
+    "id": "50c3080dffa9692604e00c5962e8b4ca6d8df325f84ffc64bf95a42862e8e61bi0",
+    "meta": {
+      "name": "MemFlux #18",
+      "attributes": [
+        {
+          "value": "4",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "43",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "insane",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/50c3080dffa9692604e00c5962e8b4ca6d8df325f84ffc64bf95a42862e8e61bi0-1681386949.jpg"
+    }
+  },
+  {
+    "id": "6dde969bb74acdc7e6c61b7ac7227cabf6658edce26c05e3e821b294d7bcab55i0",
+    "meta": {
+      "name": "MemFlux #19",
+      "attributes": [
+        {
+          "value": "23",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "488",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "tiny",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/6dde969bb74acdc7e6c61b7ac7227cabf6658edce26c05e3e821b294d7bcab55i0-1681388151.jpg"
+    }
+  },
+  {
+    "id": "b2abf9c4d15b1e7cae2f889d9222c04ceace7fe228a68d9f01c21f4f5fb11651i0",
+    "meta": {
+      "name": "MemFlux #20",
+      "attributes": [
+        {
+          "value": "19",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "477",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/b2abf9c4d15b1e7cae2f889d9222c04ceace7fe228a68d9f01c21f4f5fb11651i0-1681405792.jpg"
+    }
+  },
+  {
+    "id": "4284974b68cf772b7fe99da809cda473f75ec422ba2ca3f5dc474a6e134a9d76i0",
+    "meta": {
+      "name": "MemFlux #21",
+      "attributes": [
+        {
+          "value": "10",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "448",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "overcast",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/4284974b68cf772b7fe99da809cda473f75ec422ba2ca3f5dc474a6e134a9d76i0-1681405866.jpg"
+    }
+  },
+  {
+    "id": "3a0a857dc335f07a79e8e64881f5c29090aab90d7463133abdfebf77568e5b2di0",
+    "meta": {
+      "name": "MemFlux #22",
+      "attributes": [
+        {
+          "value": "12",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "402",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/3a0a857dc335f07a79e8e64881f5c29090aab90d7463133abdfebf77568e5b2di0-1681405940.jpg"
+    }
+  },
+  {
+    "id": "150cee16b7f47ac8357586559b2fab2d13acd252ca2061ce198197664f35ac83i0",
+    "meta": {
+      "name": "MemFlux #23",
+      "attributes": [
+        {
+          "value": "17",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "486",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/150cee16b7f47ac8357586559b2fab2d13acd252ca2061ce198197664f35ac83i0-1681406014.jpg"
+    }
+  },
+  {
+    "id": "4d0565f82b4e68208f8f3afc9095fadf83df528a41d39af39d5c39d2d4d2b84ai0",
+    "meta": {
+      "name": "MemFlux #24",
+      "attributes": [
+        {
+          "value": "16",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "470",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/4d0565f82b4e68208f8f3afc9095fadf83df528a41d39af39d5c39d2d4d2b84ai0-1681406088.jpg"
+    }
+  },
+  {
+    "id": "6287473b50f028e393e6979e11dd8531385c2a4cd29720e6bf1394396ac2421ci0",
+    "meta": {
+      "name": "MemFlux #25",
+      "attributes": [
+        {
+          "value": "16",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "90",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "medium",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/6287473b50f028e393e6979e11dd8531385c2a4cd29720e6bf1394396ac2421ci0-1681417973.jpg"
+    }
+  },
+  {
+    "id": "b2ea8b06af9c4232cb488287135897d4962acf7ff1fa304ce2916c33b0d74944i0",
+    "meta": {
+      "name": "MemFlux #26",
+      "attributes": [
+        {
+          "value": "16",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "479",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/b2ea8b06af9c4232cb488287135897d4962acf7ff1fa304ce2916c33b0d74944i0-1681421150.jpg"
+    }
+  },
+  {
+    "id": "9096272a76273af921cb7e877aeba71a0602238f82fa6cf53ef11f09c6d9d07ei0",
+    "meta": {
+      "name": "MemFlux #27",
+      "attributes": [
+        {
+          "value": "10",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "420",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "tiny",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/9096272a76273af921cb7e877aeba71a0602238f82fa6cf53ef11f09c6d9d07ei0-1681421225.jpg"
+    }
+  },
+  {
+    "id": "6a7815597838ad260765235f5bc9cca5fee1fa7a73542e3ec9b34255b7ab7d50i0",
+    "meta": {
+      "name": "MemFlux #28",
+      "attributes": [
+        {
+          "value": "7",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "490",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/6a7815597838ad260765235f5bc9cca5fee1fa7a73542e3ec9b34255b7ab7d50i0-1681421299.jpg"
+    }
+  },
+  {
+    "id": "e4978e72b86c8605bc509effe0d7dead480d6bc2b1a1f17d299468845f928a7ci0",
+    "meta": {
+      "name": "MemFlux #29",
+      "attributes": [
+        {
+          "value": "6",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "471",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/e4978e72b86c8605bc509effe0d7dead480d6bc2b1a1f17d299468845f928a7ci0-1681421373.jpg"
+    }
+  },
+  {
+    "id": "3fae0e1abc7aa133b25d0547d3b85adae6c069a64c8b8a6b3704df31491d449fi0",
+    "meta": {
+      "name": "MemFlux #30",
+      "attributes": [
+        {
+          "value": "15",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "93",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "medium",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/3fae0e1abc7aa133b25d0547d3b85adae6c069a64c8b8a6b3704df31491d449fi0-1681421446.jpg"
+    }
+  },
+  {
+    "id": "ff05d3bcc3ec27708195a20002caeddf358ee09828c1e0042601b584c8d86af3i0",
+    "meta": {
+      "name": "MemFlux #31",
+      "attributes": [
+        {
+          "value": "6",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "463",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "tiny",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/ff05d3bcc3ec27708195a20002caeddf358ee09828c1e0042601b584c8d86af3i0-1681423554.jpg"
+    }
+  },
+  {
+    "id": "72a35bf37122aabba539985999a302230804f7590ab786896cdf63e9111f8a1ai0",
+    "meta": {
+      "name": "MemFlux #32",
+      "attributes": [
+        {
+          "value": "13",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "413",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/72a35bf37122aabba539985999a302230804f7590ab786896cdf63e9111f8a1ai0-1681424750.jpg"
+    }
+  },
+  {
+    "id": "29cf2b79ab30a094c538fa3362a824b2b1e10b67c29cffebe335b5647a476998i0",
+    "meta": {
+      "name": "MemFlux #33",
+      "attributes": [
+        {
+          "value": "14",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "400",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "tiny",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/29cf2b79ab30a094c538fa3362a824b2b1e10b67c29cffebe335b5647a476998i0-1681424823.jpg"
+    }
+  },
+  {
+    "id": "d2ad1a72dbfe785d69295cb0a353b9749a3c7c639cba982b2c29bd4498a4e3bei0",
+    "meta": {
+      "name": "MemFlux #34",
+      "attributes": [
+        {
+          "value": "19",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "401",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/d2ad1a72dbfe785d69295cb0a353b9749a3c7c639cba982b2c29bd4498a4e3bei0-1681424898.jpg"
+    }
+  },
+  {
+    "id": "8e6bf9bf258b901204d887113743a0f129ad5cf9dabe164e07c9de25f2944bd8i0",
+    "meta": {
+      "name": "MemFlux #35",
+      "attributes": [
+        {
+          "value": "23",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "495",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/8e6bf9bf258b901204d887113743a0f129ad5cf9dabe164e07c9de25f2944bd8i0-1681424971.jpg"
+    }
+  },
+  {
+    "id": "6cc13a76b897cbf16f981be47701b78e825076faba32f425545200c3b0ab8d25i0",
+    "meta": {
+      "name": "MemFlux #36",
+      "attributes": [
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "457",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/6cc13a76b897cbf16f981be47701b78e825076faba32f425545200c3b0ab8d25i0-1681425046.jpg"
+    }
+  },
+  {
+    "id": "3317ee1599e03a895d088ddcf167d6d9b311e674137c34f7fa1f79c051cc46c4i0",
+    "meta": {
+      "name": "MemFlux #37",
+      "attributes": [
+        {
+          "value": "13",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "426",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/3317ee1599e03a895d088ddcf167d6d9b311e674137c34f7fa1f79c051cc46c4i0-1681436395.jpg"
+    }
+  },
+  {
+    "id": "026d21efc7e8b8f4f03f01ff9bf289e3c3b8b5b7c68d264d5bef5ab97a839969i0",
+    "meta": {
+      "name": "MemFlux #38",
+      "attributes": [
+        {
+          "value": "13",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "494",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/026d21efc7e8b8f4f03f01ff9bf289e3c3b8b5b7c68d264d5bef5ab97a839969i0-1681440952.jpg"
+    }
+  },
+  {
+    "id": "e736f73cc18e064ee8268e64ba54c58c0c09e1d0dfa54bc05b1e92b3782f5ee9i0",
+    "meta": {
+      "name": "MemFlux #39",
+      "attributes": [
+        {
+          "value": "1",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "410",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/e736f73cc18e064ee8268e64ba54c58c0c09e1d0dfa54bc05b1e92b3782f5ee9i0-1681459550.jpg"
+    }
+  },
+  {
+    "id": "4755c894b9a18b016888b3e96006ce2cee304cef15d50ebcfec48073774d051ei0",
+    "meta": {
+      "name": "MemFlux #40",
+      "attributes": [
+        {
+          "value": "1",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "455",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/4755c894b9a18b016888b3e96006ce2cee304cef15d50ebcfec48073774d051ei0-1681474776.jpg"
+    }
+  },
+  {
+    "id": "59155e6c6b9d3f5e7467120a9f7a399dc9b73277c7386a10ae1a9b2a255e5718i0",
+    "meta": {
+      "name": "MemFlux #41",
+      "attributes": [
+        {
+          "value": "16",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "432",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/59155e6c6b9d3f5e7467120a9f7a399dc9b73277c7386a10ae1a9b2a255e5718i0-1681474850.jpg"
+    }
+  },
+  {
+    "id": "9ef86e18ecc1d2fc75af960c62f92fe5bccebeb04f850a49d2e969bb8e77eba4i0",
+    "meta": {
+      "name": "MemFlux #42",
+      "attributes": [
+        {
+          "value": "12",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "442",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/9ef86e18ecc1d2fc75af960c62f92fe5bccebeb04f850a49d2e969bb8e77eba4i0-1681522821.jpg"
+    }
+  },
+  {
+    "id": "38212cd1ffb688cfd295d78fd8f8944fd43864b90d06fce4de9c77b597d282bai0",
+    "meta": {
+      "name": "MemFlux #43",
+      "attributes": [
+        {
+          "value": "24",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "94",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "big",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/38212cd1ffb688cfd295d78fd8f8944fd43864b90d06fce4de9c77b597d282bai0-1681759881.jpg"
+    }
+  },
+  {
+    "id": "612b79471905588750d0af22e1950bc6f36271e60bc99dabb9dfbbe999548e46i0",
+    "meta": {
+      "name": "MemFlux #44",
+      "attributes": [
+        {
+          "value": "22",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "92",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "big",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/612b79471905588750d0af22e1950bc6f36271e60bc99dabb9dfbbe999548e46i0-1682092040.jpg"
+    }
+  },
+  {
+    "id": "a46f46eb8031508e3f7a3fb0c42051eb63263a0467b36233882d8a5a27cc6992i0",
+    "meta": {
+      "name": "MemFlux #45",
+      "attributes": [
+        {
+          "value": "0",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "467",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/a46f46eb8031508e3f7a3fb0c42051eb63263a0467b36233882d8a5a27cc6992i0-1682092044.jpg"
+    }
+  },
+  {
+    "id": "83ec5bee47f30c373d17a1c0a586ce49104c6832304dd3f07b0a066b333aedb8i0",
+    "meta": {
+      "name": "MemFlux #46",
+      "attributes": [
+        {
+          "value": "18",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "419",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/83ec5bee47f30c373d17a1c0a586ce49104c6832304dd3f07b0a066b333aedb8i0-1682093243.jpg"
+    }
+  },
+  {
+    "id": "1ead0e42683fefec2b97b7abe40f57dcc0f16729498a0320c8d3bac9a14e6611i0",
+    "meta": {
+      "name": "MemFlux #47",
+      "attributes": [
+        {
+          "value": "16",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "491",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/1ead0e42683fefec2b97b7abe40f57dcc0f16729498a0320c8d3bac9a14e6611i0-1682093247.jpg"
+    }
+  },
+  {
+    "id": "42c152219f642e964ced2b083c87ad0bf89f755aa94917f5bef26fae6b7d4296i0",
+    "meta": {
+      "name": "MemFlux #48",
+      "attributes": [
+        {
+          "value": "17",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "458",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "tiny",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/42c152219f642e964ced2b083c87ad0bf89f755aa94917f5bef26fae6b7d4296i0-1682093251.jpg"
+    }
+  },
+  {
+    "id": "cc3a01cfac0c850836399cc2a9a9d5777557e4973920e4d591c2b241317f3134i0",
+    "meta": {
+      "name": "MemFlux #49",
+      "attributes": [
+        {
+          "value": "17",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "428",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/cc3a01cfac0c850836399cc2a9a9d5777557e4973920e4d591c2b241317f3134i0-1682093475.jpg"
+    }
+  },
+  {
+    "id": "963d82b164101bf97559cba62f20b883f6837024225343572ac51c310178fc68i0",
+    "meta": {
+      "name": "MemFlux #50",
+      "attributes": [
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "421",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "overcast",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/963d82b164101bf97559cba62f20b883f6837024225343572ac51c310178fc68i0-1682439077.jpg"
+    }
+  },
+  {
+    "id": "8823f08e9405fafec2b487614c4f317475dd5dc02cd58b7d97d848f80781f0aci0",
+    "meta": {
+      "name": "MemFlux #51",
+      "attributes": [
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "425",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/8823f08e9405fafec2b487614c4f317475dd5dc02cd58b7d97d848f80781f0aci0-1682462790.jpg"
+    }
+  },
+  {
+    "id": "a7e84599e060e5b3e89b2ad6f7ebeaae6af50df6a2cfe3d0e50a2dfefefc3b7fi0",
+    "meta": {
+      "name": "MemFlux #52",
+      "attributes": [
+        {
+          "value": "14",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "98",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "big",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/a7e84599e060e5b3e89b2ad6f7ebeaae6af50df6a2cfe3d0e50a2dfefefc3b7fi0-1682496992.jpg"
+    }
+  },
+  {
+    "id": "1b60e9d7c3819268a2103bc6c30cde074878f3f1b35b549301709d99f15104f2i0",
+    "meta": {
+      "name": "MemFlux #53",
+      "attributes": [
+        {
+          "value": "10",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "487",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/1b60e9d7c3819268a2103bc6c30cde074878f3f1b35b549301709d99f15104f2i0-1682499995.jpg"
+    }
+  },
+  {
+    "id": "45b0340dc6c5c3e54be5cd760093967b315554fbad8bd777c9e1ca81ad5a5e1di0",
+    "meta": {
+      "name": "MemFlux #54",
+      "attributes": [
+        {
+          "value": "14",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "454",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "overcast",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/45b0340dc6c5c3e54be5cd760093967b315554fbad8bd777c9e1ca81ad5a5e1di0-1682519194.jpg"
+    }
+  },
+  {
+    "id": "35ea69bee9fd29042896f6f359fc783f07111a420f8e8afdc2aae701ea557d0bi0",
+    "meta": {
+      "name": "MemFlux #55",
+      "attributes": [
+        {
+          "value": "16",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "417",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/35ea69bee9fd29042896f6f359fc783f07111a420f8e8afdc2aae701ea557d0bi0-1682613637.jpg"
+    }
+  },
+  {
+    "id": "c4285c6172a4212c4015e64d103b8483daff56e854d957be6d78fe1943d4dad8i0",
+    "meta": {
+      "name": "MemFlux #56",
+      "attributes": [
+        {
+          "value": "8",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "419",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/c4285c6172a4212c4015e64d103b8483daff56e854d957be6d78fe1943d4dad8i0-1682613645.jpg"
+    }
+  },
+  {
+    "id": "91684f479f2e1970fb1c92dfce38b61bc10c5614e8025b04944f6eb86f2a1a5bi0",
+    "meta": {
+      "name": "MemFlux #57",
+      "attributes": [
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "82",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "big",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/91684f479f2e1970fb1c92dfce38b61bc10c5614e8025b04944f6eb86f2a1a5bi0-1682613713.jpg"
+    }
+  },
+  {
+    "id": "88bbf89a672a504b6df1aedab8849ca7cd8b994d8d69db3367219a80268958eai0",
+    "meta": {
+      "name": "MemFlux #58",
+      "attributes": [
+        {
+          "value": "24",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "467",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/88bbf89a672a504b6df1aedab8849ca7cd8b994d8d69db3367219a80268958eai0-1682790457.jpg"
+    }
+  },
+  {
+    "id": "a82de0a148346d5f278f0cefc4dc783bb1d84a035d6c4295520baf6820059a37i0",
+    "meta": {
+      "name": "MemFlux #59",
+      "attributes": [
+        {
+          "value": "2",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "471",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/a82de0a148346d5f278f0cefc4dc783bb1d84a035d6c4295520baf6820059a37i0-1682914237.jpg"
+    }
+  },
+  {
+    "id": "fb9530e92d21ea9d7466b5a714b92558facb347c170d37432b473738a8122b94i0",
+    "meta": {
+      "name": "MemFlux #60",
+      "attributes": [
+        {
+          "value": "2",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "93",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "big",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/fb9530e92d21ea9d7466b5a714b92558facb347c170d37432b473738a8122b94i0-1683258151.jpg"
+    }
+  },
+  {
+    "id": "1356bf3c72386626d3bc06d1e4e9c1bc250441cf4703ee73625e5e837dd48bddi0",
+    "meta": {
+      "name": "MemFlux #61",
+      "attributes": [
+        {
+          "value": "8",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "499",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/1356bf3c72386626d3bc06d1e4e9c1bc250441cf4703ee73625e5e837dd48bddi0-1684164192.jpg"
+    }
+  },
+  {
+    "id": "127bcad3a3a27df624a39515b91be4004d8b13633b50f3629ef5cea40c61c1d5i0",
+    "meta": {
+      "name": "MemFlux #62",
+      "attributes": [
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "44",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "insane",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/127bcad3a3a27df624a39515b91be4004d8b13633b50f3629ef5cea40c61c1d5i0-1684167771.jpg"
+    }
+  },
+  {
+    "id": "7afd4e97ef1d14ad9709ea631e387a63cd0efebe24c71ea4506ea38037e206fci0",
+    "meta": {
+      "name": "MemFlux #63",
+      "attributes": [
+        {
+          "value": "21",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "454",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/7afd4e97ef1d14ad9709ea631e387a63cd0efebe24c71ea4506ea38037e206fci0-1684174971.jpg"
+    }
+  },
+  {
+    "id": "36c2ab536c01f2b5187da3d84b0ea388beeccbdce9a5adfdd92265641eb5452ci0",
+    "meta": {
+      "name": "MemFlux #64",
+      "attributes": [
+        {
+          "value": "7",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "41",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "insane",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/36c2ab536c01f2b5187da3d84b0ea388beeccbdce9a5adfdd92265641eb5452ci0-1684178045.jpg"
+    }
+  },
+  {
+    "id": "9eb5d1e00ee48dc74ed17c642b1e021babb610170b3c67436b91e12563d214b5i0",
+    "meta": {
+      "name": "MemFlux #65",
+      "attributes": [
+        {
+          "value": "19",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "474",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/9eb5d1e00ee48dc74ed17c642b1e021babb610170b3c67436b91e12563d214b5i0-1684251890.jpg"
+    }
+  },
+  {
+    "id": "f4d1a45d9083f312e6aa1bfc07a9bc5030a7cadbafb43988e95dae6f4ea99957i0",
+    "meta": {
+      "name": "MemFlux #66",
+      "attributes": [
+        {
+          "value": "7",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "415",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/f4d1a45d9083f312e6aa1bfc07a9bc5030a7cadbafb43988e95dae6f4ea99957i0-1684255961.jpg"
+    }
+  },
+  {
+    "id": "8c7592f0e94b87ffa22358b0279ec7f5426cea780342ba911b5568018625fe66i0",
+    "meta": {
+      "name": "MemFlux #67",
+      "attributes": [
+        {
+          "value": "24",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "420",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/8c7592f0e94b87ffa22358b0279ec7f5426cea780342ba911b5568018625fe66i0-1684392850.jpg"
+    }
+  },
+  {
+    "id": "5231375182ef9fa8cb585e3c6caace7f1a38a1a7cb7cd3a0af5e8ff8a98750a1i0",
+    "meta": {
+      "name": "MemFlux #68",
+      "attributes": [
+        {
+          "value": "4",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "444",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/5231375182ef9fa8cb585e3c6caace7f1a38a1a7cb7cd3a0af5e8ff8a98750a1i0-1684487452.jpg"
+    }
+  },
+  {
+    "id": "6f0e9cd3725bc089f916f115ba3cdb8346c757602d769d6d21fdb45264c0b628i0",
+    "meta": {
+      "name": "MemFlux #69",
+      "attributes": [
+        {
+          "value": "17",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "93",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "big",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/6f0e9cd3725bc089f916f115ba3cdb8346c757602d769d6d21fdb45264c0b628i0-1684487658.jpg"
+    }
+  },
+  {
+    "id": "e90dd2821e60f9c83d24360b90903432427e80012201b83a8dacb324cda95a1ei0",
+    "meta": {
+      "name": "MemFlux #70",
+      "attributes": [
+        {
+          "value": "21",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "481",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/e90dd2821e60f9c83d24360b90903432427e80012201b83a8dacb324cda95a1ei0-1684546609.jpg"
+    }
+  },
+  {
+    "id": "c378c1c6e4f08bb099b174cfcc931ec056b6b3e010f6296afc3556df1e69a876i0",
+    "meta": {
+      "name": "MemFlux #71",
+      "attributes": [
+        {
+          "value": "11",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "467",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/c378c1c6e4f08bb099b174cfcc931ec056b6b3e010f6296afc3556df1e69a876i0-1684749866.jpg"
+    }
+  },
+  {
+    "id": "1f16cb89473a56735e2d485854f8ebe403213e60cf94d0ec8f57310406826b87i0",
+    "meta": {
+      "name": "MemFlux #72",
+      "attributes": [
+        {
+          "value": "14",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "451",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/1f16cb89473a56735e2d485854f8ebe403213e60cf94d0ec8f57310406826b87i0-1684871819.jpg"
+    }
+  },
+  {
+    "id": "988ebe71317e22164eceddd254d4c997ced3964cc2b0c8bfe37f1f82aad0ccd5i0",
+    "meta": {
+      "name": "MemFlux #73",
+      "attributes": [
+        {
+          "value": "16",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "443",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/988ebe71317e22164eceddd254d4c997ced3964cc2b0c8bfe37f1f82aad0ccd5i0-1684871826.jpg"
+    }
+  },
+  {
+    "id": "9d3d6f7fbec0fa068557fe27b092f824d1e7391d3fc465bb06189cd99a800567i0",
+    "meta": {
+      "name": "MemFlux #74",
+      "attributes": [
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "425",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/9d3d6f7fbec0fa068557fe27b092f824d1e7391d3fc465bb06189cd99a800567i0-1684885137.jpg"
+    }
+  },
+  {
+    "id": "ecf11a3f645ee9b6049aef7dfaa0cf5e747419ec7eb8fb738efc08940008ef41i0",
+    "meta": {
+      "name": "MemFlux #75",
+      "attributes": [
+        {
+          "value": "21",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "455",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/ecf11a3f645ee9b6049aef7dfaa0cf5e747419ec7eb8fb738efc08940008ef41i0-1684885147.jpg"
+    }
+  },
+  {
+    "id": "73a3f026a9844b8aa9c129960e826500671269a93aa5a0f96b42dfe678751f26i0",
+    "meta": {
+      "name": "MemFlux #76",
+      "attributes": [
+        {
+          "value": "14",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "434",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/73a3f026a9844b8aa9c129960e826500671269a93aa5a0f96b42dfe678751f26i0-1684885154.jpg"
+    }
+  },
+  {
+    "id": "42c95f8931af1d9d658912d425b7a2b2d48a56e98e88f72d35b66ba94b94646ai0",
+    "meta": {
+      "name": "MemFlux #77",
+      "attributes": [
+        {
+          "value": "17",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "449",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/42c95f8931af1d9d658912d425b7a2b2d48a56e98e88f72d35b66ba94b94646ai0-1684906461.jpg"
+    }
+  },
+  {
+    "id": "03f1e344a11a418023a3f72ea368ffdad04c6f44fc00c5a8883a67723f81b553i0",
+    "meta": {
+      "name": "MemFlux #78",
+      "attributes": [
+        {
+          "value": "21",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "483",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/03f1e344a11a418023a3f72ea368ffdad04c6f44fc00c5a8883a67723f81b553i0-1684949427.jpg"
+    }
+  },
+  {
+    "id": "1aa9da59c9abd45834d9bdab4cfbf5495f583d65312b66713ac176332e3e615bi0",
+    "meta": {
+      "name": "MemFlux #79",
+      "attributes": [
+        {
+          "value": "0",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "408",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/1aa9da59c9abd45834d9bdab4cfbf5495f583d65312b66713ac176332e3e615bi0-1684949434.jpg"
+    }
+  },
+  {
+    "id": "6b7eb769e21b56ce13d2fc5f81426120e54a1f9562c32e7a8542de403096b1bbi0",
+    "meta": {
+      "name": "MemFlux #80",
+      "attributes": [
+        {
+          "value": "2",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "42",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "insane",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/6b7eb769e21b56ce13d2fc5f81426120e54a1f9562c32e7a8542de403096b1bbi0-1684949444.jpg"
+    }
+  },
+  {
+    "id": "8a044c5d075831f9dff5e77e004eb27293abd21adcba105295729dce93078021i0",
+    "meta": {
+      "name": "MemFlux #81",
+      "attributes": [
+        {
+          "value": "17",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "42",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "insane",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/8a044c5d075831f9dff5e77e004eb27293abd21adcba105295729dce93078021i0-1684977030.jpg"
+    }
+  },
+  {
+    "id": "008b45dfa2eab5bd341d4b99b6be659f46db5bc00ba44216951f3d991aeac473i0",
+    "meta": {
+      "name": "MemFlux #82",
+      "attributes": [
+        {
+          "value": "4",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "442",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/008b45dfa2eab5bd341d4b99b6be659f46db5bc00ba44216951f3d991aeac473i0-1685734146.jpg"
+    }
+  },
+  {
+    "id": "65e758fb488af74cf5b27421c1b33f3245813e29e31da667b107683cadefd6f2i0",
+    "meta": {
+      "name": "MemFlux #83",
+      "attributes": [
+        {
+          "value": "5",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "498",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/65e758fb488af74cf5b27421c1b33f3245813e29e31da667b107683cadefd6f2i0-1685910226.jpg"
+    }
+  },
+  {
+    "id": "17b144d89963746113bc02fabe78fdcdaf23d78c059a21ca610ce320e2f539d5i0",
+    "meta": {
+      "name": "MemFlux #84",
+      "attributes": [
+        {
+          "value": "10",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "455",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "overcast",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/17b144d89963746113bc02fabe78fdcdaf23d78c059a21ca610ce320e2f539d5i0-1685910234.jpg"
+    }
+  },
+  {
+    "id": "c72b254fd988300d43013770701fc415ccbdda5beffad66bf882fd0df912cf6ei0",
+    "meta": {
+      "name": "MemFlux #85",
+      "attributes": [
+        {
+          "value": "10",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "40",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "insane",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/c72b254fd988300d43013770701fc415ccbdda5beffad66bf882fd0df912cf6ei0-1686018220.jpg"
+    }
+  },
+  {
+    "id": "1bb86db834638f9f444ee988e5a954c03b109f4988442cb5a5d99692153f95b4i0",
+    "meta": {
+      "name": "MemFlux #86",
+      "attributes": [
+        {
+          "value": "2",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "92",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "medium",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/1bb86db834638f9f444ee988e5a954c03b109f4988442cb5a5d99692153f95b4i0-1686018230.jpg"
+    }
+  },
+  {
+    "id": "095329e9d3925f3f56c55ccdb0bf3610d9999bd4b2ee993dcf4626cb04fb2e12i0",
+    "meta": {
+      "name": "MemFlux #87",
+      "attributes": [
+        {
+          "value": "13",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "495",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/095329e9d3925f3f56c55ccdb0bf3610d9999bd4b2ee993dcf4626cb04fb2e12i0-1686229665.jpg"
+    }
+  },
+  {
+    "id": "dbb5619778b3f7f88bdddf2e929d6e6f5991fa1684840132aa97f80d71cca93ci0",
+    "meta": {
+      "name": "MemFlux #88",
+      "attributes": [
+        {
+          "value": "18",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "431",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/dbb5619778b3f7f88bdddf2e929d6e6f5991fa1684840132aa97f80d71cca93ci0-1686241059.jpg"
+    }
+  },
+  {
+    "id": "06684b3cda1dddcd5184c9abf6ec49796734dda5f30b7c55e5b3aa98e20ed7b9i0",
+    "meta": {
+      "name": "MemFlux #89",
+      "attributes": [
+        {
+          "value": "8",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "486",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/06684b3cda1dddcd5184c9abf6ec49796734dda5f30b7c55e5b3aa98e20ed7b9i0-1686241413.jpg"
+    }
+  },
+  {
+    "id": "a0a3afbf52867b6060a107d004a93f5d01b1a3b5781bf549ff174fc61c5af703i0",
+    "meta": {
+      "name": "MemFlux #90",
+      "attributes": [
+        {
+          "value": "19",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "415",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/a0a3afbf52867b6060a107d004a93f5d01b1a3b5781bf549ff174fc61c5af703i0-1686242012.jpg"
+    }
+  },
+  {
+    "id": "5ccbfe0320fc3dd93da9d66219c57f407e3b09ed841379eedf32c9e650012284i0",
+    "meta": {
+      "name": "MemFlux #91",
+      "attributes": [
+        {
+          "value": "10",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "466",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/5ccbfe0320fc3dd93da9d66219c57f407e3b09ed841379eedf32c9e650012284i0-1686253669.jpg"
+    }
+  },
+  {
+    "id": "0f215c590fcb886dfa89cb0814c2c78660d3c153679aacad97e2a6a0230b5534i0",
+    "meta": {
+      "name": "MemFlux #92",
+      "attributes": [
+        {
+          "value": "12",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "90",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "big",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/0f215c590fcb886dfa89cb0814c2c78660d3c153679aacad97e2a6a0230b5534i0-1686253702.jpg"
+    }
+  },
+  {
+    "id": "0d28bef67f6b618f7029fd6b285ddcefc34bbe313acb48f675dab453ab4a7816i0",
+    "meta": {
+      "name": "MemFlux #93",
+      "attributes": [
+        {
+          "value": "24",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "470",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/0d28bef67f6b618f7029fd6b285ddcefc34bbe313acb48f675dab453ab4a7816i0-1686254853.jpg"
+    }
+  },
+  {
+    "id": "a6869ea4d6459d6eaeb308c54ef7c98b690f31d7c4b65a0766efe91c029db8d6i0",
+    "meta": {
+      "name": "MemFlux #94",
+      "attributes": [
+        {
+          "value": "13",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "436",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/a6869ea4d6459d6eaeb308c54ef7c98b690f31d7c4b65a0766efe91c029db8d6i0-1686255453.jpg"
+    }
+  },
+  {
+    "id": "7d3858aa5e1cdae4d34526e960340b5c3a3b0dec2ed6e871df6c4eff7383aba1i0",
+    "meta": {
+      "name": "MemFlux #95",
+      "attributes": [
+        {
+          "value": "6",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "442",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/7d3858aa5e1cdae4d34526e960340b5c3a3b0dec2ed6e871df6c4eff7383aba1i0-1686256054.jpg"
+    }
+  },
+  {
+    "id": "ac21d374176c46d42256efc8611b422a9369a4064b9a630e2fa748db08f2386ei0",
+    "meta": {
+      "name": "MemFlux #96",
+      "attributes": [
+        {
+          "value": "4",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "494",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/ac21d374176c46d42256efc8611b422a9369a4064b9a630e2fa748db08f2386ei0-1686257014.jpg"
+    }
+  },
+  {
+    "id": "21c5c5a0907d91d68e86eeb682e8a47e880788ee2db0bf9f564d706caec44607i0",
+    "meta": {
+      "name": "MemFlux #97",
+      "attributes": [
+        {
+          "value": "3",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "479",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/21c5c5a0907d91d68e86eeb682e8a47e880788ee2db0bf9f564d706caec44607i0-1686267215.jpg"
+    }
+  },
+  {
+    "id": "0ffaa6eddd6aa5eb941be809d422d0201ca0d5573e1272b48763eee5b6cd2a79i0",
+    "meta": {
+      "name": "MemFlux #98",
+      "attributes": [
+        {
+          "value": "8",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "457",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/0ffaa6eddd6aa5eb941be809d422d0201ca0d5573e1272b48763eee5b6cd2a79i0-1686267226.jpg"
+    }
+  },
+  {
+    "id": "9dab9f2c914024f82a137c80a6f8839bafa2ac08910dabcb8b786a022d069a40i0",
+    "meta": {
+      "name": "MemFlux #99",
+      "attributes": [
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "450",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/9dab9f2c914024f82a137c80a6f8839bafa2ac08910dabcb8b786a022d069a40i0-1686267824.jpg"
+    }
+  },
+  {
+    "id": "1042cb733e74309c47b4c5e1e96c685edd79db82f3e5d2395c725367cb95181ci0",
+    "meta": {
+      "name": "MemFlux #100",
+      "attributes": [
+        {
+          "value": "23",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "86",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "big",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/1042cb733e74309c47b4c5e1e96c685edd79db82f3e5d2395c725367cb95181ci0-1686267833.jpg"
+    }
+  },
+  {
+    "id": "c769318274913f3f13e4d0d8f84b6af39cdc4fcbfb357113621f93233f94e164i0",
+    "meta": {
+      "name": "MemFlux #101",
+      "attributes": [
+        {
+          "value": "21",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "401",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "overcast",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/c769318274913f3f13e4d0d8f84b6af39cdc4fcbfb357113621f93233f94e164i0-1686267844.jpg"
+    }
+  },
+  {
+    "id": "8272aa7101a8afdca85ae3ca5ed01e903780bb5251d377b851edf820611b74fbi0",
+    "meta": {
+      "name": "MemFlux #102",
+      "attributes": [
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "487",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/8272aa7101a8afdca85ae3ca5ed01e903780bb5251d377b851edf820611b74fbi0-1686267859.jpg"
+    }
+  },
+  {
+    "id": "258433a42590fecf58fb90e34969bdcb0da46f8b2d08d9b91d5ac5927f46ec4bi0",
+    "meta": {
+      "name": "MemFlux #103",
+      "attributes": [
+        {
+          "value": "4",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "461",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/258433a42590fecf58fb90e34969bdcb0da46f8b2d08d9b91d5ac5927f46ec4bi0-1686267870.jpg"
+    }
+  },
+  {
+    "id": "1ac3d881b8ab708d4878c2e82494cbcff14d67d7c567aca144c769cd1a5810b4i0",
+    "meta": {
+      "name": "MemFlux #104",
+      "attributes": [
+        {
+          "value": "23",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "448",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/1ac3d881b8ab708d4878c2e82494cbcff14d67d7c567aca144c769cd1a5810b4i0-1686267909.jpg"
+    }
+  },
+  {
+    "id": "e9853fa6343538e0c9fd3ca8e9cd06414fdcd7d3847fb794fb1b4deec6c93b18i0",
+    "meta": {
+      "name": "MemFlux #105",
+      "attributes": [
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "476",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/e9853fa6343538e0c9fd3ca8e9cd06414fdcd7d3847fb794fb1b4deec6c93b18i0-1686267920.jpg"
+    }
+  },
+  {
+    "id": "54452f4d0bfef0a05894d97b8176499c4895ec9338562cb62ece2450f6ea9f95i0",
+    "meta": {
+      "name": "MemFlux #106",
+      "attributes": [
+        {
+          "value": "14",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "418",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "tiny",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/54452f4d0bfef0a05894d97b8176499c4895ec9338562cb62ece2450f6ea9f95i0-1686267926.jpg"
+    }
+  },
+  {
+    "id": "2d08f730dd87a08f7341c62d1d1f63c22b51c9d848d0e03fdb767292dda1ae7ai0",
+    "meta": {
+      "name": "MemFlux #107",
+      "attributes": [
+        {
+          "value": "18",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "92",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "big",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/2d08f730dd87a08f7341c62d1d1f63c22b51c9d848d0e03fdb767292dda1ae7ai0-1686267948.jpg"
+    }
+  },
+  {
+    "id": "68e4b4bf2d81765b203b3646b8895bcc9a66bee99ef481eb339931609ab839cfi0",
+    "meta": {
+      "name": "MemFlux #108",
+      "attributes": [
+        {
+          "value": "23",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "409",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/68e4b4bf2d81765b203b3646b8895bcc9a66bee99ef481eb339931609ab839cfi0-1686267956.jpg"
+    }
+  },
+  {
+    "id": "24f1fefe85914189322dec84617cc0601ee08387b9c1f76d7930aee0532d135di0",
+    "meta": {
+      "name": "MemFlux #109",
+      "attributes": [
+        {
+          "value": "10",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "45",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "insane",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/24f1fefe85914189322dec84617cc0601ee08387b9c1f76d7930aee0532d135di0-1686267998.jpg"
+    }
+  },
+  {
+    "id": "2fef8edc5ac3e833faaa49d64059b37443ad83a358075d0b2fca8cb86af4dd44i0",
+    "meta": {
+      "name": "MemFlux #110",
+      "attributes": [
+        {
+          "value": "22",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "493",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/2fef8edc5ac3e833faaa49d64059b37443ad83a358075d0b2fca8cb86af4dd44i0-1686268005.jpg"
+    }
+  },
+  {
+    "id": "744553479b63068d1b8bf89d7fe2e5f0943b2f9a7d6b075077b41403c8a66106i0",
+    "meta": {
+      "name": "MemFlux #111",
+      "attributes": [
+        {
+          "value": "15",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "493",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/744553479b63068d1b8bf89d7fe2e5f0943b2f9a7d6b075077b41403c8a66106i0-1686268013.jpg"
+    }
+  },
+  {
+    "id": "2811600d0871c6426e3da41b3b42ded986870229a0559850a81bd8a4cad489cei0",
+    "meta": {
+      "name": "MemFlux #112",
+      "attributes": [
+        {
+          "value": "5",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "453",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/2811600d0871c6426e3da41b3b42ded986870229a0559850a81bd8a4cad489cei0-1686268033.jpg"
+    }
+  },
+  {
+    "id": "089a8377948144f05eb3c9ba006609eb7b8832c8900c8f2f61ad403d7defd516i0",
+    "meta": {
+      "name": "MemFlux #113",
+      "attributes": [
+        {
+          "value": "4",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "406",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "overcast",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/089a8377948144f05eb3c9ba006609eb7b8832c8900c8f2f61ad403d7defd516i0-1686268042.jpg"
+    }
+  },
+  {
+    "id": "b20e20cc0c39ac2ce8c892e35c0eb14c3dc263104a5172bb6c7166dc5d696bc2i0",
+    "meta": {
+      "name": "MemFlux #114",
+      "attributes": [
+        {
+          "value": "11",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "93",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "big",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/b20e20cc0c39ac2ce8c892e35c0eb14c3dc263104a5172bb6c7166dc5d696bc2i0-1686268084.jpg"
+    }
+  },
+  {
+    "id": "1b54e724bbc9bfe18bfc3393c070258ac43b42d4ad0c15823348610ea6e1e84ai0",
+    "meta": {
+      "name": "MemFlux #115",
+      "attributes": [
+        {
+          "value": "23",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "485",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/1b54e724bbc9bfe18bfc3393c070258ac43b42d4ad0c15823348610ea6e1e84ai0-1686268092.jpg"
+    }
+  },
+  {
+    "id": "cadb5150161ddf1558543f1a8ad784ce4e44278ea22973b9c743adb8c15975d2i0",
+    "meta": {
+      "name": "MemFlux #116",
+      "attributes": [
+        {
+          "value": "22",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "469",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/cadb5150161ddf1558543f1a8ad784ce4e44278ea22973b9c743adb8c15975d2i0-1686268101.jpg"
+    }
+  },
+  {
+    "id": "3dc84c1a5e967260ade0d86c49de1a27352efabbec93403f87cfb2c0f8201ffbi0",
+    "meta": {
+      "name": "MemFlux #117",
+      "attributes": [
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "496",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/3dc84c1a5e967260ade0d86c49de1a27352efabbec93403f87cfb2c0f8201ffbi0-1686268121.jpg"
+    }
+  },
+  {
+    "id": "b01688830524321e065fea879539f9ed39971ed33e6349a26e62600ad06cfe30i0",
+    "meta": {
+      "name": "MemFlux #118",
+      "attributes": [
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "415",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/b01688830524321e065fea879539f9ed39971ed33e6349a26e62600ad06cfe30i0-1686268128.jpg"
+    }
+  },
+  {
+    "id": "601aedda81a36a58225a8aed5f9f5cfee5067fd98859be8e656daa0aa965b458i0",
+    "meta": {
+      "name": "MemFlux #119",
+      "attributes": [
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "444",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/601aedda81a36a58225a8aed5f9f5cfee5067fd98859be8e656daa0aa965b458i0-1686268170.jpg"
+    }
+  },
+  {
+    "id": "bbe9ef10aef5fa852ad800b5b47730c38f9e445fa16ac4499e14ee0b732ac87ai0",
+    "meta": {
+      "name": "MemFlux #120",
+      "attributes": [
+        {
+          "value": "13",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "492",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/bbe9ef10aef5fa852ad800b5b47730c38f9e445fa16ac4499e14ee0b732ac87ai0-1686268178.jpg"
+    }
+  },
+  {
+    "id": "51700aab81b1e51bd13f7cf42700c8d03a59742dcabd781a3b7496a34f32df3fi0",
+    "meta": {
+      "name": "MemFlux #121",
+      "attributes": [
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "451",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/51700aab81b1e51bd13f7cf42700c8d03a59742dcabd781a3b7496a34f32df3fi0-1686268185.jpg"
+    }
+  },
+  {
+    "id": "a27df940bcb464557a0cc0002d557bc6f35787ff0523daa7e97c99aeab45c58bi0",
+    "meta": {
+      "name": "MemFlux #122",
+      "attributes": [
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "412",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/a27df940bcb464557a0cc0002d557bc6f35787ff0523daa7e97c99aeab45c58bi0-1686268205.jpg"
+    }
+  },
+  {
+    "id": "4e55d6b68585e2c13dde9baf3f9bdb5e61aeb5df16277673c816de4bff6ec4dfi0",
+    "meta": {
+      "name": "MemFlux #123",
+      "attributes": [
+        {
+          "value": "11",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "411",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/4e55d6b68585e2c13dde9baf3f9bdb5e61aeb5df16277673c816de4bff6ec4dfi0-1686268213.jpg"
+    }
+  },
+  {
+    "id": "6653ea24dac2b53247ef742bf69d3f7a1e4782b9744301cd3766e4b11974c034i0",
+    "meta": {
+      "name": "MemFlux #124",
+      "attributes": [
+        {
+          "value": "12",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "451",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/6653ea24dac2b53247ef742bf69d3f7a1e4782b9744301cd3766e4b11974c034i0-1686268256.jpg"
+    }
+  },
+  {
+    "id": "95d91f05414aa99c88c2d139450c92fbc52e3e1085638a6a7d5b67f442add80ei0",
+    "meta": {
+      "name": "MemFlux #125",
+      "attributes": [
+        {
+          "value": "7",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "89",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "big",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/95d91f05414aa99c88c2d139450c92fbc52e3e1085638a6a7d5b67f442add80ei0-1686268261.jpg"
+    }
+  },
+  {
+    "id": "bbe5b461562394b7b98d58c4e29d09f699cf7acadbea8add1792d76bad4cb039i0",
+    "meta": {
+      "name": "MemFlux #126",
+      "attributes": [
+        {
+          "value": "24",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "465",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/bbe5b461562394b7b98d58c4e29d09f699cf7acadbea8add1792d76bad4cb039i0-1686268268.jpg"
+    }
+  },
+  {
+    "id": "809b0f1d769e0407ed9abfffe48d253ab6ed567a3b421a0521419cb15a9cdc4di0",
+    "meta": {
+      "name": "MemFlux #127",
+      "attributes": [
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "422",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/809b0f1d769e0407ed9abfffe48d253ab6ed567a3b421a0521419cb15a9cdc4di0-1686268289.jpg"
+    }
+  },
+  {
+    "id": "345b1801d33839c991247cfa0ee9b66a6ecdb8525cf4f0d4f84ccbf1e2c6a802i0",
+    "meta": {
+      "name": "MemFlux #128",
+      "attributes": [
+        {
+          "value": "14",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "89",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "big",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/345b1801d33839c991247cfa0ee9b66a6ecdb8525cf4f0d4f84ccbf1e2c6a802i0-1686268296.jpg"
+    }
+  },
+  {
+    "id": "efe8dfe49a00ee436b85492b10ac427a5ce40739f9de0724ce5ec5be09e4e22ci0",
+    "meta": {
+      "name": "MemFlux #129",
+      "attributes": [
+        {
+          "value": "18",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "496",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/efe8dfe49a00ee436b85492b10ac427a5ce40739f9de0724ce5ec5be09e4e22ci0-1686268342.jpg"
+    }
+  },
+  {
+    "id": "bba3e50b8f5e947a7f5939aef852b4df7f7b40f006158a8d06eb464bf7d4f5cbi0",
+    "meta": {
+      "name": "MemFlux #130",
+      "attributes": [
+        {
+          "value": "22",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "432",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/bba3e50b8f5e947a7f5939aef852b4df7f7b40f006158a8d06eb464bf7d4f5cbi0-1686268347.jpg"
+    }
+  },
+  {
+    "id": "1a2315ea5f7780bbe24afe80e59cb5c7e5d3316f8d9b58360574ec6606e85102i0",
+    "meta": {
+      "name": "MemFlux #131",
+      "attributes": [
+        {
+          "value": "24",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "438",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/1a2315ea5f7780bbe24afe80e59cb5c7e5d3316f8d9b58360574ec6606e85102i0-1686268353.jpg"
+    }
+  },
+  {
+    "id": "8c972b427a3d98418a0c3d4bd9b92f644f74c7ad98c368fcdf462949ea96f540i0",
+    "meta": {
+      "name": "MemFlux #132",
+      "attributes": [
+        {
+          "value": "17",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "454",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/8c972b427a3d98418a0c3d4bd9b92f644f74c7ad98c368fcdf462949ea96f540i0-1686268376.jpg"
+    }
+  },
+  {
+    "id": "381ee69ecdbd31018d021941b102aa098e84bb8770d84f84c2387bfa6a935506i0",
+    "meta": {
+      "name": "MemFlux #133",
+      "attributes": [
+        {
+          "value": "11",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "485",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/381ee69ecdbd31018d021941b102aa098e84bb8770d84f84c2387bfa6a935506i0-1686268380.jpg"
+    }
+  },
+  {
+    "id": "fc81c64f14417a98789d0977508bfbd2fc30fefd76f5defebfcd2177a6504e68i0",
+    "meta": {
+      "name": "MemFlux #134",
+      "attributes": [
+        {
+          "value": "24",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "401",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/fc81c64f14417a98789d0977508bfbd2fc30fefd76f5defebfcd2177a6504e68i0-1686268429.jpg"
+    }
+  },
+  {
+    "id": "6af72b6325dc9cb606ac5f1df636a2fdc56f74d3e2c267dd0400c526990ead7bi0",
+    "meta": {
+      "name": "MemFlux #135",
+      "attributes": [
+        {
+          "value": "13",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "401",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "tiny",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/6af72b6325dc9cb606ac5f1df636a2fdc56f74d3e2c267dd0400c526990ead7bi0-1686268432.jpg"
+    }
+  },
+  {
+    "id": "e8efdb471b254403f62ea54ad3629274a950e7df067eccf043cc543b4b3e6cfci0",
+    "meta": {
+      "name": "MemFlux #136",
+      "attributes": [
+        {
+          "value": "10",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "434",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/e8efdb471b254403f62ea54ad3629274a950e7df067eccf043cc543b4b3e6cfci0-1686268440.jpg"
+    }
+  },
+  {
+    "id": "70ea6164745db7dd0330095e1da89bfbd145102bf4c5ec03cfb1f217c78dee55i0",
+    "meta": {
+      "name": "MemFlux #137",
+      "attributes": [
+        {
+          "value": "6",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "424",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/70ea6164745db7dd0330095e1da89bfbd145102bf4c5ec03cfb1f217c78dee55i0-1686268459.jpg"
+    }
+  },
+  {
+    "id": "47655b6d27dce437ddcc3b44e0c9a0d1894f4d9a6c315031c02e13857bcad8d9i0",
+    "meta": {
+      "name": "MemFlux #138",
+      "attributes": [
+        {
+          "value": "5",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "434",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/47655b6d27dce437ddcc3b44e0c9a0d1894f4d9a6c315031c02e13857bcad8d9i0-1686268466.jpg"
+    }
+  },
+  {
+    "id": "bc9c0aefe458f8b12ce79793fefd3c04cab87ee540242287a4f2ae7eadd8fc2di0",
+    "meta": {
+      "name": "MemFlux #139",
+      "attributes": [
+        {
+          "value": "2",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "409",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/bc9c0aefe458f8b12ce79793fefd3c04cab87ee540242287a4f2ae7eadd8fc2di0-1686268514.jpg"
+    }
+  },
+  {
+    "id": "5b06bb4e0fbb3798dea5eb9cc62ce87c5a9cb63fe6a454c591845efb9aab46f8i0",
+    "meta": {
+      "name": "MemFlux #140",
+      "attributes": [
+        {
+          "value": "6",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "478",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/5b06bb4e0fbb3798dea5eb9cc62ce87c5a9cb63fe6a454c591845efb9aab46f8i0-1686268519.jpg"
+    }
+  },
+  {
+    "id": "e83f5480f940d83755aa263acf4ce452b8f36b2a7d3887e34f8a5f5fcd8f6bfai0",
+    "meta": {
+      "name": "MemFlux #141",
+      "attributes": [
+        {
+          "value": "14",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "439",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "overcast",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/e83f5480f940d83755aa263acf4ce452b8f36b2a7d3887e34f8a5f5fcd8f6bfai0-1686268524.jpg"
+    }
+  },
+  {
+    "id": "efe6fba316a1b1be20a65b8d756a732e2c55a1d1dad06c5578e8cc5e961f29efi0",
+    "meta": {
+      "name": "MemFlux #142",
+      "attributes": [
+        {
+          "value": "16",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "434",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/efe6fba316a1b1be20a65b8d756a732e2c55a1d1dad06c5578e8cc5e961f29efi0-1686268544.jpg"
+    }
+  },
+  {
+    "id": "257fb2c8c59ae8d605db4ef7975c7920623a6eec0b9d564d8b97964c545cb345i0",
+    "meta": {
+      "name": "MemFlux #143",
+      "attributes": [
+        {
+          "value": "24",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "84",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "medium",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/257fb2c8c59ae8d605db4ef7975c7920623a6eec0b9d564d8b97964c545cb345i0-1686268554.jpg"
+    }
+  },
+  {
+    "id": "57ae90b761b1772375594f425d64a1908aa90426f4ada7f7ad70c52540d93486i0",
+    "meta": {
+      "name": "MemFlux #144",
+      "attributes": [
+        {
+          "value": "19",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "478",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/57ae90b761b1772375594f425d64a1908aa90426f4ada7f7ad70c52540d93486i0-1686268601.jpg"
+    }
+  },
+  {
+    "id": "9873fceb04a523b2b38ecc7c1149fad279d0d8c5739b50153e904366d5cce9a1i0",
+    "meta": {
+      "name": "MemFlux #145",
+      "attributes": [
+        {
+          "value": "18",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "89",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "big",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/9873fceb04a523b2b38ecc7c1149fad279d0d8c5739b50153e904366d5cce9a1i0-1686268605.jpg"
+    }
+  },
+  {
+    "id": "37fc272c6e57e495bd0e8f567a78f61e141689c4a4ae26d4d27a488d493fb1f8i0",
+    "meta": {
+      "name": "MemFlux #146",
+      "attributes": [
+        {
+          "value": "10",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "89",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "big",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/37fc272c6e57e495bd0e8f567a78f61e141689c4a4ae26d4d27a488d493fb1f8i0-1686268608.jpg"
+    }
+  },
+  {
+    "id": "3f141ce97fe4560ec802385159cf97c5b11d87ab95d08dee3e756164dadaa991i0",
+    "meta": {
+      "name": "MemFlux #147",
+      "attributes": [
+        {
+          "value": "4",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "437",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/3f141ce97fe4560ec802385159cf97c5b11d87ab95d08dee3e756164dadaa991i0-1686268631.jpg"
+    }
+  },
+  {
+    "id": "b7b5673a2ceffc28260bbbdcf8a0a0e8f1fb88e1653926224ba19373da0223aci0",
+    "meta": {
+      "name": "MemFlux #148",
+      "attributes": [
+        {
+          "value": "21",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "434",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/b7b5673a2ceffc28260bbbdcf8a0a0e8f1fb88e1653926224ba19373da0223aci0-1686268640.jpg"
+    }
+  },
+  {
+    "id": "be87d2605f30792fe8eed21f68656d37168cc4031d4ccfae5357e1d677529f01i0",
+    "meta": {
+      "name": "MemFlux #149",
+      "attributes": [
+        {
+          "value": "2",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "41",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "insane",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/be87d2605f30792fe8eed21f68656d37168cc4031d4ccfae5357e1d677529f01i0-1686268688.jpg"
+    }
+  },
+  {
+    "id": "c7826d6273052f88503d9f1bd31e0f9eb3360089aab0cfb09a7fca68bd85ab13i0",
+    "meta": {
+      "name": "MemFlux #150",
+      "attributes": [
+        {
+          "value": "16",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "402",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/c7826d6273052f88503d9f1bd31e0f9eb3360089aab0cfb09a7fca68bd85ab13i0-1686268690.jpg"
+    }
+  },
+  {
+    "id": "ce5de074c2a986b52a22e5f0de43368d6fc647fb175a6ad1816d4b7604b1743ei0",
+    "meta": {
+      "name": "MemFlux #151",
+      "attributes": [
+        {
+          "value": "18",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "404",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/ce5de074c2a986b52a22e5f0de43368d6fc647fb175a6ad1816d4b7604b1743ei0-1686268694.jpg"
+    }
+  },
+  {
+    "id": "fcbcae6eae278a1b949fc563a9f21dcf4c4663cf52c518d1ab14aeb975e98caai0",
+    "meta": {
+      "name": "MemFlux #152",
+      "attributes": [
+        {
+          "value": "6",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "48",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "insane",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/fcbcae6eae278a1b949fc563a9f21dcf4c4663cf52c518d1ab14aeb975e98caai0-1686268715.jpg"
+    }
+  },
+  {
+    "id": "7e32de0cd7ee5e1eaf4f9ee066fa8438d5d2e99ce32da19aa20045740af1d963i0",
+    "meta": {
+      "name": "MemFlux #153",
+      "attributes": [
+        {
+          "value": "13",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "444",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/7e32de0cd7ee5e1eaf4f9ee066fa8438d5d2e99ce32da19aa20045740af1d963i0-1686268726.jpg"
+    }
+  },
+  {
+    "id": "122484edbaa7a07dbe37407f3b171a1bee2ed2f1164eee41a4b92a1c34a91259i0",
+    "meta": {
+      "name": "MemFlux #154",
+      "attributes": [
+        {
+          "value": "12",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "85",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "big",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/122484edbaa7a07dbe37407f3b171a1bee2ed2f1164eee41a4b92a1c34a91259i0-1686268774.jpg"
+    }
+  },
+  {
+    "id": "43af613e83823df57e1e675caa123522e0f42e5cd7e1ca0c738b6b0fa255ea49i0",
+    "meta": {
+      "name": "MemFlux #155",
+      "attributes": [
+        {
+          "value": "21",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "434",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/43af613e83823df57e1e675caa123522e0f42e5cd7e1ca0c738b6b0fa255ea49i0-1686268775.jpg"
+    }
+  },
+  {
+    "id": "d7c7d6c90863408987c6ca3e8daa1f470152cbd9c1e7666ed61846e7211600a2i0",
+    "meta": {
+      "name": "MemFlux #156",
+      "attributes": [
+        {
+          "value": "7",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "492",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/d7c7d6c90863408987c6ca3e8daa1f470152cbd9c1e7666ed61846e7211600a2i0-1686268782.jpg"
+    }
+  },
+  {
+    "id": "63f4f18b298a1a83fe74a58cb80514a45733883aedd3077c710977a7d5fec256i0",
+    "meta": {
+      "name": "MemFlux #157",
+      "attributes": [
+        {
+          "value": "4",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "453",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/63f4f18b298a1a83fe74a58cb80514a45733883aedd3077c710977a7d5fec256i0-1686268802.jpg"
+    }
+  },
+  {
+    "id": "6030c2df79e2805af943b6960ec88d41f68706327a9eb52868b4d26cca0a0509i0",
+    "meta": {
+      "name": "MemFlux #158",
+      "attributes": [
+        {
+          "value": "2",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "443",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "tiny",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/6030c2df79e2805af943b6960ec88d41f68706327a9eb52868b4d26cca0a0509i0-1686268811.jpg"
+    }
+  },
+  {
+    "id": "2f5982343fd5af3ffbdc9861a273a70b2cb11ab3d3be3237d042715a7db82783i0",
+    "meta": {
+      "name": "MemFlux #159",
+      "attributes": [
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "425",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/2f5982343fd5af3ffbdc9861a273a70b2cb11ab3d3be3237d042715a7db82783i0-1686268860.jpg"
+    }
+  },
+  {
+    "id": "04c83e96b6fc76993b29531ce8baa68eaff673c58d43b2bd2fb7f72f5d587e3ai0",
+    "meta": {
+      "name": "MemFlux #160",
+      "attributes": [
+        {
+          "value": "11",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "454",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/04c83e96b6fc76993b29531ce8baa68eaff673c58d43b2bd2fb7f72f5d587e3ai0-1686268862.jpg"
+    }
+  },
+  {
+    "id": "fc34cdc82d6b79664ac4d411b3f6d45db6ee0128db2cbb499069735dc5022976i0",
+    "meta": {
+      "name": "MemFlux #161",
+      "attributes": [
+        {
+          "value": "0",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "45",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "insane",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/fc34cdc82d6b79664ac4d411b3f6d45db6ee0128db2cbb499069735dc5022976i0-1686268865.jpg"
+    }
+  },
+  {
+    "id": "c24c683eb7eef11d0357195ae39459f983dd2d1b4cd09b7e491534e564315da4i0",
+    "meta": {
+      "name": "MemFlux #162",
+      "attributes": [
+        {
+          "value": "2",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "488",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/c24c683eb7eef11d0357195ae39459f983dd2d1b4cd09b7e491534e564315da4i0-1686268887.jpg"
+    }
+  },
+  {
+    "id": "942dfb1e3ac23e70da91e39f820a5142f44f006eb0c2caa69fd276b4b9f7fb08i0",
+    "meta": {
+      "name": "MemFlux #163",
+      "attributes": [
+        {
+          "value": "5",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "498",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/942dfb1e3ac23e70da91e39f820a5142f44f006eb0c2caa69fd276b4b9f7fb08i0-1686268896.jpg"
+    }
+  },
+  {
+    "id": "7a86337b83d3b7c5fc79d0918225f2513f902e2a3467c52d714d427dde6814dai0",
+    "meta": {
+      "name": "MemFlux #164",
+      "attributes": [
+        {
+          "value": "23",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "438",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/7a86337b83d3b7c5fc79d0918225f2513f902e2a3467c52d714d427dde6814dai0-1686268944.jpg"
+    }
+  },
+  {
+    "id": "be154003d20115184dfe4b61b58a268adbd59d40cff83e6b83179ece119e973ci0",
+    "meta": {
+      "name": "MemFlux #165",
+      "attributes": [
+        {
+          "value": "11",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "422",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/be154003d20115184dfe4b61b58a268adbd59d40cff83e6b83179ece119e973ci0-1686268946.jpg"
+    }
+  },
+  {
+    "id": "dc5403d129ca76ec404cc45dd3a8dfe65d64cf914d5628c88e593f49328e1959i0",
+    "meta": {
+      "name": "MemFlux #166",
+      "attributes": [
+        {
+          "value": "7",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "433",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/dc5403d129ca76ec404cc45dd3a8dfe65d64cf914d5628c88e593f49328e1959i0-1686268952.jpg"
+    }
+  },
+  {
+    "id": "162f6966e7559a320d2e6409643fa5adc53d103be0be28e017649a2d37614169i0",
+    "meta": {
+      "name": "MemFlux #167",
+      "attributes": [
+        {
+          "value": "10",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "458",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/162f6966e7559a320d2e6409643fa5adc53d103be0be28e017649a2d37614169i0-1686268973.jpg"
+    }
+  },
+  {
+    "id": "48d47a46777328a2c911b2962839cc8afa8800f951143f9f9cd09722212acf8ci0",
+    "meta": {
+      "name": "MemFlux #168",
+      "attributes": [
+        {
+          "value": "13",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "411",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/48d47a46777328a2c911b2962839cc8afa8800f951143f9f9cd09722212acf8ci0-1686268982.jpg"
+    }
+  },
+  {
+    "id": "38b0f22a2557cc853042544f9efd7cc347cf0cff6d08d616cf050e8a4d1dd015i0",
+    "meta": {
+      "name": "MemFlux #169",
+      "attributes": [
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "442",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/38b0f22a2557cc853042544f9efd7cc347cf0cff6d08d616cf050e8a4d1dd015i0-1686269030.jpg"
+    }
+  },
+  {
+    "id": "d7ebe1dcccf4e5aae4ee145c5a84049ed30ff36c7dcaf3e3675227aca1467b79i0",
+    "meta": {
+      "name": "MemFlux #170",
+      "attributes": [
+        {
+          "value": "8",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "499",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "overcast",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/d7ebe1dcccf4e5aae4ee145c5a84049ed30ff36c7dcaf3e3675227aca1467b79i0-1686269033.jpg"
+    }
+  },
+  {
+    "id": "17d3fd5130c8a7d8c37d74bca6c699174de9750a86808ba75b9a064de7bceee6i0",
+    "meta": {
+      "name": "MemFlux #171",
+      "attributes": [
+        {
+          "value": "22",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "439",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/17d3fd5130c8a7d8c37d74bca6c699174de9750a86808ba75b9a064de7bceee6i0-1686269037.jpg"
+    }
+  },
+  {
+    "id": "6134dea6cb382e4afa73f29543a3e0584916dde9b85b0a9349e065eb90243715i0",
+    "meta": {
+      "name": "MemFlux #172",
+      "attributes": [
+        {
+          "value": "2",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "440",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/6134dea6cb382e4afa73f29543a3e0584916dde9b85b0a9349e065eb90243715i0-1686269060.jpg"
+    }
+  },
+  {
+    "id": "3b78fc31a431e2ef6eb24027bfc01d71207e13173098242ca8873dc28df6cc50i0",
+    "meta": {
+      "name": "MemFlux #173",
+      "attributes": [
+        {
+          "value": "24",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "413",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "overcast",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/3b78fc31a431e2ef6eb24027bfc01d71207e13173098242ca8873dc28df6cc50i0-1686269067.jpg"
+    }
+  },
+  {
+    "id": "89e081af07f22e50783737e7ef382cee63bc82dd94dd566dc3b97f33d7aec012i0",
+    "meta": {
+      "name": "MemFlux #174",
+      "attributes": [
+        {
+          "value": "21",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "427",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/89e081af07f22e50783737e7ef382cee63bc82dd94dd566dc3b97f33d7aec012i0-1686269115.jpg"
+    }
+  },
+  {
+    "id": "76eee05aab3e718fbda3cf16c2724573b065dfe71505f374415d09024decc205i0",
+    "meta": {
+      "name": "MemFlux #175",
+      "attributes": [
+        {
+          "value": "21",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "415",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/76eee05aab3e718fbda3cf16c2724573b065dfe71505f374415d09024decc205i0-1686269119.jpg"
+    }
+  },
+  {
+    "id": "e1b05bf7722749976a6f5adae08c25beb99706984ee084bbba60fc751c3586e7i0",
+    "meta": {
+      "name": "MemFlux #176",
+      "attributes": [
+        {
+          "value": "19",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "488",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/e1b05bf7722749976a6f5adae08c25beb99706984ee084bbba60fc751c3586e7i0-1686269125.jpg"
+    }
+  },
+  {
+    "id": "414ca1ef22ef2c0f29974cf485f85ca94b21cc99ee31120bc480619d9416202ei0",
+    "meta": {
+      "name": "MemFlux #177",
+      "attributes": [
+        {
+          "value": "4",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "500",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "tiny",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/414ca1ef22ef2c0f29974cf485f85ca94b21cc99ee31120bc480619d9416202ei0-1686269142.jpg"
+    }
+  },
+  {
+    "id": "5d08a9850ed245388c75d8a822da109a550e0c481a96e0e18a1bcc18609b0dfai0",
+    "meta": {
+      "name": "MemFlux #178",
+      "attributes": [
+        {
+          "value": "18",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "471",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/5d08a9850ed245388c75d8a822da109a550e0c481a96e0e18a1bcc18609b0dfai0-1686269151.jpg"
+    }
+  },
+  {
+    "id": "a950f78afd25a264caf14d2e48cd938c69da01eeee4b30a365a15c852a7c62d0i0",
+    "meta": {
+      "name": "MemFlux #179",
+      "attributes": [
+        {
+          "value": "16",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "444",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/a950f78afd25a264caf14d2e48cd938c69da01eeee4b30a365a15c852a7c62d0i0-1686269202.jpg"
+    }
+  },
+  {
+    "id": "fd52741fa4dd2527f624f6d55c9d7e6125372276f571a776bad88a7badbb437bi0",
+    "meta": {
+      "name": "MemFlux #180",
+      "attributes": [
+        {
+          "value": "19",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "93",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "medium",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/fd52741fa4dd2527f624f6d55c9d7e6125372276f571a776bad88a7badbb437bi0-1686269205.jpg"
+    }
+  },
+  {
+    "id": "3d69b073f3537b9a0cd8019e6863749b75d6f96f5c66b93c646a3af28d228bc9i0",
+    "meta": {
+      "name": "MemFlux #181",
+      "attributes": [
+        {
+          "value": "11",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "445",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/3d69b073f3537b9a0cd8019e6863749b75d6f96f5c66b93c646a3af28d228bc9i0-1686269212.jpg"
+    }
+  },
+  {
+    "id": "3eec95454ec4411929b9828dda99d48e09907a999aeb5ca09f7ce81215ab3de0i0",
+    "meta": {
+      "name": "MemFlux #182",
+      "attributes": [
+        {
+          "value": "24",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "86",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "medium",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/3eec95454ec4411929b9828dda99d48e09907a999aeb5ca09f7ce81215ab3de0i0-1686269229.jpg"
+    }
+  },
+  {
+    "id": "e8fd58bcf58ae1bf38a42ef5f12f426b942ffa1cb0658ce3d696589c1a829d44i0",
+    "meta": {
+      "name": "MemFlux #183",
+      "attributes": [
+        {
+          "value": "10",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "422",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/e8fd58bcf58ae1bf38a42ef5f12f426b942ffa1cb0658ce3d696589c1a829d44i0-1686269242.jpg"
+    }
+  },
+  {
+    "id": "f990dc98405976a957c5e707625021c89661f5d7b47e675e0bd3f83ce1560602i0",
+    "meta": {
+      "name": "MemFlux #184",
+      "attributes": [
+        {
+          "value": "3",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "46",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "insane",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/f990dc98405976a957c5e707625021c89661f5d7b47e675e0bd3f83ce1560602i0-1686269286.jpg"
+    }
+  },
+  {
+    "id": "17111f9791b62d93e28eefc5e34d46aa57735eda2aaf3f912a5d7371ffe54a20i0",
+    "meta": {
+      "name": "MemFlux #185",
+      "attributes": [
+        {
+          "value": "0",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "97",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "big",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/17111f9791b62d93e28eefc5e34d46aa57735eda2aaf3f912a5d7371ffe54a20i0-1686370576.jpg"
+    }
+  },
+  {
+    "id": "1cd716d6774008868e8a81cff46670b62f84bd22496cea125b3d629a4b0da9bdi0",
+    "meta": {
+      "name": "MemFlux #186",
+      "attributes": [
+        {
+          "value": "23",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "421",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/1cd716d6774008868e8a81cff46670b62f84bd22496cea125b3d629a4b0da9bdi0-1686370588.jpg"
+    }
+  },
+  {
+    "id": "218a1465d504024fe4bed25f1eea05a5f7e62a510aa3557f3781b1c587dd226fi0",
+    "meta": {
+      "name": "MemFlux #187",
+      "attributes": [
+        {
+          "value": "17",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "439",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/218a1465d504024fe4bed25f1eea05a5f7e62a510aa3557f3781b1c587dd226fi0-1686370589.jpg"
+    }
+  },
+  {
+    "id": "fb547c2a09607af3bf1b6fd940f8e09fa46d5d2705f97279807720768d2ee6cei0",
+    "meta": {
+      "name": "MemFlux #188",
+      "attributes": [
+        {
+          "value": "21",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "452",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/fb547c2a09607af3bf1b6fd940f8e09fa46d5d2705f97279807720768d2ee6cei0-1686370589.jpg"
+    }
+  },
+  {
+    "id": "8341b2cd665770e7ed98a77e2a33c309535a8fcb23c4957cda325499f824b4b9i0",
+    "meta": {
+      "name": "MemFlux #189",
+      "attributes": [
+        {
+          "value": "3",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "468",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "tiny",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/8341b2cd665770e7ed98a77e2a33c309535a8fcb23c4957cda325499f824b4b9i0-1686370589.jpg"
+    }
+  },
+  {
+    "id": "59513eeb5a9855084a93c4b986b874815233e1a6f2d66099745c2b3e2963fecfi0",
+    "meta": {
+      "name": "MemFlux #190",
+      "attributes": [
+        {
+          "value": "5",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "42",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "insane",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/59513eeb5a9855084a93c4b986b874815233e1a6f2d66099745c2b3e2963fecfi0-1686370569.jpg"
+    }
+  },
+  {
+    "id": "be55285dd3d458fe551e5c0f11798a422e8ec89fe73d9bfc987542b3a38c722di0",
+    "meta": {
+      "name": "MemFlux #191",
+      "attributes": [
+        {
+          "value": "7",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "445",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/be55285dd3d458fe551e5c0f11798a422e8ec89fe73d9bfc987542b3a38c722di0-1686370590.jpg"
+    }
+  },
+  {
+    "id": "5b771c3393f2dea49db4087c58a22cf9252c9d6a3f101281a8602003f739e13ei0",
+    "meta": {
+      "name": "MemFlux #192",
+      "attributes": [
+        {
+          "value": "2",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "476",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/5b771c3393f2dea49db4087c58a22cf9252c9d6a3f101281a8602003f739e13ei0-1686370589.jpg"
+    }
+  },
+  {
+    "id": "4ffe7040a60b8851f3e1f3eb92723d1ce1e90ef034977f28b5f985be590e9e0bi0",
+    "meta": {
+      "name": "MemFlux #193",
+      "attributes": [
+        {
+          "value": "15",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "424",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/4ffe7040a60b8851f3e1f3eb92723d1ce1e90ef034977f28b5f985be590e9e0bi0-1686370588.jpg"
+    }
+  },
+  {
+    "id": "ab57ae2f67498560ecbbdb95f017650658382fb0e45951a0441a36e802c0177fi0",
+    "meta": {
+      "name": "MemFlux #194",
+      "attributes": [
+        {
+          "value": "16",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "485",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/ab57ae2f67498560ecbbdb95f017650658382fb0e45951a0441a36e802c0177fi0-1686370587.jpg"
+    }
+  },
+  {
+    "id": "2cb6e349d5bce2f3d7a92e504ff61faaf7af88f319d7164cf655548a76f4fd36i0",
+    "meta": {
+      "name": "MemFlux #195",
+      "attributes": [
+        {
+          "value": "23",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "82",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "big",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/2cb6e349d5bce2f3d7a92e504ff61faaf7af88f319d7164cf655548a76f4fd36i0-1686370586.jpg"
+    }
+  },
+  {
+    "id": "556a11ebf573da444d3679ba283f3fcf3550b3f6bac3d40ee41e8082c6756214i0",
+    "meta": {
+      "name": "MemFlux #196",
+      "attributes": [
+        {
+          "value": "1",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "408",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/556a11ebf573da444d3679ba283f3fcf3550b3f6bac3d40ee41e8082c6756214i0-1686376382.jpg"
+    }
+  },
+  {
+    "id": "4de76600657f4a6b70cbc7b4aa268845bf3c153deee3ff5d11143d48f5d452a7i0",
+    "meta": {
+      "name": "MemFlux #197",
+      "attributes": [
+        {
+          "value": "1",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "402",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/4de76600657f4a6b70cbc7b4aa268845bf3c153deee3ff5d11143d48f5d452a7i0-1686376381.jpg"
+    }
+  },
+  {
+    "id": "68eabf8678c6b4250f0dea667e5db43162939b50089f1a2b7263b16be879035bi0",
+    "meta": {
+      "name": "MemFlux #198",
+      "attributes": [
+        {
+          "value": "5",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "475",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/68eabf8678c6b4250f0dea667e5db43162939b50089f1a2b7263b16be879035bi0-1686376384.jpg"
+    }
+  },
+  {
+    "id": "be7f65d825d7c2a7bf29d05bfd12484828d8200160ca2ecfbccb45d98f9a6004i0",
+    "meta": {
+      "name": "MemFlux #199",
+      "attributes": [
+        {
+          "value": "2",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "443",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/be7f65d825d7c2a7bf29d05bfd12484828d8200160ca2ecfbccb45d98f9a6004i0-1686376383.jpg"
+    }
+  },
+  {
+    "id": "7b9e6db8f55a5ae78dc6a340e477e8cc62b139caaf011d5861fa914591bd0062i0",
+    "meta": {
+      "name": "MemFlux #200",
+      "attributes": [
+        {
+          "value": "24",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "412",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/7b9e6db8f55a5ae78dc6a340e477e8cc62b139caaf011d5861fa914591bd0062i0-1686376382.jpg"
+    }
+  },
+  {
+    "id": "bda641e0a4ecc94f4ab2afbf0092a38bba0ac9d98abae831c872ff654c8be3a7i0",
+    "meta": {
+      "name": "MemFlux #201",
+      "attributes": [
+        {
+          "value": "17",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "83",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "big",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/bda641e0a4ecc94f4ab2afbf0092a38bba0ac9d98abae831c872ff654c8be3a7i0-1686376379.jpg"
+    }
+  },
+  {
+    "id": "1a6890ad7c76a18aeb7a5b522d3c781b76a5b7a03a17de1be45986884c6edaadi0",
+    "meta": {
+      "name": "MemFlux #202",
+      "attributes": [
+        {
+          "value": "19",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "496",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/1a6890ad7c76a18aeb7a5b522d3c781b76a5b7a03a17de1be45986884c6edaadi0-1686376384.jpg"
+    }
+  },
+  {
+    "id": "12d09a96ba89af55d2c39eef900c96cf08ce3092fae7a876a57303d38fb9249ei0",
+    "meta": {
+      "name": "MemFlux #203",
+      "attributes": [
+        {
+          "value": "12",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "443",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/12d09a96ba89af55d2c39eef900c96cf08ce3092fae7a876a57303d38fb9249ei0-1686376382.jpg"
+    }
+  },
+  {
+    "id": "5f6cf13bf8b63cf16857f54c22879931b018ae2dc8d7b0b37cf5f1e4086ec16ei0",
+    "meta": {
+      "name": "MemFlux #204",
+      "attributes": [
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "419",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "tiny",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/5f6cf13bf8b63cf16857f54c22879931b018ae2dc8d7b0b37cf5f1e4086ec16ei0-1686376382.jpg"
+    }
+  },
+  {
+    "id": "c508b5c49ea99b5f255080919dc0d99d4afccf6ba63d83523d1d6ace79502943i0",
+    "meta": {
+      "name": "MemFlux #205",
+      "attributes": [
+        {
+          "value": "21",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "407",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/c508b5c49ea99b5f255080919dc0d99d4afccf6ba63d83523d1d6ace79502943i0-1686376382.jpg"
+    }
+  },
+  {
+    "id": "9489b5a6f483ff52ceace9d20477ee2222b60713b766cddcf8a4c3d7b53245c6i0",
+    "meta": {
+      "name": "MemFlux #206",
+      "attributes": [
+        {
+          "value": "21",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "80",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "medium",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/9489b5a6f483ff52ceace9d20477ee2222b60713b766cddcf8a4c3d7b53245c6i0-1686370740.jpg"
+    }
+  },
+  {
+    "id": "e543ac88b3e8905ec00c9875cfb189a6c6af7b91a4b5f74396094410d5599914i0",
+    "meta": {
+      "name": "MemFlux #207",
+      "attributes": [
+        {
+          "value": "12",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "409",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/e543ac88b3e8905ec00c9875cfb189a6c6af7b91a4b5f74396094410d5599914i0-1686370743.jpg"
+    }
+  },
+  {
+    "id": "65068d76254c687dad83bf018cceeea6067ab71378fa24b6a9217e56d6beb1a6i0",
+    "meta": {
+      "name": "MemFlux #208",
+      "attributes": [
+        {
+          "value": "8",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "481",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/65068d76254c687dad83bf018cceeea6067ab71378fa24b6a9217e56d6beb1a6i0-1686370743.jpg"
+    }
+  },
+  {
+    "id": "8f1f36f3e31e7bd6ff972db43d8d780eb52cd5efb8a22ad3777c126c6824232ei0",
+    "meta": {
+      "name": "MemFlux #209",
+      "attributes": [
+        {
+          "value": "7",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "49",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "insane",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/8f1f36f3e31e7bd6ff972db43d8d780eb52cd5efb8a22ad3777c126c6824232ei0-1686370732.jpg"
+    }
+  },
+  {
+    "id": "f6400c605aacf57624eb3e2fcfe493b60cc3b0948f714f7dc3d3fadabd503d3di0",
+    "meta": {
+      "name": "MemFlux #210",
+      "attributes": [
+        {
+          "value": "17",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "489",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/f6400c605aacf57624eb3e2fcfe493b60cc3b0948f714f7dc3d3fadabd503d3di0-1686370746.jpg"
+    }
+  },
+  {
+    "id": "5a41c9313559cad20bb9eee49e52c3f98940e4305b35fc500afd7ca79255307ei0",
+    "meta": {
+      "name": "MemFlux #211",
+      "attributes": [
+        {
+          "value": "6",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "487",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/5a41c9313559cad20bb9eee49e52c3f98940e4305b35fc500afd7ca79255307ei0-1686370744.jpg"
+    }
+  },
+  {
+    "id": "bdf4985669dc4b4a1d6e308f65e42e673a7155d7af2d8663c61f01ccf2191434i0",
+    "meta": {
+      "name": "MemFlux #212",
+      "attributes": [
+        {
+          "value": "14",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "47",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "insane",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/bdf4985669dc4b4a1d6e308f65e42e673a7155d7af2d8663c61f01ccf2191434i0-1686370731.jpg"
+    }
+  },
+  {
+    "id": "1e92e12054be90478f6dd1b7033871987fef202358a7e4999a1a906d18ef192ci0",
+    "meta": {
+      "name": "MemFlux #213",
+      "attributes": [
+        {
+          "value": "1",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "88",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "big",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/1e92e12054be90478f6dd1b7033871987fef202358a7e4999a1a906d18ef192ci0-1686370738.jpg"
+    }
+  },
+  {
+    "id": "c1abd01204c0fd97027096822c4905eea8bcca440cfc8b1e0be12d698562283bi0",
+    "meta": {
+      "name": "MemFlux #214",
+      "attributes": [
+        {
+          "value": "8",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "421",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/c1abd01204c0fd97027096822c4905eea8bcca440cfc8b1e0be12d698562283bi0-1686370738.jpg"
+    }
+  },
+  {
+    "id": "2e87b9dae3362f81491bf5de2c240d582f1349a9fb3cfc582db460c0a3f10616i0",
+    "meta": {
+      "name": "MemFlux #215",
+      "attributes": [
+        {
+          "value": "23",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "92",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "big",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/2e87b9dae3362f81491bf5de2c240d582f1349a9fb3cfc582db460c0a3f10616i0-1686370737.jpg"
+    }
+  },
+  {
+    "id": "fb698fac5ac5cd0fd68d955e93d5928ebfa73bfe86a43cb38ffc6b1e57613d76i0",
+    "meta": {
+      "name": "MemFlux #216",
+      "attributes": [
+        {
+          "value": "6",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "410",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/fb698fac5ac5cd0fd68d955e93d5928ebfa73bfe86a43cb38ffc6b1e57613d76i0-1686376382.jpg"
+    }
+  },
+  {
+    "id": "d776544b800e324142f9a47d5e588ed9936eea5624fa3c396c9ce37f4bef68b4i0",
+    "meta": {
+      "name": "MemFlux #217",
+      "attributes": [
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "43",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "insane",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/d776544b800e324142f9a47d5e588ed9936eea5624fa3c396c9ce37f4bef68b4i0-1686370833.jpg"
+    }
+  },
+  {
+    "id": "9d3e616043c1221ecec4c10d1607651690ec7ec7d37118682c656a2277c7f7bai0",
+    "meta": {
+      "name": "MemFlux #218",
+      "attributes": [
+        {
+          "value": "8",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "416",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/9d3e616043c1221ecec4c10d1607651690ec7ec7d37118682c656a2277c7f7bai0-1686376541.jpg"
+    }
+  },
+  {
+    "id": "25bcf2de83b15b268b0146983ddc0970b22e0c4b6463ba0f9958a9ff7dd936cai0",
+    "meta": {
+      "name": "MemFlux #219",
+      "attributes": [
+        {
+          "value": "15",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "466",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/25bcf2de83b15b268b0146983ddc0970b22e0c4b6463ba0f9958a9ff7dd936cai0-1686370834.jpg"
+    }
+  },
+  {
+    "id": "9a25941094d72c08db226b5807d17cfc39851db0d8fb18ebbcbd778f21a1155ei0",
+    "meta": {
+      "name": "MemFlux #220",
+      "attributes": [
+        {
+          "value": "13",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "421",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/9a25941094d72c08db226b5807d17cfc39851db0d8fb18ebbcbd778f21a1155ei0-1686370835.jpg"
+    }
+  },
+  {
+    "id": "2dad636773bd9020b00ef7c919f8dfb1ce3ff48a6a3f54d869b8e42980e54726i0",
+    "meta": {
+      "name": "MemFlux #221",
+      "attributes": [
+        {
+          "value": "11",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "48",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "insane",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/2dad636773bd9020b00ef7c919f8dfb1ce3ff48a6a3f54d869b8e42980e54726i0-1686370833.jpg"
+    }
+  },
+  {
+    "id": "cc2575c28c618c1dd5b4f4fb3f15ac04b77ed2b09e7ecd7633a13ad6893cc95di0",
+    "meta": {
+      "name": "MemFlux #222",
+      "attributes": [
+        {
+          "value": "1",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "45",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "insane",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/cc2575c28c618c1dd5b4f4fb3f15ac04b77ed2b09e7ecd7633a13ad6893cc95di0-1686376538.jpg"
+    }
+  },
+  {
+    "id": "a13038d34e442f1d4d95a2af6d915c82465fabfdba27dd1c8d64800fb70265f5i0",
+    "meta": {
+      "name": "MemFlux #223",
+      "attributes": [
+        {
+          "value": "0",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "458",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/a13038d34e442f1d4d95a2af6d915c82465fabfdba27dd1c8d64800fb70265f5i0-1686370832.jpg"
+    }
+  },
+  {
+    "id": "710e3d7ce597d889bbeededc5280d966a25c00f39b491bdc0ce185c94d9f9e4ci0",
+    "meta": {
+      "name": "MemFlux #224",
+      "attributes": [
+        {
+          "value": "19",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "442",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "overcast",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/710e3d7ce597d889bbeededc5280d966a25c00f39b491bdc0ce185c94d9f9e4ci0-1686376543.jpg"
+    }
+  },
+  {
+    "id": "7c193992554ce73cb88d2502126b0d3b25f3d29a4356bced2c9039577a5e2680i0",
+    "meta": {
+      "name": "MemFlux #225",
+      "attributes": [
+        {
+          "value": "2",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "466",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/7c193992554ce73cb88d2502126b0d3b25f3d29a4356bced2c9039577a5e2680i0-1686376542.jpg"
+    }
+  },
+  {
+    "id": "e6b97d2ab5353dac374b155ac9d248182bcae02570b9c4fc0f8ada5672090a39i0",
+    "meta": {
+      "name": "MemFlux #226",
+      "attributes": [
+        {
+          "value": "5",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "82",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "big",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/e6b97d2ab5353dac374b155ac9d248182bcae02570b9c4fc0f8ada5672090a39i0-1686376539.jpg"
+    }
+  },
+  {
+    "id": "1feed9a01b35d92aeb471f812abd24b54c6ad80362523559dcdb3a5bde79e3eci0",
+    "meta": {
+      "name": "MemFlux #227",
+      "attributes": [
+        {
+          "value": "22",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "47",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "insane",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/1feed9a01b35d92aeb471f812abd24b54c6ad80362523559dcdb3a5bde79e3eci0-1686376540.jpg"
+    }
+  },
+  {
+    "id": "ff970534fb9586247775fe20f7e957ab118bff79f8451262b59cde2c2f03070ci0",
+    "meta": {
+      "name": "MemFlux #228",
+      "attributes": [
+        {
+          "value": "16",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "454",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/ff970534fb9586247775fe20f7e957ab118bff79f8451262b59cde2c2f03070ci0-1686370823.jpg"
+    }
+  },
+  {
+    "id": "479701fff6d0376a5a6f6f4e727ddbf4cdc838da66e43c91ec3f83d926191833i0",
+    "meta": {
+      "name": "MemFlux #229",
+      "attributes": [
+        {
+          "value": "8",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "462",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/479701fff6d0376a5a6f6f4e727ddbf4cdc838da66e43c91ec3f83d926191833i0-1686370822.jpg"
+    }
+  },
+  {
+    "id": "337c4e5a5eb75ce8cd23971a2599d2294fb148f82c3f8539d21b8cc2c3bab563i0",
+    "meta": {
+      "name": "MemFlux #230",
+      "attributes": [
+        {
+          "value": "19",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "47",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "insane",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/337c4e5a5eb75ce8cd23971a2599d2294fb148f82c3f8539d21b8cc2c3bab563i0-1686370822.jpg"
+    }
+  },
+  {
+    "id": "607ae5c81d6ac6f09b83f960e16f4b0c5ca60165d9da67809a8ef4dfbadc44edi0",
+    "meta": {
+      "name": "MemFlux #231",
+      "attributes": [
+        {
+          "value": "14",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "418",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/607ae5c81d6ac6f09b83f960e16f4b0c5ca60165d9da67809a8ef4dfbadc44edi0-1686376539.jpg"
+    }
+  },
+  {
+    "id": "59eac3876c0d4f46d1e785981037df72ba3cb99588c13ac86ca740ab954be085i0",
+    "meta": {
+      "name": "MemFlux #232",
+      "attributes": [
+        {
+          "value": "15",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "424",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/59eac3876c0d4f46d1e785981037df72ba3cb99588c13ac86ca740ab954be085i0-1686370824.jpg"
+    }
+  },
+  {
+    "id": "c73745a677c08022bbe25a64db3c640044db7537c9e42e1f3099676840842320i0",
+    "meta": {
+      "name": "MemFlux #233",
+      "attributes": [
+        {
+          "value": "4",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "488",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/c73745a677c08022bbe25a64db3c640044db7537c9e42e1f3099676840842320i0-1686370824.jpg"
+    }
+  },
+  {
+    "id": "b52900569f76552d36688f2fe03ba0f057404436471ec9f2de6b99e4c4fc02e5i0",
+    "meta": {
+      "name": "MemFlux #234",
+      "attributes": [
+        {
+          "value": "23",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "45",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "insane",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/b52900569f76552d36688f2fe03ba0f057404436471ec9f2de6b99e4c4fc02e5i0-1686370822.jpg"
+    }
+  },
+  {
+    "id": "1cefa5461629cb3c2bf557b7dc73a70c8b33a3b568c5fd04f5f3462eceb74e11i0",
+    "meta": {
+      "name": "MemFlux #235",
+      "attributes": [
+        {
+          "value": "14",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "500",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/1cefa5461629cb3c2bf557b7dc73a70c8b33a3b568c5fd04f5f3462eceb74e11i0-1686370822.jpg"
+    }
+  },
+  {
+    "id": "5015d64314045b0f543d5709c34739e81834fcb8bce1df0140522ea88dcf49b8i0",
+    "meta": {
+      "name": "MemFlux #236",
+      "attributes": [
+        {
+          "value": "10",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "45",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "insane",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/5015d64314045b0f543d5709c34739e81834fcb8bce1df0140522ea88dcf49b8i0-1686370973.jpg"
+    }
+  },
+  {
+    "id": "067965ac068e2be56f876032fd414d8414082fe830753b4e0e743373a02ed572i0",
+    "meta": {
+      "name": "MemFlux #237",
+      "attributes": [
+        {
+          "value": "6",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "44",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "insane",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/067965ac068e2be56f876032fd414d8414082fe830753b4e0e743373a02ed572i0-1686370971.jpg"
+    }
+  },
+  {
+    "id": "14695afd3243ddce9c3409a8bbfedb4d7e279f8829809d1216aa5cef45ed430di0",
+    "meta": {
+      "name": "MemFlux #238",
+      "attributes": [
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "496",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/14695afd3243ddce9c3409a8bbfedb4d7e279f8829809d1216aa5cef45ed430di0-1686370992.jpg"
+    }
+  },
+  {
+    "id": "04aa46cd8cfc43969e2f2fc1ef8212141ad668bc4764e4623031023b8bbf6ffbi0",
+    "meta": {
+      "name": "MemFlux #239",
+      "attributes": [
+        {
+          "value": "6",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "460",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/04aa46cd8cfc43969e2f2fc1ef8212141ad668bc4764e4623031023b8bbf6ffbi0-1686370990.jpg"
+    }
+  },
+  {
+    "id": "5d7c1737effc306b7d7744b052e7d525f523b43d1e377dfe699ff237be16a288i0",
+    "meta": {
+      "name": "MemFlux #240",
+      "attributes": [
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "457",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "overcast",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/5d7c1737effc306b7d7744b052e7d525f523b43d1e377dfe699ff237be16a288i0-1686370993.jpg"
+    }
+  },
+  {
+    "id": "1bdb4d49e003ee4884e9ab8459d75041034259c308b6888035a7ba8d0acbe377i0",
+    "meta": {
+      "name": "MemFlux #241",
+      "attributes": [
+        {
+          "value": "5",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "430",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/1bdb4d49e003ee4884e9ab8459d75041034259c308b6888035a7ba8d0acbe377i0-1686370992.jpg"
+    }
+  },
+  {
+    "id": "337d0bb2c43c017358b060c0df08a5cdf01253cd4e87f2a7b5dd88e627757216i0",
+    "meta": {
+      "name": "MemFlux #242",
+      "attributes": [
+        {
+          "value": "21",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "404",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/337d0bb2c43c017358b060c0df08a5cdf01253cd4e87f2a7b5dd88e627757216i0-1686370991.jpg"
+    }
+  },
+  {
+    "id": "b782261eada88f8697c8357e31c955f9999278a841c90c457c4f94ab1a07dac0i0",
+    "meta": {
+      "name": "MemFlux #243",
+      "attributes": [
+        {
+          "value": "3",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "94",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "medium",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/b782261eada88f8697c8357e31c955f9999278a841c90c457c4f94ab1a07dac0i0-1686370975.jpg"
+    }
+  },
+  {
+    "id": "bbb0e83fc33cd8b7d9cf81d8e6428b9f420490da98efa2c257c9fa5ca7d429a8i0",
+    "meta": {
+      "name": "MemFlux #244",
+      "attributes": [
+        {
+          "value": "17",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "478",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/bbb0e83fc33cd8b7d9cf81d8e6428b9f420490da98efa2c257c9fa5ca7d429a8i0-1686370992.jpg"
+    }
+  },
+  {
+    "id": "9f7168bb76a86480267df06a14f62cb9a8b071569db10271105941ff4504e08ei0",
+    "meta": {
+      "name": "MemFlux #245",
+      "attributes": [
+        {
+          "value": "2",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "464",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "tiny",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/9f7168bb76a86480267df06a14f62cb9a8b071569db10271105941ff4504e08ei0-1686370993.jpg"
+    }
+  },
+  {
+    "id": "dd1e2ed8c163a3ec75eddf23ae6b016430476aa4c4f73ea2a722bd43cc7c4f24i0",
+    "meta": {
+      "name": "MemFlux #246",
+      "attributes": [
+        {
+          "value": "10",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "93",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "big",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/dd1e2ed8c163a3ec75eddf23ae6b016430476aa4c4f73ea2a722bd43cc7c4f24i0-1686375239.jpg"
+    }
+  },
+  {
+    "id": "90b170354a359de8741f0942e9e33203571512db20dc0005dcd07c02af877f3ei0",
+    "meta": {
+      "name": "MemFlux #247",
+      "attributes": [
+        {
+          "value": "17",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "428",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/90b170354a359de8741f0942e9e33203571512db20dc0005dcd07c02af877f3ei0-1686375240.jpg"
+    }
+  },
+  {
+    "id": "9b858e2dc23590f02e350d0eb571fd32590b882eaddec3091134297565b967e5i0",
+    "meta": {
+      "name": "MemFlux #248",
+      "attributes": [
+        {
+          "value": "18",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "414",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/9b858e2dc23590f02e350d0eb571fd32590b882eaddec3091134297565b967e5i0-1686375240.jpg"
+    }
+  },
+  {
+    "id": "ab18c2160391a7de5810ffb9aa8dd0413b3cb92d24c0b52067bc00e8d4849a12i0",
+    "meta": {
+      "name": "MemFlux #249",
+      "attributes": [
+        {
+          "value": "21",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "488",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/ab18c2160391a7de5810ffb9aa8dd0413b3cb92d24c0b52067bc00e8d4849a12i0-1686375242.jpg"
+    }
+  },
+  {
+    "id": "305eaf0e97872e6ed8fd28f6ed3f0ce0cdb8795d0e041a109b25f1f5d789210ci0",
+    "meta": {
+      "name": "MemFlux #250",
+      "attributes": [
+        {
+          "value": "4",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "93",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "big",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/305eaf0e97872e6ed8fd28f6ed3f0ce0cdb8795d0e041a109b25f1f5d789210ci0-1686375240.jpg"
+    }
+  },
+  {
+    "id": "9f21de88c063eeeaa7ce6d703831262b84320bc9e3c47da87fa7a9b4c5dd865ei0",
+    "meta": {
+      "name": "MemFlux #251",
+      "attributes": [
+        {
+          "value": "15",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "500",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/9f21de88c063eeeaa7ce6d703831262b84320bc9e3c47da87fa7a9b4c5dd865ei0-1686375243.jpg"
+    }
+  },
+  {
+    "id": "08d36da899455256246e5f61cf4a1c1e445f1129fa5dba8dadfc482fdf6bc62ai0",
+    "meta": {
+      "name": "MemFlux #252",
+      "attributes": [
+        {
+          "value": "16",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "446",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/08d36da899455256246e5f61cf4a1c1e445f1129fa5dba8dadfc482fdf6bc62ai0-1686375242.jpg"
+    }
+  },
+  {
+    "id": "7a1d8ed531d9c02c5c9dfd58cac1744677538c887b07c9625e0bf3bc81652d17i0",
+    "meta": {
+      "name": "MemFlux #253",
+      "attributes": [
+        {
+          "value": "0",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "437",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "false",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/7a1d8ed531d9c02c5c9dfd58cac1744677538c887b07c9625e0bf3bc81652d17i0-1686375242.jpg"
+    }
+  },
+  {
+    "id": "2991aec92388d3fd5da323205c9ebc7c1689ba0012b9df300d578517b809b9c8i0",
+    "meta": {
+      "name": "MemFlux #254",
+      "attributes": [
+        {
+          "value": "23",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "91",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "medium",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "scattered",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/2991aec92388d3fd5da323205c9ebc7c1689ba0012b9df300d578517b809b9c8i0-1686375241.jpg"
+    }
+  },
+  {
+    "id": "bc1f95eda35598553812c3dd9893e032a90d621a1c8c48654dcdca1250729382i0",
+    "meta": {
+      "name": "MemFlux #255",
+      "attributes": [
+        {
+          "value": "21",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "433",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/bc1f95eda35598553812c3dd9893e032a90d621a1c8c48654dcdca1250729382i0-1686375244.jpg"
+    }
+  },
+  {
+    "id": "b4251c5b3608c8b31fa73b284d286861a375e40de02652ad5d136e536b58de0ai0",
+    "meta": {
+      "name": "MemFlux #256",
+      "attributes": [
+        {
+          "value": "24",
+          "trait_type": "Palette"
+        },
+        {
+          "value": "415",
+          "trait_type": "Lights"
+        },
+        {
+          "value": "true",
+          "trait_type": "Collective"
+        },
+        {
+          "value": "regular",
+          "trait_type": "Radius"
+        },
+        {
+          "value": "cloudy",
+          "trait_type": "Sky"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/memflux/thumb/b4251c5b3608c8b31fa73b284d286861a375e40de02652ad5d136e536b58de0ai0-1686375243.jpg"
+    }
+  }
+]

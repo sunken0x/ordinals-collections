@@ -1,0 +1,6785 @@
+[
+  {
+    "id": "610f7abb9a68e48b6a057127f2f006c84174b8d95459c5bc26fd580b19405445i0",
+    "meta": {
+      "name": "Tetartemorion",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "218 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/1211a5bbe80760baaceda6eb9d96ae0072bb49303e9cc8b827fa0cb7ee066fa9i0.png"
+    }
+  },
+  {
+    "id": "58f8882a91f8dd8eebc583833685ab01a961e878fd5e780ac21f22ff8e6b66b5i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/d0a7d839f18688bb6e07e4e2b495db77ea83d74eca5ac6e504f707f334390f24i0.png"
+    }
+  },
+  {
+    "id": "6a34054b44bea514894c065948934d1028f9dc4e60bcbbe5aac62d0e88996311i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "250 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/1c409f325da0342916a4f15a120939e15ab5592791403ac85517183bca7595bbi0.png"
+    }
+  },
+  {
+    "id": "86e7069dbd439daaf5162140c772719f2c12639b0303cba7cd72254c54f79644i0",
+    "meta": {
+      "name": "Hemidrachm",
+      "attributes": [
+        {
+          "value": "Gold",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "395 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/cea4ba9a48acff877053b2020bcf500ed2887393164ae2134389f5472a6faea0i0.png"
+    }
+  },
+  {
+    "id": "6204dd38fd5af4fea18dbf82623d122081821dc22817b6440cac3b28629f5939i0",
+    "meta": {
+      "name": "Tetrobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/5420ef519af2fdc29197ec55e8086749433fe339f416e4e75b11bb0532080246i0.png"
+    }
+  },
+  {
+    "id": "279ecdcd0e19a22ea4442e6283ffffbed78fe43ead51936183a5dc2b817d712fi0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Electrum",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "550 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/d4a10877e055a4104e94641e825c6bdb89cbf9985594d4ac8321f3e87338af64i0.png"
+    }
+  },
+  {
+    "id": "3d42af2005ce451783ee7113a8d30e7172a7f4fe39df1eb7fb5b28cbf56ecfd1i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "200 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/4b50f0006a8397128431274bf9a55bbfb62cfb0e0ef4043fa6f2de543105e349i0.png"
+    }
+  },
+  {
+    "id": "b027dd74f126c78dc36000c151e3d7012a9c02b9d03bad8542e5a8df32e383a2i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "385 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/cbfb41abe0df2d5fb71875512c5a91f9907ef87308699defe8216da7694ff138i0.png"
+    }
+  },
+  {
+    "id": "d7e42a50b6cee61c344851644cafb493d7b5548bb01bbf74739f58f527f95571i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "300 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/68fac7d200dfb18db4a3e42a56f0eb7d9280c25a67612eff209a448c29286dcbi0.png"
+    }
+  },
+  {
+    "id": "55b4e2c4dc5ae15d4d911aa94566cf57be2995a646ea1efcb5beaf7ecc4de47bi0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Gold",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "340 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/4aaa2d1294d71811025aa595e59a283e13218b68844dcc58dfd0bf53d5fb50c4i0.png"
+    }
+  },
+  {
+    "id": "a373fc160d2097bd3c0f90159dac119bcf401bcde98a7db1e7fcfbda5b4b57e4i0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Gold",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "350 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/50fc321c98c7e0b086766867e925373dacc5e3f9005f7e8aa34dc90d90a1a8d5i0.png"
+    }
+  },
+  {
+    "id": "6229b48c25df3c9c142116adc4e8e512b0fb9fea182808d5913fb7b491c6f4aai0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Gold",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "239 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/63ee2a662a665dcd4baa9378ea62713d680eecfe3fb455c3b72826125db6521ci0.png"
+    }
+  },
+  {
+    "id": "aa8e10f48ffd8b58025e2b793b6d74f841097d931bb5a38621b1ac929bf64012i0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Gold",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "312 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/c174f1f0eef5d932e032a08d609ff1f3042251eda7702d022740be2f7c8705fbi0.png"
+    }
+  },
+  {
+    "id": "fb6882dc90cf3c59b4f189514a9295a0a994e6128daa50a51443a398030b5544i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "170 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/1ee1960bff99e0adc18c6ceb9713fba58fe878a33667a8c6200b8efc400de303i0.png"
+    }
+  },
+  {
+    "id": "968b1aa8ac48b152243b4e1246e417d22256c140a8b69b8d4482850a2180eb38i0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Gold",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "250 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/2f3167b46ac0f72f66eb82ea902746f8e954bde371bad048dac7b5464ace63efi0.png"
+    }
+  },
+  {
+    "id": "d97ed1c70db48f5fc1e2b3c77ff6ae681616d26d0f55af6afdce5152f9ceedffi0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "500 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/4d554252706a8133e589f72bd711868d62277ff6366c1470f7542f2396058e03i0.png"
+    }
+  },
+  {
+    "id": "dd5c0d7b403a984d864134545822f9f5b5841af2c9a9fc1252d9358a51b1474ci0",
+    "meta": {
+      "name": "Chalkon",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "120 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/1c04955324558f78fe2ab3177ca60b758226bde70b1647fa2fdb1d11c94c2e70i0.png"
+    }
+  },
+  {
+    "id": "cc52601d844c0bfc8e65d4ff7534990aa5d6ead4b154b43e6a3d40214973d7d0i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "170 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/793a1b2d519c433ed2e9cc5d0f9a8eba33691c1a2e7a8fdb24a0bfdc5ea5cd5ai0.png"
+    }
+  },
+  {
+    "id": "246503d153d05355494a3fb5dfd8d4031d14d6b039b693895d2c28b33fa53753i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "210 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/8724f0107e81a564b62322a5efbe932d6aa2ebdbba8abcdd97002ebffbb8cbf9i0.png"
+    }
+  },
+  {
+    "id": "48f39f1995ee2000b01361da75f30a5d18ca65022323b56b9fa95d3efda60d23i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "249 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/23346095049dc22d6fe4608db30715ba5bc11c9c883ff7ad23faaec5344fe382i0.png"
+    }
+  },
+  {
+    "id": "14a887b90d2037de2f75a91dde60f40495dab31cd5dd517d02edd54513a9deadi0",
+    "meta": {
+      "name": "Tritartemorion",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "500 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/63eb38574869ade0b0299686591917be0cec7bc30134a29a7be386504bd35520i0.png"
+    }
+  },
+  {
+    "id": "b11d6dd32f8c23603d2bd9fb9e52b5c94472adb9232401569106c18d86a42f4fi0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "200 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/12ba6b6a081ae6df805e01447b6900c1d115df1f0ff1931d05662b507946c12bi0.png"
+    }
+  },
+  {
+    "id": "7a383f7ea834c2de555e698b2e40453367a1ed7d3244b7efe9bfc294ba1728b8i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "150 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/571f65bf0972801a041d3dc5e302c201931650375b6b361eb154730833e110a2i0.png"
+    }
+  },
+  {
+    "id": "d31a21686518277c32de260df94f68430e75b971b7d36c1080633a1c5a33e142i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/c899f76944c440bcb2049c34d97e3bc69f800ac3fc65aefb47041c97b1086b89i0.png"
+    }
+  },
+  {
+    "id": "23ecbee7a11f25386ad6c7b40d98ad519e03d751555446d1a11e9f074e881d15i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "60 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/5f596d456d1777969cc1ece55f0d19f6a247e5a63fcea81674c92ef4d59228cfi0.png"
+    }
+  },
+  {
+    "id": "1a4d16d6ec5d0786088673fb90d21ddbd3e11c704e2fbc9a6e9cebf8a4c8e370i0",
+    "meta": {
+      "name": "Hemidrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "350 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/07597bc9c4d3cfe19cdfa2ea89d9b936c4a70514f633ee85e294e9cec3c541d7i0.png"
+    }
+  },
+  {
+    "id": "cda083892a714fb3e7d1817095c07a68607223e02c9aeb1dba0cfad94de5a093i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "90 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/1344df299da96f76d544903bab3a425a1fb1057ccbcb9ab1a1a32b0f1fc6f604i0.png"
+    }
+  },
+  {
+    "id": "385207b48f4eaf9294a71ee975355522b386592441c4568a9a457e56853945bbi0",
+    "meta": {
+      "name": "Tetradrachm ",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "74 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/0cff28028935bb7e3164b6583b4ec65b2089752679d7de8c8acf8310834543b9i0.png"
+    }
+  },
+  {
+    "id": "b11c8ff8287fcb0714fdf08832974ebc73cd0fd543387f5a2185b47f6f630841i0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "330 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/14db47ca6ef8b95ae62f93fe140945c5b8db267d6b802c444cd62501511a00b7i0.png"
+    }
+  },
+  {
+    "id": "050fe020cad58d661c954a65f6491201e163db9b57c247935ca93b98f5790bf1i0",
+    "meta": {
+      "name": "Hemiobol",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "130 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/b960544fc344b7c68d760e32db54b436c9b83132bc4de084e375de2054fcd7b6i0.png"
+    }
+  },
+  {
+    "id": "14ad15b88f08118f5e08d335c581ef0360a66cfdc2e0e2295d53d3eaf75166f0i0",
+    "meta": {
+      "name": "Hemiobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/7c15c4599667347abed37abd52687a09368e80136d2b2bc9d791367c9efd9506i0.png"
+    }
+  },
+  {
+    "id": "d5ab8f1936b29ace02d1d266d4062bf9d6c21c396ff77cc667ca1b67e8f95203i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "450 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/7f11be8e4d24dfb5d1c346f89fcece5b6a6175e794b5de271bdaa491b7e32607i0.png"
+    }
+  },
+  {
+    "id": "7893e295c0e04df6c30506557683c53334e8930b61de87d41671be75c9fb2712i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "120 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/90982535516e009c6c508af1bef4224a7dfc012269766681ba401530202672b0i0.png"
+    }
+  },
+  {
+    "id": "f5976ff53c964c1f4ecea600614256c3c7e8207fd8686edfd5f755f64830cfebi0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Electrum",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "600 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/d38bbc4289f993c33aae6784b028c2233128b57b506a09a9578e3c13ac4762f9i0.png"
+    }
+  },
+  {
+    "id": "8a5da01020be4c4e13cfbd5ac6dd1b99c849e962feb52252fc568d7717ed0a3fi0",
+    "meta": {
+      "name": "Trihemiobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "480 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/145b51e20bf6d6c1bbc176244da6bdc69696d530e91728320cb59f35a6e4e011i0.png"
+    }
+  },
+  {
+    "id": "f80c41d3cc078b0a506989c706a78a0313c177a6297ca047f04006f37669a2f1i0",
+    "meta": {
+      "name": "Tetrobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "220 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/2c246c2fcbb20b5cdc619d02c407dd809c81800c4472816ae6ccc821e432f4ddi0.png"
+    }
+  },
+  {
+    "id": "50f855f06be6e3ee1d9d09b6d4a3f1fbc2ba6f07b8b5054c6398a014b144e3cdi0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "171 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/6ee521733f61cdfade650d6476fa12808260f6448020c06c2969265d72ecf399i0.png"
+    }
+  },
+  {
+    "id": "7485acd36b9a4315a5059b0bd64680d84d50baf9ea56fbc9e9408d1b3a1aa632i0",
+    "meta": {
+      "name": "Tetrobol ",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "130 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/1e3beafc51824e57bdd4d50a34bf9ba54688acc4e2e74e2cf0974fbbaeb5464bi0.png"
+    }
+  },
+  {
+    "id": "28e6732a0eddbf8963397a193123981d4e12edc893087d1b1ddde6363ccca699i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/28f1c44ffe2b5dd2c6e2770daf7d3a75e281b7598413a8885f527e43046df999i0.png"
+    }
+  },
+  {
+    "id": "cbbe8b30741976e77973f7b9665e5037a8b18c2b33e5e9f5a755e0103ec560ebi0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "120 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/942621f267fd137e7a7fa179f7fe8f0ab266e51a53c92640c2c329881ab1f749i0.png"
+    }
+  },
+  {
+    "id": "009609783d43aa25fabc1f8972e4c6e8f030d0389f7d658755c2337e24f5542bi0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "130 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/7ddf57a695131570250437606858048bbac9528e37dc8eb5579ff20f4205694fi0.png"
+    }
+  },
+  {
+    "id": "2485bb3a53f3746333e8696ce328a8955c0c62602c36c76dbda3f7153c4a9e4bi0",
+    "meta": {
+      "name": "Tetrobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "90 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/4fac5a64f91d89b80a105a97bb5975bef907055d3e7cc65e6d088f8bf9997cefi0.png"
+    }
+  },
+  {
+    "id": "beb430f3a088dd55c7b93a0d1050cd5c7d1b7afd4501b6657d8d0a35ef56684ci0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "330 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/aed8f67ee50d8a05a0afcdf031f31af6e01cd40df343edfeecd1cac2d26c2513i0.png"
+    }
+  },
+  {
+    "id": "4052b4166dbb24912c713b9bdd9ba398d953830fec4541d08fadb97fead81474i0",
+    "meta": {
+      "name": "Chalkon",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/4859da053f3304470e8d4f6d25d1bece99d95178dd1b2a881f5c386a842c6753i0.png"
+    }
+  },
+  {
+    "id": "f699205c6056730730012b96b26d638b91895d44cb66c84c4e0f9e5cec000ef9i0",
+    "meta": {
+      "name": "Dichalkon",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "200 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/3250755bed0a3cbd024454c2c0a1b6c4b9884edea1e4d80c369d637e389e0457i0.png"
+    }
+  },
+  {
+    "id": "79f3c1884cb0bd456a0d0b66d56d16ff9204c335f9580323f58a08514741ee14i0",
+    "meta": {
+      "name": "Tetartemorion",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "500 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/1f97cf2d6dd85a2bf531f2be1c6f451f512484eb2841d00400f40293cee8ab8ei0.png"
+    }
+  },
+  {
+    "id": "a1926a8ced3cde775f0a2c77e017f7099320f676afb72ea2676e9965d6bde5a3i0",
+    "meta": {
+      "name": "Diobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "500 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/a8baf66bb33b7cc568b1ae3fc0df7256ab73013b31a7d8141b98c45d003f65b9i0.png"
+    }
+  },
+  {
+    "id": "125e5c65f7a11ecbba722f91a5c3227e54703a7500d4e57c4984c4aaeeb710f8i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "150 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/b7a1a35149651c66e79f1a5bd9c12c55abd970e3d66b8a0a27c5298cd5f50690i0.png"
+    }
+  },
+  {
+    "id": "39d9d6d93e7e90f50a38e176a3505c4f38acb6d4bc569b059743d498e35fcc84i0",
+    "meta": {
+      "name": "Jano",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "190 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/77c010949bf72788e128fb6852742d9e524261451d622ec16021ddfa7c8f6cbfi0.png"
+    }
+  },
+  {
+    "id": "8cfd7f3c95b0504e607bb44a3007cf7a7b483a0afc762eb06ae723c4050f9f8ci0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "480 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/f6ea9f7d0815bb8211adb4e48ad12b85ee293a890cde42336e03036bd85317f9i0.png"
+    }
+  },
+  {
+    "id": "296042439e8379ccf1c31c940ad0806fdbf1ccdc5ebd2c1e867ce911e81e3852i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "241 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/ef384fead2bdc2d6556c03725cc4757705116331d2d371af39389ad2622ea5e1i0.png"
+    }
+  },
+  {
+    "id": "48042fb64abf53a99b8d0c172aa0c4b7143cf08ced0bbb523491647d4bc25154i0",
+    "meta": {
+      "name": "Chalkon",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "300 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/bb259123cf723839ee37119cb4f90f833227f8bc09fbf66804890165128740b6i0.png"
+    }
+  },
+  {
+    "id": "ff795f463b6b6f6490c771caa294d4072fc32037c65721813d8e103255a96040i0",
+    "meta": {
+      "name": "Litra",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "430 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/04393f7743071a05d9133ed0a4d306cf2057501e140f9aa828af8a42b61477f3i0.png"
+    }
+  },
+  {
+    "id": "ad20bac3d440bfafd59257546b8a95ccab4d19d52b45453265fb7999fb256d24i0",
+    "meta": {
+      "name": "Hemichalkon",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "395 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/e7ce6273a90b091d924b00ac5027a3cffd2526a52a37fd6c79abf19bf2248147i0.png"
+    }
+  },
+  {
+    "id": "4ac837f081ad2d71c50421a1493dcc4ffc9278df9f05e54de800104929ee7c9fi0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "275 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/4707b791dd0f6b7176c4aec323afcb78e9c64e22775218ae4c5da575dc4aa7f7i0.png"
+    }
+  },
+  {
+    "id": "9cba6e608a46f96659d565142fe944e75fc10acbb2fc4631b552db048f6d9afei0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "125 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/0aa248a4ceb6f2983aecf9a29b484b47ca14f5216cc608b2891154fdf39e8367i0.png"
+    }
+  },
+  {
+    "id": "679e642b616e32a298365825e512fa2e7797ceac3976c9906edc92ccd0e5fb1bi0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "325 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/ba28ba04c60d52701816408854e0c3668d04f913042c81b84ae116ddd2c8162bi0.png"
+    }
+  },
+  {
+    "id": "77ff7a02b5345cc2b5f737450e924d7808a10409eda9c7163a44e6f4c1b0becfi0",
+    "meta": {
+      "name": "Diobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "525 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/6ac701c9ccdd6964574eee95777d251ea94d61f7d56c7ee105a8bea3daeb848ai0.png"
+    }
+  },
+  {
+    "id": "d20ec228767d08d2c011162d1a6cd67ef3b97f5adc9157f459f841b488828f8ei0",
+    "meta": {
+      "name": "Teruncius",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "200 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/80ef97bc2a8be6193c1ace28e8dffd6ee201f27dde98f2cedf918b1fac6a54d3i0.png"
+    }
+  },
+  {
+    "id": "67da5674de6409423879d452f3f75f55c925620f5522ee11d45808090518141bi0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "80 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/d52cea3841ce353bf4b6ca8c43eff8068473d8f75f2365de243af54cfe80d435i0.png"
+    }
+  },
+  {
+    "id": "3a702108d701d15863312844fd735721ecdf0cedf07b7ec0d153aac50513201ai0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "330 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/fe7396ae9eea037f57dd055ebc951b150053f6a27c4e24c7c3f50d640401a97ei0.png"
+    }
+  },
+  {
+    "id": "f33081aedf3834245441f78a6f9d8da32af590d7aa65f598dc6401a0b29d6c6bi0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "360 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/f09de3d900c73031020298a5f1aafc06375ec1a2baaac7255cfcb7f897c262f9i0.png"
+    }
+  },
+  {
+    "id": "bfc778f14a3313ac73d89e21b6791e4b2a77971badb22960b749bbec1ab31f75i0",
+    "meta": {
+      "name": "Trichalkon",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "330 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/ae5a444d631ac24e9f2605872155a67b7832f756e807321fe572d38811818d6ei0.png"
+    }
+  },
+  {
+    "id": "008c519a81768ef943636482998b8f119dfd470ef5586d8b5184d64c8795adbbi0",
+    "meta": {
+      "name": "Hemidrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "340 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/24320e0dee01dc468c54883281495576d15e9e5774f00de23d103e37a4155071i0.png"
+    }
+  },
+  {
+    "id": "33f2cbc8ee896aca5fc262f6d95f5c11cc7b5134655d594c15163b2c949d282ai0",
+    "meta": {
+      "name": "Siglos",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "425 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/8725b7e36f8eb4c4e1be48b99d3d54e3e658b987e8f26211e823bab56fcd5a2bi0.png"
+    }
+  },
+  {
+    "id": "9e6e6c45412268a1471e0d0c1613e82a2f687817ff182abb7f064ea45e2bf434i0",
+    "meta": {
+      "name": "Triobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/89bc18ae02cb72c7fd21cd9550431887e9fa5980977b2fbf1be945d6b3c8c4fdi0.png"
+    }
+  },
+  {
+    "id": "f67a74d532f3147c3521c90beb243eebb1c1e81bd917bb799d67558891396045i0",
+    "meta": {
+      "name": "Hemiobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "425 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/ed6472ab9f62998b5d82be20382948d7a7f720385887fce5cfbdd7ee6433c414i0.png"
+    }
+  },
+  {
+    "id": "5b5e1890a654dc7e696a1b37550866b70501afa2be93cd291567f74c598c8de6i0",
+    "meta": {
+      "name": "Attalos",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "108 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/728b1903e847cf4039c0ad3ac8369674dcdef0551fa7b778cc051cb8416fb0c8i0.png"
+    }
+  },
+  {
+    "id": "c697182fdb122641dafc1cfe1ba0f649200cc294271e3d613cf5858be9798507i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "370 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/13bbdd68a663842fbbd27a475df176f80d13247b9745eb2a8ca76d9becdd5a1ci0.png"
+    }
+  },
+  {
+    "id": "f21019b65b0335fae9d287ce029704e27e6dfb53dea6182df9802a1f43bde96bi0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "334 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/7ff3e40ef0dc0af1ce9372daba4aac7464327780ec27a4b8968d9ffb0baad6cfi0.png"
+    }
+  },
+  {
+    "id": "96ca47a697b7f0731bf0dbf56fb16a1cd5c85da36b0b118b7625e58a512fc1bbi0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "180 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/3d8c1277073dd37689662ea10a6ac844087e03d9a1b6d5e49ef5b4ea2efe742ai0.png"
+    }
+  },
+  {
+    "id": "4c5d6389c7c30a2880c82f9e30ae08171709c72f0aa47f51630cc183a7e9e49fi0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "370 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/8bb83839941c67f544b532eed2b3dffb1531de842de3c37d9a021cc70f46adaei0.png"
+    }
+  },
+  {
+    "id": "50b92dd9f49cd8d783aad6a789dfacd1e448ed9301cae749db2a705a86ddd36fi0",
+    "meta": {
+      "name": "Tetrachalkon",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "191 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/7a5e1ae2c0c3347ac5418d6df769846cf6b754968c821a77bdd7115a63d4a824i0.png"
+    }
+  },
+  {
+    "id": "cbe6145955f20f6c13be5d9580336faf78528e4553142efb8cc675f99d53a96ci0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "70 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/59a236d9039f8f03725741855c077403d9801d5f7ba8838442ba068fb1deb806i0.png"
+    }
+  },
+  {
+    "id": "87a9120df313f29ac8834bcefdecdf9827d70e3e275a4f61142f3dfed8e142d8i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "375 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/770ae1e70638f872a0f084902153453d75ecc8bf2d186730b9e3633b96c44a95i0.png"
+    }
+  },
+  {
+    "id": "ba1ee78acab1e24017e963094271163b698b807b6269c5638247425d378f8bbai0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "300 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/f1d887c6f1366fbd88bcea887df1855cd552211d450088f2cd428ea38187aa23i0.png"
+    }
+  },
+  {
+    "id": "3de70f7499409e6aa0cf5da74ee3e757c70667bb7ec07067a1cbfea100325287i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "200 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/f2295be4d6c61c0f7e84e2889d99145f7c81d86161426d4dee502a3b33cd75abi0.png"
+    }
+  },
+  {
+    "id": "cf126432e7ffbafd7c382439545a5950235170542be90058f06405ebc048772ei0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "325 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/0a228b334f3dc1453fd66afc130ddbab98e3fd7afed6cd383de20e08dfa21408i0.png"
+    }
+  },
+  {
+    "id": "b2416a76cf1f519c4154617af805cd35ed60dab730d88cb7b3962b762b481138i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "73 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/b549210812f134dba88b449e575932ff8737ccdacd9ae2ac61e74cb174d4c8cfi0.png"
+    }
+  },
+  {
+    "id": "619994b6b0640da61a2e21ee26223f5338c75d2c12755a3bb18bd329a266dc13i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "90 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/b022fc6487f5ea5493e728e41e5962affb1a7f5697ec2d08ad1b48405c3a031ei0.png"
+    }
+  },
+  {
+    "id": "3df9efa768a0154b6c8b97d8bb7d1c73f9753c58841603c4e133345c6dc2004fi0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "120 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/736d0315b25531db7e4f17b7692cc2a421c0210940cfffc2c8a3f0907ff276a4i0.png"
+    }
+  },
+  {
+    "id": "bdea79f6839d3f79ccd45a873cb5df553c16a461a6fc7befcaaebdf211155951i0",
+    "meta": {
+      "name": "Hemiobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "480 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/0f5a4a4310618a0e56b19ffd70f773adbd1523f51c49b71f28c6155b8be6c515i0.png"
+    }
+  },
+  {
+    "id": "976ce74cdd400c7ebb6d24511fe9d1d1e4e27c994403f88261621d25f4d8da8bi0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "380 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/58d8a379e7a592aff33333d2edd92294ed0ac6875b9362a70357202e74c73033i0.png"
+    }
+  },
+  {
+    "id": "9a655f76d6208741bf23d6a091e35b2290feee37f71d4a252e4843272d33b174i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "200 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/84b04dca7219743779e6aa0c738e409636af24bf854a6bc8b24ce96b05ad316ai0.png"
+    }
+  },
+  {
+    "id": "6154ad66121f6e32a883622c7d31c2a06f8fb14d820431a9fd8006a2956a1156i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "405 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/d063c20750e05bec061ea1979be75d0c48b329f894d0bad48e21b988b118a6b2i0.png"
+    }
+  },
+  {
+    "id": "c1708bd8fddd457d316eaaf395176e5b8efc4a52191ba30cc15d9500167a0142i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "164 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/d4371b250b073449b5ebf1447310f9fabe4dcdcc134c52a630a9fee66419f4c8i0.png"
+    }
+  },
+  {
+    "id": "295383c5df10b56b2f8bdd06235a3e690bd85be2c0359ea48d9de0ed3a450fe8i0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "530 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/3907824bab277353e5ce1fcee465c3c9f29e1e6b0bfabf1392dd2727d7049c29i0.png"
+    }
+  },
+  {
+    "id": "6b50a27efae675b63eb53975ed9d89e6b68aa80c9c14dc60f561d6759a0225aci0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "270 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/5e15bee22dda257549a0778e6b68f5761a1106f28a3be725fb23b8c5656e18bai0.png"
+    }
+  },
+  {
+    "id": "c1248b4c997aad60c255c909a0a3870a2b174b91cef00bf075ea478855f70428i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/741507200ca47040fd469034cac587c036c585362857a1252fb5dc39caf49880i0.png"
+    }
+  },
+  {
+    "id": "28b2cbbdfc67325215241ae2d2437e167dc032cd756b63ea1c664fed7c1f2abci0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "450 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/44fb5fa907a79b2368162d2ddc8f1a783e4c880fecc53400ece156b323367c58i0.png"
+    }
+  },
+  {
+    "id": "e97d9b828acfb32d52a33f5b5b34259629f9806c92b171c15153bc945f4f9843i0",
+    "meta": {
+      "name": "Tritetartemorion",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "350 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/9d79666de3504df5c97cbd2f2e836df413b74a9b12bb8ded06a386cc42ee71f0i0.png"
+    }
+  },
+  {
+    "id": "aa5a696d74eec302098d690c5709ba0e116f407378a8a828333392fbf7879dcbi0",
+    "meta": {
+      "name": "Hemidrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/8c54fae62cf365effca8e6f914ad70f416764af0fb0604f624a8bb3488217a70i0.png"
+    }
+  },
+  {
+    "id": "beb6dabcdb835bcd3f926d94ad1e1fc407ee8e03491054030cf2f9b59005a04ei0",
+    "meta": {
+      "name": "Hemiobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/be5acdeea689d6e567b41827e5b0123a7557e3762af7dfa7844962af530f2c01i0.png"
+    }
+  },
+  {
+    "id": "742c0f601e3e71fce8c2512e1be4989e3ab2f0a3ae4e0cd5258d0473e91215ebi0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "220 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/067c7658b8738c7844aa1a421f8b9d5b6aff7af4431d4758c77a09abb474f10fi0.png"
+    }
+  },
+  {
+    "id": "821bce87a993cc98c93c90dcfdfd90966f1a21ea2aed36534a6079b2e45d3b6ai0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "365 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/3219b9dc619719e56dcad157e14475afb5d5bd8b2cf838a480514e2cb2f108c9i0.png"
+    }
+  },
+  {
+    "id": "f5b5857d12c57c3a70678b1aabd1b6781775b9af0cd86a31d76bdd3f9a631788i0",
+    "meta": {
+      "name": "Tetrobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "275 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/b7e5c40542ac5024abf05834f93e9f72f4ed7044be364c37e2e28cf5a933ae09i0.png"
+    }
+  },
+  {
+    "id": "b697c221998008e8f21c5a23ffba1e894bd50909e2c3f194c699bab03a1dda92i0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "250 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/aeefee0e2147ca6158ffada48a0476405dd6a0a3b89e653979892afa82c092ffi0.png"
+    }
+  },
+  {
+    "id": "6d3a5b261f457f59027930daac36ca9e5d11b204b32efb0f1848bb7498a96b84i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "357 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/8d0521e3ad466123de6ee1c0247c5f3543af2117a4f41425dd5345ac1770315ai0.png"
+    }
+  },
+  {
+    "id": "2ddfb56b5a9b7eea9d3e50d0289f5289f40740c02a12e405282c835177bd9050i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/08f4f44458df41794b0861108aaac507a61d688c802423f78d02762efbfc735bi0.png"
+    }
+  },
+  {
+    "id": "77b5af3059187890ae279fc45066744fe9de1fcb07590fedc40f20f39b448aefi0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "65 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/c310dd85168705fa3ffd1119288ccd7ade3767fdbec5cc5f0b3bd8f1899b13f7i0.png"
+    }
+  },
+  {
+    "id": "1b29735d42408c6987067f770a39fa859b348e3fd14e5e0d613646b09ded8c5fi0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "188 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/af11ac4cb08d5d8895b90d79842eb7b8699129ac34fecd72c878c7dad98654c6i0.png"
+    }
+  },
+  {
+    "id": "4bbed1a43ff29db00d5ff6fe64d4a685307b1ccf8ad6f99e9862063683647d3ci0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "300 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/1f5d5b41ef0b90a82a36a9b48bbad13da699b796276f0a8682038f9ff683f33ei0.png"
+    }
+  },
+  {
+    "id": "65f3da2ab44c110f96d24cfece4f51377506326b949c66256c19f12e9c8beee4i0",
+    "meta": {
+      "name": "Didrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "250 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/52c5d72a9fd207c091685640b66c23c0619a3d89e7b9a3613cc17d170ee512bci0.png"
+    }
+  },
+  {
+    "id": "1a715b89383c671fb197bfa1e989a1503bb1d5179284c6cb9cb2f179b7b94373i0",
+    "meta": {
+      "name": "Hemidrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "380 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/e593c433551f16a6237a83ad991e8f967dd893e307f4fc783f9751643b47a2c9i0.png"
+    }
+  },
+  {
+    "id": "cfd3bb0d895434c9fc6251b339722dcc7b1c68f860c6b229539a338cb1b44760i0",
+    "meta": {
+      "name": "Aureus",
+      "attributes": [
+        {
+          "value": "Gold",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "64 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/9a886e056d185a0d17dab4660c6bc20675cca966fd38725e3e44d7bdaed5890fi0.png"
+    }
+  },
+  {
+    "id": "c8fa6d45487878270dc953133df698ef79ceebb3fe3dbee232fcb42cbff1527ei0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Gold",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "330 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/c7812d7b2b9c2d0b327324cc9d7a4cc9939aed0abc6c0de29adb094577bdc92ci0.png"
+    }
+  },
+  {
+    "id": "03c05b5e773929a8e1b5a6f674b2ae09251c14e5b3467a43ca664c0066981fcfi0",
+    "meta": {
+      "name": "Litra",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "510 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/93e3b450dfacd8bd1fbd3e8e71d71f044b4f4cca67751f660ca157403e8b760ci0.png"
+    }
+  },
+  {
+    "id": "a699a206850fbde5b5802f8cccd8b106f5ac58107996bb17301e5f320c21e8fbi0",
+    "meta": {
+      "name": "Siglos",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "500 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/a44b353a08e00b32231258557f69752271e56b27b26b4c42b38171cb636cd305i0.png"
+    }
+  },
+  {
+    "id": "ce9042aee1e86679c1e8f667941a4a6e01f0bedbee34861d94ec687c48194319i0",
+    "meta": {
+      "name": "Diobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "530 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/741ecf023fc4a9b32ddcac76712b95752d590282fa5376da115bba7eb8e3b675i0.png"
+    }
+  },
+  {
+    "id": "6a230d2436d0c978caf4a3d4f2ac10886f6939d24b71acdb1f1e85df357fa29fi0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Electrum",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "475 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/f741e0bfc965403d3c6c0aa3011d6af4909e7cbea22fec641b817e601188141bi0.png"
+    }
+  },
+  {
+    "id": "81aa30ca9bea806f52339b0204bb1a69fedc716eea4d87394510c4879653642bi0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "500 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/b79ad8e0f5cf4df3adbbf1174b240c59f055173f0c88e514c58b6daadb1714c5i0.png"
+    }
+  },
+  {
+    "id": "565e35bbb869890afc561a7b38688a0f606aa53aa186a964d9ec444b3953ad4ei0",
+    "meta": {
+      "name": "Tetradracma",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "366 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/560b79864acbc28ab6d7929435ec25037242a6b803f4e4857bfd98af86e19dcei0.png"
+    }
+  },
+  {
+    "id": "445d5edcb0034874f6f281bc85afde05fa21b048742a03db0bba295c3ed610b2i0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Gold",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "387 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/b0ac8cdd4a4a60a22b5653a1289a5978ce419dc102262c4fd0976248ae23df64i0.png"
+    }
+  },
+  {
+    "id": "eb570505169cc73e2a957d0291dac1d4185dc659fe9880ffa856f6202fc45591i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "430 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/81194294483c1717b7db89c1facca212453c74e6a7f3dc9921098c00a8b58a00i0.png"
+    }
+  },
+  {
+    "id": "102d000bf2c7ce6ecf76be8fa6192b92238d7d178a73f72dc521af8c7afefb2di0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "350 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/41dafdaa81705eceea05be87c40feae5f7e149c9f7e6d52a9423754ebd4babfbi0.png"
+    }
+  },
+  {
+    "id": "c89abd24341993e840a04e80fa1e8ce761ced8d03fb60588e9b26d81875a6711i0",
+    "meta": {
+      "name": "Hemiobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "150 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/8b1e5425ffc2f674fdf6000e559172a0ac57eade58442068bc1dddb51dc289aai0.png"
+    }
+  },
+  {
+    "id": "16fb7d12371be642938fc9f9fcbe6d5a6f6e526339286a50b6400c9d0a63f08bi0",
+    "meta": {
+      "name": "Trihemiobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "350 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/971246cf3de82d3a42aaa115720956fa4d7d34ae3876ebef11d7d6e02f2cc16di0.png"
+    }
+  },
+  {
+    "id": "088be87f82c7a0e6e06bd3b8b1b1afe73d74205c0308498681d255e3aa7b261bi0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "410 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/3b953a485333827e577f40305350245cb949a0dbffb987f1dcc4de0bde2208e6i0.png"
+    }
+  },
+  {
+    "id": "adadb505b8e9e48395ce6001db60e5b4eee9a8d5bd33f466ab7e421a620c860di0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "343 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/b5e0b25aace81ab463b4b8217437226c23b81acd4f9afa330f8ad6049dbdc94ei0.png"
+    }
+  },
+  {
+    "id": "319d726e3fad6e7c682cde1cb833c43b92c0ba406d9e7ecdf514678b7aaa1cd1i0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Gold",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "410 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/45fd59831aeaab1d0875e089bdd262e3f1eb1e96860e3b0ba97c0b8c514e5b73i0.png"
+    }
+  },
+  {
+    "id": "4a25153a2d52a26c8fe8cf6c02c76a9b06ea76c07123dfee3fd1164747783499i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "200 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/1c409f325da0342916a4f15a120939e15ab5592791403ac85517183bca7595bbi0.png"
+    }
+  },
+  {
+    "id": "c4f6582818e3bb07db0fb57839cb22dc0960bdad43ce0e8f1b357db03776b52bi0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Gold",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "380 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/e2390894e07c0152985e8ceed744878e790e597d88ada961de29ac37c75aa801i0.png"
+    }
+  },
+  {
+    "id": "df878dffe4d04b8e7c3cf458cd470686e3346115707b6e2409aa8d680c00dc45i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "220 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/25a8d42d7adfb5bc56a9b59d9f8ea1e0ff0f0b298d36d6cce9d3f3a5df3c8871i0.png"
+    }
+  },
+  {
+    "id": "9c9b4debe09e024aca1e07db938f51beb67bcb221e6d032ee0a01dcb9180b273i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "500 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/6ed2c55b3ab40681e83a0ad50a428d5e0dfc35a8ce5487372f92e3667932c407i0.png"
+    }
+  },
+  {
+    "id": "74095bd4453f60d322c2aa7960e95764089192f6fe5fe1daa8fe5e8b12992e0fi0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/bf1118049c37c15c11b86780b6dda7dac02edde4d10c3833821a344d9cd11fd0i0.png"
+    }
+  },
+  {
+    "id": "013976907755813d6888070ea980a993f073b32a036e857eae8ec9027e9a54cci0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "220 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/9ab8104269d1348dc890dc94579f2ad149c32f81d4c9eadf167998f4a02e995di0.png"
+    }
+  },
+  {
+    "id": "29598117693075a9a986dd48546dc9e0a85fb9b3adffa7cbbb0d89c0e13cca85i0",
+    "meta": {
+      "name": "Hemiobol",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "215 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/1a77d10ca36af2a965a60587afb58b34f66440935f5cdcd360ae918e27f5bda5i0.png"
+    }
+  },
+  {
+    "id": "a1deea2d213ca0f07a1f3be78798e93a20720d6d6d1eea29f8a0fe2a5d2f0411i0",
+    "meta": {
+      "name": "Litra",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "450 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/0ccdc8f3604d43f197a27ea92e780fecca73833d42e5a9268ca598628e6b5a43i0.png"
+    }
+  },
+  {
+    "id": "667a5a77e0d0657017a07f7a5688921c14bb156ae343431549fba69d0592497fi0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "230 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/254962fad486f64b1c5731b11d1b4c32912c9915d002649c3d574e5f3f2cb5b2i0.png"
+    }
+  },
+  {
+    "id": "cbc1ea2608634fb08090a31e3e7954f099638e90d3b05e7718bc9372d0ea2923i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "270 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/1d8b99aa4a52b3390ac913c20365e91552b57aad93dcbef31a3c4e372a6aed06i0.png"
+    }
+  },
+  {
+    "id": "9fc7403668bd30d4e8b288651caa0e96d525dd953f8e54d18545b4151f4dabd9i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "480 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/0970bd1164908cc940447251282403717dc2ba5bc155147069b6558758a7f77fi0.png"
+    }
+  },
+  {
+    "id": "46ff1c671e4376591734ddbe77d35282eaeb7a36ca18e5fa7dbd8edb96399817i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/304f7b831d7d13452bf8a62e9939a2273e961b7626698a1818a0cc9908fcf561i0.png"
+    }
+  },
+  {
+    "id": "aaa91ca63ada0e73a305be5449cded5d7910ddcdc90066b54d8c7b5685dc270ai0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "260 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/def18aa1b78ae82489f55521fb00de94b2b1660411f5a243772bff7ff88a391ei0.png"
+    }
+  },
+  {
+    "id": "e152fa3ce1ef334ec632cd652473df775f4453f1889fd312a1fdc623fbdf0d03i0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Gold",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "250 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/169cb1a6f11776e9af81f1a48ce6c1f542a49388dfd4920c82105a2089404313i0.png"
+    }
+  },
+  {
+    "id": "937f2fcb90a5d1fbb6666e9e149c1baac249d6870c25f7b55f8f6b53b5d52bc5i0",
+    "meta": {
+      "name": "Didrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/14e054548cbf5d74a2232fbd2f26269d05ef37a9af461bcec3970add29a7ce27i0.png"
+    }
+  },
+  {
+    "id": "0a7925fb43a8002fd97a07caedf51f1c0db20b045712de032c050c8ea049cc54i0",
+    "meta": {
+      "name": "Hekte",
+      "attributes": [
+        {
+          "value": "Electrum",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "600 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/35b5633c5b6dc8210af6b5c8dd90c9688014b8acea35064aea848e6e484a2170i0.png"
+    }
+  },
+  {
+    "id": "dd28bcce57cf8f70a138b390700a7416db9eb951554a9cf257cfc0f57f79ffbdi0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "250 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/3eeec5377b0bccac8ab1f3b29d2b75684c264db27b6416c6a71cb517b0fdde96i0.png"
+    }
+  },
+  {
+    "id": "80e124b2fcbe799c051deb1305bb74eed9d2f5e40a25655c63ecfeadce7e61b3i0",
+    "meta": {
+      "name": "Myshemihekte",
+      "attributes": [
+        {
+          "value": "Electrum",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "550 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/f066167dd3d68249171ac7f9d7f48e00e11ba8d59caf8047bdb5119544b43ab7i0.png"
+    }
+  },
+  {
+    "id": "1128812a31890ad82eaaeb23dcb83630776842bd2f645d364e5c5ec6a937782bi0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "200 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/c1c0a1f5dd3b32fb0ad95b4a2ccd650d8aef36a68df01caed1cd5ab59abb05c3i0.png"
+    }
+  },
+  {
+    "id": "37ab9b14290f4c4c9c3b32a8895577e2b2285a19d7626dbfa1a501178e3d2a11i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "260 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/311395b2e1da8334329d908f6cf2b70a200694c6d5d7b4bb615f08930f3eb3d3i0.png"
+    }
+  },
+  {
+    "id": "1e1d4fbb0f2130b3deb10ad594e26075a98384ce78c5e62808201df29731eefci0",
+    "meta": {
+      "name": "Tetrobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "120 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/50cf5f7c739a62c7c3652342e28a617f5b48f33298f6cfb1b632b7cb3a11887di0.png"
+    }
+  },
+  {
+    "id": "68dd6d72ab0d792059ed959c44e0649bf30844b77e348947f28d1a137bbead31i0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Gold",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "150 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/f41e7b262380c5e84413d4aa06ee8a83d6d161d12dc0cb041a09e6a7bb94eaa6i0.png"
+    }
+  },
+  {
+    "id": "e346b91e6ae0113845a7b5c8d825a59e1f747dfaac41627d7d90674338478500i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "150 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/5d923faf5bd0ec04db734edb01f4ad9249a5bcecf0f00fc76d153af8309377d9i0.png"
+    }
+  },
+  {
+    "id": "674cdbc97c1abb8edbf6c76f837b91eb4a59d6f922499c1344b91b2fe2203068i0",
+    "meta": {
+      "name": "Drachmr",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "190 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/0f93eb8aea0db87a5243ebdc8da6b9b90e7339ca56b18e1ed8033dfe6bdd0947i0.png"
+    }
+  },
+  {
+    "id": "8c7270e565bb4f556f49a136ff6fbe44f22b4a578c7aed3b09f313194dc5a6f4i0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Gold",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "210 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/07d070f039ed97740aae3b25c24a51b9b4cd86d1511ea08cf69b187d3a04f0a2i0.png"
+    }
+  },
+  {
+    "id": "fbef1acd0cbfa48fa05946088d53589da9388b550933dab4856dd0eac7388a4di0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "250 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/1eb7b503a0f4ed9982e76c628ff7088689fd238300bf665916a1f82965fd5ff6i0.png"
+    }
+  },
+  {
+    "id": "bcc59a23de88ab49b2fa8902026cbf4f98edf7f2c088ea64674a4965fbc6891bi0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "160 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/81270988e45a11cda47de5e9f5518a49fa2a5bb5ab3e1403af966904477c410ai0.png"
+    }
+  },
+  {
+    "id": "84d663a0b4b65eeca4ffb3b4393c06d3dafb70c572792d574946ee178148ac28i0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Gold",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "50 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/8203a5caa128b43a2ab2c0068aeec74f6ce9a348884726916c8565321eb9ae59i0.png"
+    }
+  },
+  {
+    "id": "8bb655aa356f3e28c7b26258c900bf563b916f83e7b8313071b6652b59d7c576i0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Gold",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "430 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/78f845d65c006f8516f70749630a151530913fd8847aedc5c3cc2d0735039ac6i0.png"
+    }
+  },
+  {
+    "id": "2ad8949c12cf83d0ee7f3c4b32f1e53a10d04411c5f7c5dcc7fa3e497001c933i0",
+    "meta": {
+      "name": "Hemiobol",
+      "attributes": [
+        {
+          "value": "Gold",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "470 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/93693595a7ff37599511c38bad057b80ddc6d148117eb82fad7472f024c8e4aci0.png"
+    }
+  },
+  {
+    "id": "278a3c050d56943706abc09e087bcd5ff4d2faeac63307fe0724aa1ec4719234i0",
+    "meta": {
+      "name": "Kerykeion",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "50 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/5bbdfd0ba5c89d229ee1d121e01f9b8d0c11f98eedc285d5510f9aa820db1601i0.png"
+    }
+  },
+  {
+    "id": "1d8edc0737db3cd484a8b4789e0ecae8374e7ef745897a8fbeea16335e5c111di0",
+    "meta": {
+      "name": "Amyntas",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "50 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/ec1e8a2e59cf03a6bb1b738dcd397a5b7d6bbd737d2cec1bd9f68ce83cf5629di0.png"
+    }
+  },
+  {
+    "id": "b32f5692b7fa448a489bc92b8777cafe068f48e15e5f5e00f9a15376f2828be5i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "200 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/ef805eec78f7671e1d046b5c5ecac2537b44ff7f80fb4a27c1890808ff767d4ai0.png"
+    }
+  },
+  {
+    "id": "a2eb6d218b8ea5c9cc158daaf54436e28ebcf7341be7070f72e6e73a4822200fi0",
+    "meta": {
+      "name": "Hekte",
+      "attributes": [
+        {
+          "value": "Electrum",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "600 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/0e11bde1100ce3d36bb93baf7b2b92a0d40fe1690b0d712419c193a479e9c2c6i0.png"
+    }
+  },
+  {
+    "id": "707f4db3fff3503b65518ddf2e7f83a037ff23c57cd59d82b2a62d0f8b600c49i0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Gold",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "499 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/116465963effdb05c4beb204f855d89ad051d214ec4c446e9eedee5bfd5cca04i0.png"
+    }
+  },
+  {
+    "id": "c87589b8e27c5ae5de53543b1942a5b61edb82918dab26b438761ba7077c1579i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "200 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/b5204b7784afdaa130e04d9529587b2523f81455ecb6a4abfc8f746f4c172e0ei0.png"
+    }
+  },
+  {
+    "id": "248baead8a36e6bbfe47a4a87810fb1421d8f726ddeb582e94b91f64dbaa015ci0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "500 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/70d8b4d8c684088101d0688a8745d9138e9d3168efaf561c7fec99ea876d9b1bi0.png"
+    }
+  },
+  {
+    "id": "79b54a3b0017a9479d8af44840733751f76481086e875851144e36618ea89173i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "200 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/4d321397fa7dc207eb90531f34dd4116b41b19e4a9a743a19dca1734344e9979i0.png"
+    }
+  },
+  {
+    "id": "d2308dc2ab65fef39d6aef6e794d1858e15ec42dec534c50b95276c0bf0f8190i0",
+    "meta": {
+      "name": "Dichalkon",
+      "attributes": [
+        {
+          "value": "Copper",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/0848cef3f0cd9a64a1e2fb0fe2c3690396888fb72adfa347dfec88beb9621d1di0.png"
+    }
+  },
+  {
+    "id": "5b34e0c909afe2c2124716f81d1983418d181a7f0a335b23a1187e6b6f05bcd8i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "200 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/45768e342cd916c53bd95f6bb2897720123267caa129d4a9803a1b0417d2af0bi0.png"
+    }
+  },
+  {
+    "id": "5f8adec60b0744dfa834f0cb0eda879bd5268dc7a95102ef9f570ad543237831i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "130 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/81d842bcf281b2114e3f188d109e810c7e3a9e402d96c4b446752daaada4bb68i0.png"
+    }
+  },
+  {
+    "id": "26e0307cf5ec841f101162a115f4daddb20797a93878eb9faea3272512cc5cb2i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/6bfd8185c8e44a98db6b2729b895e80a30636fc1579a9fee0bf241161a33e01ei0.png"
+    }
+  },
+  {
+    "id": "b79de94482bae6cd1ba51c83102e958184af0bb00c3c24e62de048908383a997i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "120 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/7927952383689531246f757cd0535eacd305a8ba4f5f727d83153c08063618b5i0.png"
+    }
+  },
+  {
+    "id": "ba52b6adc3126adb1b5d473a4923ba43c7bef4b479690f18334e2160e59626a7i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "209 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/e01b38dc69e079b33d290a970ee7e9fa13cd81adab59f5159a4a23743670ad8di0.png"
+    }
+  },
+  {
+    "id": "758563554d9b8f388a6d7b34e29aa5381dad83f32122eff315dfedd58cecf170i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "290 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/478477b3fe24998c93f38d77be7ab232610b3c3ccf769c60e3e8da74f331fa42i0.png"
+    }
+  },
+  {
+    "id": "86697eedde6684ccbfb991d6b661079b5797b7ee473525d6f463db188916bef6i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "300 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/7dfd772356d257a86806739c4090b1f986fa7da6aab63a8dab3e20b2f59d51c0i0.png"
+    }
+  },
+  {
+    "id": "a161c74f966b6e93fe6e73a12c17990eb80eb3101f19f0015a9142c7d71a7663i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/8520246db6036384e5c20a0b1d56ebcbf8370d0795947eda1b61d1e9ae2165cai0.png"
+    }
+  },
+  {
+    "id": "c3f30d559b801d51f1f1c55f600ea89d90c62815a86079cb7bf598da58e3eb6fi0",
+    "meta": {
+      "name": "Tritartemorion",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "480 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/839a2eb0c4bc1c6c667470c5fc40e52692e121bb58a045a3ef8d26cbd1f60372i0.png"
+    }
+  },
+  {
+    "id": "d1bb8fd7ded7e71cc680c661fc9637de4485959f42fe0712dca281115a307eaei0",
+    "meta": {
+      "name": "Tritartemorion",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "474 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/630c453fa08c3cfaa75fc59fb15727099d4cd23728732aea68f644a44da4bad7i0.png"
+    }
+  },
+  {
+    "id": "556d63498c3ec82300e248eb195fba70cde32915fabd64ed63ed67f2cfe2c7cdi0",
+    "meta": {
+      "name": "Chalkon",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "190 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/7b97f06a86fe0573ad97a9a50cc1bc9cb22852f5d95fbfd14ef722c519b6a476i0.png"
+    }
+  },
+  {
+    "id": "e37e6fa6a6d72d6bde7c73cc1f257196368b892a47228753beb8966a5b5d15e9i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/abefa3856c4fb46ded29fe9ffdd1bce7cef8114720b37aec2607cdfb2b63077bi0.png"
+    }
+  },
+  {
+    "id": "ec7f45256a193760097bbd9284458329d95ee54cdec5576d3e3fb94ac09e84a5i0",
+    "meta": {
+      "name": "Dichalkon",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "300 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/fe231a56721d5ea81cad71c9bd6043b08673b1224f27c2d3c918b87764cc4204i0.png"
+    }
+  },
+  {
+    "id": "85a5bfa2c1031398464377742f2fc89e2d271b89fe0a50022dd49e1b99421b7ci0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "350 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/6d164390dae6693c56134a64189ecd55d77e6c5b53f29412a7063a78083e32c9i0.png"
+    }
+  },
+  {
+    "id": "8e2b7b6d1220601e8d5241924441c7816ede6f29c06c7e894b27b986a376a352i0",
+    "meta": {
+      "name": "Hemiobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "300 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/88d2f46af186f19d97c1f1122a402b90bf39551dc4f7e00a3f56baedd1159ff2i0.png"
+    }
+  },
+  {
+    "id": "0155c8b4b0f62581350b81fb38c45f6320b89f883c5570e9df932cc3a771e8d1i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "330 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/05b69af1f8d7425f22dc6358b62ce99a73d8c2551a8ca7fa690f4777f3e40adbi0.png"
+    }
+  },
+  {
+    "id": "e7245807e1ec4ea4a88c30301956190206bb5cb373299d710a62ed3c5af55351i0",
+    "meta": {
+      "name": "Hemiobol",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "150 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/18e2ea80591c0276a366ff16d77980461836846e9809b9e93b759860b7cd0085i0.png"
+    }
+  },
+  {
+    "id": "56a71b744fdcfcaf50911b050ee556d2b4f9d20b135eb5dec03e844e5aae5489i0",
+    "meta": {
+      "name": "Hemiobol",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/d49ae35e5b060daf7e4c8c47831a6b2ddc2cba31979ba3ffc9b0106685941e21i0.png"
+    }
+  },
+  {
+    "id": "540ec072661b3ba5f54a2c97c14174deac0199e3a9978804cdc848fac67f29f9i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/fdaf593bc36b9beebe6f990a71c50ec28ce0f83a01a943c9af0a2a151e11a962i0.png"
+    }
+  },
+  {
+    "id": "a4b094ceb494d11ad6154420a0a207d523e9233c26493d20e83eb4c25f1de22ai0",
+    "meta": {
+      "name": "Uncia",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "215 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/003d8e148b8e0b71f991baa908b84f47dadbffb2a124249567722b8c63fa962ci0.png"
+    }
+  },
+  {
+    "id": "09aa9990f75cd22d0d7e4ec1d39f8d9afb8ff07c25cb25d70050fcd9366a59c8i0",
+    "meta": {
+      "name": "Chalkon",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "340 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/10802d7ce9b3055e9d19c593883fd88aa186c9f327ecaccacd63fc28cfc2cac5i0.png"
+    }
+  },
+  {
+    "id": "9809723666fc9ba07d96553b9a3189c9ae7fe2be760dab237f323e9682aeac7ei0",
+    "meta": {
+      "name": "Tetrobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "190 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/877f54f7ce37ad5da813b35e383f1810e959b7267c78a3074774504dd6965224i0.png"
+    }
+  },
+  {
+    "id": "da75047428166f78ea758449919965c4ab37da5d397a45f93ac6e0dc462426dfi0",
+    "meta": {
+      "name": "Hemiobol",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "130 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/01207a9f1a5797d5bf81a323403db2da9d20184dd03f3d9e44c7f98aae7384cai0.png"
+    }
+  },
+  {
+    "id": "276021ab0fe589245eeb2d6f8aa34bcd58cbcce6c9282b016955c7ed1324def8i0",
+    "meta": {
+      "name": "Hemiobol",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "120 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/cd9bde769fb35606c82114bf96cb7c4654d3ef052d2d1b905303c31c58553e6ci0.png"
+    }
+  },
+  {
+    "id": "95d3336eff714a7d14fb4c602c85988bdc1215b862f2f8db7b548a2d4d4618e1i0",
+    "meta": {
+      "name": "Tetradrachm ",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/494f6408a055073c6d355f48c9d9a8f0e7ddd679cd8237c6186e63665f05f55di0.png"
+    }
+  },
+  {
+    "id": "8825281f983ba8aa47ca61f09b64371d115d19c97cc25012c2603aeb44b745eei0",
+    "meta": {
+      "name": "Tetartemorion",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/588b5d1dc1efda7ae5872f678b3785c5b60cda2e40d74964842e0f855fa0d7cci0.png"
+    }
+  },
+  {
+    "id": "a9c7902c8decdc899364148829e0a8f1185dda0053bc0f8fb65a4484aa084b2ci0",
+    "meta": {
+      "name": "Tritartemorion",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "470 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/494ba0c18739415d61d33516eb403b86cc9e669707bc224d1831962b9c128438i0.png"
+    }
+  },
+  {
+    "id": "323b630109ee8d76d1a6fe1db4bf780116467cedfb28c3a136133511a92620e5i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/c8e6de9619e9b130b1e3317f3682ea9b199f6abf930937ff7b7a0ad00034510di0.png"
+    }
+  },
+  {
+    "id": "2438a6a02cb519a3d28fa3541450f024ccbfd2857e572a98df8033ad53850535i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "600 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/73cad9933fb191a748342e559ce19041ba49d1102bab5547ffd232699d6167c5i0.png"
+    }
+  },
+  {
+    "id": "fc31f8a507dc21082451147ff7fcd83703cb8c95392aeace4e68468a2f1ee895i0",
+    "meta": {
+      "name": "Tetrachalkon",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "120 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/edb75c37300a41739eccc3f337ebb554e5e989bde0da0d2ebe40a0246a92a7b2i0.png"
+    }
+  },
+  {
+    "id": "2dd4e853b171e8ba141ea1e8378cebac617e943c0a964bd696e1b219b22ddcd9i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "300 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/4359132a63c2db7568256101c6960ef108de2b239ab4cde8663ddab3f2d19c73i0.png"
+    }
+  },
+  {
+    "id": "47d8fe33fe7af891388794464c008a1d580326366bbf8c9ac87cc34e8ab2b06fi0",
+    "meta": {
+      "name": "Hemichalkon",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "300 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/597d5c52243d29dd2d3be3d2e24ecf3af844a47d6de7609f8d7af32392de14e8i0.png"
+    }
+  },
+  {
+    "id": "b38b0efa933cca1493c26a30b00891ba2067b8dd3144b1efdb55830f22001303i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "390 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/2efa5bae8915c51acc15210fefd77786ca2d8b5126344e2bdae17cafd6a7a4c5i0.png"
+    }
+  },
+  {
+    "id": "03bd989cc12702d82a6d2529395917201e5217003fe8fce0bdc4e698a680a63bi0",
+    "meta": {
+      "name": "Phocaean",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "300 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/235af3fb4d3801784af5907815f875f839833355468a77958a6e4d78afb635c8i0.png"
+    }
+  },
+  {
+    "id": "862aeb54142ccec11c8ab74f424cee666b58b8ac5c0bdf2f69660ee01c5adeeei0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "135 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/332ea4b151bc5ddbbebb7177af84e89468c9b3eef4abf81eaf2a220c20eeaad4i0.png"
+    }
+  },
+  {
+    "id": "cd3aff727cf1b55af656036f379a0088fe51a7235e49d700e03feb3a36307b7ci0",
+    "meta": {
+      "name": "Hemiobol",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/3077ec4b6c2a710c97ed5a81cac82290df56fa716b7b9a5a6482022233c68d30i0.png"
+    }
+  },
+  {
+    "id": "8adc94a6f6232dd2410baef924928fe78d985adbfd7d49d5df4ce529ac30e997i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "450 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/025c3a17b7b8eee3eb5f5b465a2ed9e052f23564f06fa7c1c6c029a90d242e36i0.png"
+    }
+  },
+  {
+    "id": "3b5c08f41a2734375482cfb88a39d42da0e530ca69e4a349d587d83cc9a074f6i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "470 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/026b474b62083e63520109da338ae9db0bfd4d3e07e5722d4d4f52877ffff2b3i0.png"
+    }
+  },
+  {
+    "id": "7155602b8c5f109be1af7e022127d802b8b21c905a53433f74db3f7ae5cc3c22i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "410 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/79df8dde96b7820b3242d71cf1cbc055357e2d618bc64a7ab641d0a62b32b71ci0.png"
+    }
+  },
+  {
+    "id": "6c97e9f76706d088186a501de237f0ed7bd2d3b3f394bf77f2bab296f718a85ci0",
+    "meta": {
+      "name": "Litra ",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "450 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/9baf0429726493a9f0caaff985a5148184acfa805bfd937edc616cd90f210f81i0.png"
+    }
+  },
+  {
+    "id": "6f9dcb8c2c303142e3f2f017f8a5fca655bee12fd49a04e07a17d663ea508cb2i0",
+    "meta": {
+      "name": "Litra",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "475 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/50ee11c2583456fbc1e8b04b32e8e4652507321d62503a777bf8523987aa1498i0.png"
+    }
+  },
+  {
+    "id": "95ce76a5b3de2050f0ce3fbbcff7b9ab751c2f9bb498c88eb0b93cca0273d0a4i0",
+    "meta": {
+      "name": "Dichalkon",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "300 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/a9a087e47955ddd6a5a751fadaf05b329dddedae36a41656e8dc6128a7bc070ci0.png"
+    }
+  },
+  {
+    "id": "0546014c17829d68392c7d7156c53e1d6112a92c9e75d59dd4e41f276ed7c291i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "50 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/9fc4f03781a558b04a62dc9faf89cc0e6e21327f57a6419e6576b0d7aba11f24i0.png"
+    }
+  },
+  {
+    "id": "8176f15d92e15cca7996ab4617da6dc38c07ff571e0fa6141a4922b9e86be1c3i0",
+    "meta": {
+      "name": "Tetrobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "485 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/9cde50c20843a88a232bec47f9c83e4be322f8987e6994fb9cc41d276880d211i0.png"
+    }
+  },
+  {
+    "id": "1fa9f12cc0b399cc22029ba0027dd835b647c4254811b1ade2df265a40fafcc7i0",
+    "meta": {
+      "name": "Diobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "150 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/836a09a4d04d90f922c8b2f0278c01583169b611e753b6a7df4ddcfe97272acbi0.png"
+    }
+  },
+  {
+    "id": "c8211d1dc37a333d75f4ddd59b2e172ad1a6b11294fb8e5a67f28bcb88e68ff1i0",
+    "meta": {
+      "name": "Tetrobol ",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "150 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/687a109b5a27f9c40cbb0af616d647d46a7c68b66a4080660d04a755287f6a99i0.png"
+    }
+  },
+  {
+    "id": "8c05193376cd3ee46bba831aa65bf4e9fe5df589e52c47f5c1a2428a5b9af55bi0",
+    "meta": {
+      "name": "Tetrobol ",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "120 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/91e878eff0a58e3496cada0c91f84a0ee0e1f2998ee38f0073831874ae6c5b02i0.png"
+    }
+  },
+  {
+    "id": "4e1504b80dc1a11b5d3feb76d964fdd5081319af4b5eac3c7cd972d6b999057di0",
+    "meta": {
+      "name": "Tetrobol ",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "140 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/2e6b69fb4a4f7d4328dd439fd207d11e9e6f7de726c43ad765ee8a2ced17466ei0.png"
+    }
+  },
+  {
+    "id": "f61103d28e9d7e3dd45e308df3e51dc04aa74c0dceaaaa6b157dd34e52c5b1dai0",
+    "meta": {
+      "name": "Tetrobol ",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "120 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/e3031b40b643e37c21d3b7f62847e655bc691d8b34b2d1db4ce70c2a7278eb78i0.png"
+    }
+  },
+  {
+    "id": "270798a73b7c38fd17deab71a487976d280688c634f2de01cd207a89cafccaeai0",
+    "meta": {
+      "name": "Tetrobol ",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "121 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/20623edc4df8e8c9bea97c59e42c7156aaa822faf01f9b4af9c6fcbf94e3ee4ai0.png"
+    }
+  },
+  {
+    "id": "ab667037af0c02ee1cba569f3c9227bbbe8c4ff81b9c39b391f05e0fe65471e9i0",
+    "meta": {
+      "name": "Tridrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "475 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/4f3bf98ba18dd1231115a5c96b892f13556606e7ea9d88e1338ffc10d74baa20i0.png"
+    }
+  },
+  {
+    "id": "72bef5983053b27dda1654ccc2e0633b52e55f468704a5a40dac398e367a2c35i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "280 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/7617c95c2756b7ecf38401e89049c1dd7443749fa6e77485a4602d4b925ec145i0.png"
+    }
+  },
+  {
+    "id": "9407dafe8584252b54bc090e216a7082db4cfb79f637b452f7b9c9f10c24d5edi0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "350 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/90fa07ae0284d4906eecf83c7d7613b3ee84b4b6be12e947119419ada20e2a9ei0.png"
+    }
+  },
+  {
+    "id": "449f36e7ff6902023e60b0e9b5c68629b31b7e94ad887f0a07ff4132d18198f5i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "300 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/9468c1b73f3f5137a659be3d7470171e4ad429ec86251e94b7cf0a793707f872i0.png"
+    }
+  },
+  {
+    "id": "2440e04dabac012cb6919ca219abb7a06e08eb168bcb107c133e344a30b13e33i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/9468c1b73f3f5137a659be3d7470171e4ad429ec86251e94b7cf0a793707f872i0.png"
+    }
+  },
+  {
+    "id": "9f4122f81fdbb538ffe6117111fdb2e4754c7388d81a04cae25642ba27282f86i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "200 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/b02ae986c200878798cf5fc6924de7bd5d211f091419aeb7ce57a5020f386c46i0.png"
+    }
+  },
+  {
+    "id": "b23d9f5572ea16767e2ec6e0ea3cd001d4c08732946070a65fcee69c114b0b51i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/fb29851505a4c9c728a3915329451281edc30172686bfb4f362ad5bbbe2cac7ai0.png"
+    }
+  },
+  {
+    "id": "4a6a4124f746d929c5c5c9810ca778538afa6debfe1f59a4c8635b3827a141bfi0",
+    "meta": {
+      "name": "Tetrobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "120 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/0817d89f880b2f029c97a970f77686bb06ce4d6b7c4fd8f3236a23cfc2f4ee54i0.png"
+    }
+  },
+  {
+    "id": "9b31d62f346c5fb8a9a026718a56a95281454ff4b2000ec8e5a101218d854814i0",
+    "meta": {
+      "name": "Tetrobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "130 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/5f906b80900cdccddc11b9a5a44781bcd67556b4262eb48829e8f3df9774f699i0.png"
+    }
+  },
+  {
+    "id": "bb6d7f242a46e7745c34f2271206352f5cc0a0067d541daf0b70835986dd54abi0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/5fac3e451e3e4091f4caa2ba68991aa9b97304d4af53d9ac474766f573f0a73ai0.png"
+    }
+  },
+  {
+    "id": "306893519d5178b52eda504febb5ec46cf8e6dc8ba34e0e6466dfda93c58bff4i0",
+    "meta": {
+      "name": "Bull",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "220 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/356e5aa01d4fbf0d9dfefc81292577f897108336c3b4ae6ad5100a92f8b925e5i0.png"
+    }
+  },
+  {
+    "id": "3d483041f4666377d9b600e17d5b8999c723e21b8d6c63c25b2439d533895fb7i0",
+    "meta": {
+      "name": "Petit ",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "50 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/677d562b3a8538b20bffa0127fbbf7a7e70e75797105ae6d15a18ca6beb71dc4i0.png"
+    }
+  },
+  {
+    "id": "c1cf93d416b9d3db611539dd6679a28dd9347bebfd215e3f21c2c912caa5b36bi0",
+    "meta": {
+      "name": "Hemiobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "300 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/11989119c66baf5622985669f125b67eedf603deabb243a4e2a44d1bf24999e5i0.png"
+    }
+  },
+  {
+    "id": "61eff2faaa09053fe24b73279b6c43508c3182d3dd0f65c6ab6278d9a2d1b108i0",
+    "meta": {
+      "name": "Dichalkon",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/7d7ac19dca1e9bec7b73d8caca7152a8fdf53c7d59d2ff960507f17f656e7eb1i0.png"
+    }
+  },
+  {
+    "id": "78669f7b10dbce54dcf6edefe6b1b7048269753a51fbf6b3aefa4649b794a26bi0",
+    "meta": {
+      "name": "Cast",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "437 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/09f835ed454fef459886de76877f56eeef4b4ce3bed46db9f0b8c63bfe64bbe7i0.png"
+    }
+  },
+  {
+    "id": "3ce7d9861f9dbc55f899e818392eae7d3acce564afc654874833201b3444c9dfi0",
+    "meta": {
+      "name": "Hemidrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "350 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/29443bef4dbfef14e3428d34509df5ac410233a3cb7402142b74003f8007b845i0.png"
+    }
+  },
+  {
+    "id": "842af74216cc96822c6e5f4cc3464fda6cae277e7f4fdaaf0535267ad6c42833i0",
+    "meta": {
+      "name": "Chalkon",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "330 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/2524f69a55493828397f501e950456d1a4e92a49af32fc49832e91b2f09cb00ai0.png"
+    }
+  },
+  {
+    "id": "0a13c75ffc3853a996ce448242350e0bb973e74a1c29a2c08dbef72acffb6925i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "250 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/3e3c06bfd96a02dfbe83fa6701c958205110a57752d43c22d548c976e7a05405i0.png"
+    }
+  },
+  {
+    "id": "d88d60b1f62791c84bba07f8e370bb395d54cfcdbfaa4cf1a3eb4670c7950633i0",
+    "meta": {
+      "name": "Dichalkon",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "330 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/22d6b8e2e2841be2cef4df2d54315a49cd9013cdfc0bf17aa6f6c14be1ec6021i0.png"
+    }
+  },
+  {
+    "id": "5c48b00055dbf547822303b0e619649817961bb53829bca75da7eac08ee86c04i0",
+    "meta": {
+      "name": "Eagle",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "50 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/e6a39afa669f4ecdfaa82682f1ac2ca94ed6f75e573075578b18c5c8b934e111i0.png"
+    }
+  },
+  {
+    "id": "7ebcf4b9ccd38a73146e6265072a8ee9ddee6a61e6bb8b66b345ad87e4e23327i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "40 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/afca798a2bade585fec5d167e0fa368d741cb72024bb37c4a51b5d90329c88c9i0.png"
+    }
+  },
+  {
+    "id": "798cec0e913d15b965327ce8f3f2052d9da788ab4d8b80097dfe8b0b0068a498i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "520 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/bb7373f910ad679fabdf6039e655443bab3e23c150837bf602b68dd7e7595f96i0.png"
+    }
+  },
+  {
+    "id": "136a93ebad45669db62229ceb09771c3d23d937d4905c952cc8cee46265ff54di0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/3a3f38ce47e0e0de62dab21c11f398f76f819f4607912b1f0ad354ce33e0d65fi0.png"
+    }
+  },
+  {
+    "id": "356e4a86b09a1d65eaec4c3af95f6cb70fb5050e7a312d140b729204baa43ccdi0",
+    "meta": {
+      "name": "Diobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "525 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/b33407df5b0359318c7d1cd7e0e0abdf0d62819acb6a088db88e8faf3376cd77i0.png"
+    }
+  },
+  {
+    "id": "610b7a6712a5ef92e421cd6c6300e69d101344679d6c19a8a41eca515b146144i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "350 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/8c72e9a78b60078e553b63723eeedea6965090ba87feddfd876312b0e158cdfai0.png"
+    }
+  },
+  {
+    "id": "db922fc51dcdc83c52e5c1c4cc30aaefa49a5a179f538aec85f0ab5fe9c189b7i0",
+    "meta": {
+      "name": "Diobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "480 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/1fdb3e80ec0c8ffbba0ea6dcc340f4f5e15699c479393f55c448bcfb4a7cdc3ai0.png"
+    }
+  },
+  {
+    "id": "1ac3d66fff632176def06c6acfdcac9b1fb1fc07d817b1702971eb16c5f37953i0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "480 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/5550bdf74fc688a102255a4422c9ab502fbba36a187274a20665eb9cb3ce6db8i0.png"
+    }
+  },
+  {
+    "id": "127290761a68864db1762849dab0b3eff4a535169d84d0cdd3eaf42ca8f6e507i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "40 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/a1c77f2bb29dc77b45d8f645ce0c0e250d4e272a6ad9ec35e0320b716a2d63adi0.png"
+    }
+  },
+  {
+    "id": "0dd286432c62b3531e0a8e2c09481ecf20e53a61f415dd44b61e5bae111f0508i0",
+    "meta": {
+      "name": "Dichalkon",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "200 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/a4a782e3a27e8a0f850a7777d094d126d7e6f328a9a254828d44a0b3aedf6b18i0.png"
+    }
+  },
+  {
+    "id": "b6970d5f537ed8df5c1a07f3469dcace943692b0ec14b8a929aaad49803b1a35i0",
+    "meta": {
+      "name": "Dichalkon",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "300 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/4cd8eb7c81d00f250410b16875a1f2f2fb8ba0c7e4d4dff23849d476f6ae305di0.png"
+    }
+  },
+  {
+    "id": "6b6eee90bd20be793b9742b570063b15ac0097e6ff5cac218e7cdc023608fef8i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "330 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/5ad83d2f372e06ea019ff3126cd4d974c055245a4762ff2c2f17294e2f444b34i0.png"
+    }
+  },
+  {
+    "id": "9f16ccdb606ba257ac7303febe8c56ed9862abb9149bd9e715e4cf65a7740fd5i0",
+    "meta": {
+      "name": "Trihemiobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "485 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/227a5a62fc9685931e5cf745f92c83e99630b3f7ebdb87537896a9b82fad4aeai0.png"
+    }
+  },
+  {
+    "id": "db3472346cf4e01cef63a5905e003c425d9ce02ca5082b05499bd1d365260c1ci0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "325 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/6711d4a7ba44ae75630c73eaebd4f9817381da63ac2fd7e122ebe8eccd98479ei0.png"
+    }
+  },
+  {
+    "id": "4dced0733940ced88feadc11828e5f7dcd2a9f5e9d7f884d9bbcb5bc92788898i0",
+    "meta": {
+      "name": "Didrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "480 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/1986e4a0dae4804616bddd6034943551f6a083a78bb69c52d6769138ab2969dei0.png"
+    }
+  },
+  {
+    "id": "10a0aff53ed9832818a79b727cbaf2d1fa48cad1daecfe7737844c12198cdf94i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "480 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/73d8eab64d697cc784122f0dc247a77699ae63f0799ce268f491d38dce910ca9i0.png"
+    }
+  },
+  {
+    "id": "861bf0685458889becffabb791e5bc5381b713911a60d5d72d5a1261ef2ef598i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/5f1935dc51f36918d613df6aa928b325d364a130a85edf484f3b726a663d8b15i0.png"
+    }
+  },
+  {
+    "id": "faa941388b705f81372828a1a3cd3ccd1a859c2a60d7a5a1b70e68936d64b740i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "120 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/a67ae522a816c7baf4dbda624a00fb20fdddafd7213c075c785e13ba1ad6f88di0.png"
+    }
+  },
+  {
+    "id": "f6dacb357c5167bb37bd4f0bd264f04ba581e2293b0d5ac869249d42b9a01b06i0",
+    "meta": {
+      "name": "Triobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "510 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/9ed8bf93e935d2afcc0d8bbe770e891cb04a77260e6a8e2d993662417adaa95ai0.png"
+    }
+  },
+  {
+    "id": "ea6f11e893c7f9dd36eae66b18e4efb0af40cf60446f2530e3ef608ec3381cf4i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "270 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/63f67da15c80e9fc913034d3dd706dcac38c4ae6ba18a1adfb8ad9bdeffefe32i0.png"
+    }
+  },
+  {
+    "id": "9c1f37c4346d001329aa7bbe8a1f676c49e5ccf3b3dcdc4443b36ca1eb1d7e33i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/23653d43788e17b5ca03b089e26212a272a2c12abc881b2d4a258eb0f3dc1709i0.png"
+    }
+  },
+  {
+    "id": "e4abe82ff71219dc19e5b60565b9421c768f459c38702d89868ad28d9697497ei0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/5bc1c1ee14c28c4164fe966e4db36cc02ae3059101e9c385ad96243480f6f513i0.png"
+    }
+  },
+  {
+    "id": "d0e7b7b3ac12cfdb02cc21c81499c1044540bfe9c7775c38eaaaf98cc26a253ci0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/d958cdc4b296ef6340388959644d19245451fcef4cd905153ff4e9035615ac56i0.png"
+    }
+  },
+  {
+    "id": "165c869643d9eea77629034e03c44f10b6dc6ac6468d82d2dec8481dfa143391i0",
+    "meta": {
+      "name": "Kallippo",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "300 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/16da188ce8b3535aff9a0c5d8a78c02ad0bd35709df1fed1cf78aa95a6388294i0.png"
+    }
+  },
+  {
+    "id": "a837f0575cc45197f4c23c02e190bf0e4e57ca5df74422667ecd7ca563270332i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "500 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/62ccd07a8ca6750594cd99ee53a56a17bc2056bf5ed87e8418a11eb769678d9ci0.png"
+    }
+  },
+  {
+    "id": "66cb5dba4b756201f56732e34c43d2e360b4ca96a51d375d375140eed5646ff2i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/b602047ab6f53b71f6990a7b4589c8b9bfb2706b9a47d441744953c04b73df65i0.png"
+    }
+  },
+  {
+    "id": "cc67f8033d1c59df1be01a2bb866a73db1f2be8d8f7955d3446c9e3139b817a0i0",
+    "meta": {
+      "name": "Hemilitron",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "370 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/762886eeb7c5ba022281fa9eb4ac226957187bb7380c4ec750396c5bd55bfdc1i0.png"
+    }
+  },
+  {
+    "id": "8670276b73a05173114451591355249e2fdb0ea8775510a4554d006ae35f70d3i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "280 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/8886be66f0ca24952c094b721848dc8bd36b4b1fe9d47ff3b88f0f4e101674f4i0.png"
+    }
+  },
+  {
+    "id": "c759e84aeadf7bd7a7c97957f7ef6be51d66b16ea80f3266504d7a94615ea566i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "500 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/5b8ff77272dca20320274a7df6d0c0d9a5a42d292df9ff4c2ece451e6abbf1f7i0.png"
+    }
+  },
+  {
+    "id": "651b314210286f61d53452359c57bd515ddde32560791376c2d25a0f08314d08i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "500 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/87617cff35f2b667f3b1e5e9e365d3a4d6aed8246e88a8e903e0abc9da386410i0.png"
+    }
+  },
+  {
+    "id": "59856752127826fe7481f3ee90b930938cd95d6e9cec6033bd3474f993cc10a0i0",
+    "meta": {
+      "name": "Diobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/02acd7e101e1796e39e31a6a687611c63dd67f0d021e0c3bbfbb097398629055i0.png"
+    }
+  },
+  {
+    "id": "4e86a0a1732ef36339a9ac3a679844f5f310d6dd776601e76c7c1121a6f39762i0",
+    "meta": {
+      "name": "Diobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "340 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/88af8ebca96c94f48204cf504f3d0ade50aa89a5c62a562c8dffcd24427a4f73i0.png"
+    }
+  },
+  {
+    "id": "9a50782f64f02f1e36952d22be8ce08d721e528bd64759d75b4f6e4a52e2d0b3i0",
+    "meta": {
+      "name": "Hemidrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "90 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/dd1c63359e0817d354deff908e2224646a99533453980541602bebeac4552523i0.png"
+    }
+  },
+  {
+    "id": "c678601224583aac89632a0d3fc7eee21adf7c97b9e6bdf0c38ce4ccb27b4393i0",
+    "meta": {
+      "name": "Tetradrachm ",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "187 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/d4e643200b28ae6b928c485a0f60163d94de0bc50dd09ccc0f94080b2e5c65a7i0.png"
+    }
+  },
+  {
+    "id": "52b7856f617c56aef2fcf161a8e099661a12768fde82e10d0ff068ef32cabdfbi0",
+    "meta": {
+      "name": "Chalkon",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "365 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/a372866210801e8d3e54a88469322c473912a38135554ed2257c762e3c236c3di0.png"
+    }
+  },
+  {
+    "id": "912f074705c7eb1b060a041588f872dcbc08af7bedfdbb5b135d82f19ac03422i0",
+    "meta": {
+      "name": "Mostrene",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "200 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/aa849a5edc92394bc49fdf6eb6d39b84044e71f20a55102362e4089bc4c5496di0.png"
+    }
+  },
+  {
+    "id": "a98e9e5a55e9a42363cdad8d5247f24fe8a2739645a55f3b702126a97c85e631i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "200 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/6d74738eac97d3cebe084989b46f528028d9063aeebbd76d8272bc5ad430ea86i0.png"
+    }
+  },
+  {
+    "id": "874b1b3148e7b320c6a59a6c0636e833d192fea703918cde7f4ea9c47bc0f3bci0",
+    "meta": {
+      "name": "Drachm ",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "200 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/f0bc0d0978a07c61946d7433fab6a2b31b7579cb5b78a204b725d7e07f336cb9i0.png"
+    }
+  },
+  {
+    "id": "b225900638d88dd29b9b8b7cb5a4ff0426068b535375c808eab126d3305dbceai0",
+    "meta": {
+      "name": "Tetrachalkon",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "200 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/a637a308091ab3505c62deaae68a9d482aaef1df2c109c36d2371ddf619cee5ei0.png"
+    }
+  },
+  {
+    "id": "2df28f5f2237c7d4d051ecd672a93de1a588523a5bc1d8196d6f0139d364e14di0",
+    "meta": {
+      "name": "Litra",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "241 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/8e32c8ac6642f65c0e8134e9de290b47ecce5cc673cdc248ddda1a1eb0fcc155i0.png"
+    }
+  },
+  {
+    "id": "04abc01d039de462b6cd6db6ea054c32decc6f3cd8db0364f6e7342e1db48fa0i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/78c220965a25250656974f79dd37ab2983c4f116344bec6780fbb87267698485i0.png"
+    }
+  },
+  {
+    "id": "4b8f3e349730cc5a290c814a8ecc939fef87f8ee7f14cb5c8c0e804a3a5454f6i0",
+    "meta": {
+      "name": "Lysimachus",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "300 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/28c786b976baaae58f60a69e29aff6a8e67f5268fc2c075ae78dd9ab8bc43616i0.png"
+    }
+  },
+  {
+    "id": "ad8186a708145a4e87923aedfaaf419426ed7f1b1d769f8ba33a9ca43db1b4fei0",
+    "meta": {
+      "name": "Diobol",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "430 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/67089dae114cfe841101f247e2159b5be779a55625ff904ae878f6bda9e0b2f3i0.png"
+    }
+  },
+  {
+    "id": "2c09454c431cdadc1964754265e038b3726725d819e10dbfe657ee32d9ecee6di0",
+    "meta": {
+      "name": "Didrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "200 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/f032db7327a30c52c7245e494dc453c8ef897a529e359ca702764ca3a06714fci0.png"
+    }
+  },
+  {
+    "id": "c6d49a8bea7c5af2c63137dd632f43a89bf3808ca43120f909961c72ce486f9fi0",
+    "meta": {
+      "name": "Hemilitron",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "357 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/96f9e915a589b709a169a47dc847c8354c62f490fb13a977e80486c535a7f1c8i0.png"
+    }
+  },
+  {
+    "id": "a0bab07cc3febe2c642d0614a9488a46b5f7f2fa0b13789985fe9ea257775aaci0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/610c4fada05de8934638e2d90c88505f978e2f9041b7b5a353f8d35ee048145fi0.png"
+    }
+  },
+  {
+    "id": "ef36922b1fbd4efa57202c54065bce11fcf48f4decbd2b272f0b7252bd0c7ddbi0",
+    "meta": {
+      "name": "Hemiobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/8205f2dc1b8c2353d31c488b963ee8b93b8c69c2c54f69d16f0604a36855c874i0.png"
+    }
+  },
+  {
+    "id": "01751d840a5b3800c2c268833177553f4c80c08b778796d6f87c1899a4cf7021i0",
+    "meta": {
+      "name": "Quadrans",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "200 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/880e856fde699e91f4f4f70f9d3a15614fba1bfd52293cb08836a3701c36519di0.png"
+    }
+  },
+  {
+    "id": "4237a01feebf329f7b62c32cbd9195835d97c22f32ce738fbf4df1ecd015342ei0",
+    "meta": {
+      "name": "Drachm ",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "270 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/970378550ac6db6bbffda0073ac67acab8b097bb0cae38b4ab44cca875fe8bd3i0.png"
+    }
+  },
+  {
+    "id": "8f8c66f1e305d17ce11780b02e102c4fe2915facc12893ed3fd2046e58929a66i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "375 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/d6cbe357e43f47dcdb1c9a4952b64e213359b34464a48a66af2d0a3007618991i0.png"
+    }
+  },
+  {
+    "id": "df0ca9262955a48dbed279ace179f19ac3057701a2db6d40e37b7ca19317e611i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/7fc8e1091f18437a062a654c1380e430c070665912b05e94db5a7d083152678bi0.png"
+    }
+  },
+  {
+    "id": "655d1b5d0d6e9d72d1059f676d5a4e40a3bd44a65bcee625c40c4f7f9666c4e1i0",
+    "meta": {
+      "name": "Tetradrachm ",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "205 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/b779768061a8fe26c7572649e7a1d4caad06ae56ab82ba1bb3453e1a6b2c9e27i0.png"
+    }
+  },
+  {
+    "id": "b4803ddcf5fc9a3b3cf606871cb37ef34ba0cb33198df035f2ae5f9cf3b00932i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/105fe13786363c17dac7570d234748d188f6d2ebc7d959caed4ec382788e7bffi0.png"
+    }
+  },
+  {
+    "id": "5bf7a90996124174d79c71a257860faade62323f3b172a14a2621bf746265244i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "375 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/786dc9997e43e60f82e08315d382a52bac700d47256022af40e95f1da094af93i0.png"
+    }
+  },
+  {
+    "id": "732044c3fd4295073ff86a944c5f8daf959a38be074be691fd00719bedb2fa0di0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/9ada7c951eab16a717e69fce4fb4cd0bbbd4120ca0e64d84f1aad340d37053e6i0.png"
+    }
+  },
+  {
+    "id": "381d5db7a3ce89c62a8cae3c6512b9a89c831b8a89ab76e2e47d414556749953i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "350 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/146e1204c83107e5ffaf7f09f61d3a919abd74cb4a1be523b56ca8a2fa104e72i0.png"
+    }
+  },
+  {
+    "id": "46fba7fea47191b2c7fc0ea1e62f8e411efa8646010c30db27957df0f40f1b57i0",
+    "meta": {
+      "name": "Hemiobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "500 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/e5f93de86cd1c3343d8213e9c4aa8f905b7a28e422fda5ac0b907006c72d0962i0.png"
+    }
+  },
+  {
+    "id": "3f7bb35d070bf03b2de1eaf56397a80ea62ee1f31a17c66b0af4d2ecd4d7436bi0",
+    "meta": {
+      "name": "Diobol",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/92657ddbf219174aa1439406682344e7b022a0505570741fecb67aa28eb62481i0.png"
+    }
+  },
+  {
+    "id": "b405e4bc21483f40e9e1808bcd94a0c10268198c6bb10a66bc8f90a62037c971i0",
+    "meta": {
+      "name": "Leukas",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "250 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/7c3f5db3a32b4271bdd9679cc83fa521ae23a532ab239306aab46a36f535d56ci0.png"
+    }
+  },
+  {
+    "id": "8ee4f0df074863dc5ec6d26e8dcf38e3124be5895288702f533a01517457c286i0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "300 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/1a5e8ecf2d513780a251bc174af64f03a797e77cee9a76d2fdf855d36584e63di0.png"
+    }
+  },
+  {
+    "id": "25c2a97c23a6a25d965cb2722d91e0a4d84d6eae432b44c378fa6e0f36b0eff3i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "500 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/07ca2a9d0fe2112c9dade73d2cad2076445c561597b20250d8ff6248106d3a6ai0.png"
+    }
+  },
+  {
+    "id": "65f9c01d652dbb8cdd9d146a9a27f927ae48f479e03ed6bf4eea2effd73a177fi0",
+    "meta": {
+      "name": "Tetradrachm ",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/899b3f62ee1691ca5f428458b6c59c0fb98f5e84f7dee1a1155f6ab04cfe8ec8i0.png"
+    }
+  },
+  {
+    "id": "9e7256530f2fee04cc48694586c5960da8c43175402c9a97fe86989961357506i0",
+    "meta": {
+      "name": "Hemidrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "430 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/7cac78bf195fc220c355b137bb4136f8f49b535ea014aa47816cf3dafa5534b6i0.png"
+    }
+  },
+  {
+    "id": "cc7cba3fcadf696602d6b55b174e3c024af8ce4749b18d772b6f875358b61075i0",
+    "meta": {
+      "name": "Diobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "470 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/6890d7833c4f31f391ba46a838c7568173ff2ac385fb789e17f9bfb0d270fcdci0.png"
+    }
+  },
+  {
+    "id": "9eec6153fc4ea790b2e26e46b1a02c4df267aa53bf78495da9e8d6ba466811e1i0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "478 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/aeb619e0764986835c737925cb0f5a2e88d7734c81e2815c6ce55c1afb434e3bi0.png"
+    }
+  },
+  {
+    "id": "db69101990bb00a436294bea943e572cd0bfe809c842f3d7b11c511c4e9cca7bi0",
+    "meta": {
+      "name": "Biunx",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "230 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/473ea91e116b7a76b04d2afeaef0430e7e7eeb7806bf24248131414027b4251ei0.png"
+    }
+  },
+  {
+    "id": "b1b4433d0471813d9a39bef275d14ad3de9572dc05fba5e7e804bf05b02fbacei0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/2647f29da3f4df87e9aa1189d9fb4e5a6206cf5d177f3e6356be94ad40a64a3ei0.png"
+    }
+  },
+  {
+    "id": "df3b4dd46b4a45aa9434ab1603a95835b83e9542c1c58b7d0c49a5d82ea889fbi0",
+    "meta": {
+      "name": "Double siglos",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "350 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/c5f0eb0d8e5d6a085a29876fa7f10381500b22219c52ace1ee6147d90796408fi0.png"
+    }
+  },
+  {
+    "id": "ea35fb3f159e492787cdf41a155dfc39192ecb4326a80bceaeae4eee1b736829i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "180 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/6b02abd0e947fd146cb0b731c64ea01f63ec47b772866f5d506078300b452c17i0.png"
+    }
+  },
+  {
+    "id": "4883bb8f2915347d34524aeb82c0958f887152b71ffc5595a0b6ebbbde6676f1i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "70 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/648107525ee4f0577c35e59e8ef8bb012b6dadf8e6e0137bf31fe3bda24fa2ffi0.png"
+    }
+  },
+  {
+    "id": "e2dbe87fd8b7c85a1590d377c216c1be85d81745197247d1a684b321c6e65a65i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "315 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/5043ba8bb46c10d1fd6a28952a97d59d00f59c142901e5fe3b5856d5b270b692i0.png"
+    }
+  },
+  {
+    "id": "ef973cda81cc4b497af34ef0b7fae1b4d434111527399eeb8fb159cbc9e09554i0",
+    "meta": {
+      "name": "Dichalkon",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/4dedf6a9f51889953d1009779c451b15273ee021dc9fc521d109aa560ed180cei0.png"
+    }
+  },
+  {
+    "id": "6cee18635c09dea0d4d6d6e31eeb78dde011a529d2b5d75d7422a6d2d4019e25i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "90 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/74544849873b767c3fef96f04b36e9d56588d3afaa52f2d80cd22447a0b8a276i0.png"
+    }
+  },
+  {
+    "id": "b705bf6c39a81299799cdd122718fa4d7216c5d4999b04fdaa7a6d9024c6e4d7i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "480 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/63857d732bf181e0639d6302fc7f1904aaf6b7189fda2279cd9d826a25831acfi0.png"
+    }
+  },
+  {
+    "id": "fc01777710f13a7ba417d3af1e7c7319caaddff853e650d1b9be34c6196071e4i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/2295797da48bc4e3d9b0c1d375f6e6ba6818b514048b998386aaf073071cc3a8i0.png"
+    }
+  },
+  {
+    "id": "0862f4ec627bd0f683d6d6e2d37c7edfc8c9d725c3d9eec8ac06557e663bbf63i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "375 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/642d5786bbf50287b2acd5874fe40f17cccc8c8f1e7471162fe1a74fe803c8b6i0.png"
+    }
+  },
+  {
+    "id": "84cf1e28492ecdad4c56fdffba7d66221aa93a14affe9e37e7231d3aea8568b5i0",
+    "meta": {
+      "name": "Trichalkon",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "370 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/fdf3e9157972d778d140ab3dc37f09f261f884c4b1e3be024be1ba9d2fc92d23i0.png"
+    }
+  },
+  {
+    "id": "5efa62caca6bb28d9ea26c80c4c5ba16e3939119d9fdce056594131b27e7e804i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "350 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/877ef724057d963749ba3a13e3b51e607320a355bc5f6ce25024ff73a62353d7i0.png"
+    }
+  },
+  {
+    "id": "4dda4318eee8fad5736050720c90ce60a3d2cc3d04455cb37596805afd2ec073i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "390 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/fff47102459188ed7c4f2f69ec8bee158044921063e7ce935565997f143bb807i0.png"
+    }
+  },
+  {
+    "id": "29eda251a519efce63640aab18de8c9f190a6dc74a96c3e8d1299ea1d85df285i0",
+    "meta": {
+      "name": "Trihemiobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "500 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/30f25ba2fd9b91aa1ee99daf6897675d1512ee1502cb41d35610cf10d0be45a6i0.png"
+    }
+  },
+  {
+    "id": "7aae64d88cb5118568b94f384eeea38657ca524792485cdf1994a9276f232c43i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "375 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/64a6b1c4305380c82c828ea654615cbcb1df4277b02e1c95a1637fb43a65385di0.png"
+    }
+  },
+  {
+    "id": "1f3ce5c3d8b260f5c184d91ffb9b5b7432cc6f56e1f47ffa3a1f0aae1fe9328ai0",
+    "meta": {
+      "name": "Tetrobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "180 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/75bd7df628064f922d7a4e5c818f4996a1b6fab8d221d3c02f37ea528dc5606bi0.png"
+    }
+  },
+  {
+    "id": "0fdaae33233bdd9f0e2a3ae48d8fa1c5ab97e8af57da58acfb5cce2a8f79c49ai0",
+    "meta": {
+      "name": "Chalkon",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/5cc47677de874298dc8e60f8a3f398c407e21bc741e5ba29eaed1e7c24a2b0fdi0.png"
+    }
+  },
+  {
+    "id": "11bd0ae4b4277d84b8cebcdfbb9acf3e8350bc8e8af736b4c29f406e1d27bed4i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "185 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/dc6266c5a52c4d4986ee3d2950c100c2ab7789aff55e3511c44a9bf2154be014i0.png"
+    }
+  },
+  {
+    "id": "3c872eb20f1c2958309c5ae4b64d11b1c7204c24f3ebe3db95067352f729be99i0",
+    "meta": {
+      "name": "Tetrobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "280 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/2169acd13a0ae3bb3a3c71af461c8162580c5970bc5913a2a60e662c1c161b00i0.png"
+    }
+  },
+  {
+    "id": "fa0d7831dded7b6434c5da3d1b7f90085bedfbfb28358443ca54a3c18e9cb14bi0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "250 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/4529c2e75cbeadf05d29a842abd05f2528c7bda0b7f1d2f52d91633fccf2cd11i0.png"
+    }
+  },
+  {
+    "id": "b9a48af05f6a76d99465d715fe4a2852f8df6a89e7fa8b31067b8b81e05c915di0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "315 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/c5e9df03f0beb74d98904dcf09713b239b6e31c0a2dbf9f0bfb34d3a9b5dc3d4i0.png"
+    }
+  },
+  {
+    "id": "2f8f93dde32f5575cfcc42dc7f462d66be0a4fb8a2d9b861d7c14e553bf1b997i0",
+    "meta": {
+      "name": "Trihemiobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "380 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/adc234baf9e8416cf58dae7348470cecf20ca730a9c3c729c598e61b40939ffei0.png"
+    }
+  },
+  {
+    "id": "8b7c40e35e6d24f5150fc0f1238eb7c366d53b60f84711b82e7ee30d795ae213i0",
+    "meta": {
+      "name": "Hemisiglos",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "350 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/98779f087403ca018722c53dade3311217eab226e722a307cfd72e0ec5022982i0.png"
+    }
+  },
+  {
+    "id": "52acbadf04e8c2d9a4ae944f6c814805d3e48c2f2744fbdbd5fca3dcc908be11i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/9641b1a9c94c81cd08ce10133edd058f17e6653c096010bf1312f5ef80695197i0.png"
+    }
+  },
+  {
+    "id": "f2b506e51eed25b4b8bea7f4eecfa75377c1c9fd49baa2030f6b2a915b05a645i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "200 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/6b844ca0ba74e865e626412c34bc68547efaa711da7c0ead1c89d74452fccdddi0.png"
+    }
+  },
+  {
+    "id": "901ff0e4f296a9bbe01ba9c9f6e2924dc8f029691d80fbbbf285275ffebb6864i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "80 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/efb4914a0ce0d4d8c920e79f963ee045339fcd9f7782a747866ef65f06d39699i0.png"
+    }
+  },
+  {
+    "id": "6ee3819d85419105714cb97e019df94f7b1824b6659dbb6d5f4dbaedcd5fcc52i0",
+    "meta": {
+      "name": "Oktadrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "485 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/a3e05130ceff19d46c9d3b04d0ae775d837ee939aed87bb57b2b423f169c6aaci0.png"
+    }
+  },
+  {
+    "id": "b561e3e3a6fc7cd66ca1e00f1a56c7bca2e490516479937febb7d71dd219abaci0",
+    "meta": {
+      "name": "Chalkon",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "360 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/c0ad06d0b8f2967bf105e5ffe8c11c3601fb249505af1de7c9436a287368744ai0.png"
+    }
+  },
+  {
+    "id": "cc5fcbcb87f510dbad26a3c0c70be47f2739e0bbbfd32a5294aad424dd880e67i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "227 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/4aa4350a31d16fc562348a77b88d64a5addc847ae2fc87a82a6315920ee6af59i0.png"
+    }
+  },
+  {
+    "id": "d8db371b00197228d18a2ee1ab7c6c6a1e50a5efc067aa02c3e1c9c1d522f6a8i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "301 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/f74dee858747d737cbb36833de21997f039f8c6b258b3751fe299c37836ec912i0.png"
+    }
+  },
+  {
+    "id": "063e5e9d0f2556d9bea0ad073455327c4a2e0fa52866ef0df3778abf8452eb71i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "275 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/a795cce03325a9ffdf80b9e7896fa2d9994130093bb6b5510486575705c9d9b0i0.png"
+    }
+  },
+  {
+    "id": "b320a05a64ba114e218fb9d77d9eb90ca5a833bba943e7b2835917fd90201b77i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/8b35b3cd518cb9d7a203e28b0b7fe4135a3f745554bd4b3466b37e86f4571889i0.png"
+    }
+  },
+  {
+    "id": "0b3cf9a58151408f92ee08ab3f5475a67ea79f114cdf9ace33820628b1022394i0",
+    "meta": {
+      "name": "Tetrobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "350 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/d3037bf25f106238151a5dfd640739cc438e679ffc28c573b96e80476f83b413i0.png"
+    }
+  },
+  {
+    "id": "a5cd1d475abbf2a2b16431ad943eb193f9700b1c1cc1c3ca1085dccf648bca2bi0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/2fd018c78ec23dd62d2180a9de68f2114df30c2c67d215ac0bc88126796b306ei0.png"
+    }
+  },
+  {
+    "id": "6b248c0dadffc7b3472a8497eaa9aa7989fbe400033a851e0a51f20b514fe036i0",
+    "meta": {
+      "name": "Biunx",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "215 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/fd8d89990d95eedbb1afc8cca2b9956ed9f008aa8db90430cb5972af7cc5d3f2i0.png"
+    }
+  },
+  {
+    "id": "ce9c2793c6c53e8c3b2c6ff038f8cc7fe3fd154c4c6db3e7deff05643ffaf457i0",
+    "meta": {
+      "name": "Tyche",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "200 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/9ac248c4c023cdf0f12e31c75dccbe26ef58bc54eb39cb98dbb408bf03d03989i0.png"
+    }
+  },
+  {
+    "id": "d297ed9407352d6e7f6ab58af10f1064493f1ce86d3a85ee84c4a77e10bec175i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "161 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/24c2cca601928390039bb3522de68c2f8ea4c31cd1d6bb9f3f2765b71561fc77i0.png"
+    }
+  },
+  {
+    "id": "8a8d0eac84810fb529ec1fb78b48ef122bb9dedc52652a4d97e94d23e59202eci0",
+    "meta": {
+      "name": "Tetrobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "410 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/bb915cbc80f98a535c2656f613ccde2474622515d7100b598814eca4b6e285e9i0.png"
+    }
+  },
+  {
+    "id": "50c00af51660bcc812fe3dd52917ba888080bb77904cf383642a1b0f8db1a788i0",
+    "meta": {
+      "name": "Tetrachalkon",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "190 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/5843690bbba1c3ff34469d08f9e3c65ed50cd83517d4c28a27693f646d0535d9i0.png"
+    }
+  },
+  {
+    "id": "efe962de1837cdc5ad9ac683e30636e752d69d06b5a4078bef8394b79dd00da3i0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "335 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/53d8acaa7199c34e24fd4f6db29b4dea83fbe4660ef5bb7c0874489d67c1c0c9i0.png"
+    }
+  },
+  {
+    "id": "fa157a23f6812cda77343608200e36ef9f3bb7fcedc0827647af16779280770ei0",
+    "meta": {
+      "name": "Trichalkon",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "320 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/ff9900a28edf3c56de119956722493b9a2dfdfb0f7c989fb01f93d23ef2d6ff6i0.png"
+    }
+  },
+  {
+    "id": "492b7a1b807efab96dabc11ae43f50984c8c6aa16e5aed8a3678824bd7500f2ai0",
+    "meta": {
+      "name": "Hemidrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "80 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/581e46f5c5b04ef95b322a662b84a6086291f53a705093e995cd16e79c08b774i0.png"
+    }
+  },
+  {
+    "id": "e70bd3bd73f137d1455c147b2fd1ab6c2cd9bf0427fdfcf9f60011e8e4fa1441i0",
+    "meta": {
+      "name": "Semuncia",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "180 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/fdeb0c7298a6aa70e6f08c5419d8fbaea4b279a9d77f3361c3f1d9161adea1bfi0.png"
+    }
+  },
+  {
+    "id": "d4ceef934f9f2ab267a52164e1a90bfc8fe4ee6fe85e3dd08a2f804fc5c6ef94i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/e2fdb755d772b34fbf9361127fecf94a6354b930ea29769f9af5572e0e5da9dei0.png"
+    }
+  },
+  {
+    "id": "25159d92a4c9cd1ccf1be4aa74d7bac22c7f27aa3ed65aef554852ae0746dfafi0",
+    "meta": {
+      "name": "Hemidrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "340 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/065dc83f3c60b32a9bc3345b4267b5791993af90b5b7cc84287cc8e27d8b4a69i0.png"
+    }
+  },
+  {
+    "id": "3fc851cf88d5202d454f9e9c72e92f8ecae1a76c7103f7afe981ede45d2cfbf3i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/e548fb1fb3809c81cc70fe0c0ed709e73c49eabcd326e23e08564953445477ffi0.png"
+    }
+  },
+  {
+    "id": "5843ef931763b92f3902187ceb01a468ef9c0721023aad48ca24689c0ca8aebbi0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "171 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/444ed0309a94ce142178f3a2286e8b4f7009db1929966d5a54af563b1791f41ci0.png"
+    }
+  },
+  {
+    "id": "1476e3f201176b586a92e9fd47252c578938f42926669aef1c0fcca1dfc2f72di0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/49dee66896fc26584822c2be1232875886f21e86a317bce87a1334128db28b5ai0.png"
+    }
+  },
+  {
+    "id": "719f0559e777fe7cd8949a7a3e691fdebe01369bf11229a8602fefc33404bba9i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "340 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/d687664a271036130736f8088ddf917ee97d7c75822f96f6a2675491e4bb215ai0.png"
+    }
+  },
+  {
+    "id": "62e475e53a40098873769172e1f92585602805d2a16b5a0c8b40e5ba9e4a4ef8i0",
+    "meta": {
+      "name": "Tetartemorion",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "510 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/fd0cbdaf321e222fe0a8f25c2d66af020611f267508b85fbd279c5f40d6160ddi0.png"
+    }
+  },
+  {
+    "id": "73a7b39888b0e0d544d9acbefa95447abffccded3e2109c403b60ed3247daf3di0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/9e78a76190aab0378620ae0ec4b32b6ae5f1080eef49f8c3e6900325a9ab4070i0.png"
+    }
+  },
+  {
+    "id": "7a9b2066f19cc26c20354ed84d047e68625e537edbbc9f4ef9d913fbef3b463ai0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "470 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/fbd9e2feff1d6c927c60be4f4fbda8cb54a711e4278f4fd48aa2db876c6e1953i0.png"
+    }
+  },
+  {
+    "id": "91386b654379f23d4a80e71e4ae55e04759b407cdade6fae9404d287d8bed1d4i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "375 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/0ff131dba8b9f97d3cb6f908eaab6e537fd41a580e5587fe9194151f005caf13i0.png"
+    }
+  },
+  {
+    "id": "3b804dd04a44511e9f98fd1ff36d9cb0dd33c2d399609bb08a47c22191687fbbi0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "128 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/00fb65e8bc11abcdd5b909525e389d15c672fadcc2bb245b733b570e6c4ed5aei0.png"
+    }
+  },
+  {
+    "id": "d8ae366c890e4eaf2a0fc21309d0634950c0018f0fe2d74453cff50f8dae6754i0",
+    "meta": {
+      "name": "Triobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "300 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/2f713537809d4b28bfb1a4754502b768874bfbe7114f0c3c5e325fcdbd7ecb2ci0.png"
+    }
+  },
+  {
+    "id": "9c587aad0cf4058c003ebc0d79ffc3ee63c081c055cc8b34aba0ec74bf90c0b2i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "160 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/532054149eedad7ff55cfed06f5b66623316b01490db208c75688aa09a9271bbi0.png"
+    }
+  },
+  {
+    "id": "956399dfb259da4b7fa7ad7fc29c704f6bccd428d4949857c28e509cf61e72b6i0",
+    "meta": {
+      "name": "Tetradrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/fcea5cdaa19dfc69416841bbe297e03eb9cbd329acc7f73b76f534e964371bb7i0.png"
+    }
+  },
+  {
+    "id": "3ebbcb5c378d062338167fb75c09dea746cc0d4a61ea2af5e985004b2ec39425i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "200 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/4304b86c5080ce18654567194080346039322f1e5dc43335626bb8e10a9b2bf0i0.png"
+    }
+  },
+  {
+    "id": "a4a9909059bdd5b1892d298e6315fb6bf68d15ea7e3a035fb2a64aea6b141258i0",
+    "meta": {
+      "name": "Hemidrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "360 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/690d14a2787ff31afa95bcae03d4b1bdca6fd815b2e42c73e233361a382b1771i0.png"
+    }
+  },
+  {
+    "id": "afc99bfbc0b7445de937946b4db6ae05e2ca679b398cefab6630f204cd3d7688i0",
+    "meta": {
+      "name": "Trihemiobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "450 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/6175e171f3026f5ac1670560632393316248f84e0cf097ee2dca531235c04a17i0.png"
+    }
+  },
+  {
+    "id": "b2ee2a4cd036bfa3945fea76a6b33d8ba40ecc17543015791ee91e9cb4df2809i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/843068ab25541b6f4463d8ffdb9e1da6456fa3eb2c5c352ed655fc18897f0614i0.png"
+    }
+  },
+  {
+    "id": "a46a24439d5012a687508c094fd114a6c758a7dd7603ae1c4d4d82cb0e983057i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "350 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/e97adb2230e44f47de50d3cd3e685fa6c88f7106bce6479b995fc61fe081d347i0.png"
+    }
+  },
+  {
+    "id": "0bcb26bce65f7a7387e74b840709a0c0850aeed72a37eea2c83928536a963e8ei0",
+    "meta": {
+      "name": "Tetrachalkon",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/ece33336b3d9eae101b8b76f0415d11df1fe702c1de007f3eef020ec6e709ccei0.png"
+    }
+  },
+  {
+    "id": "c0c4613dc5ff24c8ee9ded54ea338428493d431d4eadce58b1e11811e81e7a76i0",
+    "meta": {
+      "name": "Octobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "270 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/5bea33647330e8871f29422236043fc4c8529a0426306a04c77bb69437695fb3i0.png"
+    }
+  },
+  {
+    "id": "80bb43bb16d245846c37da9f35a7c926728658617b40f40535206b1b47c54aa1i0",
+    "meta": {
+      "name": "Tetrobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "480 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/d52865fc2034bacd8a21428c88d1298264850ab76388936f0498335358817e2ei0.png"
+    }
+  },
+  {
+    "id": "2c9161ea58e662915797c5f0a71b0dab35f50c144b9da4c678ad1965b5ec691ei0",
+    "meta": {
+      "name": "Octobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "150 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/bbf1d316360231f7fd45b1ece2b063b0e85776081c7808836f796ea96f7ff5b6i0.png"
+    }
+  },
+  {
+    "id": "69ac772986cf1e81f3d599f9dbc0c17a66cf8d29d2216a6c5c18ad29772b4e56i0",
+    "meta": {
+      "name": "Tetrachalkon",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "350 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/f9c1d4e861f7994994ceb25ab7310988a2cfb717bf33e64502b212bfe6b9ef63i0.png"
+    }
+  },
+  {
+    "id": "520dcc7fe77da6e06017b420f8043f55a569c52071b8c57852e8965245980890i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "150 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/1e31a22986870b925f698a54aba8b69e89c854c8b28a30adbd8d2b38ef9baa76i0.png"
+    }
+  },
+  {
+    "id": "9848b61dfbf6258a696773426e1b671d1e6381fbb473bc487e4d23afa1b58f40i0",
+    "meta": {
+      "name": "Double siglos",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "159 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/f54d3813852ebcae22dfdb0ed247a167fbafabe9346590f2ac0b3cd77af4357ci0.png"
+    }
+  },
+  {
+    "id": "a4e875855b3ac859b607d42ec5636b8363ec7d684d4eaeb7430d249ccc4b3e61i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "219 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/fd51f9240dc250337e0895accdd92ca84fd8c30d4464d249e78e1d421543d5fbi0.png"
+    }
+  },
+  {
+    "id": "e6bf647488da8539e4682627571956f3d8c161fc77ba41883081cd73bb36e019i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "370 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/a3609b7bbb8119d28fa6937c71a41381d4d50e71d94bb22704b549b779c59b3di0.png"
+    }
+  },
+  {
+    "id": "160a4425333ee529b06fff0f10908ff2638b04aac524995bcbcaa0b576f038f7i0",
+    "meta": {
+      "name": "Didrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "420 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/777f5fbf86b668f9aeecfc6627c8fedcfe228c73c95afaa1cf5e00a19710b724i0.png"
+    }
+  },
+  {
+    "id": "f9e5ef086f420fa5506f02e6cbc9aa59a9046dd93f2bae505c6e7b9dcf98e117i0",
+    "meta": {
+      "name": "Demi-unité",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "220 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/fde86315641df24222332f9c4f056083516f234ca54f2ece9af6270a83d66a44i0.png"
+    }
+  },
+  {
+    "id": "3c98f2de915d3aeec0afe4dfb4d39217c82d41099156d5b971349a8fef48e1b4i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "530 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/4fa8f200a575106877cff3427511f127fbbcb39dce176599944f167f37dc0677i0.png"
+    }
+  },
+  {
+    "id": "426d48d2af56b169d2e0fa87709ca2c32fbfef11faeea4109f789048a0a859fei0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "255 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/96a6e551533b5f4300c913d139d8b1bb5cb948722c7c5222ac4a321858dfb29ei0.png"
+    }
+  },
+  {
+    "id": "56cc47be46a2da01c8d54993962ba5df140536067d2b74122a2a4f776b582974i0",
+    "meta": {
+      "name": "Tetradrachm ",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "100 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/683096c2a0904d22e14de9787ac0564f1a7f91d4a62b0380b28a2b5224503748i0.png"
+    }
+  },
+  {
+    "id": "3a2dd31de5396140474af460fb17791893aad02d37d1253281d510381ec0074ai0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "307 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/f4523e1b521e6abe7cfba49c183d2e1f19e50571a22453df361336364027ba62i0.png"
+    }
+  },
+  {
+    "id": "ea123a108637c6d8a3de2b02ecc85386e94334368550d2df28a0f6c957e30374i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "387 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/a29259dc381b02a40363795a0d75d562409b289f1f33413aa9754456bb656deci0.png"
+    }
+  },
+  {
+    "id": "df8f22bb64246b5efc6aa7350671bdb89e59e4b1ee8c66aaab87a5525fbc1bafi0",
+    "meta": {
+      "name": "Hemiobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/6ca12d9274ec3804117b1f578ad15df260b43c544d67e80fbd32cf5f9ee88214i0.png"
+    }
+  },
+  {
+    "id": "92626dc73de14c82fcd61f8a6d874631dafb39ae618aa38b467ae6129ee8fc51i0",
+    "meta": {
+      "name": "Didrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "107 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/cf4169a7c699dc63ff684a116dc3ad65a5c48da39ceded86f6da9d416a2cd22bi0.png"
+    }
+  },
+  {
+    "id": "936c3aa5694ddc46d1da41aae4195c78e6601b5ff4ad44bb892091a3d955ee94i0",
+    "meta": {
+      "name": "Quincunx",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "200 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/1294cbe828b326c57199448b50132d311228812adbd65d583ad4bde42f0bfc41i0.png"
+    }
+  },
+  {
+    "id": "41cfe4f572509d93af1ff4fd5046f7cc75661fac96112ff75699e8b114fb2ec9i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "211 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/c7243a5e8a15548ef58b0338ce4684d3f6b4dc0b8eb2efddb253c253224045f4i0.png"
+    }
+  },
+  {
+    "id": "ca76a197de8428778b8bb9cb1035528981344d85aaed623069d2f520643b0e4di0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "325 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/5c5e85bc775df7357475b2a0a89774579cc81a11bdd741b0726bcf120cb3d376i0.png"
+    }
+  },
+  {
+    "id": "4dbfc89b995fb45b5070fb69df5dc15fee94d68836757cbc13fd8d8ffc0453e0i0",
+    "meta": {
+      "name": "Dichalkon",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "280 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/c1f66aa3954dbb287c0188c8ebe47f1cffb989ae946fde690b5714828d853114i0.png"
+    }
+  },
+  {
+    "id": "cf881aa7b03f2e27d40e5b2afd0b7e6daea3b7acee782aede2bcd015d5f37c37i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "250 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/84bf8b23da0fb70d36d2d94b49a4fb5d202a3520691602f43bc4fd31de1be3dfi0.png"
+    }
+  },
+  {
+    "id": "d67dc4403ee7d75fc6d743b1a4629c35850a002dfea21fef1f2bab33a538bf32i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "490 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/f705ecfd2bfeef57ac0b26a788f1ff0e45773f94fe4df2033828c31579c49154i0.png"
+    }
+  },
+  {
+    "id": "85e822f26612a58d8a7fbcfaec16e61f169584b5942d0e3999b29690e568e772i0",
+    "meta": {
+      "name": "Trihemiobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "425 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/32a3005575467b39bcf0c83e2e40ceae5084e1f05e5c46f405b2dd5ff6d2c380i0.png"
+    }
+  },
+  {
+    "id": "1bd35e3a18d71e0268296d3baf3af4b830923dd2dc9c120c02f5a6ab4e570e43i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "325 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/8a81add4bbcf4849daf2e1812346f1d936b2b2dfe0531b32466bc67772a43508i0.png"
+    }
+  },
+  {
+    "id": "c35e967cedfa28ff34963aa8cdb2b338bce7570c223b481cfc4a24771197096ai0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "430 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/49d750e98913be5b99e86e0114d6fac6eef474bc80cf69b870656ce23a556adfi0.png"
+    }
+  },
+  {
+    "id": "343b19a3817e1001f1b838f565b4d4e97ffaad378f1998d9b425f846f5b6bf7ai0",
+    "meta": {
+      "name": "Hemidrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "305 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/f9fab27ffccaeef05e96d084c9e17a716980f5b40370e1ccb9513e1665ea8b09i0.png"
+    }
+  },
+  {
+    "id": "d1c46ee0725110d20fbaef52e30585d7bb19922a0b4aaa600f241d85eb4a6fcfi0",
+    "meta": {
+      "name": "Triobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "225 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/cb770422c573b81b06fcb82ff72b37db40ff74015725092fe3dd1d38b20e5e06i0.png"
+    }
+  },
+  {
+    "id": "39b3d7634cbe9f14b9f3265f2a167708950a636525363efae6a77b88cf5ddc6di0",
+    "meta": {
+      "name": "Hemidrachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "350 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/4788eaa1a9fd4542f9b8b1fb57c001945814f73e97bcea98fd92ff48c5a98ca8i0.png"
+    }
+  },
+  {
+    "id": "6b81730eb555b948bd7089b4905a5141a1dbe3c5a7532d95f9e25806ce2a6904i0",
+    "meta": {
+      "name": "Trihemiobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "450 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/6fd7c7ca0f3e595d72600bda13f4068b2b6f1bab3afff3cca557e917c39e1ee4i0.png"
+    }
+  },
+  {
+    "id": "7cd84323d3b9ab47227f312d1d983ce984726b25521ed14ce99ed0e38a71be5ci0",
+    "meta": {
+      "name": "Hemiobol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/09a77804a398012deb9bde31d918468da9f6149ce4375ddb271408d13f3dd1e4i0.png"
+    }
+  },
+  {
+    "id": "59c7a156fd09efaddbc7746ffe2a234576ab2bcef06fb4f32beba997d7b5ec44i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "350 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/677842c1e4164b0e4cea63938fa1407d3fd3c5ddf663924f3ea3b12bffb71282i0.png"
+    }
+  },
+  {
+    "id": "002b92f70aa0f77d49706307cdbce9e7afed8a979f520f489f2c2eef2f5e63b8i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/b86388b165af017d891190e16debc36474f4a098e6dde411407e3c9075bfb30bi0.png"
+    }
+  },
+  {
+    "id": "900f63a03f8886cb33c402133aee0911e73da4f71430095b6c0772593dcf4ac9i0",
+    "meta": {
+      "name": "Hemisiglos",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "355 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/6052aebacab86372d11a42ef7695b59db4d4668b33d508ca37542594122e05bdi0.png"
+    }
+  },
+  {
+    "id": "0b538edc47aa9c9a373374f0e9a91b130d236012acec06aadd9a69500f4f0afai0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/277ed599e1b327b2f1a90945623dd41ceb0340fc700f29b6b42971444250719ei0.png"
+    }
+  },
+  {
+    "id": "2e759d6c878f3fb86bf413371ae8772a8698f1f7f8b1c6600123928590248279i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/f41ce5727fecd06dac2bf1b9b9e52b404ea06dde7b7b7d15264ee82351af12c6i0.png"
+    }
+  },
+  {
+    "id": "f2e4729c0ad498ce4eecc08036bf5881864a4f9baa67e90ac3ca439cb4d54a92i0",
+    "meta": {
+      "name": "Siglos",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "480 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/6298b0d49da7e207b121af3d37c517506ea74444f7177002f6837e94df749076i0.png"
+    }
+  },
+  {
+    "id": "a2a0987528923260a4e88aa00273967f10c9d7206782d9da6690ee205b5cb751i0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "500 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/f54e3f5684f971945cc88fd6d67323bbd4ba528c10e3df927a4a52a8b735b49ai0.png"
+    }
+  },
+  {
+    "id": "77b40a584efd3dcae7cc49b26292f7c5c1f212abf08d7c92c2fe5b822729b923i0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "400 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/77c010949bf72788e128fb6852742d9e524261451d622ec16021ddfa7c8f6cbfi0.png"
+    }
+  },
+  {
+    "id": "c6067a27266177c37a1524420f78775fa20f44ccab16307dc3107d44eb11e384i0",
+    "meta": {
+      "name": "Stater",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "550 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/f06fd75f5950187e3d1dcc6f5f128074f940fdad0a376ca7c7e207666e5e3fc4i0.png"
+    }
+  },
+  {
+    "id": "362208ad5c594d826c8dff952dabbc016878e7d45b4868fe0413f9f0549b0a5fi0",
+    "meta": {
+      "name": "Drachm",
+      "attributes": [
+        {
+          "value": "Bronze",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "200 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/b92c41aa79969eeda5884e3264abebf8b3625eeb9ff7172d11c7d82169cb17aei0.png"
+    }
+  },
+  {
+    "id": "50ca2406ae97d3e87a9f34ea14e4899728a6719f2167c412ab1175bae158449ci0",
+    "meta": {
+      "name": "Obol",
+      "attributes": [
+        {
+          "value": "Silver",
+          "trait_type": "Composition"
+        },
+        {
+          "value": "333 BC",
+          "trait_type": "Year"
+        }
+      ],
+      "high_res_img_url": "https://fractal.inscribenow.io/content/fa330c7dbb5f1bb8557273621fef9c75dcdca6ede3129c535738cd381412050ai0.png"
+    }
+  }
+]

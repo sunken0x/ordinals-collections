@@ -1,0 +1,3342 @@
+[
+  {
+    "id": "136b0ea6ae708879a41e6dc9f2ca66ec060819d919656fe8a4b603185f84b1eai0",
+    "meta": {
+      "name": "Creator Pass #2",
+      "attributes": [
+        {
+          "value": "Obsidian River Flow",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Sunken Shipwreck Lair",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Particle Cascade Emitter",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fe387e55afbf50e4dc392404da6e003df332548cafcc3a17b6edd2d136a8db7ai0",
+    "meta": {
+      "name": "Creator Pass #3",
+      "attributes": [
+        {
+          "value": "Chenille Loop Texture",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Dragon's Hoard Cave",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Ink Splatter Abstract",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cafebfcf5b3842d92064f2205351f9e30666bdd035f1d2aa97b57467f772daa5i0",
+    "meta": {
+      "name": "Creator Pass #4",
+      "attributes": [
+        {
+          "value": "Gilded Laurel Wreath",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Reflective Glass Office Building",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Surreal Dali Clock",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7c206cab44565d3ecae0316b8a7cc658d0ae09d1d3c22d78084ba962ca265171i0",
+    "meta": {
+      "name": "Creator Pass #5",
+      "attributes": [
+        {
+          "value": "Arctic Frost Fur",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Pixelated Blockchain Network",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Starry Night Odyssey",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c49ebbcb089cf35552403cb573f2bd317bd23f1909e71ecb8a2d2b71493f47cai0",
+    "meta": {
+      "name": "Creator Pass #6",
+      "attributes": [
+        {
+          "value": "Agate Geode Hues",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Sunken Shipwreck Lair",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Sapphire Droplet Rorschach",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b8721aedb45e64bd86821dfedd2b1786a9d3e61d1101e4322eb64822ec184ea7i0",
+    "meta": {
+      "name": "Creator Pass #7",
+      "attributes": [
+        {
+          "value": "Coral Reef",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Lost Elven Sanctum",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Rainbow Blockchain Vortex",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "308570eac5bb9258aca11efe977e771d2aa7157a76b0260441c4fcd6c01458c5i0",
+    "meta": {
+      "name": "Creator Pass #8",
+      "attributes": [
+        {
+          "value": "Crimson Drip Spatter",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Necrotic Ruins Debris",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mystic Coin Eye Medallion",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4547ced8707240d6a1ae0308041d1e7fc5c6b81447c15f843bd053c3018a9a96i0",
+    "meta": {
+      "name": "Creator Pass #9",
+      "attributes": [
+        {
+          "value": "Aqua Mist Swirls",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Eerie Midnight Mist",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Luminescent Tentacle Array",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "34cdb0d1006ecd1d51fe243b56882e80354425878432c96f154e943158792a52i0",
+    "meta": {
+      "name": "Creator Pass #10",
+      "attributes": [
+        {
+          "value": "Citrus Zest Infusion",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Antique Manuscript Display",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Glacial Ice Crystal Cluster",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a6a3a8b0ef8d29a56b6401b2c8d7b4e2a11ae2c59d6a5268bd19e0efc6cf5426i0",
+    "meta": {
+      "name": "Creator Pass #11",
+      "attributes": [
+        {
+          "value": "Psychedelic Pixel Matrix",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Luminous Taj Mahal Window",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Obsidian Willow Silhouette",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e1aafed1a494fc075fe8115b3307275b057767a4fd7277d32edc9e6c170fedbbi0",
+    "meta": {
+      "name": "Creator Pass #12",
+      "attributes": [
+        {
+          "value": "Golden Filigree Rosette",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Crystal Clear Stream",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Monochrome Grid Maze",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7541059cc943293b4eccc733b9822eb02ff304c26c6b8f0fb09cb27d1013e735i0",
+    "meta": {
+      "name": "Creator Pass #13",
+      "attributes": [
+        {
+          "value": "Cartoon Bubble Pop",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Majestic Redwood Grove Canopy",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Cosmic Elder Firestorm",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7e80a4c29e8c29890484968f0464b50e2317d39019677c767471dd7be6ec9121i0",
+    "meta": {
+      "name": "Creator Pass #14",
+      "attributes": [
+        {
+          "value": "Wispy Cloud Drift",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Data Encryption Key",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Cosmic Nebula Splatter",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1fabfca24d6cb99b367b95631c797e1922998e19f584068fe5262c38293c11d7i0",
+    "meta": {
+      "name": "Creator Pass #15",
+      "attributes": [
+        {
+          "value": "Arctic Frost Fur",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Rustic Forest Floor",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Lunar Module Reflection",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e8854f4ed1dabc0400d7cbe35765fa4495a2f857b5b3bc925edd95cc486097aei0",
+    "meta": {
+      "name": "Creator Pass #16",
+      "attributes": [
+        {
+          "value": "Cashmere Swirl Embossing",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Ominous Soulfire Embers",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Fiery Inferno Grin",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c9958b43a7bf12f8468088a643fad188f6a55399cdadfab5925b474875b223b1i0",
+    "meta": {
+      "name": "Creator Pass #17",
+      "attributes": [
+        {
+          "value": "Silver Fox Tail Fur",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Haunting Moonlit Grove",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Dynamic Energy Swirl",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b655452472082879e5aec20bc643c6864359dcb4a4b84bc3fe4e3164618ac658i0",
+    "meta": {
+      "name": "Creator Pass #18",
+      "attributes": [
+        {
+          "value": "Citrus Zest Infusion",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Majestic Mountain Range",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vibrant Pow Burst",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "49630a7e0f4f3239b6554d3b873537658b659f7b8244a4e48bd9bd6ab395e843i0",
+    "meta": {
+      "name": "Creator Pass #19",
+      "attributes": [
+        {
+          "value": "Gilded Laurel Wreath",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Radiant Sunset Cascade",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Glass Prism Shard Mosaic",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4681657e7dbea8e4d944631295deea92ce2a4f52d4b453ec80cad2d7e6625d31i0",
+    "meta": {
+      "name": "Creator Pass #20",
+      "attributes": [
+        {
+          "value": "Granite Shard Vortex",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Vibrant Wildflower Meadow",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Neon Circuit Matrix",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fb125d3e64b2704592d32619c15cba5f725aa1412c44f1be90efc0c9760e227fi0",
+    "meta": {
+      "name": "Creator Pass #21",
+      "attributes": [
+        {
+          "value": "Aqua Mist Swirls",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Moss-covered Gravestone Cluster",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Metallic Pistons Array",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cf0371bfcbe47ac20af0fca2f5b84cce55899b43bec3d0e86d52fc6bf1e8c1dbi0",
+    "meta": {
+      "name": "Creator Pass #22",
+      "attributes": [
+        {
+          "value": "Blueberry Ripple Ripple",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Glistening Urban Street Signage",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Celestial Galaxy Mist",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "08dca2a5cd8ed31b4d2a9b4fc086f62f44ebc091edbb2f9664b7e61ba572bd41i0",
+    "meta": {
+      "name": "Creator Pass #23",
+      "attributes": [
+        {
+          "value": "Blueberry Ripple Ripple",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Rain-soaked Asphalt Street",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Pastel Tie Dye Mandala",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "96f76d2031036453e6fd850b09fcece4c4aa33610f42b5172bd20662a6daf602i0",
+    "meta": {
+      "name": "Creator Pass #24",
+      "attributes": [
+        {
+          "value": "Ember Glow Crackle",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Majestic Mountain Range",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Obsidian Willow Silhouette",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b9d490cf50e1f0c5c447fd9367a1eae5d6e22c750e1a7b7ecbc5bd548a4d2b61i0",
+    "meta": {
+      "name": "Creator Pass #25",
+      "attributes": [
+        {
+          "value": "Brass Sunburst Emblem",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Lost Elven Sanctum",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Amber Mosaic",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "65d3ddd85bb324524a47b1151cda9c27733b6c468645f9841687639b8d0dc019i0",
+    "meta": {
+      "name": "Creator Pass #26",
+      "attributes": [
+        {
+          "value": "Chenille Loop Texture",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Golden Bitcoin Coins",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Dynamic Energy Swirl",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3d5ed7ae007e9762d04cfed5c0ec351efd132ff23b6a1647529be4230bbc30e4i0",
+    "meta": {
+      "name": "Creator Pass #27",
+      "attributes": [
+        {
+          "value": "Citrus Zest Infusion",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Hanging Gardens Foliage Cascade",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Emerald Tree Of Life Medallion",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "56ce7d2f6db3d2a49e4e486ecf59c84fc106958714487649c7508d7dc8d6ca39i0",
+    "meta": {
+      "name": "Creator Pass #28",
+      "attributes": [
+        {
+          "value": "Glittering Slime Veins",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Sunlit Wildflower Meadow",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Playful Cartoon Balloons",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d65d14d99e4e895f19a09611db2135bb3109950df7f8c17208a9e2ab27c1d117i0",
+    "meta": {
+      "name": "Creator Pass #29",
+      "attributes": [
+        {
+          "value": "Obsidian River Flow",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Whispering Willow Canopy",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Lunar Module Reflection",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0391e02325356df43866a4528e2a8420a6f08bf6f76bd4ceb9b62a857b2e3270i0",
+    "meta": {
+      "name": "Creator Pass #30",
+      "attributes": [
+        {
+          "value": "Fiery Ember Cluster",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Starlit Clifftop Silhouette",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Alabaster Carved Profile",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "01438eeb5b27f3170295d1e48420da22516a77c283892756871e768919481bfci0",
+    "meta": {
+      "name": "Creator Pass #31",
+      "attributes": [
+        {
+          "value": "Gilded Laurel Wreath",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Antique Manuscript Display",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Particle Cascade Emitter",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8bc2b1f748cadb8bf6b1a72e81b6a1e9b9175206cb0943b94875efa50bc2c115i0",
+    "meta": {
+      "name": "Creator Pass #32",
+      "attributes": [
+        {
+          "value": "Granite Shard Mosaic",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Great Pyramid Hieroglyphics",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Golden Fibonacci Whirlpool",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f77fabb315925896d72e935533d7b179184926393ecc0dec665de243f15bf037i0",
+    "meta": {
+      "name": "Creator Pass #33",
+      "attributes": [
+        {
+          "value": "Viscous Brown Drips",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Pixelated Blockchain Network",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Animated Pixel Parade",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "eeae02b15f17f61c6e70a1d8de758cb60907c9fb2004cf0631485cf22b0e2b19i0",
+    "meta": {
+      "name": "Creator Pass #34",
+      "attributes": [
+        {
+          "value": "Marble Inlay",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Enchanted Forest Canopy",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Damned Clown",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a84cd58afd42801bec080dd559231d2a117ccb20627bf905706fd03bc3e98588i0",
+    "meta": {
+      "name": "Creator Pass #35",
+      "attributes": [
+        {
+          "value": "Quartz Crystal Veins",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Ethereal Celestial Spires",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Particle Cascade Emitter",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e086a3b36365bce719dd1e4fb7d8d40bc7d4ee7e9c751081feb8bd81d1082370i0",
+    "meta": {
+      "name": "Creator Pass #36",
+      "attributes": [
+        {
+          "value": "Bone Marrow Swirl",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Majestic Redwood Grove Canopy",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Glacial Ice Crystal Cluster",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2f6d42ba8ed6bdba9a5a07ba2265ae78ac8d4a547777c7602c5395f6a3d2aaa0i0",
+    "meta": {
+      "name": "Creator Pass #37",
+      "attributes": [
+        {
+          "value": "Agate Geode Hues",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Antique Manuscript Display",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Punching Glove Showdown",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f56a5a60709bb21318a924679d16db992d61508d18dfed6c2c00e2bb1d18717bi0",
+    "meta": {
+      "name": "Creator Pass #38",
+      "attributes": [
+        {
+          "value": "Obsidian River Flow",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Wet Cobblestone Alleyway",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Geometric Prism Cluster",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e58960e6416e5fdf242a1176242a9e3be5256bfa1ecc0229f084bddbc19f139bi0",
+    "meta": {
+      "name": "Creator Pass #39",
+      "attributes": [
+        {
+          "value": "Primary Color Block Bash",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Amenti's Veil Of Time",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Platinum Data Stream Spiral",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bcf23f7abaa33c526d29a127dee8b87e07894cba7449c9c5b6cf8e5fc01bba4bi0",
+    "meta": {
+      "name": "Creator Pass #40",
+      "attributes": [
+        {
+          "value": "Copper Filigree Crest",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Iridescent Ocean Waves",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Santa Winking",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a39b9cd444f696f54cd5d5a9190be1e96854d6dcb77d35e1b74270a1a961543ai0",
+    "meta": {
+      "name": "Creator Pass #41",
+      "attributes": [
+        {
+          "value": "Platinum Geometric Inlay",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Haunting Moonlit Grove",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Santa Winking",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f6fa420a7db3c2809b09f94627b7ee66df2804d2ed6c950fcfce4a9922b88659i0",
+    "meta": {
+      "name": "Creator Pass #42",
+      "attributes": [
+        {
+          "value": "Viscous Brown Drips",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Ominous Soulfire Embers",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Sunset Gradient",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6c1a029cbba6859be40c322577af59eb6be34c10443e0ef8c0d65f985602e0f8i0",
+    "meta": {
+      "name": "Creator Pass #43",
+      "attributes": [
+        {
+          "value": "Crimson Drip Spatter",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Crystal Clear Stream",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vibrant Pow Burst",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0678746d552c8d951dae2e2a40ba0331b0fcd33875f5b67eec110f00ac7a3bf4i0",
+    "meta": {
+      "name": "Creator Pass #44",
+      "attributes": [
+        {
+          "value": "Ember Glow Crackle",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Shadowy Crypt Engravings",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Angel",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e8f4ac2114aee23b61b9c53c6164076cc4927a5e23147ab814c73259ec25e294i0",
+    "meta": {
+      "name": "Creator Pass #45",
+      "attributes": [
+        {
+          "value": "Platinum Geometric Inlay",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Majestic Redwood Grove Canopy",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Rainbow Prism Cascade",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "714af7153b37997801c772b70dfd75b00f38818d89b994b6dc6f34c767164820i0",
+    "meta": {
+      "name": "Creator Pass #46",
+      "attributes": [
+        {
+          "value": "Silver Fox Tail Fur",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Mossy Stone Archway",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mrbrc",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2cbd827ea57b7dde82bd71fd8fd3b1a2d9ad178e7a5bbd2fb59140feb17830a6i0",
+    "meta": {
+      "name": "Creator Pass #47",
+      "attributes": [
+        {
+          "value": "Quartz Crystal Veins",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Pixelated Blockchain Network",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Marijuana Leaf",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2a32a2ef10cc57a0f07bdf21678f35d0d0ef0a404190b2a9641a49d0b5860288i0",
+    "meta": {
+      "name": "Creator Pass #48",
+      "attributes": [
+        {
+          "value": "Midnight Shadow Fur",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Moss-covered Gravestone Cluster",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Pastel Tie Dye Mandala",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bc8fd50720325528206dbf243900d92a23ce813f413b85f32695a7a2cc16dcfdi0",
+    "meta": {
+      "name": "Creator Pass #49",
+      "attributes": [
+        {
+          "value": "Agate Geode Hues",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Eerie Midnight Mist",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Surreal Dali Clock",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "69314046b9458bd7e5c664665cbcd9ccf16ebee9810d94dd18468b9335a0736di0",
+    "meta": {
+      "name": "Creator Pass #50",
+      "attributes": [
+        {
+          "value": "Leather Materials",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Hidden Waterfall Nook",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Emerald Glimmer",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abd9c97401aa2486eec362cf1f3dcd30315c37f027dee55575b567b3215d50fbi0",
+    "meta": {
+      "name": "Creator Pass #51",
+      "attributes": [
+        {
+          "value": "Ember Glow Crackle",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Antique Manuscript Display",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Playful Cartoon Balloons",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "58d8655f4a1feb485e6f1548e6d0b0ee679a547d82e33d3e426491f4de8091bci0",
+    "meta": {
+      "name": "Creator Pass #52",
+      "attributes": [
+        {
+          "value": "Cartoon Bubble Pop",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Rain-soaked Asphalt Street",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Emerald Tree Of Life Medallion",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8211dc7b3ea5027a7f67bfd08c3698b90a927c956398d8b9c7daa2ca8585d96ci0",
+    "meta": {
+      "name": "Creator Pass #53",
+      "attributes": [
+        {
+          "value": "Citrus Zest Infusion",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Sunken Shipwreck Lair",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Marijuana Leaf",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b68a61e295e8beac55080f3e74562cbee6a1314c6cbdb5e92247ac2bfaef94bbi0",
+    "meta": {
+      "name": "Creator Pass #54",
+      "attributes": [
+        {
+          "value": "Granite Shard Vortex",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Starlit Cave Grotto",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Sunset Gradient",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "02eb0d63dda19d83f4aea2e113228e33bffe14018a6f2d31715a767160ecb3b7i0",
+    "meta": {
+      "name": "Creator Pass #55",
+      "attributes": [
+        {
+          "value": "Celestial Frost Crystals",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Hidden Waterfall Nook",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Marijuana Leaf",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b014566d15a735c6f57af6cbf7128cbfe650ff98677a50ab465171610eeeaf8i0",
+    "meta": {
+      "name": "Creator Pass #56",
+      "attributes": [
+        {
+          "value": "Granite Shard Mosaic",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Rustic Forest Floor",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Whimsical Rainbow Swirl",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a16011c87edb0aad08a394813903e3febdff033de931680e65f3c03d5717f768i0",
+    "meta": {
+      "name": "Creator Pass #57",
+      "attributes": [
+        {
+          "value": "Cashmere Swirl Embossing",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Sunken Mermaid Treasury",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Punching Glove Showdown",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "63a5bbacdd02de152d0a300b3967a41a23857b4ddcbb24bee83acb0fa85eaa8ei0",
+    "meta": {
+      "name": "Creator Pass #58",
+      "attributes": [
+        {
+          "value": "Coral Reef",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Verdant Moss-covered Boulder",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Funky Comic Sound Effects",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "438a4a913ee4c6c9860cbc0aac41d9e013fb48b5d24b135765678e246daef297i0",
+    "meta": {
+      "name": "Creator Pass #59",
+      "attributes": [
+        {
+          "value": "Crimson Drip Spatter",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Textured Canvas Fabric",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Quirky Doodle Sketches",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9ad8ec474893962017d76ba5f66db9ec70d42507eec153cd89ce32cb0af2892di0",
+    "meta": {
+      "name": "Creator Pass #60",
+      "attributes": [
+        {
+          "value": "Crimson Drip Spatter",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Sunken Shipwreck Lair",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Venomous Bite Mark",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ec027f0fe624499b278ab46cbd709f47bcfcdb862493cc617b92deaddf5dad93i0",
+    "meta": {
+      "name": "Creator Pass #61",
+      "attributes": [
+        {
+          "value": "Agate Geode Hues",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Reflective Glass Office Building",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Cosmic Nebula Splatter",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f5965b8429b3bb57c48ace337de3765c37cf2393596b0d81ff50ce2f214e9e45i0",
+    "meta": {
+      "name": "Creator Pass #62",
+      "attributes": [
+        {
+          "value": "Blueberry Ripple Ripple",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Majestic Redwood Grove Canopy",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Venomous Bite Mark",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2c5f82a8b61b030185b4145ffbb8f757ed3817fd8f6f406ac1f1432a0dc90d6fi0",
+    "meta": {
+      "name": "Creator Pass #63",
+      "attributes": [
+        {
+          "value": "Arctic Frost Fur",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Rustling Autumn Leaves Carpet",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Quantum Detector Matrix",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cd23a536dbe19afe2de461da8f40b22bd55ba7ac02504336967a5dc750e68f08i0",
+    "meta": {
+      "name": "Creator Pass #64",
+      "attributes": [
+        {
+          "value": "Golden Honeycomb Fur",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Golden Bitcoin Coins",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Silver Starburst Vortex",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d976cb31b16257904e9e10f9d8622265c91670adfff8a89ae61c7957e6cd9ab8i0",
+    "meta": {
+      "name": "Creator Pass #65",
+      "attributes": [
+        {
+          "value": "Golden Honeycomb Fur",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Reflective Glass Office Building",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Lunar Module Reflection",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3adb6c038847e553b7af4fe385b55fe06caa723d7294c0f33fa24824c8efffb0i0",
+    "meta": {
+      "name": "Creator Pass #66",
+      "attributes": [
+        {
+          "value": "Sinewy Tissue Network",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Moss-covered Gravestone Cluster",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Amber Mosaic",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "db6c7c3ea2dbaed1fae4bb971b74d01f1e3288b9c3afe0738a70dc12ee77f0c0i0",
+    "meta": {
+      "name": "Creator Pass #67",
+      "attributes": [
+        {
+          "value": "Trippy Kaleidoscope Dream",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Enchanted Tree Hollow",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Abyssal Depths Centerpiece",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb705429cbe5f71d06a62e98a5a451d337ce54b4e76ac9ce2d90b92849a1c5d6i0",
+    "meta": {
+      "name": "Creator Pass #68",
+      "attributes": [
+        {
+          "value": "Coral Reef",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Glistening Urban Street Signage",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Rainbow Swirl Burst",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c44bcb1da160da526e05f1954b1a410ea2d775f8ba1faeb3c0e0be161cb98a38i0",
+    "meta": {
+      "name": "Creator Pass #69",
+      "attributes": [
+        {
+          "value": "Obsidian River Flow",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Glittering Emerald Cavern",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Turquoise Dots",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "79f152b24f6d74bde00e9b205c3ea4eb600cb6d1ae42ca327af9aa4e9dde8876i0",
+    "meta": {
+      "name": "Creator Pass #70",
+      "attributes": [
+        {
+          "value": "Citrus Zest Infusion",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Candy-coated Mushroom Grove",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Silver Spellcaster Stardust",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "be668d2728398c517470864ecf4c5cd650f81f0f39d2cb56685a8907bc5ac9c7i0",
+    "meta": {
+      "name": "Creator Pass #71",
+      "attributes": [
+        {
+          "value": "Neon Swirl Burst",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Ominous Soulfire Embers",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Punching Glove Showdown",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "174d9ef63b9bae8a47132da3059e88a8e3700312a0e914b9b7aded2203a35172i0",
+    "meta": {
+      "name": "Creator Pass #72",
+      "attributes": [
+        {
+          "value": "Copper Filigree Crest",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Wrought Iron Cemetery Gate",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Sunset Gradient",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "468986a45cbf251cc0e9359496cd8a578d7e71be420ee3941c28e2da1642ceebi0",
+    "meta": {
+      "name": "Creator Pass #73",
+      "attributes": [
+        {
+          "value": "Arctic Frost Fur",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Pixelated Blockchain Network",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vibrant Fruit Basket Hat Duo",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c5d3a107ee17aeb94c48a689fa00e8b09a12506e6814f3ab562165da7bbabb5bi0",
+    "meta": {
+      "name": "Creator Pass #74",
+      "attributes": [
+        {
+          "value": "Crystal Prism",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Enchanted Tree Hollow",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Ink Splatter Abstract",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e07818bc9a94d0055fcd1078be8cd38ac68adde568fff952fe746188f5492afdi0",
+    "meta": {
+      "name": "Creator Pass #75",
+      "attributes": [
+        {
+          "value": "Pop Art Dots Explosion",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Golden Bitcoin Coins",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Moiré Pattern Swirl",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8ba2c15207235725b4cf1510b0f22202cea11c5f235aa2f9568950ea24665beai0",
+    "meta": {
+      "name": "Creator Pass #76",
+      "attributes": [
+        {
+          "value": "Wispy Cloud Drift",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Sunken Mermaid Treasury",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Silver Crypto Glyph Inlay",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "434b19f162495891e16f843ec591c83e2800f929e3368bfea6bfce0eff487434i0",
+    "meta": {
+      "name": "Creator Pass #77",
+      "attributes": [
+        {
+          "value": "Chenille Loop Texture",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Starlit Cave Grotto",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Whimsical Rainbow Swirl",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "32581872954be8a01e28e043789b65d29ac1effb7badf2de35ea75c16f8c3d26i0",
+    "meta": {
+      "name": "Creator Pass #78",
+      "attributes": [
+        {
+          "value": "Midnight Shadow Fur",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Rain-soaked Asphalt Street",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Bitcoin Sack",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e3f05db8c9a1e7e1219f6ad2b981d6e204815ffb9b09999fdedc4dfd20811191i0",
+    "meta": {
+      "name": "Creator Pass #79",
+      "attributes": [
+        {
+          "value": "Neon Swirl Burst",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Ancient Mosaic Floor",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Comic Strip Collage",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cf28ae5e81d4381ac5fe4a329eed7b49c7ec09f60d60ad30238869deddab861ei0",
+    "meta": {
+      "name": "Creator Pass #80",
+      "attributes": [
+        {
+          "value": "Lava Flow",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Sunlit Wildflower Meadow",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Gilded Pharaoh Engraving",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8fc56caebc58f32dd2458256afbb1d7e6123a498021c99593f1b1075e3795382i0",
+    "meta": {
+      "name": "Creator Pass #81",
+      "attributes": [
+        {
+          "value": "Trippy Kaleidoscope Dream",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Great Pyramid Hieroglyphics",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Damned Clown",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fa2b1444c3666af82e667049c8965eaee367745e3079582f9195854c8576cd5ci0",
+    "meta": {
+      "name": "Creator Pass #82",
+      "attributes": [
+        {
+          "value": "Trippy Kaleidoscope Dream",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Starlit Clifftop Silhouette",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Steel Grey Streaks",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c09222e074e171e0432cae68cf95287887c80b97585596a764fd69caee1d82f4i0",
+    "meta": {
+      "name": "Creator Pass #83",
+      "attributes": [
+        {
+          "value": "Arctic Frost Fur",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Golden Bitcoin Coins",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Glass Prism Shard Mosaic",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "882d0bc706a92dd89aa96fe5a95bf542f4a55c7382ba2015fec8f4349163fc04i0",
+    "meta": {
+      "name": "Creator Pass #84",
+      "attributes": [
+        {
+          "value": "Platinum Geometric Inlay",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Rustic Forest Floor",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Ebony Inkblot Cascade",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "36796a2daa37a778d2ea007f1a510d64d0de6718fb2334f431be7e2d2b1e0e5ci0",
+    "meta": {
+      "name": "Creator Pass #85",
+      "attributes": [
+        {
+          "value": "Cartoon Bubble Pop",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Whispering Willow Canopy",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Whimsical Character Cameo",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3bf7a5e0e3d313d2463c167d8cf7b2ae6dc528129cbf9654d83017fc607d8afbi0",
+    "meta": {
+      "name": "Creator Pass #86",
+      "attributes": [
+        {
+          "value": "Brass Sunburst Emblem",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Vibrant Wildflower Meadow",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Royal Sapphire Portal",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "09562378f1ae2d3a1d1d29566cd20f5c7df4b4fdf6c12443b8333cb968d06703i0",
+    "meta": {
+      "name": "Creator Pass #87",
+      "attributes": [
+        {
+          "value": "Frosted Chocolate Swirl",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Digital Circuit Matrix",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Enchanted Keyhole Portal",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dbd061167eae86feafb8b8a5fdcb0594e3b82f8947f451de4eeef1ff148e6a8fi0",
+    "meta": {
+      "name": "Creator Pass #88",
+      "attributes": [
+        {
+          "value": "Granite Shard Vortex",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Moss-covered Gravestone Cluster",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Luminous Aqua Swirls",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "35d63c932af35b5f2dd5a9bc39b818b2cc7f057876a8fea89fd78e58314f7b96i0",
+    "meta": {
+      "name": "Creator Pass #89",
+      "attributes": [
+        {
+          "value": "Silver Vein Striations",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Abstract Geometric Shapes",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Frosted Pinecone Medallion",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b405afb55d490c98ec2dd08fbab399411a4275f9d62c600e91092d8fdf6bb726i0",
+    "meta": {
+      "name": "Creator Pass #90",
+      "attributes": [
+        {
+          "value": "Gold Leaf Vine Border",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Pirate's Treasure Trove",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Icy Blue Gaze",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7df575fc4807ff47a1db0a55b4f827e9c67786633d19f128deecf8a83356454fi0",
+    "meta": {
+      "name": "Creator Pass #91",
+      "attributes": [
+        {
+          "value": "Silver Fox Tail Fur",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Pirate's Treasure Trove",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Quirky Doodle Sketches",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d602d3c24377163e74db40c7b8d8dcd9c952458b36d19ae6291efe0e8ee5e9e7i0",
+    "meta": {
+      "name": "Creator Pass #92",
+      "attributes": [
+        {
+          "value": "Larval Cluster Specimen",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Reflective Glass Office Building",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Violet Spiral",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b7ca6d0477f4be1d489d12622d4d89a364558e6574bed1a1f9dc1873c348d322i0",
+    "meta": {
+      "name": "Creator Pass #93",
+      "attributes": [
+        {
+          "value": "Obsidian River Flow",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Shadowy Crypt Engravings",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Dynamic Energy Swirl",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "44bc32d2e22fc0a591df317ab174eee10a5050c239dd68101e9d83f75656e70ei0",
+    "meta": {
+      "name": "Creator Pass #94",
+      "attributes": [
+        {
+          "value": "Golden Filigree Rosette",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Fading Sunset Gradient",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Sunset Gradient",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2f051df894b57968756b2192a43c427f56253353e4f2b8e6c844aac6af2bdd1ci0",
+    "meta": {
+      "name": "Creator Pass #95",
+      "attributes": [
+        {
+          "value": "Golden Honeycomb Fur",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Moss-covered Gravestone Cluster",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Maniacal Clown Face",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cdf8b945830eaf9cf396f58407aad5d3d8f56ed3c6738973c48965cbf114251bi0",
+    "meta": {
+      "name": "Creator Pass #96",
+      "attributes": [
+        {
+          "value": "Crimson Drip Spatter",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Necrotic Ruins Debris",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Punching Glove Showdown",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3431d638b85122814976fd18cff3d2a1845a065a8a9ad3fe1feabdb277bf0814i0",
+    "meta": {
+      "name": "Creator Pass #97",
+      "attributes": [
+        {
+          "value": "Viscous Brown Drips",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Rain-soaked Asphalt Street",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Neon Glow Swirls",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3e7eab58cd9fd64366656ab655ef3b5a3a276b000634e05352946022a433ae0bi0",
+    "meta": {
+      "name": "Creator Pass #98",
+      "attributes": [
+        {
+          "value": "Wispy Cloud Drift",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Ominous Soulfire Embers",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Enchanted Forest Eyes",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1406e796508e93cd30bf2c862d8991a4b85997d4e87a9dcf27aa111711de6766i0",
+    "meta": {
+      "name": "Creator Pass #99",
+      "attributes": [
+        {
+          "value": "Blueberry Ripple Ripple",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Haunting Moonlit Grove",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Violet Spiral",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "32d77f42ca54a13e19078894785148da4b34df08a864f34a66af6925f423d49ci0",
+    "meta": {
+      "name": "Creator Pass #100",
+      "attributes": [
+        {
+          "value": "Copper Filigree Crest",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Enchanted Forest Canopy",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Quantum Detector Matrix",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "827e9d06690df7a732a048b102f32bac357bb42bf25169f12d1a0279edaee3a3i0",
+    "meta": {
+      "name": "Creator Pass #101",
+      "attributes": [
+        {
+          "value": "Copper Filigree Crest",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Starlit Clifftop Silhouette",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Sapphire Celestial Starburst",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1d76628843a50e851bcbe275bd20d002f23f0d7836a82b4f9aba7e09d1cc65e5i0",
+    "meta": {
+      "name": "Creator Pass #102",
+      "attributes": [
+        {
+          "value": "Cartoon Bubble Pop",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Verdant Moss-covered Boulder",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Luminous Motherboard Glow",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bdce37abcbb3cb51b20f303952982d184309abc24bb5d82fe5468ba999f200fci0",
+    "meta": {
+      "name": "Creator Pass #103",
+      "attributes": [
+        {
+          "value": "Jellybean Rainbow Swirl",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Vibrant Wildflower Meadow",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Emerald Tree Of Life Medallion",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f236d5c769392426a7e28d990be8dbc85396a9c04923e0135edc7b19c2fd03f3i0",
+    "meta": {
+      "name": "Creator Pass #104",
+      "attributes": [
+        {
+          "value": "Agate Geode Hues",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Sunken Mermaid Treasury",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Ethereal Dreamcatcher Whirl",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d26704a31c5e11ba59eb6c511e303a53836430c4b3311897fbfdf5b1c0a4f084i0",
+    "meta": {
+      "name": "Creator Pass #105",
+      "attributes": [
+        {
+          "value": "Bone Marrow Swirl",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Iridescent Ocean Waves",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Copper Veins",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a7b1ad4294ad280420269643df53b3265a9e61eb2e74ecd39498bd7db4913ad7i0",
+    "meta": {
+      "name": "Creator Pass #106",
+      "attributes": [
+        {
+          "value": "Aqua Mist Swirls",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Digital Circuit Matrix",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Cosmic Elder Firestorm",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e0693d85dd04fde42d4565071a86aaecdf6da300c7016616443e050957507b43i0",
+    "meta": {
+      "name": "Creator Pass #107",
+      "attributes": [
+        {
+          "value": "Granite Shard Mosaic",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Antique Manuscript Display",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Gladiator Fight",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8a27f44e8b0299003ba99cd1f31cf2bad5d2e91a5ecc6546c19a70b48b706418i0",
+    "meta": {
+      "name": "Creator Pass #108",
+      "attributes": [
+        {
+          "value": "Blueberry Ripple Ripple",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Antique Manuscript Display",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Ruby Rose Spiral Bloom",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "10ebd6a258f606faded47f823cad49d023085273de3cb32d9f3273ad2381e121i0",
+    "meta": {
+      "name": "Creator Pass #109",
+      "attributes": [
+        {
+          "value": "Neon Swirl Burst",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Crystal Clear Mountain Stream",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Ruby Rose Spiral Bloom",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7c153d33a21706768a9ea6b3ce3b9fcf1caff1859ae2d4fd615e37e03ffdb838i0",
+    "meta": {
+      "name": "Creator Pass #110",
+      "attributes": [
+        {
+          "value": "Ember Glow Crackle",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Rustic Forest Floor",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Crimson Blot Fusion",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "53d4322ca333783d35d32de254f73e68e60aade95ff3e4ebb039fc437dee2948i0",
+    "meta": {
+      "name": "Creator Pass #111",
+      "attributes": [
+        {
+          "value": "Crimson Stitched Patchwork",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Sunken Mermaid Treasury",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Diamond Sunburst Glyph",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "383b2c152666c83080070a54045a3834f5de40c17baea728d985e4a42cdb0651i0",
+    "meta": {
+      "name": "Creator Pass #112",
+      "attributes": [
+        {
+          "value": "Arctic Frost Fur",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Verdant Moss-covered Boulder",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Celestial Keyhole Gateway",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d9a6c4ec0140df48a3d7c2656ae49ade87aecc9a87979ae0c77730cc25c456c4i0",
+    "meta": {
+      "name": "Creator Pass #113",
+      "attributes": [
+        {
+          "value": "Aqua Mist Swirls",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Hanging Gardens Foliage Cascade",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Holographic Alien Glyphs",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f9268c5b15b2c4b4f9df5c18a588341a1c6dae36329062a4637ac1b2bdac89b6i0",
+    "meta": {
+      "name": "Creator Pass #114",
+      "attributes": [
+        {
+          "value": "Neon Slime Drip",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Starlit Clifftop Silhouette",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Melting Coin",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a90e519a983f44450cea1a8789ea42b1312579ea7b0a5b2d9726ac6cc7f0e214i0",
+    "meta": {
+      "name": "Creator Pass #115",
+      "attributes": [
+        {
+          "value": "Suede Leaf Veins",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Hidden Waterfall Nook",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Icy Blue Gaze",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0323d0dfece96b597b1f5c8133c1c821bcd8cade181453999dcf1c09636d720bi0",
+    "meta": {
+      "name": "Creator Pass #116",
+      "attributes": [
+        {
+          "value": "Crystal Prism",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Crystal Clear Mountain Stream",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Sapphire Celestial Starburst",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e1026882efa3ed86ffb3563a967c0ba4e627ee31d44af315fca8951427fcc770i0",
+    "meta": {
+      "name": "Creator Pass #117",
+      "attributes": [
+        {
+          "value": "Aqua Mist Swirls",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Necrotic Ruins Debris",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Surreal Dali Clock",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5808675315516ed6afe663fa68f1fe3a105b0f6a1e85e25c7b3e74ceae5c229ci0",
+    "meta": {
+      "name": "Creator Pass #118",
+      "attributes": [
+        {
+          "value": "Chenille Loop Texture",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Abstract Geometric Shapes",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Copper Crypto Map Overlay",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bb3a6ee9876fcbc8bdadfe08fc7d0b8505d3f3ead5234c0d7b6717f65b9bbcdei0",
+    "meta": {
+      "name": "Creator Pass #119",
+      "attributes": [
+        {
+          "value": "Lava Flow",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Necrotic Ruins Debris",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Sapphire Celestial Starburst",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5bc0a94fb7102a87d128d7cfa151384b8f367be92fc8c93aee2736f1231ed254i0",
+    "meta": {
+      "name": "Creator Pass #120",
+      "attributes": [
+        {
+          "value": "Jellybean Rainbow Swirl",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Pirate's Treasure Trove",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vibrant Pow Burst",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4f091bebe8020dcd76bbea0eb0af846eaf264f2031bc040b3a6a90d5d991b6a8i0",
+    "meta": {
+      "name": "Creator Pass #121",
+      "attributes": [
+        {
+          "value": "Trippy Kaleidoscope Dream",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Luminous Taj Mahal Window",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Enchanted Forest Eyes",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "06c145e0fffafe0eee61b445f141d6ceadc3f6e4966fe1d5f630f5a5526e1abbi0",
+    "meta": {
+      "name": "Creator Pass #122",
+      "attributes": [
+        {
+          "value": "Fiery Ember Cluster",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Mossy Stone Archway",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Sapphire Celestial Starburst",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "659ba9b9a975c0d85864bd36d8df7592c8ed8120a7d0833c6abf50bdd709f3e5i0",
+    "meta": {
+      "name": "Creator Pass #123",
+      "attributes": [
+        {
+          "value": "Chenille Loop Texture",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Ancient Mosaic Floor",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Emerald Tree Of Life Medallion",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a17c7f588b077035796c0ac8001d765afe96d39d9f1504c14b0bb8d81d6ae397i0",
+    "meta": {
+      "name": "Creator Pass #124",
+      "attributes": [
+        {
+          "value": "Coral Reef",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Sunken Shipwreck Lair",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Pastel Tie Dye Mandala",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8ff79cfaaf35f735dafe7bde9f0c63804ce068fbc46b9fd829dd5041c9d3bbb3i0",
+    "meta": {
+      "name": "Creator Pass #125",
+      "attributes": [
+        {
+          "value": "Silver Vein Striations",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Moonlit Horizon Reflections",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Electrified Sage Glow",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "af748eb78fd74c3d82859c2a28f2cad4bb2f373855dc6cd9703f9f1b7e37fd2ai0",
+    "meta": {
+      "name": "Creator Pass #126",
+      "attributes": [
+        {
+          "value": "Agate Geode Hues",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Enchanted Forest Canopy",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Glass Prism Shard Mosaic",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4947a6524b7c3d0fe8535534e8241a72a3ed13e5136b388d126e62c5504d7ce3i0",
+    "meta": {
+      "name": "Creator Pass #127",
+      "attributes": [
+        {
+          "value": "Midnight Shadow Fur",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Pirate's Treasure Trove",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Diamond Sunburst Glyph",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "765dd8f30e3281952d360cb7e7e5b7f5e65562ac75f51d76da691f1263285dbai0",
+    "meta": {
+      "name": "Creator Pass #128",
+      "attributes": [
+        {
+          "value": "Aqua Mist Swirls",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Opalescent Moonlit Sky",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Melting Coin",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1cb27a9891a16d7171c4b3a1fe6cc5ffdd3cfeb1bcf69532b2ff22e78436da7ai0",
+    "meta": {
+      "name": "Creator Pass #129",
+      "attributes": [
+        {
+          "value": "Jellybean Rainbow Swirl",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Pirate's Treasure Trove",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Opulent Bronze Doorway",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "432bb08ff99d8f0e017e9335beffae8c47e7d9ec07721c233f682f3c1b2e9970i0",
+    "meta": {
+      "name": "Creator Pass #130",
+      "attributes": [
+        {
+          "value": "Platinum Geometric Inlay",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Candy-coated Mushroom Grove",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Damned T",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6a91f7c06d3e6615cb184a03220e772d2ac9762efcf625f7d77886c330cd3cadi0",
+    "meta": {
+      "name": "Creator Pass #131",
+      "attributes": [
+        {
+          "value": "Crystal Prism",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Sunken Mermaid Treasury",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Pastel Tie Dye Mandala",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8827b673ad1a28c50c7d93cd905a4adc3f0e6e3924094e20bf5c7032cd005c1ai0",
+    "meta": {
+      "name": "Creator Pass #132",
+      "attributes": [
+        {
+          "value": "Chenille Loop Texture",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Pixelated Blockchain Network",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Ruby Rose Spiral Bloom",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b1a6a703b331a47956cc1f86c154b5800aa3ee0030f67a9c1db7578fb9039fd2i0",
+    "meta": {
+      "name": "Creator Pass #133",
+      "attributes": [
+        {
+          "value": "Flesh Fragment Mosaic",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Dragon's Hoard Cave",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Lunar Module Reflection",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ffa63aeb3033e45858c9b3bc8865746fd19e4c1df643393cdd8ba60c5012977bi0",
+    "meta": {
+      "name": "Creator Pass #134",
+      "attributes": [
+        {
+          "value": "Pop Art Dots Explosion",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Iridescent Ocean Waves",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Fiery Dragon Breath Emanation",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9ac9fde7b9c51b1ffbaf56f71ed02987d6ba24d639449daf20699faca2cded75i0",
+    "meta": {
+      "name": "Creator Pass #135",
+      "attributes": [
+        {
+          "value": "Psychedelic Pixel Matrix",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Wet Cobblestone Alleyway",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Cosmic Elder Firestorm",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6cd578cb8ab5dd500b4f28f2e0a5e93595ce6fdda6cccfbe04100d8ff8545e3ai0",
+    "meta": {
+      "name": "Creator Pass #136",
+      "attributes": [
+        {
+          "value": "Blueberry Ripple Ripple",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Mossy Stone Archway",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Doodle Explosion Burst",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0ca50e1dd6d401979fa107cc709b1a2a6f696c8126b49778bca4f41942f7d584i0",
+    "meta": {
+      "name": "Creator Pass #137",
+      "attributes": [
+        {
+          "value": "Aqua Mist Swirls",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Sunken Mermaid Treasury",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Gilded Lotus Emblem",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f6e9fac00a8b1ff6307234d9aa4994baca716001eb45786d81f6ebb01d0cb292i0",
+    "meta": {
+      "name": "Creator Pass #138",
+      "attributes": [
+        {
+          "value": "Silk Ribbon Intertwine",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Majestic Mountain Range",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Circus Ringmaster's Jewel",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d174e819caa8b8a8d8e32b9119c10ac3a62f58f89f55e159bcd92d8de09335c1i0",
+    "meta": {
+      "name": "Creator Pass #139",
+      "attributes": [
+        {
+          "value": "Whimsical Cloud Fluff",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Cosmic Nebula Drift",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Fangs Of Midnight",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "654731d85295ba531dc1f88a196e349184e634c4ffc25003d2f58afc02c1fecai0",
+    "meta": {
+      "name": "Creator Pass #140",
+      "attributes": [
+        {
+          "value": "Golden Filigree Rosette",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Rustling Autumn Leaves Carpet",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Electrified Sage Glow",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "894fbc00e03923433888707287bd7f54452ab1fbca621b5afe848ca0a21a39d2i0",
+    "meta": {
+      "name": "Creator Pass #141",
+      "attributes": [
+        {
+          "value": "Frosted Chocolate Swirl",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Starlit Cave Grotto",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Sunset Gradient",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a47696393e090cdc4a7a1028cd5542af71a66504dde8b822f02ee0bf0478fe36i0",
+    "meta": {
+      "name": "Creator Pass #142",
+      "attributes": [
+        {
+          "value": "Arctic Frost Fur",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Necrotic Ruins Debris",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Bitcoin Sack",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "495a2961806b2f2f7c710c425e06fb50140e013dfcf01c1d00ec8e24d580ae3fi0",
+    "meta": {
+      "name": "Creator Pass #143",
+      "attributes": [
+        {
+          "value": "Leather Materials",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Ancient Mosaic Floor",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Copper Veins",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1eeba0a2f13f927a0d4cc548a149952ece3e8c978728c4b19620fafb6bc66595i0",
+    "meta": {
+      "name": "Creator Pass #144",
+      "attributes": [
+        {
+          "value": "Neon Swirl Burst",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Amenti's Veil Of Time",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Luminescent Tentacle Array",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "871cb6bc16b3d03c27d77aecb6a8438d8e43ce0c655f884cb53b64725f9fb655i0",
+    "meta": {
+      "name": "Creator Pass #145",
+      "attributes": [
+        {
+          "value": "Citrus Zest Infusion",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Great Pyramid Hieroglyphics",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Damned T",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "420079f4824d7c7c048e4bc1e58397c2f05dca1429efb590a51521f2dd546027i0",
+    "meta": {
+      "name": "Creator Pass #146",
+      "attributes": [
+        {
+          "value": "Pop Art Dots Explosion",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Amenti's Veil Of Time",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Luminous Aqua Swirls",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a073aed3cde8f6620bc5fa700799c2ee83406a834362589cb1a5cc91e8c36c71i0",
+    "meta": {
+      "name": "Creator Pass #147",
+      "attributes": [
+        {
+          "value": "Primary Color Block Bash",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Verdant Moss-covered Boulder",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Metallic Pistons Array",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "14f818b6099f036726680919f3f1790f3ef96720e43dd78e4549e473583d4866i0",
+    "meta": {
+      "name": "Creator Pass #148",
+      "attributes": [
+        {
+          "value": "Flesh Fragment Mosaic",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Lost Elven Sanctum",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Coin Picket Sign Protester",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e0db802f81647e06dcab87f121826c8f368421756701dad0628ebff917bc2c58i0",
+    "meta": {
+      "name": "Creator Pass #149",
+      "attributes": [
+        {
+          "value": "Marble Inlay",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Sunken Mermaid Treasury",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Icy Blue Gaze",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fd0fd6bd22347ee777bcf8e9aab9bec610dd5c67baa1b01f57b869a229677457i0",
+    "meta": {
+      "name": "Creator Pass #150",
+      "attributes": [
+        {
+          "value": "Ember Glow Crackle",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Enchanted Tree Hollow",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Copper Crypto Map Overlay",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cca3f6b760c901d790777dc36af7fe790187120ecb0b9a568b6ace5746e27185i0",
+    "meta": {
+      "name": "Creator Pass #151",
+      "attributes": [
+        {
+          "value": "Fiery Ember Cluster",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Mossy Stone Archway",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Comic Strip Collage",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9b9a88a48a57112425a926b5f50e61cd21f80a70ef2e983028e943622b9a23f4i0",
+    "meta": {
+      "name": "Creator Pass #152",
+      "attributes": [
+        {
+          "value": "Glittering Slime Veins",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Golden Bitcoin Coins",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Op Art Concentric Rings",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7f9bc1eccbc0148637e675d0710366b15d80e3b0234632a80978685dc76c4d28i0",
+    "meta": {
+      "name": "Creator Pass #153",
+      "attributes": [
+        {
+          "value": "Golden Honeycomb Fur",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Sunken Shipwreck Lair",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Frosted Pinecone Medallion",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3150e443b21326c58b5a2706a0ace96c8686146589a154299aefdd9be9e3db3ei0",
+    "meta": {
+      "name": "Creator Pass #154",
+      "attributes": [
+        {
+          "value": "Cashmere Swirl Embossing",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Necrotic Ruins Debris",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Dynamic Energy Swirl",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e4e0d1e36d12ddeceb085b4f3f49adcc21381fd7b1f6ba286dfe985025d43ad7i0",
+    "meta": {
+      "name": "Creator Pass #155",
+      "attributes": [
+        {
+          "value": "Citrus Zest Infusion",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Starlit Clifftop Silhouette",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Ethereal Dreamcatcher Whirl",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5b45cbbfe6931967ce64ce0a22a228cf3b6fb3ed57216b4aa60f85305711be4ei0",
+    "meta": {
+      "name": "Creator Pass #156",
+      "attributes": [
+        {
+          "value": "Whimsical Cloud Fluff",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Starlit Clifftop Silhouette",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Crimson Blot Fusion",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f9601e4fb8833bc151be019d68cdc16bb221b82462ea999e8172f59fb1649b73i0",
+    "meta": {
+      "name": "Creator Pass #157",
+      "attributes": [
+        {
+          "value": "Platinum Geometric Inlay",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Vibrant Wildflower Meadow",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Celestial Keyhole Gateway",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "68e0b5138be548c83a86f9d7e3493995e504d453d017ad5a302993f14a5632d8i0",
+    "meta": {
+      "name": "Creator Pass #158",
+      "attributes": [
+        {
+          "value": "Crimson Stitched Patchwork",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Lost Elven Sanctum",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Glacial Ice Crystal Cluster",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9a35aa34652da94a9d3127b714e2c731da4f2269f1112ee01e84776e7f4ed65bi0",
+    "meta": {
+      "name": "Creator Pass #159",
+      "attributes": [
+        {
+          "value": "Suede Leaf Veins",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Starlit Cave Grotto",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Moiré Pattern Swirl",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1261568182ea6397c501127b729f4739dae02154603e85f606d7fee13938419fi0",
+    "meta": {
+      "name": "Creator Pass #160",
+      "attributes": [
+        {
+          "value": "Chenille Loop Texture",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Moonlit Horizon Reflections",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Copper Veins",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ba47078565c417ef8e2c42697c62ce06fabaf094c6b95b504408b9d6408504dci0",
+    "meta": {
+      "name": "Creator Pass #161",
+      "attributes": [
+        {
+          "value": "Ember Glow Crackle",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Sunken Shipwreck Lair",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Lunar Module Reflection",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3ebc8b1861bb0dc35ce050be92fae0e2d6541b9a132ae82adbc1281ceb7ee505i0",
+    "meta": {
+      "name": "Creator Pass #162",
+      "attributes": [
+        {
+          "value": "Viscous Brown Drips",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Lost Elven Sanctum",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Copper Veins",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e163676f3539c35047090968dbfa1c838669db755b3acc7c1cfb80851ab154d8i0",
+    "meta": {
+      "name": "Creator Pass #163",
+      "attributes": [
+        {
+          "value": "Psychedelic Pixel Matrix",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Hidden Waterfall Nook",
+          "trait_type": "Background"
+        },
+        {
+          "value": "The Persistence Of Time Tones",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f266544797c14c522e2cf28040586a0b516976de952aca2210cf8f9034e4f4c9i0",
+    "meta": {
+      "name": "Creator Pass #164",
+      "attributes": [
+        {
+          "value": "Platinum Geometric Inlay",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Bioluminescent Jellyfish Dance",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Celestial Sunburst Glow",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a22d305d885f5b5ec08998cb9bb8565287bb39661ff86775c6bf0974b5528821i0",
+    "meta": {
+      "name": "Creator Pass #165",
+      "attributes": [
+        {
+          "value": "Aqua Mist Swirls",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Sunken Shipwreck Lair",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Prism Prismatics Array",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "498c5ff7a0231d75d5e322961d7530224f289acefdfb94523ceb759aa7b45a2fi0",
+    "meta": {
+      "name": "Creator Pass #166",
+      "attributes": [
+        {
+          "value": "Citrus Zest Infusion",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Candy-coated Mushroom Grove",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Wolf Shades Cigar Swagger",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d73b49a90187e99b28d42bcd79f6690f570f2cf78b0c9ea31b1d5d14527b9a97i0",
+    "meta": {
+      "name": "Creator Pass #167",
+      "attributes": [
+        {
+          "value": "Crimson Drip Spatter",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Wrought Iron Cemetery Gate",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Rainbow Blockchain Vortex",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": "460c329818eab03d60546bb6bfa10ed7c3af3c16a6e5cc3251bebe46592a71c2i0",
+    "meta": {
+      "name": "Creator Pass #168",
+      "attributes": [
+        {
+          "value": "Cashmere Swirl Embossing",
+          "trait_type": "Materials"
+        },
+        {
+          "value": "Lost Elven Sanctum",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Icy Blue Gaze",
+          "trait_type": "Coin Center Styles"
+        }
+      ]
+    }
+  }
+]

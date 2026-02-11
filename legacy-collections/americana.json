@@ -1,0 +1,8610 @@
+[
+  {
+    "id": "d97a4332f23efc2c705b02ffe32f758fe587e1828192d3cd6031d1d84589a572i0",
+    "meta": {
+      "name": "Americana #1",
+      "attributes": [
+        {
+          "value": "Michigan",
+          "trait_type": "State"
+        },
+        {
+          "value": "1976",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1d119096236de79c5972e33bbad35c6046e1ca3795fa8d1d54742029d9aee8e2i0",
+    "meta": {
+      "name": "Americana #2",
+      "attributes": [
+        {
+          "value": "Arizona",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d53da84a91b71d12e4831e0bf51dc8935cd88a4f48ff90c5f5d0112a86e3f627i2",
+    "meta": {
+      "name": "Americana #2",
+      "attributes": [
+        {
+          "value": "Missouri",
+          "trait_type": "State"
+        },
+        {
+          "value": "1970",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1d119096236de79c5972e33bbad35c6046e1ca3795fa8d1d54742029d9aee8e2i1",
+    "meta": {
+      "name": "Americana #3",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1983",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1d119096236de79c5972e33bbad35c6046e1ca3795fa8d1d54742029d9aee8e2i2",
+    "meta": {
+      "name": "Americana #4",
+      "attributes": [
+        {
+          "value": "Kansas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1967",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3a3e8f79edf93b25b35482c7a943736e8dc2447f06832097fc6594b0ee434e03i0",
+    "meta": {
+      "name": "Americana #5",
+      "attributes": [
+        {
+          "value": "Maryland",
+          "trait_type": "State"
+        },
+        {
+          "value": "1972",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3a3e8f79edf93b25b35482c7a943736e8dc2447f06832097fc6594b0ee434e03i1",
+    "meta": {
+      "name": "Americana #6",
+      "attributes": [
+        {
+          "value": "Mississippi",
+          "trait_type": "State"
+        },
+        {
+          "value": "1966",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3a3e8f79edf93b25b35482c7a943736e8dc2447f06832097fc6594b0ee434e03i2",
+    "meta": {
+      "name": "Americana #7",
+      "attributes": [
+        {
+          "value": "Tennessee",
+          "trait_type": "State"
+        },
+        {
+          "value": "1971",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b5bfde28162d5e6b90b90e9f637ac846b7f6cc72b7cf2703cb22fd3d2ca79051i0",
+    "meta": {
+      "name": "Americana #8",
+      "attributes": [
+        {
+          "value": "Louisiana",
+          "trait_type": "State"
+        },
+        {
+          "value": "1981",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b5bfde28162d5e6b90b90e9f637ac846b7f6cc72b7cf2703cb22fd3d2ca79051i1",
+    "meta": {
+      "name": "Americana #9",
+      "attributes": [
+        {
+          "value": "Delaware",
+          "trait_type": "State"
+        },
+        {
+          "value": "1968",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b5bfde28162d5e6b90b90e9f637ac846b7f6cc72b7cf2703cb22fd3d2ca79051i2",
+    "meta": {
+      "name": "Americana #10",
+      "attributes": [
+        {
+          "value": "Arizona",
+          "trait_type": "State"
+        },
+        {
+          "value": "1965",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b5bfde28162d5e6b90b90e9f637ac846b7f6cc72b7cf2703cb22fd3d2ca79051i3",
+    "meta": {
+      "name": "Americana #11",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b5bfde28162d5e6b90b90e9f637ac846b7f6cc72b7cf2703cb22fd3d2ca79051i4",
+    "meta": {
+      "name": "Americana #12",
+      "attributes": [
+        {
+          "value": "Virginia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "51fc10e8c1a45a4919966e7cfd12d774508d37cb26574c95caa31c9777cb7dcdi0",
+    "meta": {
+      "name": "Americana #13",
+      "attributes": [
+        {
+          "value": "Massachusetts",
+          "trait_type": "State"
+        },
+        {
+          "value": "1947",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "51fc10e8c1a45a4919966e7cfd12d774508d37cb26574c95caa31c9777cb7dcdi1",
+    "meta": {
+      "name": "Americana #14",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1970",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "51fc10e8c1a45a4919966e7cfd12d774508d37cb26574c95caa31c9777cb7dcdi2",
+    "meta": {
+      "name": "Americana #15",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "51fc10e8c1a45a4919966e7cfd12d774508d37cb26574c95caa31c9777cb7dcdi3",
+    "meta": {
+      "name": "Americana #16",
+      "attributes": [
+        {
+          "value": "Illinois",
+          "trait_type": "State"
+        },
+        {
+          "value": "1936",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "51fc10e8c1a45a4919966e7cfd12d774508d37cb26574c95caa31c9777cb7dcdi4",
+    "meta": {
+      "name": "Americana #17",
+      "attributes": [
+        {
+          "value": "Georgia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1980",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9f59a1ee0e0d78ce2071a3b1c56299c47458bfb452d827ef79e0bc2c6d390c33i0",
+    "meta": {
+      "name": "Americana #18",
+      "attributes": [
+        {
+          "value": "Kansas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9f59a1ee0e0d78ce2071a3b1c56299c47458bfb452d827ef79e0bc2c6d390c33i1",
+    "meta": {
+      "name": "Americana #19",
+      "attributes": [
+        {
+          "value": "South Dakota",
+          "trait_type": "State"
+        },
+        {
+          "value": "1961",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9f59a1ee0e0d78ce2071a3b1c56299c47458bfb452d827ef79e0bc2c6d390c33i2",
+    "meta": {
+      "name": "Americana #20",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1990",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9f59a1ee0e0d78ce2071a3b1c56299c47458bfb452d827ef79e0bc2c6d390c33i3",
+    "meta": {
+      "name": "Americana #21",
+      "attributes": [
+        {
+          "value": "Utah",
+          "trait_type": "State"
+        },
+        {
+          "value": "1961",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9f59a1ee0e0d78ce2071a3b1c56299c47458bfb452d827ef79e0bc2c6d390c33i4",
+    "meta": {
+      "name": "Americana #22",
+      "attributes": [
+        {
+          "value": "Rhode Island",
+          "trait_type": "State"
+        },
+        {
+          "value": "1935",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12e283e06e7f6ca810126348f65343730e0511181775d020d9dd4cddd8ed2258i0",
+    "meta": {
+      "name": "Americana #23",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1964",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12e283e06e7f6ca810126348f65343730e0511181775d020d9dd4cddd8ed2258i1",
+    "meta": {
+      "name": "Americana #24",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1983",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12e283e06e7f6ca810126348f65343730e0511181775d020d9dd4cddd8ed2258i2",
+    "meta": {
+      "name": "Americana #25",
+      "attributes": [
+        {
+          "value": "Washington",
+          "trait_type": "State"
+        },
+        {
+          "value": "1978",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12e283e06e7f6ca810126348f65343730e0511181775d020d9dd4cddd8ed2258i3",
+    "meta": {
+      "name": "Americana #26",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1963",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "749898e10405f0f2272c61be91d3e913f6583287062294d5a2613f4f9a694176i0",
+    "meta": {
+      "name": "Americana #27",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "1961",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "749898e10405f0f2272c61be91d3e913f6583287062294d5a2613f4f9a694176i1",
+    "meta": {
+      "name": "Americana #28",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1974",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "749898e10405f0f2272c61be91d3e913f6583287062294d5a2613f4f9a694176i2",
+    "meta": {
+      "name": "Americana #29",
+      "attributes": [
+        {
+          "value": "Oklahoma",
+          "trait_type": "State"
+        },
+        {
+          "value": "1968",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "749898e10405f0f2272c61be91d3e913f6583287062294d5a2613f4f9a694176i3",
+    "meta": {
+      "name": "Americana #30",
+      "attributes": [
+        {
+          "value": "Virginia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1960",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "87cf04d6ae2a53beab76dfa83a957d953f0f7123b8e0a27272b4dc68e896f65bi0",
+    "meta": {
+      "name": "Americana #31",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1990",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "87cf04d6ae2a53beab76dfa83a957d953f0f7123b8e0a27272b4dc68e896f65bi1",
+    "meta": {
+      "name": "Americana #32",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "1962",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "87cf04d6ae2a53beab76dfa83a957d953f0f7123b8e0a27272b4dc68e896f65bi2",
+    "meta": {
+      "name": "Americana #33",
+      "attributes": [
+        {
+          "value": "New Jersey",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "87cf04d6ae2a53beab76dfa83a957d953f0f7123b8e0a27272b4dc68e896f65bi3",
+    "meta": {
+      "name": "Americana #34",
+      "attributes": [
+        {
+          "value": "Pennsylvania",
+          "trait_type": "State"
+        },
+        {
+          "value": "1982",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "87cf04d6ae2a53beab76dfa83a957d953f0f7123b8e0a27272b4dc68e896f65bi4",
+    "meta": {
+      "name": "Americana #35",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "1961",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d53da84a91b71d12e4831e0bf51dc8935cd88a4f48ff90c5f5d0112a86e3f627i0",
+    "meta": {
+      "name": "Americana #36",
+      "attributes": [
+        {
+          "value": "Illinois",
+          "trait_type": "State"
+        },
+        {
+          "value": "1947",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d53da84a91b71d12e4831e0bf51dc8935cd88a4f48ff90c5f5d0112a86e3f627i1",
+    "meta": {
+      "name": "Americana #37",
+      "attributes": [
+        {
+          "value": "Georgia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1965",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d53da84a91b71d12e4831e0bf51dc8935cd88a4f48ff90c5f5d0112a86e3f627i3",
+    "meta": {
+      "name": "Americana #39",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d53da84a91b71d12e4831e0bf51dc8935cd88a4f48ff90c5f5d0112a86e3f627i4",
+    "meta": {
+      "name": "Americana #40",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1995",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "95c2359ca14f7b24dc9371814124ca1c6e63c7e55486ebf9ec524564361b2042i0",
+    "meta": {
+      "name": "Americana #41",
+      "attributes": [
+        {
+          "value": "Utah",
+          "trait_type": "State"
+        },
+        {
+          "value": "1966",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "95c2359ca14f7b24dc9371814124ca1c6e63c7e55486ebf9ec524564361b2042i1",
+    "meta": {
+      "name": "Americana #42",
+      "attributes": [
+        {
+          "value": "Alabama",
+          "trait_type": "State"
+        },
+        {
+          "value": "1972",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "95c2359ca14f7b24dc9371814124ca1c6e63c7e55486ebf9ec524564361b2042i2",
+    "meta": {
+      "name": "Americana #43",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1962",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "95c2359ca14f7b24dc9371814124ca1c6e63c7e55486ebf9ec524564361b2042i3",
+    "meta": {
+      "name": "Americana #44",
+      "attributes": [
+        {
+          "value": "New Hampshire",
+          "trait_type": "State"
+        },
+        {
+          "value": "1963",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "95c2359ca14f7b24dc9371814124ca1c6e63c7e55486ebf9ec524564361b2042i4",
+    "meta": {
+      "name": "Americana #45",
+      "attributes": [
+        {
+          "value": "Louisiana",
+          "trait_type": "State"
+        },
+        {
+          "value": "1975",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fc8458651b6dcd288c2920fbc48419ababd7738d2f75b52e65f558bf20cd5698i0",
+    "meta": {
+      "name": "Americana #46",
+      "attributes": [
+        {
+          "value": "Ohio",
+          "trait_type": "State"
+        },
+        {
+          "value": "1967",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fc8458651b6dcd288c2920fbc48419ababd7738d2f75b52e65f558bf20cd5698i1",
+    "meta": {
+      "name": "Americana #47",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1984",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fc8458651b6dcd288c2920fbc48419ababd7738d2f75b52e65f558bf20cd5698i2",
+    "meta": {
+      "name": "Americana #48",
+      "attributes": [
+        {
+          "value": "Michigan",
+          "trait_type": "State"
+        },
+        {
+          "value": "1968",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fc8458651b6dcd288c2920fbc48419ababd7738d2f75b52e65f558bf20cd5698i3",
+    "meta": {
+      "name": "Americana #49",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cc5c56e966a52de0c2ffcec0b3cd8d6c45f6a0f23de37d05a6d7412233e25d81i0",
+    "meta": {
+      "name": "Americana #50",
+      "attributes": [
+        {
+          "value": "Virginia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1959",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cc5c56e966a52de0c2ffcec0b3cd8d6c45f6a0f23de37d05a6d7412233e25d81i1",
+    "meta": {
+      "name": "Americana #51",
+      "attributes": [
+        {
+          "value": "Georgia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1966",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cc5c56e966a52de0c2ffcec0b3cd8d6c45f6a0f23de37d05a6d7412233e25d81i2",
+    "meta": {
+      "name": "Americana #52",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cc5c56e966a52de0c2ffcec0b3cd8d6c45f6a0f23de37d05a6d7412233e25d81i3",
+    "meta": {
+      "name": "Americana #53",
+      "attributes": [
+        {
+          "value": "Michigan",
+          "trait_type": "State"
+        },
+        {
+          "value": "1979",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "15ed52550f0c89b72988b2e13ef318c6cc83e390da37b3aa0e8dd27f5ca00797i0",
+    "meta": {
+      "name": "Americana #54",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9e88916bb0eaedf1309f144206aecc83cf079368db510c2aa062fd04717309cfi0",
+    "meta": {
+      "name": "Americana #55",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "1960",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9e88916bb0eaedf1309f144206aecc83cf079368db510c2aa062fd04717309cfi1",
+    "meta": {
+      "name": "Americana #56",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1970",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "83b54e769ec40c5f7dd1a2bd00725d8ebc08cab5fb54b626364ba7fcb19bdb95i0",
+    "meta": {
+      "name": "Americana #57",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1974",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3aceaf62f29afa6ead9a4311bab149e91efe2c671861a5488978ce503977d00fi0",
+    "meta": {
+      "name": "Americana #58",
+      "attributes": [
+        {
+          "value": "Michigan",
+          "trait_type": "State"
+        },
+        {
+          "value": "1972",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3aceaf62f29afa6ead9a4311bab149e91efe2c671861a5488978ce503977d00fi1",
+    "meta": {
+      "name": "Americana #59",
+      "attributes": [
+        {
+          "value": "Tennessee",
+          "trait_type": "State"
+        },
+        {
+          "value": "1968",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "006e5f77e7244f63c85120941314dd4767e45aa54b16f1339a435cfc66fc8792i0",
+    "meta": {
+      "name": "Americana #60",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1961",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4202428015d1f5a64494882e9c80f2409445e40c9eb2053107b653d4aaa79325i0",
+    "meta": {
+      "name": "Americana #61",
+      "attributes": [
+        {
+          "value": "Ohio",
+          "trait_type": "State"
+        },
+        {
+          "value": "1966",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "da22d9f47da1ed5edfe21cdbf4562533bde6b67aee0ca6171d369e63332277c5i0",
+    "meta": {
+      "name": "Americana #62",
+      "attributes": [
+        {
+          "value": "Illinois",
+          "trait_type": "State"
+        },
+        {
+          "value": "1975",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "684feb3f9c41904f8ccf8f91ec74f4cd8ff721e43956f82eab19393b7515c5f2i0",
+    "meta": {
+      "name": "Americana #63",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1984",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "684feb3f9c41904f8ccf8f91ec74f4cd8ff721e43956f82eab19393b7515c5f2i1",
+    "meta": {
+      "name": "Americana #64",
+      "attributes": [
+        {
+          "value": "Mississippi",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "684feb3f9c41904f8ccf8f91ec74f4cd8ff721e43956f82eab19393b7515c5f2i2",
+    "meta": {
+      "name": "Americana #65",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1991",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "047cf3afc3ef99932ad70ad44ca6e44499f060294701a7f2ae79d314417052aci0",
+    "meta": {
+      "name": "Americana #66",
+      "attributes": [
+        {
+          "value": "Connecticut",
+          "trait_type": "State"
+        },
+        {
+          "value": "1981",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f01fb2b27e03ae9523e512b752d822a01e16ff2d2ea829cf86bc73cff62ec5ebi0",
+    "meta": {
+      "name": "Americana #67",
+      "attributes": [
+        {
+          "value": "South Carolina",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cc9ce53a5d8697735128ec0b91f97aabc0f3e91f033ff7a2f3b220b7d1bf73e2i0",
+    "meta": {
+      "name": "Americana #68",
+      "attributes": [
+        {
+          "value": "Nevada",
+          "trait_type": "State"
+        },
+        {
+          "value": "1948",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "93ae726181f48860d929f6cbd2002a51e5f9fe6a50fd6409b78cd463e333b636i0",
+    "meta": {
+      "name": "Americana #69",
+      "attributes": [
+        {
+          "value": "South Dakota",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "93ae726181f48860d929f6cbd2002a51e5f9fe6a50fd6409b78cd463e333b636i1",
+    "meta": {
+      "name": "Americana #70",
+      "attributes": [
+        {
+          "value": "Maryland",
+          "trait_type": "State"
+        },
+        {
+          "value": "1980",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "93ae726181f48860d929f6cbd2002a51e5f9fe6a50fd6409b78cd463e333b636i2",
+    "meta": {
+      "name": "Americana #71",
+      "attributes": [
+        {
+          "value": "Pennsylvania",
+          "trait_type": "State"
+        },
+        {
+          "value": "1960",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "93ae726181f48860d929f6cbd2002a51e5f9fe6a50fd6409b78cd463e333b636i3",
+    "meta": {
+      "name": "Americana #72",
+      "attributes": [
+        {
+          "value": "Virginia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1972",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "93ae726181f48860d929f6cbd2002a51e5f9fe6a50fd6409b78cd463e333b636i4",
+    "meta": {
+      "name": "Americana #73",
+      "attributes": [
+        {
+          "value": "Illinois",
+          "trait_type": "State"
+        },
+        {
+          "value": "1945",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5e809b5649d23a918f7a8dfe37d17767846fc552796e1bbc710c65fa1f6984e0i0",
+    "meta": {
+      "name": "Americana #74",
+      "attributes": [
+        {
+          "value": "District of Columbia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1974",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5e809b5649d23a918f7a8dfe37d17767846fc552796e1bbc710c65fa1f6984e0i1",
+    "meta": {
+      "name": "Americana #75",
+      "attributes": [
+        {
+          "value": "Massachusetts",
+          "trait_type": "State"
+        },
+        {
+          "value": "1959",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5e809b5649d23a918f7a8dfe37d17767846fc552796e1bbc710c65fa1f6984e0i2",
+    "meta": {
+      "name": "Americana #76",
+      "attributes": [
+        {
+          "value": "Kansas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1971",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8a8aafeb9d455b862a0ee0b9b5c4c71a628947c3b35d3dfbf6c7eae49b533380i0",
+    "meta": {
+      "name": "Americana #77",
+      "attributes": [
+        {
+          "value": "Colorado",
+          "trait_type": "State"
+        },
+        {
+          "value": "1962",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d69aeb73f894d1da114ae8bd7ddbdb7d5fa8ad45ffd0d7c30711a09759f66079i0",
+    "meta": {
+      "name": "Americana #78",
+      "attributes": [
+        {
+          "value": "Maryland",
+          "trait_type": "State"
+        },
+        {
+          "value": "1958",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f02cef755da9f4f0cab944533c84ef34b1d65e91e132ab50851fcf9520688b51i0",
+    "meta": {
+      "name": "Americana #79",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1960",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a356712f7d1ab19174d45234d714844ad03cf066ec7a5e4e294a0dea578634c0i0",
+    "meta": {
+      "name": "Americana #80",
+      "attributes": [
+        {
+          "value": "Vermont",
+          "trait_type": "State"
+        },
+        {
+          "value": "1959",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "96af6bfe59c6645768e3a86334225f556d49a11ce91c1cdb6c558cc4637d14ffi0",
+    "meta": {
+      "name": "Americana #81",
+      "attributes": [
+        {
+          "value": "Arizona",
+          "trait_type": "State"
+        },
+        {
+          "value": "1966",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5dee1c72eb2ed19b6cd3a67e9b4a45a11bb63436fa3924668f18f62cecec14f0i0",
+    "meta": {
+      "name": "Americana #82",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1960",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5dee1c72eb2ed19b6cd3a67e9b4a45a11bb63436fa3924668f18f62cecec14f0i1",
+    "meta": {
+      "name": "Americana #83",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1993",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "54638b2ab39b4efce653e0c2cedb905ecfd94f48c87217a57e2c7a3318de82f8i0",
+    "meta": {
+      "name": "Americana #84",
+      "attributes": [
+        {
+          "value": "Pennsylvania",
+          "trait_type": "State"
+        },
+        {
+          "value": "1979",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c24d103ac5ba15284bab036b986b4a67769ea698cd3eeb2b6984e03939523c28i0",
+    "meta": {
+      "name": "Americana #85",
+      "attributes": [
+        {
+          "value": "Connecticut",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "56fcbb78a88308099078bf1b1e1c48cdc787e06c07fec8b2c5c9a6a6895b48a7i0",
+    "meta": {
+      "name": "Americana #86",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1991",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8a22dd1de0ce542f4c579e2afad91f5dfaedf2631e338e70670b5411d2feebe3i0",
+    "meta": {
+      "name": "Americana #87",
+      "attributes": [
+        {
+          "value": "Alaska",
+          "trait_type": "State"
+        },
+        {
+          "value": "1975",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "281810ccb9a366a77eaf40a7c48b92af8782b75fddee5a12ca30f847c601d801i0",
+    "meta": {
+      "name": "Americana #88",
+      "attributes": [
+        {
+          "value": "Georgia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1989",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "72bef66303a60ccecbee4b6df6719dc995d0ed91ee0c4bdf988cabb07aa40c67i0",
+    "meta": {
+      "name": "Americana #89",
+      "attributes": [
+        {
+          "value": "Tennessee",
+          "trait_type": "State"
+        },
+        {
+          "value": "1979",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "72bef66303a60ccecbee4b6df6719dc995d0ed91ee0c4bdf988cabb07aa40c67i1",
+    "meta": {
+      "name": "Americana #90",
+      "attributes": [
+        {
+          "value": "Maryland",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a214d80f3c6eee38c94dde5d3fbbfa3ff80c22c8e740619a0554ee98fba94e9di0",
+    "meta": {
+      "name": "Americana #91",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1979",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "62ce07eec4cda1e05566dcba1bf4fa8c2430605020f935e60716256e138e54a6i0",
+    "meta": {
+      "name": "Americana #92",
+      "attributes": [
+        {
+          "value": "Michigan",
+          "trait_type": "State"
+        },
+        {
+          "value": "1966",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1a78155cb6d20bc6d856205dc2ae3b0d4e24cf1651e0a0760dda23b7ffe467fdi0",
+    "meta": {
+      "name": "Americana #93",
+      "attributes": [
+        {
+          "value": "Montana",
+          "trait_type": "State"
+        },
+        {
+          "value": "1974",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1a78155cb6d20bc6d856205dc2ae3b0d4e24cf1651e0a0760dda23b7ffe467fdi1",
+    "meta": {
+      "name": "Americana #94",
+      "attributes": [
+        {
+          "value": "Colorado",
+          "trait_type": "State"
+        },
+        {
+          "value": "1967",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4b6bf4c8631a4b436ec63ba0c61018db7f3f56ad84c62b5275821579045d8738i0",
+    "meta": {
+      "name": "Americana #95",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "1947",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6bac756bf483ece612dc3e3883373d7bab68c1f835966ed2e225c4512fd99eaci0",
+    "meta": {
+      "name": "Americana #96",
+      "attributes": [
+        {
+          "value": "Wisconsin",
+          "trait_type": "State"
+        },
+        {
+          "value": "1964",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6ce82766a7faa8ae7a9d764b9a5bcd9c4288f5827693d3dd115869226b9bed07i0",
+    "meta": {
+      "name": "Americana #97",
+      "attributes": [
+        {
+          "value": "Georgia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1992",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6ce82766a7faa8ae7a9d764b9a5bcd9c4288f5827693d3dd115869226b9bed07i1",
+    "meta": {
+      "name": "Americana #98",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "1958",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6ce82766a7faa8ae7a9d764b9a5bcd9c4288f5827693d3dd115869226b9bed07i2",
+    "meta": {
+      "name": "Americana #99",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1962",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fb577bb485ee127bfd5bb04355784f3d7ff39b39d6c83082913c719bdbee576fi0",
+    "meta": {
+      "name": "Americana #100",
+      "attributes": [
+        {
+          "value": "Illinois",
+          "trait_type": "State"
+        },
+        {
+          "value": "1956",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fb577bb485ee127bfd5bb04355784f3d7ff39b39d6c83082913c719bdbee576fi1",
+    "meta": {
+      "name": "Americana #101",
+      "attributes": [
+        {
+          "value": "Ohio",
+          "trait_type": "State"
+        },
+        {
+          "value": "1975",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b038c04e1c019047120c8cbbf1a451e99330715220eb37081ec2d1678070b3c7i0",
+    "meta": {
+      "name": "Americana #102",
+      "attributes": [
+        {
+          "value": "Missouri",
+          "trait_type": "State"
+        },
+        {
+          "value": "1977",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b038c04e1c019047120c8cbbf1a451e99330715220eb37081ec2d1678070b3c7i1",
+    "meta": {
+      "name": "Americana #103",
+      "attributes": [
+        {
+          "value": "New Jersey",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a60933bbf5d3067d68ef70cc3efff990bc2fdd32addda29b64586af1824c1e5di0",
+    "meta": {
+      "name": "Americana #104",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1994",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8c481b971a28aab98a4f5873f2481ab35c537ab0e7ce127baefb62f409357853i0",
+    "meta": {
+      "name": "Americana #105",
+      "attributes": [
+        {
+          "value": "New Hampshire",
+          "trait_type": "State"
+        },
+        {
+          "value": "1986",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2e6fb3864325edbf28d0dbb3867cf6beee32e78257a734bf36bde7f6c70edb6ai0",
+    "meta": {
+      "name": "Americana #106",
+      "attributes": [
+        {
+          "value": "Oregon",
+          "trait_type": "State"
+        },
+        {
+          "value": "1932",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2e6fb3864325edbf28d0dbb3867cf6beee32e78257a734bf36bde7f6c70edb6ai1",
+    "meta": {
+      "name": "Americana #107",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1989",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2e6fb3864325edbf28d0dbb3867cf6beee32e78257a734bf36bde7f6c70edb6ai2",
+    "meta": {
+      "name": "Americana #108",
+      "attributes": [
+        {
+          "value": "Alaska",
+          "trait_type": "State"
+        },
+        {
+          "value": "1965",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2e6fb3864325edbf28d0dbb3867cf6beee32e78257a734bf36bde7f6c70edb6ai3",
+    "meta": {
+      "name": "Americana #109",
+      "attributes": [
+        {
+          "value": "Arizona",
+          "trait_type": "State"
+        },
+        {
+          "value": "1983",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2e6fb3864325edbf28d0dbb3867cf6beee32e78257a734bf36bde7f6c70edb6ai4",
+    "meta": {
+      "name": "Americana #110",
+      "attributes": [
+        {
+          "value": "Massachusetts",
+          "trait_type": "State"
+        },
+        {
+          "value": "1964",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "35c2d5831ee8ce65f883bcbd918af1e726b39204152fc38e305b610545aabc64i0",
+    "meta": {
+      "name": "Americana #111",
+      "attributes": [
+        {
+          "value": "New Jersey",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bc9c15a8ea5899d964b45bccc0c8cf54fd82a68a723ac6f2132acf7a76a926d4i0",
+    "meta": {
+      "name": "Americana #112",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bc9c15a8ea5899d964b45bccc0c8cf54fd82a68a723ac6f2132acf7a76a926d4i1",
+    "meta": {
+      "name": "Americana #113",
+      "attributes": [
+        {
+          "value": "Wyoming",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "acf0dab1fa62006f15e7b29e5fd7d3a88e010b106bfbe1ecf062ca20429dc87fi0",
+    "meta": {
+      "name": "Americana #114",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e651abfb377bb884f2b884dabd667ceac7b56252178383ad50aef23923d75e81i0",
+    "meta": {
+      "name": "Americana #115",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1983",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e651abfb377bb884f2b884dabd667ceac7b56252178383ad50aef23923d75e81i1",
+    "meta": {
+      "name": "Americana #116",
+      "attributes": [
+        {
+          "value": "Maryland",
+          "trait_type": "State"
+        },
+        {
+          "value": "1954",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dc3f4255ee0f423cab5600a9c057a02b762493d0c13be5e88e0542bd73ee79fbi0",
+    "meta": {
+      "name": "Americana #117",
+      "attributes": [
+        {
+          "value": "Indiana",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "196d96806462167ed41f3507c824b9918ee0108af862cfee5c4af96fdd6b60a2i0",
+    "meta": {
+      "name": "Americana #118",
+      "attributes": [
+        {
+          "value": "Minnesota",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "196d96806462167ed41f3507c824b9918ee0108af862cfee5c4af96fdd6b60a2i1",
+    "meta": {
+      "name": "Americana #119",
+      "attributes": [
+        {
+          "value": "Nebraska",
+          "trait_type": "State"
+        },
+        {
+          "value": "1954",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "196d96806462167ed41f3507c824b9918ee0108af862cfee5c4af96fdd6b60a2i2",
+    "meta": {
+      "name": "Americana #120",
+      "attributes": [
+        {
+          "value": "Iowa",
+          "trait_type": "State"
+        },
+        {
+          "value": "1966",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "07658088eb459f5952ada1eb887f403c29a022caa85397b023aad4c1feb92740i0",
+    "meta": {
+      "name": "Americana #121",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1977",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6cfc0ae6258aa02255a51ebb2e653fc4d8c69e32028e71ce005a71d021053445i0",
+    "meta": {
+      "name": "Americana #122",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1990",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6cfc0ae6258aa02255a51ebb2e653fc4d8c69e32028e71ce005a71d021053445i1",
+    "meta": {
+      "name": "Americana #123",
+      "attributes": [
+        {
+          "value": "Kansas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1954",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6969dc734fb31e8013228e8a0c017f4663e0826612f43b60c05d9f68ce1a3507i0",
+    "meta": {
+      "name": "Americana #124",
+      "attributes": [
+        {
+          "value": "Missouri",
+          "trait_type": "State"
+        },
+        {
+          "value": "1972",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f43cc93ec9c1c4e04a7a0c9e2f89582a3a02c825d3e974415536e1c3fd630626i0",
+    "meta": {
+      "name": "Americana #125",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "1960",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "584985f7503ce9a2f20a2f57bb255efb9d362b0c2d49ebbd236b030ac12ec92ei0",
+    "meta": {
+      "name": "Americana #126",
+      "attributes": [
+        {
+          "value": "North Carolina",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "381d176ac076ee8b80f08cbfad1becff67b25e66d822de35f990b565f66e17e6i0",
+    "meta": {
+      "name": "Americana #127",
+      "attributes": [
+        {
+          "value": "Oklahoma",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cfaa70353c64e90ccbd2a3179df3930f74ad37f793b2ff6b69cf60cba9ddf1c4i0",
+    "meta": {
+      "name": "Americana #128",
+      "attributes": [
+        {
+          "value": "Pennsylvania",
+          "trait_type": "State"
+        },
+        {
+          "value": "1950",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "33a3ed502ec2d6f6c457ec38f006bd5b1e80a940950ebeccd6def3936679bef4i0",
+    "meta": {
+      "name": "Americana #129",
+      "attributes": [
+        {
+          "value": "New Jersey",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cc17bbd718f4264d0180939548e9a166872f3e70779e53f9129ee6a373f52764i0",
+    "meta": {
+      "name": "Americana #130",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1972",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "107f3d04cba99287eb48ca5ca557c41f941c95635d9933f77bfa0750dd970aa5i0",
+    "meta": {
+      "name": "Americana #131",
+      "attributes": [
+        {
+          "value": "Indiana",
+          "trait_type": "State"
+        },
+        {
+          "value": "1962",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "18d245b38f9a5a208d6f4bd39f0a83b0c9cad87aa5517635be76b6c05a37e2cai0",
+    "meta": {
+      "name": "Americana #132",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1991",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8268a65f0239a2ab7cdfd062d3b1f3d91cf5cfaecbd1a342c74a4994ef57e0eei0",
+    "meta": {
+      "name": "Americana #133",
+      "attributes": [
+        {
+          "value": "Maryland",
+          "trait_type": "State"
+        },
+        {
+          "value": "1962",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8268a65f0239a2ab7cdfd062d3b1f3d91cf5cfaecbd1a342c74a4994ef57e0eei1",
+    "meta": {
+      "name": "Americana #134",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1965",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8268a65f0239a2ab7cdfd062d3b1f3d91cf5cfaecbd1a342c74a4994ef57e0eei2",
+    "meta": {
+      "name": "Americana #135",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "113af5bd2ff75f2f9bc5d73b739529969ef87f78fd756cd0a8db0fba4ad94bbci0",
+    "meta": {
+      "name": "Americana #136",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "1958",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f5f4bdc2d52a2dd4dec30bd3f201f6f8897f102f3c5957bfe6426ae162ab391ei0",
+    "meta": {
+      "name": "Americana #137",
+      "attributes": [
+        {
+          "value": "Nebraska",
+          "trait_type": "State"
+        },
+        {
+          "value": "1955",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2c635f4f0c32a48c7e832241faef047cf5ed4b12fbc2b2d871172f0ca49777afi0",
+    "meta": {
+      "name": "Americana #138",
+      "attributes": [
+        {
+          "value": "Massachusetts",
+          "trait_type": "State"
+        },
+        {
+          "value": "1966",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "90dbb8bba1abc76b68ca296abec93564510f5a9c28c75d185984b9e1c3bf72a7i0",
+    "meta": {
+      "name": "Americana #139",
+      "attributes": [
+        {
+          "value": "Tennessee",
+          "trait_type": "State"
+        },
+        {
+          "value": "1974",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d7f5d05e39bfc9a8e94b05cc57f83425b577b0dae2a7e6c25300832c740f4f6ci0",
+    "meta": {
+      "name": "Americana #140",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1991",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fb5c3db0887446a609345e480bcfb36ee475580447b2981277f6403e847421b1i0",
+    "meta": {
+      "name": "Americana #141",
+      "attributes": [
+        {
+          "value": "Oklahoma",
+          "trait_type": "State"
+        },
+        {
+          "value": "1968",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fb5c3db0887446a609345e480bcfb36ee475580447b2981277f6403e847421b1i1",
+    "meta": {
+      "name": "Americana #142",
+      "attributes": [
+        {
+          "value": "Georgia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1978",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fb5c3db0887446a609345e480bcfb36ee475580447b2981277f6403e847421b1i2",
+    "meta": {
+      "name": "Americana #143",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1970",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fb5c3db0887446a609345e480bcfb36ee475580447b2981277f6403e847421b1i3",
+    "meta": {
+      "name": "Americana #144",
+      "attributes": [
+        {
+          "value": "Iowa",
+          "trait_type": "State"
+        },
+        {
+          "value": "1986",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fb5c3db0887446a609345e480bcfb36ee475580447b2981277f6403e847421b1i4",
+    "meta": {
+      "name": "Americana #145",
+      "attributes": [
+        {
+          "value": "Idaho",
+          "trait_type": "State"
+        },
+        {
+          "value": "1956",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "293dc17ffeb5ba520f11541b7efa5cb9c47848b64bfa8d97b92c048aecc8d11di0",
+    "meta": {
+      "name": "Americana #146",
+      "attributes": [
+        {
+          "value": "Pennsylvania",
+          "trait_type": "State"
+        },
+        {
+          "value": "1948",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "293dc17ffeb5ba520f11541b7efa5cb9c47848b64bfa8d97b92c048aecc8d11di1",
+    "meta": {
+      "name": "Americana #147",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1987",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "293dc17ffeb5ba520f11541b7efa5cb9c47848b64bfa8d97b92c048aecc8d11di2",
+    "meta": {
+      "name": "Americana #148",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1963",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "293dc17ffeb5ba520f11541b7efa5cb9c47848b64bfa8d97b92c048aecc8d11di3",
+    "meta": {
+      "name": "Americana #149",
+      "attributes": [
+        {
+          "value": "Idaho",
+          "trait_type": "State"
+        },
+        {
+          "value": "1932",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "293dc17ffeb5ba520f11541b7efa5cb9c47848b64bfa8d97b92c048aecc8d11di4",
+    "meta": {
+      "name": "Americana #150",
+      "attributes": [
+        {
+          "value": "Minnesota",
+          "trait_type": "State"
+        },
+        {
+          "value": "1967",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "99b7d20648a2a33c2c2481c85edeb68aa4dadd62f66ba6a9a5deb5fd405abc4fi0",
+    "meta": {
+      "name": "Americana #151",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "2000",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "99b7d20648a2a33c2c2481c85edeb68aa4dadd62f66ba6a9a5deb5fd405abc4fi1",
+    "meta": {
+      "name": "Americana #152",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1965",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "99b7d20648a2a33c2c2481c85edeb68aa4dadd62f66ba6a9a5deb5fd405abc4fi2",
+    "meta": {
+      "name": "Americana #153",
+      "attributes": [
+        {
+          "value": "Indiana",
+          "trait_type": "State"
+        },
+        {
+          "value": "1960",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "99b7d20648a2a33c2c2481c85edeb68aa4dadd62f66ba6a9a5deb5fd405abc4fi3",
+    "meta": {
+      "name": "Americana #154",
+      "attributes": [
+        {
+          "value": "Oregon",
+          "trait_type": "State"
+        },
+        {
+          "value": "1982",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "99b7d20648a2a33c2c2481c85edeb68aa4dadd62f66ba6a9a5deb5fd405abc4fi4",
+    "meta": {
+      "name": "Americana #155",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1988",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4abc0613001128de97a62a5c8c3d485d10262306e2e4f9b6703b96225eba4aa0i0",
+    "meta": {
+      "name": "Americana #156",
+      "attributes": [
+        {
+          "value": "Massachusetts",
+          "trait_type": "State"
+        },
+        {
+          "value": "1938",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "14bf3d679136c2feb8791ae119a41ad8bae5adbf7e959761ac0ad27dffabf23fi0",
+    "meta": {
+      "name": "Americana #157",
+      "attributes": [
+        {
+          "value": "Pennsylvania",
+          "trait_type": "State"
+        },
+        {
+          "value": "1964",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7d88bcec14ee773b4cbc9a07c4bd2be3c18424c99f7bd890ec304bc55d5c13c4i0",
+    "meta": {
+      "name": "Americana #158",
+      "attributes": [
+        {
+          "value": "Michigan",
+          "trait_type": "State"
+        },
+        {
+          "value": "1962",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "44600086e531e5ba811fc64c7ac4a42da81715318129394cca805db175da2d78i0",
+    "meta": {
+      "name": "Americana #159",
+      "attributes": [
+        {
+          "value": "Louisiana",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "96f275a28bb511d93956090662865970efec5fb70c6f2c29563f1dc56beae10bi0",
+    "meta": {
+      "name": "Americana #160",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1991",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4df4e71a8c8abd4a0a025a93692aa498cfc9b7eebce526cde5f5bcfe9a3002c1i0",
+    "meta": {
+      "name": "Americana #161",
+      "attributes": [
+        {
+          "value": "Tennessee",
+          "trait_type": "State"
+        },
+        {
+          "value": "1974",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "844a0df7ef2b1f0a20c61c08ccd343561a0efa8238c224a948df7583547c89d2i0",
+    "meta": {
+      "name": "Americana #162",
+      "attributes": [
+        {
+          "value": "Alabama",
+          "trait_type": "State"
+        },
+        {
+          "value": "1978",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d9942b2224c15648655c75ce561600c8795864970e1b979db3bd91d150ae0a18i0",
+    "meta": {
+      "name": "Americana #163",
+      "attributes": [
+        {
+          "value": "Colorado",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ef3436af9c8a8668c6a9b1a263b961fd97b9ebe7599c918337e7d200aea45292i0",
+    "meta": {
+      "name": "Americana #164",
+      "attributes": [
+        {
+          "value": "Virginia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1957",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7d10e282ad733d80373ced7e9555b23bbc3763e7607964a14451411a8184fa31i0",
+    "meta": {
+      "name": "Americana #165",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ed4be34a229354f779d3a2a697691ef63409c3827fd85d45c33956985e72dbb4i0",
+    "meta": {
+      "name": "Americana #166",
+      "attributes": [
+        {
+          "value": "Michigan",
+          "trait_type": "State"
+        },
+        {
+          "value": "1975",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "abd741fa19c2f1fef23d82f68f5a674208e858992fa6ecb7f487eecd1c4e2c84i0",
+    "meta": {
+      "name": "Americana #167",
+      "attributes": [
+        {
+          "value": "Mississippi",
+          "trait_type": "State"
+        },
+        {
+          "value": "1983",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bf1a8aebe59b21554e73e874e4ef86b8081af250ffbabe4c024758f8c375adb1i0",
+    "meta": {
+      "name": "Americana #168",
+      "attributes": [
+        {
+          "value": "Indiana",
+          "trait_type": "State"
+        },
+        {
+          "value": "1960",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "00d0afa2af0dc9c295ea91d45894eb39f30cc31df132129704dcd6bb8a594daai0",
+    "meta": {
+      "name": "Americana #169",
+      "attributes": [
+        {
+          "value": "Indiana",
+          "trait_type": "State"
+        },
+        {
+          "value": "1959",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "167a198152596192ee0f6f254958a657569950ab64940c86570a8370d1f65662i0",
+    "meta": {
+      "name": "Americana #170",
+      "attributes": [
+        {
+          "value": "South Carolina",
+          "trait_type": "State"
+        },
+        {
+          "value": "1975",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "46710d651b84653f55251c942ff0edde915d87c7a27514ecc8e0eb73e8e0cb0ci0",
+    "meta": {
+      "name": "Americana #171",
+      "attributes": [
+        {
+          "value": "Ohio",
+          "trait_type": "State"
+        },
+        {
+          "value": "1971",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aab2954b1c9c25d851aeccabd158ec7fbf24ff21d71eb954880a4fe979151ba6i0",
+    "meta": {
+      "name": "Americana #172",
+      "attributes": [
+        {
+          "value": "Minnesota",
+          "trait_type": "State"
+        },
+        {
+          "value": "1974",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a1633415ff013c0634dbe531c59e5fef8eb0bab9266b7e7f6ee79c3f4c2e4737i0",
+    "meta": {
+      "name": "Americana #173",
+      "attributes": [
+        {
+          "value": "New Jersey",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8e88385ce559658527c40629bdc7be23799d3625ff43898e1c59e3158c3a46e3i0",
+    "meta": {
+      "name": "Americana #174",
+      "attributes": [
+        {
+          "value": "Kentucky",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8e88385ce559658527c40629bdc7be23799d3625ff43898e1c59e3158c3a46e3i1",
+    "meta": {
+      "name": "Americana #175",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "61176518a8a8cbe3d28263b841cf033174f79591a90803c77ed817a68f318717i0",
+    "meta": {
+      "name": "Americana #176",
+      "attributes": [
+        {
+          "value": "Kentucky",
+          "trait_type": "State"
+        },
+        {
+          "value": "1975",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "61176518a8a8cbe3d28263b841cf033174f79591a90803c77ed817a68f318717i1",
+    "meta": {
+      "name": "Americana #177",
+      "attributes": [
+        {
+          "value": "New Jersey",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ecabb56fbced252c7451ed340d05c242a5bc6911e0d84d2d75f87faf3596323di0",
+    "meta": {
+      "name": "Americana #178",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1961",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0f2f6d95eb79a5f393e55bb6a16d9d9d989a35e3961a01c8cb6fa2dab7a33ef9i0",
+    "meta": {
+      "name": "Americana #179",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0f2f6d95eb79a5f393e55bb6a16d9d9d989a35e3961a01c8cb6fa2dab7a33ef9i1",
+    "meta": {
+      "name": "Americana #180",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1957",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "26e4bdb9cebf1e29db9ecf1fc15299c9178fc8cefd475214e2edbeba12537704i0",
+    "meta": {
+      "name": "Americana #181",
+      "attributes": [
+        {
+          "value": "Oregon",
+          "trait_type": "State"
+        },
+        {
+          "value": "1966",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "44f3a871fb2edf50aa757d32bd0f00f6c3098eaf36bc1dc1f15f091c0d235e09i0",
+    "meta": {
+      "name": "Americana #182",
+      "attributes": [
+        {
+          "value": "Nevada",
+          "trait_type": "State"
+        },
+        {
+          "value": "1965",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "90cc114ad1d7adcc6fe3576c000ad95051ec3bc42357530404649681f669186ai0",
+    "meta": {
+      "name": "Americana #183",
+      "attributes": [
+        {
+          "value": "Rhode Island",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2bb8ad8b1f4febeb2648f123e49aef7469848f8d34a3b7074b66c46368a977fci0",
+    "meta": {
+      "name": "Americana #184",
+      "attributes": [
+        {
+          "value": "Ohio",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d7f1a24bada1cd2a7a28a8838e9dc1a865601e0adb5a564d83981d5923641895i0",
+    "meta": {
+      "name": "Americana #185",
+      "attributes": [
+        {
+          "value": "Illinois",
+          "trait_type": "State"
+        },
+        {
+          "value": "1949",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3d3631f6ba61461a6750b63956b7011a7e11e708d1f16d59b10a5f001144fc4ei0",
+    "meta": {
+      "name": "Americana #186",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3d3631f6ba61461a6750b63956b7011a7e11e708d1f16d59b10a5f001144fc4ei1",
+    "meta": {
+      "name": "Americana #187",
+      "attributes": [
+        {
+          "value": "Tennessee",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9c55fc5240c9fc423840dfff0300d855636f8f41f5ca48dc2d056977d38f8ec4i0",
+    "meta": {
+      "name": "Americana #188",
+      "attributes": [
+        {
+          "value": "Missouri",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9c55fc5240c9fc423840dfff0300d855636f8f41f5ca48dc2d056977d38f8ec4i1",
+    "meta": {
+      "name": "Americana #189",
+      "attributes": [
+        {
+          "value": "Ohio",
+          "trait_type": "State"
+        },
+        {
+          "value": "1961",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2f98800b45de6e1de2d2042a5e724c3f836c058db486333c10f0c59292cc1c4fi0",
+    "meta": {
+      "name": "Americana #190",
+      "attributes": [
+        {
+          "value": "North Carolina",
+          "trait_type": "State"
+        },
+        {
+          "value": "1960",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2f98800b45de6e1de2d2042a5e724c3f836c058db486333c10f0c59292cc1c4fi1",
+    "meta": {
+      "name": "Americana #191",
+      "attributes": [
+        {
+          "value": "Iowa",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2f98800b45de6e1de2d2042a5e724c3f836c058db486333c10f0c59292cc1c4fi2",
+    "meta": {
+      "name": "Americana #192",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1974",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2f98800b45de6e1de2d2042a5e724c3f836c058db486333c10f0c59292cc1c4fi3",
+    "meta": {
+      "name": "Americana #193",
+      "attributes": [
+        {
+          "value": "Wisconsin",
+          "trait_type": "State"
+        },
+        {
+          "value": "1966",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2f98800b45de6e1de2d2042a5e724c3f836c058db486333c10f0c59292cc1c4fi4",
+    "meta": {
+      "name": "Americana #194",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1972",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "350c4cdd65d674b67572965b031e218ade97a4d7e10f2530488e1ba882017787i0",
+    "meta": {
+      "name": "Americana #195",
+      "attributes": [
+        {
+          "value": "Minnesota",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "350c4cdd65d674b67572965b031e218ade97a4d7e10f2530488e1ba882017787i1",
+    "meta": {
+      "name": "Americana #196",
+      "attributes": [
+        {
+          "value": "Nebraska",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "138d8628120cdd6821a735e5b6567e29089772fff7cb59dbbd947d85106c92e0i0",
+    "meta": {
+      "name": "Americana #197",
+      "attributes": [
+        {
+          "value": "Montana",
+          "trait_type": "State"
+        },
+        {
+          "value": "1989",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "06a85ef2f1f42435b2e974004ec782b9efd550b59d6373b5b6fe99c4264a9848i0",
+    "meta": {
+      "name": "Americana #198",
+      "attributes": [
+        {
+          "value": "Washington",
+          "trait_type": "State"
+        },
+        {
+          "value": "1976",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "06a85ef2f1f42435b2e974004ec782b9efd550b59d6373b5b6fe99c4264a9848i1",
+    "meta": {
+      "name": "Americana #199",
+      "attributes": [
+        {
+          "value": "Alaska",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5253a3b97cc05dec62fa72178693296d80bbc8803c4550c2e93b665091bc6204i0",
+    "meta": {
+      "name": "Americana #200",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1938",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5253a3b97cc05dec62fa72178693296d80bbc8803c4550c2e93b665091bc6204i1",
+    "meta": {
+      "name": "Americana #201",
+      "attributes": [
+        {
+          "value": "Ohio",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ccdb955a5eb8da0f06342053596c3ab26c90690230d9128d21dc68018cf14c19i0",
+    "meta": {
+      "name": "Americana #202",
+      "attributes": [
+        {
+          "value": "Iowa",
+          "trait_type": "State"
+        },
+        {
+          "value": "1959",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9a815be0ebabff569e06cf0b10b509daf7018873ed75675e772fcb8bcd8ecda4i0",
+    "meta": {
+      "name": "Americana #203",
+      "attributes": [
+        {
+          "value": "Oregon",
+          "trait_type": "State"
+        },
+        {
+          "value": "1919",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5f3b4a6e9adb5c64bd8406844a265baa2e297accf26aeec9f33004d69ea42e60i0",
+    "meta": {
+      "name": "Americana #204",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1966",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b071af9adf19d07ef46b76d6fdb9ab41719c492e1a83382b1065edb04ea4f673i0",
+    "meta": {
+      "name": "Americana #205",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1971",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b071af9adf19d07ef46b76d6fdb9ab41719c492e1a83382b1065edb04ea4f673i1",
+    "meta": {
+      "name": "Americana #206",
+      "attributes": [
+        {
+          "value": "Connecticut",
+          "trait_type": "State"
+        },
+        {
+          "value": "1974",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b071af9adf19d07ef46b76d6fdb9ab41719c492e1a83382b1065edb04ea4f673i2",
+    "meta": {
+      "name": "Americana #207",
+      "attributes": [
+        {
+          "value": "Nevada",
+          "trait_type": "State"
+        },
+        {
+          "value": "1960",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b071af9adf19d07ef46b76d6fdb9ab41719c492e1a83382b1065edb04ea4f673i3",
+    "meta": {
+      "name": "Americana #208",
+      "attributes": [
+        {
+          "value": "Michigan",
+          "trait_type": "State"
+        },
+        {
+          "value": "1970",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b071af9adf19d07ef46b76d6fdb9ab41719c492e1a83382b1065edb04ea4f673i4",
+    "meta": {
+      "name": "Americana #209",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1984",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1d8df9e02cf09de08e2341cb91a8c4073c96bb6cc922ec702483346d7c1167c4i0",
+    "meta": {
+      "name": "Americana #210",
+      "attributes": [
+        {
+          "value": "Arkansas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1976",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1d8df9e02cf09de08e2341cb91a8c4073c96bb6cc922ec702483346d7c1167c4i1",
+    "meta": {
+      "name": "Americana #211",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1970",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1d8df9e02cf09de08e2341cb91a8c4073c96bb6cc922ec702483346d7c1167c4i2",
+    "meta": {
+      "name": "Americana #212",
+      "attributes": [
+        {
+          "value": "Arizona",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1d8df9e02cf09de08e2341cb91a8c4073c96bb6cc922ec702483346d7c1167c4i3",
+    "meta": {
+      "name": "Americana #213",
+      "attributes": [
+        {
+          "value": "Kentucky",
+          "trait_type": "State"
+        },
+        {
+          "value": "1964",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1d8df9e02cf09de08e2341cb91a8c4073c96bb6cc922ec702483346d7c1167c4i4",
+    "meta": {
+      "name": "Americana #214",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1971",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "db86ec826109a320ed70a979460ca2a0a0ad0844415e14a2ac3e5691f7140928i0",
+    "meta": {
+      "name": "Americana #215",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "db86ec826109a320ed70a979460ca2a0a0ad0844415e14a2ac3e5691f7140928i1",
+    "meta": {
+      "name": "Americana #216",
+      "attributes": [
+        {
+          "value": "District of Columbia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1965",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "db86ec826109a320ed70a979460ca2a0a0ad0844415e14a2ac3e5691f7140928i2",
+    "meta": {
+      "name": "Americana #217",
+      "attributes": [
+        {
+          "value": "New Jersey",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "db86ec826109a320ed70a979460ca2a0a0ad0844415e14a2ac3e5691f7140928i3",
+    "meta": {
+      "name": "Americana #218",
+      "attributes": [
+        {
+          "value": "Connecticut",
+          "trait_type": "State"
+        },
+        {
+          "value": "1977",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "db86ec826109a320ed70a979460ca2a0a0ad0844415e14a2ac3e5691f7140928i4",
+    "meta": {
+      "name": "Americana #219",
+      "attributes": [
+        {
+          "value": "Ohio",
+          "trait_type": "State"
+        },
+        {
+          "value": "1960",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b0d24b557edcb7b31631d92cc48bab6d3246f2a17c864a81c21d1fda12fa85dai0",
+    "meta": {
+      "name": "Americana #220",
+      "attributes": [
+        {
+          "value": "Wisconsin",
+          "trait_type": "State"
+        },
+        {
+          "value": "1963",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b0d24b557edcb7b31631d92cc48bab6d3246f2a17c864a81c21d1fda12fa85dai1",
+    "meta": {
+      "name": "Americana #221",
+      "attributes": [
+        {
+          "value": "Arizona",
+          "trait_type": "State"
+        },
+        {
+          "value": "1982",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b0d24b557edcb7b31631d92cc48bab6d3246f2a17c864a81c21d1fda12fa85dai2",
+    "meta": {
+      "name": "Americana #222",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1984",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b0d24b557edcb7b31631d92cc48bab6d3246f2a17c864a81c21d1fda12fa85dai3",
+    "meta": {
+      "name": "Americana #223",
+      "attributes": [
+        {
+          "value": "Mississippi",
+          "trait_type": "State"
+        },
+        {
+          "value": "1972",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b0d24b557edcb7b31631d92cc48bab6d3246f2a17c864a81c21d1fda12fa85dai4",
+    "meta": {
+      "name": "Americana #224",
+      "attributes": [
+        {
+          "value": "Illinois",
+          "trait_type": "State"
+        },
+        {
+          "value": "1953",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ab21002e7f8855cfb8a81cad67d3a4839a5054db2b46b293a8f98f8b3e6ad6eei0",
+    "meta": {
+      "name": "Americana #225",
+      "attributes": [
+        {
+          "value": "Idaho",
+          "trait_type": "State"
+        },
+        {
+          "value": "1962",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ab21002e7f8855cfb8a81cad67d3a4839a5054db2b46b293a8f98f8b3e6ad6eei1",
+    "meta": {
+      "name": "Americana #226",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1964",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ab21002e7f8855cfb8a81cad67d3a4839a5054db2b46b293a8f98f8b3e6ad6eei2",
+    "meta": {
+      "name": "Americana #227",
+      "attributes": [
+        {
+          "value": "Alabama",
+          "trait_type": "State"
+        },
+        {
+          "value": "1965",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ab21002e7f8855cfb8a81cad67d3a4839a5054db2b46b293a8f98f8b3e6ad6eei3",
+    "meta": {
+      "name": "Americana #228",
+      "attributes": [
+        {
+          "value": "Georgia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1981",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ab21002e7f8855cfb8a81cad67d3a4839a5054db2b46b293a8f98f8b3e6ad6eei4",
+    "meta": {
+      "name": "Americana #229",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1993",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b77d571de1fd9a4ad97a9fd406626f5c19f827a88ae0261443654d574ab41f3i0",
+    "meta": {
+      "name": "Americana #230",
+      "attributes": [
+        {
+          "value": "Louisiana",
+          "trait_type": "State"
+        },
+        {
+          "value": "1967",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b77d571de1fd9a4ad97a9fd406626f5c19f827a88ae0261443654d574ab41f3i1",
+    "meta": {
+      "name": "Americana #231",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b77d571de1fd9a4ad97a9fd406626f5c19f827a88ae0261443654d574ab41f3i2",
+    "meta": {
+      "name": "Americana #232",
+      "attributes": [
+        {
+          "value": "Arizona",
+          "trait_type": "State"
+        },
+        {
+          "value": "1961",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b77d571de1fd9a4ad97a9fd406626f5c19f827a88ae0261443654d574ab41f3i3",
+    "meta": {
+      "name": "Americana #233",
+      "attributes": [
+        {
+          "value": "Colorado",
+          "trait_type": "State"
+        },
+        {
+          "value": "1960",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b77d571de1fd9a4ad97a9fd406626f5c19f827a88ae0261443654d574ab41f3i4",
+    "meta": {
+      "name": "Americana #234",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1984",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3a60b09dbdcebcf4fe553a79a343a320da4415b48d973fc89694a34f17e5dc99i0",
+    "meta": {
+      "name": "Americana #235",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1963",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3a60b09dbdcebcf4fe553a79a343a320da4415b48d973fc89694a34f17e5dc99i1",
+    "meta": {
+      "name": "Americana #236",
+      "attributes": [
+        {
+          "value": "Wyoming",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3a60b09dbdcebcf4fe553a79a343a320da4415b48d973fc89694a34f17e5dc99i2",
+    "meta": {
+      "name": "Americana #237",
+      "attributes": [
+        {
+          "value": "Georgia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1990",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3a60b09dbdcebcf4fe553a79a343a320da4415b48d973fc89694a34f17e5dc99i3",
+    "meta": {
+      "name": "Americana #238",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1992",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3a60b09dbdcebcf4fe553a79a343a320da4415b48d973fc89694a34f17e5dc99i4",
+    "meta": {
+      "name": "Americana #239",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e1679959773e2df09e5bc815ba651d5f1fabb7d6d8064f3b332b7fbf6ca4f6bdi0",
+    "meta": {
+      "name": "Americana #240",
+      "attributes": [
+        {
+          "value": "Missouri",
+          "trait_type": "State"
+        },
+        {
+          "value": "1976",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e1679959773e2df09e5bc815ba651d5f1fabb7d6d8064f3b332b7fbf6ca4f6bdi1",
+    "meta": {
+      "name": "Americana #241",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1998",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e1679959773e2df09e5bc815ba651d5f1fabb7d6d8064f3b332b7fbf6ca4f6bdi2",
+    "meta": {
+      "name": "Americana #242",
+      "attributes": [
+        {
+          "value": "New Jersey",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e1679959773e2df09e5bc815ba651d5f1fabb7d6d8064f3b332b7fbf6ca4f6bdi3",
+    "meta": {
+      "name": "Americana #243",
+      "attributes": [
+        {
+          "value": "Louisiana",
+          "trait_type": "State"
+        },
+        {
+          "value": "1960",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e1679959773e2df09e5bc815ba651d5f1fabb7d6d8064f3b332b7fbf6ca4f6bdi4",
+    "meta": {
+      "name": "Americana #244",
+      "attributes": [
+        {
+          "value": "Louisiana",
+          "trait_type": "State"
+        },
+        {
+          "value": "1971",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3549ea4707313ffb32b6e097a7a2ba84c40dada1fcec25d988666c81c9de3873i0",
+    "meta": {
+      "name": "Americana #245",
+      "attributes": [
+        {
+          "value": "Tennessee",
+          "trait_type": "State"
+        },
+        {
+          "value": "1965",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3549ea4707313ffb32b6e097a7a2ba84c40dada1fcec25d988666c81c9de3873i1",
+    "meta": {
+      "name": "Americana #246",
+      "attributes": [
+        {
+          "value": "Arkansas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1961",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3549ea4707313ffb32b6e097a7a2ba84c40dada1fcec25d988666c81c9de3873i2",
+    "meta": {
+      "name": "Americana #247",
+      "attributes": [
+        {
+          "value": "North Dakota",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3549ea4707313ffb32b6e097a7a2ba84c40dada1fcec25d988666c81c9de3873i3",
+    "meta": {
+      "name": "Americana #248",
+      "attributes": [
+        {
+          "value": "Illinois",
+          "trait_type": "State"
+        },
+        {
+          "value": "1970",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3549ea4707313ffb32b6e097a7a2ba84c40dada1fcec25d988666c81c9de3873i4",
+    "meta": {
+      "name": "Americana #249",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1991",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "92591fd7ea05dd5d9c702bed7b65e095c052ce40eee09925b443e8e79822e423i0",
+    "meta": {
+      "name": "Americana #250",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1984",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "92591fd7ea05dd5d9c702bed7b65e095c052ce40eee09925b443e8e79822e423i1",
+    "meta": {
+      "name": "Americana #251",
+      "attributes": [
+        {
+          "value": "Michigan",
+          "trait_type": "State"
+        },
+        {
+          "value": "1962",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "92591fd7ea05dd5d9c702bed7b65e095c052ce40eee09925b443e8e79822e423i2",
+    "meta": {
+      "name": "Americana #252",
+      "attributes": [
+        {
+          "value": "Wisconsin",
+          "trait_type": "State"
+        },
+        {
+          "value": "1980",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "92591fd7ea05dd5d9c702bed7b65e095c052ce40eee09925b443e8e79822e423i3",
+    "meta": {
+      "name": "Americana #253",
+      "attributes": [
+        {
+          "value": "Oklahoma",
+          "trait_type": "State"
+        },
+        {
+          "value": "1964",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "92591fd7ea05dd5d9c702bed7b65e095c052ce40eee09925b443e8e79822e423i4",
+    "meta": {
+      "name": "Americana #254",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "408fc1c6edcbb8cbd6e75b43fc058889163c51761776fcdecbcaa8facc99fc3fi0",
+    "meta": {
+      "name": "Americana #255",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1964",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "408fc1c6edcbb8cbd6e75b43fc058889163c51761776fcdecbcaa8facc99fc3fi1",
+    "meta": {
+      "name": "Americana #256",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1984",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "408fc1c6edcbb8cbd6e75b43fc058889163c51761776fcdecbcaa8facc99fc3fi2",
+    "meta": {
+      "name": "Americana #257",
+      "attributes": [
+        {
+          "value": "Connecticut",
+          "trait_type": "State"
+        },
+        {
+          "value": "1981",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "408fc1c6edcbb8cbd6e75b43fc058889163c51761776fcdecbcaa8facc99fc3fi3",
+    "meta": {
+      "name": "Americana #258",
+      "attributes": [
+        {
+          "value": "Connecticut",
+          "trait_type": "State"
+        },
+        {
+          "value": "1930",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "408fc1c6edcbb8cbd6e75b43fc058889163c51761776fcdecbcaa8facc99fc3fi4",
+    "meta": {
+      "name": "Americana #259",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1999",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7b80d2d1b1d88a38e7090f5a32c66ebb82d3e62bd6019f107e15e91f9512d895i0",
+    "meta": {
+      "name": "Americana #260",
+      "attributes": [
+        {
+          "value": "Rhode Island",
+          "trait_type": "State"
+        },
+        {
+          "value": "1952",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7b80d2d1b1d88a38e7090f5a32c66ebb82d3e62bd6019f107e15e91f9512d895i1",
+    "meta": {
+      "name": "Americana #261",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "1960",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7b80d2d1b1d88a38e7090f5a32c66ebb82d3e62bd6019f107e15e91f9512d895i2",
+    "meta": {
+      "name": "Americana #262",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1964",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7b80d2d1b1d88a38e7090f5a32c66ebb82d3e62bd6019f107e15e91f9512d895i3",
+    "meta": {
+      "name": "Americana #263",
+      "attributes": [
+        {
+          "value": "North Dakota",
+          "trait_type": "State"
+        },
+        {
+          "value": "1977",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7b80d2d1b1d88a38e7090f5a32c66ebb82d3e62bd6019f107e15e91f9512d895i4",
+    "meta": {
+      "name": "Americana #264",
+      "attributes": [
+        {
+          "value": "North Carolina",
+          "trait_type": "State"
+        },
+        {
+          "value": "1975",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "654b563542540c4e6756e9724d52cb61cb965bb4796c77fdf1c6f11785c03886i0",
+    "meta": {
+      "name": "Americana #265",
+      "attributes": [
+        {
+          "value": "Kentucky",
+          "trait_type": "State"
+        },
+        {
+          "value": "1967",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "654b563542540c4e6756e9724d52cb61cb965bb4796c77fdf1c6f11785c03886i1",
+    "meta": {
+      "name": "Americana #266",
+      "attributes": [
+        {
+          "value": "Ohio",
+          "trait_type": "State"
+        },
+        {
+          "value": "1962",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "654b563542540c4e6756e9724d52cb61cb965bb4796c77fdf1c6f11785c03886i2",
+    "meta": {
+      "name": "Americana #267",
+      "attributes": [
+        {
+          "value": "West Virginia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "654b563542540c4e6756e9724d52cb61cb965bb4796c77fdf1c6f11785c03886i3",
+    "meta": {
+      "name": "Americana #268",
+      "attributes": [
+        {
+          "value": "Connecticut",
+          "trait_type": "State"
+        },
+        {
+          "value": "1980",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "654b563542540c4e6756e9724d52cb61cb965bb4796c77fdf1c6f11785c03886i4",
+    "meta": {
+      "name": "Americana #269",
+      "attributes": [
+        {
+          "value": "Arizona",
+          "trait_type": "State"
+        },
+        {
+          "value": "1977",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "51902bbca0860598d39a487fa56e37649197b4348b6a03ecf07446e32553ace1i0",
+    "meta": {
+      "name": "Americana #270",
+      "attributes": [
+        {
+          "value": "Arizona",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "51902bbca0860598d39a487fa56e37649197b4348b6a03ecf07446e32553ace1i1",
+    "meta": {
+      "name": "Americana #271",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1999",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "51902bbca0860598d39a487fa56e37649197b4348b6a03ecf07446e32553ace1i2",
+    "meta": {
+      "name": "Americana #272",
+      "attributes": [
+        {
+          "value": "Wisconsin",
+          "trait_type": "State"
+        },
+        {
+          "value": "1958",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "51902bbca0860598d39a487fa56e37649197b4348b6a03ecf07446e32553ace1i3",
+    "meta": {
+      "name": "Americana #273",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1972",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "51902bbca0860598d39a487fa56e37649197b4348b6a03ecf07446e32553ace1i4",
+    "meta": {
+      "name": "Americana #274",
+      "attributes": [
+        {
+          "value": "Kansas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1955",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a15b80becf73a5d5d7af8611dd44e694c48e13dfe902bab9cb876d88e28e3682i0",
+    "meta": {
+      "name": "Americana #275",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1963",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a15b80becf73a5d5d7af8611dd44e694c48e13dfe902bab9cb876d88e28e3682i1",
+    "meta": {
+      "name": "Americana #276",
+      "attributes": [
+        {
+          "value": "Michigan",
+          "trait_type": "State"
+        },
+        {
+          "value": "1962",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a15b80becf73a5d5d7af8611dd44e694c48e13dfe902bab9cb876d88e28e3682i2",
+    "meta": {
+      "name": "Americana #277",
+      "attributes": [
+        {
+          "value": "Alabama",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a15b80becf73a5d5d7af8611dd44e694c48e13dfe902bab9cb876d88e28e3682i3",
+    "meta": {
+      "name": "Americana #278",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "1960",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a15b80becf73a5d5d7af8611dd44e694c48e13dfe902bab9cb876d88e28e3682i4",
+    "meta": {
+      "name": "Americana #279",
+      "attributes": [
+        {
+          "value": "Arkansas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1962",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2bd98d66287fa33aaceca7bad83b08e24995a6156b58e52de7cdd3f9e47fd0d0i0",
+    "meta": {
+      "name": "Americana #280",
+      "attributes": [
+        {
+          "value": "Illinois",
+          "trait_type": "State"
+        },
+        {
+          "value": "1955",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2bd98d66287fa33aaceca7bad83b08e24995a6156b58e52de7cdd3f9e47fd0d0i1",
+    "meta": {
+      "name": "Americana #281",
+      "attributes": [
+        {
+          "value": "Minnesota",
+          "trait_type": "State"
+        },
+        {
+          "value": "1960",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2bd98d66287fa33aaceca7bad83b08e24995a6156b58e52de7cdd3f9e47fd0d0i2",
+    "meta": {
+      "name": "Americana #282",
+      "attributes": [
+        {
+          "value": "Colorado",
+          "trait_type": "State"
+        },
+        {
+          "value": "1959",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2bd98d66287fa33aaceca7bad83b08e24995a6156b58e52de7cdd3f9e47fd0d0i3",
+    "meta": {
+      "name": "Americana #283",
+      "attributes": [
+        {
+          "value": "Kentucky",
+          "trait_type": "State"
+        },
+        {
+          "value": "1974",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2bd98d66287fa33aaceca7bad83b08e24995a6156b58e52de7cdd3f9e47fd0d0i4",
+    "meta": {
+      "name": "Americana #284",
+      "attributes": [
+        {
+          "value": "Maine",
+          "trait_type": "State"
+        },
+        {
+          "value": "1988",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e5fa6ad9ab3399f9aaec150423991adc21642c538445247039f9e239790a5250i0",
+    "meta": {
+      "name": "Americana #285",
+      "attributes": [
+        {
+          "value": "New Jersey",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e5fa6ad9ab3399f9aaec150423991adc21642c538445247039f9e239790a5250i1",
+    "meta": {
+      "name": "Americana #286",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e5fa6ad9ab3399f9aaec150423991adc21642c538445247039f9e239790a5250i2",
+    "meta": {
+      "name": "Americana #287",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1995",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e5fa6ad9ab3399f9aaec150423991adc21642c538445247039f9e239790a5250i3",
+    "meta": {
+      "name": "Americana #288",
+      "attributes": [
+        {
+          "value": "Illinois",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e5fa6ad9ab3399f9aaec150423991adc21642c538445247039f9e239790a5250i4",
+    "meta": {
+      "name": "Americana #289",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1958",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "506e5a9efc92de5b1f922be13bc4cec83a53a270ed8785a5c61c070686debf2bi0",
+    "meta": {
+      "name": "Americana #290",
+      "attributes": [
+        {
+          "value": "Georgia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1993",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "506e5a9efc92de5b1f922be13bc4cec83a53a270ed8785a5c61c070686debf2bi1",
+    "meta": {
+      "name": "Americana #291",
+      "attributes": [
+        {
+          "value": "South Dakota",
+          "trait_type": "State"
+        },
+        {
+          "value": "1974",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "506e5a9efc92de5b1f922be13bc4cec83a53a270ed8785a5c61c070686debf2bi2",
+    "meta": {
+      "name": "Americana #292",
+      "attributes": [
+        {
+          "value": "Utah",
+          "trait_type": "State"
+        },
+        {
+          "value": "1983",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "506e5a9efc92de5b1f922be13bc4cec83a53a270ed8785a5c61c070686debf2bi3",
+    "meta": {
+      "name": "Americana #293",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1984",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "506e5a9efc92de5b1f922be13bc4cec83a53a270ed8785a5c61c070686debf2bi4",
+    "meta": {
+      "name": "Americana #294",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1996",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ed58ddf763d88bbf81a761a5beb66be77d068ec687ec1406e5be340ba1b22c83i0",
+    "meta": {
+      "name": "Americana #295",
+      "attributes": [
+        {
+          "value": "Louisiana",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ed58ddf763d88bbf81a761a5beb66be77d068ec687ec1406e5be340ba1b22c83i1",
+    "meta": {
+      "name": "Americana #296",
+      "attributes": [
+        {
+          "value": "Washington",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ed58ddf763d88bbf81a761a5beb66be77d068ec687ec1406e5be340ba1b22c83i2",
+    "meta": {
+      "name": "Americana #297",
+      "attributes": [
+        {
+          "value": "Georgia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1995",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ed58ddf763d88bbf81a761a5beb66be77d068ec687ec1406e5be340ba1b22c83i3",
+    "meta": {
+      "name": "Americana #298",
+      "attributes": [
+        {
+          "value": "Pennsylvania",
+          "trait_type": "State"
+        },
+        {
+          "value": "1959",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ed58ddf763d88bbf81a761a5beb66be77d068ec687ec1406e5be340ba1b22c83i4",
+    "meta": {
+      "name": "Americana #299",
+      "attributes": [
+        {
+          "value": "Missouri",
+          "trait_type": "State"
+        },
+        {
+          "value": "1979",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6cc02216212cc641b0c6fc75576f7288ca8a8dd20ca84dd61a481c1c791cee9ci0",
+    "meta": {
+      "name": "Americana #300",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1977",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6cc02216212cc641b0c6fc75576f7288ca8a8dd20ca84dd61a481c1c791cee9ci1",
+    "meta": {
+      "name": "Americana #301",
+      "attributes": [
+        {
+          "value": "New Jersey",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6cc02216212cc641b0c6fc75576f7288ca8a8dd20ca84dd61a481c1c791cee9ci2",
+    "meta": {
+      "name": "Americana #302",
+      "attributes": [
+        {
+          "value": "Maine",
+          "trait_type": "State"
+        },
+        {
+          "value": "1957",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6cc02216212cc641b0c6fc75576f7288ca8a8dd20ca84dd61a481c1c791cee9ci3",
+    "meta": {
+      "name": "Americana #303",
+      "attributes": [
+        {
+          "value": "New Mexico",
+          "trait_type": "State"
+        },
+        {
+          "value": "1964",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6cc02216212cc641b0c6fc75576f7288ca8a8dd20ca84dd61a481c1c791cee9ci4",
+    "meta": {
+      "name": "Americana #304",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "302004fdc8610f55fca227c31bb85af7c34493c9e113a80c07887da86161c3bfi0",
+    "meta": {
+      "name": "Americana #305",
+      "attributes": [
+        {
+          "value": "Kentucky",
+          "trait_type": "State"
+        },
+        {
+          "value": "1962",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "302004fdc8610f55fca227c31bb85af7c34493c9e113a80c07887da86161c3bfi1",
+    "meta": {
+      "name": "Americana #306",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "302004fdc8610f55fca227c31bb85af7c34493c9e113a80c07887da86161c3bfi2",
+    "meta": {
+      "name": "Americana #307",
+      "attributes": [
+        {
+          "value": "Delaware",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "302004fdc8610f55fca227c31bb85af7c34493c9e113a80c07887da86161c3bfi3",
+    "meta": {
+      "name": "Americana #308",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1944",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "302004fdc8610f55fca227c31bb85af7c34493c9e113a80c07887da86161c3bfi4",
+    "meta": {
+      "name": "Americana #309",
+      "attributes": [
+        {
+          "value": "Nevada",
+          "trait_type": "State"
+        },
+        {
+          "value": "1970",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9421021b748558ab78ed0d0fdd8bae36602d1342193f86552434ae14843fd013i0",
+    "meta": {
+      "name": "Americana #310",
+      "attributes": [
+        {
+          "value": "North Carolina",
+          "trait_type": "State"
+        },
+        {
+          "value": "1966",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9421021b748558ab78ed0d0fdd8bae36602d1342193f86552434ae14843fd013i1",
+    "meta": {
+      "name": "Americana #311",
+      "attributes": [
+        {
+          "value": "Missouri",
+          "trait_type": "State"
+        },
+        {
+          "value": "1976",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9421021b748558ab78ed0d0fdd8bae36602d1342193f86552434ae14843fd013i2",
+    "meta": {
+      "name": "Americana #312",
+      "attributes": [
+        {
+          "value": "Georgia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1989",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9421021b748558ab78ed0d0fdd8bae36602d1342193f86552434ae14843fd013i3",
+    "meta": {
+      "name": "Americana #313",
+      "attributes": [
+        {
+          "value": "Vermont",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9421021b748558ab78ed0d0fdd8bae36602d1342193f86552434ae14843fd013i4",
+    "meta": {
+      "name": "Americana #314",
+      "attributes": [
+        {
+          "value": "Ohio",
+          "trait_type": "State"
+        },
+        {
+          "value": "1970",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e612018357de25e60e320b22b7941ab54c619b7bd415b4c318cc6264ec05f310i0",
+    "meta": {
+      "name": "Americana #315",
+      "attributes": [
+        {
+          "value": "Georgia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e612018357de25e60e320b22b7941ab54c619b7bd415b4c318cc6264ec05f310i1",
+    "meta": {
+      "name": "Americana #316",
+      "attributes": [
+        {
+          "value": "New Jersey",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e612018357de25e60e320b22b7941ab54c619b7bd415b4c318cc6264ec05f310i2",
+    "meta": {
+      "name": "Americana #317",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e612018357de25e60e320b22b7941ab54c619b7bd415b4c318cc6264ec05f310i3",
+    "meta": {
+      "name": "Americana #318",
+      "attributes": [
+        {
+          "value": "Nevada",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e612018357de25e60e320b22b7941ab54c619b7bd415b4c318cc6264ec05f310i4",
+    "meta": {
+      "name": "Americana #319",
+      "attributes": [
+        {
+          "value": "Georgia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1987",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "148053bc8db128e8eb0f3e0518f1eebb7819adca0a5ca6793a09785890731769i0",
+    "meta": {
+      "name": "Americana #320",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1998",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "148053bc8db128e8eb0f3e0518f1eebb7819adca0a5ca6793a09785890731769i1",
+    "meta": {
+      "name": "Americana #321",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1972",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "148053bc8db128e8eb0f3e0518f1eebb7819adca0a5ca6793a09785890731769i2",
+    "meta": {
+      "name": "Americana #322",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1984",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "148053bc8db128e8eb0f3e0518f1eebb7819adca0a5ca6793a09785890731769i3",
+    "meta": {
+      "name": "Americana #323",
+      "attributes": [
+        {
+          "value": "Illinois",
+          "trait_type": "State"
+        },
+        {
+          "value": "1956",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "148053bc8db128e8eb0f3e0518f1eebb7819adca0a5ca6793a09785890731769i4",
+    "meta": {
+      "name": "Americana #324",
+      "attributes": [
+        {
+          "value": "New Jersey",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cfa2b325cb8b195a2aab5d519b917dd96663c401a0bcfe879f91cac71b85830bi0",
+    "meta": {
+      "name": "Americana #325",
+      "attributes": [
+        {
+          "value": "Pennsylvania",
+          "trait_type": "State"
+        },
+        {
+          "value": "1959",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cfa2b325cb8b195a2aab5d519b917dd96663c401a0bcfe879f91cac71b85830bi1",
+    "meta": {
+      "name": "Americana #326",
+      "attributes": [
+        {
+          "value": "Oregon",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cfa2b325cb8b195a2aab5d519b917dd96663c401a0bcfe879f91cac71b85830bi2",
+    "meta": {
+      "name": "Americana #327",
+      "attributes": [
+        {
+          "value": "Ohio",
+          "trait_type": "State"
+        },
+        {
+          "value": "1972",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cfa2b325cb8b195a2aab5d519b917dd96663c401a0bcfe879f91cac71b85830bi3",
+    "meta": {
+      "name": "Americana #328",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cfa2b325cb8b195a2aab5d519b917dd96663c401a0bcfe879f91cac71b85830bi4",
+    "meta": {
+      "name": "Americana #329",
+      "attributes": [
+        {
+          "value": "Michigan",
+          "trait_type": "State"
+        },
+        {
+          "value": "1979",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c89d3c84134924814fd1c545af995a00a9a008619e6436a09ff8d687d1589f57i0",
+    "meta": {
+      "name": "Americana #330",
+      "attributes": [
+        {
+          "value": "Virginia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1968",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c89d3c84134924814fd1c545af995a00a9a008619e6436a09ff8d687d1589f57i1",
+    "meta": {
+      "name": "Americana #331",
+      "attributes": [
+        {
+          "value": "Nebraska",
+          "trait_type": "State"
+        },
+        {
+          "value": "1975",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c89d3c84134924814fd1c545af995a00a9a008619e6436a09ff8d687d1589f57i2",
+    "meta": {
+      "name": "Americana #332",
+      "attributes": [
+        {
+          "value": "Virginia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1953",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c89d3c84134924814fd1c545af995a00a9a008619e6436a09ff8d687d1589f57i3",
+    "meta": {
+      "name": "Americana #333",
+      "attributes": [
+        {
+          "value": "Minnesota",
+          "trait_type": "State"
+        },
+        {
+          "value": "1977",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c89d3c84134924814fd1c545af995a00a9a008619e6436a09ff8d687d1589f57i4",
+    "meta": {
+      "name": "Americana #334",
+      "attributes": [
+        {
+          "value": "Tennessee",
+          "trait_type": "State"
+        },
+        {
+          "value": "1982",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f71155e023daf6865831934ee0dd03c00cdff2687b3ba68cad6ecd7f30f9db6di0",
+    "meta": {
+      "name": "Americana #335",
+      "attributes": [
+        {
+          "value": "New Mexico",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f71155e023daf6865831934ee0dd03c00cdff2687b3ba68cad6ecd7f30f9db6di1",
+    "meta": {
+      "name": "Americana #336",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1960",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f71155e023daf6865831934ee0dd03c00cdff2687b3ba68cad6ecd7f30f9db6di2",
+    "meta": {
+      "name": "Americana #337",
+      "attributes": [
+        {
+          "value": "Indiana",
+          "trait_type": "State"
+        },
+        {
+          "value": "1962",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f71155e023daf6865831934ee0dd03c00cdff2687b3ba68cad6ecd7f30f9db6di3",
+    "meta": {
+      "name": "Americana #338",
+      "attributes": [
+        {
+          "value": "South Carolina",
+          "trait_type": "State"
+        },
+        {
+          "value": "1970",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f71155e023daf6865831934ee0dd03c00cdff2687b3ba68cad6ecd7f30f9db6di4",
+    "meta": {
+      "name": "Americana #339",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1993",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "79f23cd21031539741993fe66a42c44b71ea6ff15258e26c6724534daa7968dei0",
+    "meta": {
+      "name": "Americana #340",
+      "attributes": [
+        {
+          "value": "West Virginia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1976",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "79f23cd21031539741993fe66a42c44b71ea6ff15258e26c6724534daa7968dei1",
+    "meta": {
+      "name": "Americana #341",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1970",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "79f23cd21031539741993fe66a42c44b71ea6ff15258e26c6724534daa7968dei2",
+    "meta": {
+      "name": "Americana #342",
+      "attributes": [
+        {
+          "value": "Alabama",
+          "trait_type": "State"
+        },
+        {
+          "value": "1975",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "79f23cd21031539741993fe66a42c44b71ea6ff15258e26c6724534daa7968dei3",
+    "meta": {
+      "name": "Americana #343",
+      "attributes": [
+        {
+          "value": "Tennessee",
+          "trait_type": "State"
+        },
+        {
+          "value": "1976",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "79f23cd21031539741993fe66a42c44b71ea6ff15258e26c6724534daa7968dei4",
+    "meta": {
+      "name": "Americana #344",
+      "attributes": [
+        {
+          "value": "Utah",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5d9ecb2e51420f35b2aa44a7e72a817f7332f2750bcce4bbb44fe99c8ac6354bi0",
+    "meta": {
+      "name": "Americana #345",
+      "attributes": [
+        {
+          "value": "Iowa",
+          "trait_type": "State"
+        },
+        {
+          "value": "1965",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5d9ecb2e51420f35b2aa44a7e72a817f7332f2750bcce4bbb44fe99c8ac6354bi1",
+    "meta": {
+      "name": "Americana #346",
+      "attributes": [
+        {
+          "value": "North Carolina",
+          "trait_type": "State"
+        },
+        {
+          "value": "1956",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5d9ecb2e51420f35b2aa44a7e72a817f7332f2750bcce4bbb44fe99c8ac6354bi2",
+    "meta": {
+      "name": "Americana #347",
+      "attributes": [
+        {
+          "value": "Georgia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1984",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5d9ecb2e51420f35b2aa44a7e72a817f7332f2750bcce4bbb44fe99c8ac6354bi3",
+    "meta": {
+      "name": "Americana #348",
+      "attributes": [
+        {
+          "value": "South Carolina",
+          "trait_type": "State"
+        },
+        {
+          "value": "1972",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5d9ecb2e51420f35b2aa44a7e72a817f7332f2750bcce4bbb44fe99c8ac6354bi4",
+    "meta": {
+      "name": "Americana #349",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "1963",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "538f591cae04e82a1c6c5560c057febaa9072c22d5ba1bb21364bfde38e9d32fi0",
+    "meta": {
+      "name": "Americana #350",
+      "attributes": [
+        {
+          "value": "Pennsylvania",
+          "trait_type": "State"
+        },
+        {
+          "value": "1961",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "538f591cae04e82a1c6c5560c057febaa9072c22d5ba1bb21364bfde38e9d32fi1",
+    "meta": {
+      "name": "Americana #351",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "538f591cae04e82a1c6c5560c057febaa9072c22d5ba1bb21364bfde38e9d32fi2",
+    "meta": {
+      "name": "Americana #352",
+      "attributes": [
+        {
+          "value": "Massachusetts",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "538f591cae04e82a1c6c5560c057febaa9072c22d5ba1bb21364bfde38e9d32fi3",
+    "meta": {
+      "name": "Americana #353",
+      "attributes": [
+        {
+          "value": "Hawaii",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "538f591cae04e82a1c6c5560c057febaa9072c22d5ba1bb21364bfde38e9d32fi4",
+    "meta": {
+      "name": "Americana #354",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "1960",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0203d21d4e8426b8cf4ae839e7c62bcf4bb7f7c349f455638a38765ac2bbf229i0",
+    "meta": {
+      "name": "Americana #355",
+      "attributes": [
+        {
+          "value": "Colorado",
+          "trait_type": "State"
+        },
+        {
+          "value": "1957",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0203d21d4e8426b8cf4ae839e7c62bcf4bb7f7c349f455638a38765ac2bbf229i1",
+    "meta": {
+      "name": "Americana #356",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "1965",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0203d21d4e8426b8cf4ae839e7c62bcf4bb7f7c349f455638a38765ac2bbf229i2",
+    "meta": {
+      "name": "Americana #357",
+      "attributes": [
+        {
+          "value": "Illinois",
+          "trait_type": "State"
+        },
+        {
+          "value": "1965",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0203d21d4e8426b8cf4ae839e7c62bcf4bb7f7c349f455638a38765ac2bbf229i3",
+    "meta": {
+      "name": "Americana #358",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1960",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0203d21d4e8426b8cf4ae839e7c62bcf4bb7f7c349f455638a38765ac2bbf229i4",
+    "meta": {
+      "name": "Americana #359",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1960",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "57469ce632d9fa8f7b9e405cd1811266818800f7580c709b22b4f3aa5637b489i0",
+    "meta": {
+      "name": "Americana #360",
+      "attributes": [
+        {
+          "value": "Virginia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1970",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "57469ce632d9fa8f7b9e405cd1811266818800f7580c709b22b4f3aa5637b489i1",
+    "meta": {
+      "name": "Americana #361",
+      "attributes": [
+        {
+          "value": "Wisconsin",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "57469ce632d9fa8f7b9e405cd1811266818800f7580c709b22b4f3aa5637b489i2",
+    "meta": {
+      "name": "Americana #362",
+      "attributes": [
+        {
+          "value": "South Carolina",
+          "trait_type": "State"
+        },
+        {
+          "value": "1971",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "57469ce632d9fa8f7b9e405cd1811266818800f7580c709b22b4f3aa5637b489i3",
+    "meta": {
+      "name": "Americana #363",
+      "attributes": [
+        {
+          "value": "District of Columbia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1963",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "57469ce632d9fa8f7b9e405cd1811266818800f7580c709b22b4f3aa5637b489i4",
+    "meta": {
+      "name": "Americana #364",
+      "attributes": [
+        {
+          "value": "Washington",
+          "trait_type": "State"
+        },
+        {
+          "value": "1980",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "535d4f54c2d8d9a3d76f8163c3ed829ff29f1426d9031b45f6f83173d8f53f64i0",
+    "meta": {
+      "name": "Americana #365",
+      "attributes": [
+        {
+          "value": "New Hampshire",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "535d4f54c2d8d9a3d76f8163c3ed829ff29f1426d9031b45f6f83173d8f53f64i1",
+    "meta": {
+      "name": "Americana #366",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1959",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "535d4f54c2d8d9a3d76f8163c3ed829ff29f1426d9031b45f6f83173d8f53f64i2",
+    "meta": {
+      "name": "Americana #367",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1991",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "535d4f54c2d8d9a3d76f8163c3ed829ff29f1426d9031b45f6f83173d8f53f64i3",
+    "meta": {
+      "name": "Americana #368",
+      "attributes": [
+        {
+          "value": "Michigan",
+          "trait_type": "State"
+        },
+        {
+          "value": "1975",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "535d4f54c2d8d9a3d76f8163c3ed829ff29f1426d9031b45f6f83173d8f53f64i4",
+    "meta": {
+      "name": "Americana #369",
+      "attributes": [
+        {
+          "value": "Georgia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1948",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8169be0a246a5d4f2bf581bc4ac1697275818fec90aedcba7e37b94dd45734c2i0",
+    "meta": {
+      "name": "Americana #370",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1990",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8169be0a246a5d4f2bf581bc4ac1697275818fec90aedcba7e37b94dd45734c2i1",
+    "meta": {
+      "name": "Americana #371",
+      "attributes": [
+        {
+          "value": "Oregon",
+          "trait_type": "State"
+        },
+        {
+          "value": "1977",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8169be0a246a5d4f2bf581bc4ac1697275818fec90aedcba7e37b94dd45734c2i2",
+    "meta": {
+      "name": "Americana #372",
+      "attributes": [
+        {
+          "value": "Oklahoma",
+          "trait_type": "State"
+        },
+        {
+          "value": "1976",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8169be0a246a5d4f2bf581bc4ac1697275818fec90aedcba7e37b94dd45734c2i3",
+    "meta": {
+      "name": "Americana #373",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1966",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8169be0a246a5d4f2bf581bc4ac1697275818fec90aedcba7e37b94dd45734c2i4",
+    "meta": {
+      "name": "Americana #374",
+      "attributes": [
+        {
+          "value": "Maryland",
+          "trait_type": "State"
+        },
+        {
+          "value": "1966",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "860e9dd2ea1fbd1ea8f23b0ef5d189df147bec66d117c05497df4e3369af7153i0",
+    "meta": {
+      "name": "Americana #375",
+      "attributes": [
+        {
+          "value": "West Virginia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1930",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "860e9dd2ea1fbd1ea8f23b0ef5d189df147bec66d117c05497df4e3369af7153i1",
+    "meta": {
+      "name": "Americana #376",
+      "attributes": [
+        {
+          "value": "Wisconsin",
+          "trait_type": "State"
+        },
+        {
+          "value": "1972",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "860e9dd2ea1fbd1ea8f23b0ef5d189df147bec66d117c05497df4e3369af7153i2",
+    "meta": {
+      "name": "Americana #377",
+      "attributes": [
+        {
+          "value": "Indiana",
+          "trait_type": "State"
+        },
+        {
+          "value": "1957",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "860e9dd2ea1fbd1ea8f23b0ef5d189df147bec66d117c05497df4e3369af7153i3",
+    "meta": {
+      "name": "Americana #378",
+      "attributes": [
+        {
+          "value": "Nebraska",
+          "trait_type": "State"
+        },
+        {
+          "value": "1956",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "860e9dd2ea1fbd1ea8f23b0ef5d189df147bec66d117c05497df4e3369af7153i4",
+    "meta": {
+      "name": "Americana #379",
+      "attributes": [
+        {
+          "value": "South Carolina",
+          "trait_type": "State"
+        },
+        {
+          "value": "1972",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "def679f9f33c2c8dccbb637c87f2e1eb33f2fb346896c27009e3c5c3a6668882i0",
+    "meta": {
+      "name": "Americana #380",
+      "attributes": [
+        {
+          "value": "Indiana",
+          "trait_type": "State"
+        },
+        {
+          "value": "1966",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "def679f9f33c2c8dccbb637c87f2e1eb33f2fb346896c27009e3c5c3a6668882i1",
+    "meta": {
+      "name": "Americana #381",
+      "attributes": [
+        {
+          "value": "Illinois",
+          "trait_type": "State"
+        },
+        {
+          "value": "1968",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "def679f9f33c2c8dccbb637c87f2e1eb33f2fb346896c27009e3c5c3a6668882i2",
+    "meta": {
+      "name": "Americana #382",
+      "attributes": [
+        {
+          "value": "Colorado",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "def679f9f33c2c8dccbb637c87f2e1eb33f2fb346896c27009e3c5c3a6668882i3",
+    "meta": {
+      "name": "Americana #383",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "def679f9f33c2c8dccbb637c87f2e1eb33f2fb346896c27009e3c5c3a6668882i4",
+    "meta": {
+      "name": "Americana #384",
+      "attributes": [
+        {
+          "value": "Utah",
+          "trait_type": "State"
+        },
+        {
+          "value": "1962",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4d082583ce581417356e0ef1695771c7122b50e1a5d4f5939433e447da30fa00i0",
+    "meta": {
+      "name": "Americana #385",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1954",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4d082583ce581417356e0ef1695771c7122b50e1a5d4f5939433e447da30fa00i1",
+    "meta": {
+      "name": "Americana #386",
+      "attributes": [
+        {
+          "value": "Minnesota",
+          "trait_type": "State"
+        },
+        {
+          "value": "1968",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4d082583ce581417356e0ef1695771c7122b50e1a5d4f5939433e447da30fa00i2",
+    "meta": {
+      "name": "Americana #387",
+      "attributes": [
+        {
+          "value": "West Virginia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1960",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4d082583ce581417356e0ef1695771c7122b50e1a5d4f5939433e447da30fa00i3",
+    "meta": {
+      "name": "Americana #388",
+      "attributes": [
+        {
+          "value": "Pennsylvania",
+          "trait_type": "State"
+        },
+        {
+          "value": "1961",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4d082583ce581417356e0ef1695771c7122b50e1a5d4f5939433e447da30fa00i4",
+    "meta": {
+      "name": "Americana #389",
+      "attributes": [
+        {
+          "value": "Washington",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6e7b1666009c8b4b6fe76160f815535df643cee26d784a7f85fa40f4b0ba0538i0",
+    "meta": {
+      "name": "Americana #390",
+      "attributes": [
+        {
+          "value": "Wisconsin",
+          "trait_type": "State"
+        },
+        {
+          "value": "1965",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6e7b1666009c8b4b6fe76160f815535df643cee26d784a7f85fa40f4b0ba0538i1",
+    "meta": {
+      "name": "Americana #391",
+      "attributes": [
+        {
+          "value": "Alabama",
+          "trait_type": "State"
+        },
+        {
+          "value": "1979",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6e7b1666009c8b4b6fe76160f815535df643cee26d784a7f85fa40f4b0ba0538i2",
+    "meta": {
+      "name": "Americana #392",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1988",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6e7b1666009c8b4b6fe76160f815535df643cee26d784a7f85fa40f4b0ba0538i3",
+    "meta": {
+      "name": "Americana #393",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1965",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6e7b1666009c8b4b6fe76160f815535df643cee26d784a7f85fa40f4b0ba0538i4",
+    "meta": {
+      "name": "Americana #394",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1944",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "641661396cb89bd95373bdf244fb48603aee0c4ba53c2c0c85510a52bb1800d3i0",
+    "meta": {
+      "name": "Americana #395",
+      "attributes": [
+        {
+          "value": "Ohio",
+          "trait_type": "State"
+        },
+        {
+          "value": "1967",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "641661396cb89bd95373bdf244fb48603aee0c4ba53c2c0c85510a52bb1800d3i1",
+    "meta": {
+      "name": "Americana #396",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1963",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "641661396cb89bd95373bdf244fb48603aee0c4ba53c2c0c85510a52bb1800d3i2",
+    "meta": {
+      "name": "Americana #397",
+      "attributes": [
+        {
+          "value": "Georgia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1972",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "641661396cb89bd95373bdf244fb48603aee0c4ba53c2c0c85510a52bb1800d3i3",
+    "meta": {
+      "name": "Americana #398",
+      "attributes": [
+        {
+          "value": "South Carolina",
+          "trait_type": "State"
+        },
+        {
+          "value": "1971",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "641661396cb89bd95373bdf244fb48603aee0c4ba53c2c0c85510a52bb1800d3i4",
+    "meta": {
+      "name": "Americana #399",
+      "attributes": [
+        {
+          "value": "Maryland",
+          "trait_type": "State"
+        },
+        {
+          "value": "1967",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f6eda8a3df0d39e728ed5a84242f6bdf648c2eac019d9fe00b8cdb463b4d1d90i0",
+    "meta": {
+      "name": "Americana #400",
+      "attributes": [
+        {
+          "value": "Wyoming",
+          "trait_type": "State"
+        },
+        {
+          "value": "1972",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f6eda8a3df0d39e728ed5a84242f6bdf648c2eac019d9fe00b8cdb463b4d1d90i1",
+    "meta": {
+      "name": "Americana #401",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1964",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f6eda8a3df0d39e728ed5a84242f6bdf648c2eac019d9fe00b8cdb463b4d1d90i2",
+    "meta": {
+      "name": "Americana #402",
+      "attributes": [
+        {
+          "value": "Arizona",
+          "trait_type": "State"
+        },
+        {
+          "value": "1960",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f6eda8a3df0d39e728ed5a84242f6bdf648c2eac019d9fe00b8cdb463b4d1d90i3",
+    "meta": {
+      "name": "Americana #403",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1961",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f6eda8a3df0d39e728ed5a84242f6bdf648c2eac019d9fe00b8cdb463b4d1d90i4",
+    "meta": {
+      "name": "Americana #404",
+      "attributes": [
+        {
+          "value": "Pennsylvania",
+          "trait_type": "State"
+        },
+        {
+          "value": "1986",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5ef1d0c496efbc35b5eee799219f0fc88444fa5e5a1c90f4cc33084f693d6020i0",
+    "meta": {
+      "name": "Americana #405",
+      "attributes": [
+        {
+          "value": "Virginia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1958",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5ef1d0c496efbc35b5eee799219f0fc88444fa5e5a1c90f4cc33084f693d6020i1",
+    "meta": {
+      "name": "Americana #406",
+      "attributes": [
+        {
+          "value": "Hawaii",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5ef1d0c496efbc35b5eee799219f0fc88444fa5e5a1c90f4cc33084f693d6020i2",
+    "meta": {
+      "name": "Americana #407",
+      "attributes": [
+        {
+          "value": "Illinois",
+          "trait_type": "State"
+        },
+        {
+          "value": "1947",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5ef1d0c496efbc35b5eee799219f0fc88444fa5e5a1c90f4cc33084f693d6020i3",
+    "meta": {
+      "name": "Americana #408",
+      "attributes": [
+        {
+          "value": "Hawaii",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5ef1d0c496efbc35b5eee799219f0fc88444fa5e5a1c90f4cc33084f693d6020i4",
+    "meta": {
+      "name": "Americana #409",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1993",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5a801143b9292b6129751ff8487288b495336401a8a62665283ed4da4c60e4d3i0",
+    "meta": {
+      "name": "Americana #410",
+      "attributes": [
+        {
+          "value": "Michigan",
+          "trait_type": "State"
+        },
+        {
+          "value": "1975",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5a801143b9292b6129751ff8487288b495336401a8a62665283ed4da4c60e4d3i1",
+    "meta": {
+      "name": "Americana #411",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1983",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5a801143b9292b6129751ff8487288b495336401a8a62665283ed4da4c60e4d3i2",
+    "meta": {
+      "name": "Americana #412",
+      "attributes": [
+        {
+          "value": "Virginia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1971",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5a801143b9292b6129751ff8487288b495336401a8a62665283ed4da4c60e4d3i3",
+    "meta": {
+      "name": "Americana #413",
+      "attributes": [
+        {
+          "value": "Iowa",
+          "trait_type": "State"
+        },
+        {
+          "value": "1962",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5a801143b9292b6129751ff8487288b495336401a8a62665283ed4da4c60e4d3i4",
+    "meta": {
+      "name": "Americana #414",
+      "attributes": [
+        {
+          "value": "Oklahoma",
+          "trait_type": "State"
+        },
+        {
+          "value": "1963",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bde81cf5aeeb0aaec2d07bfc253885d4323bfafa76143c2f7a8f8eb53d187cb5i0",
+    "meta": {
+      "name": "Americana #415",
+      "attributes": [
+        {
+          "value": "Massachusetts",
+          "trait_type": "State"
+        },
+        {
+          "value": "1959",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bde81cf5aeeb0aaec2d07bfc253885d4323bfafa76143c2f7a8f8eb53d187cb5i1",
+    "meta": {
+      "name": "Americana #416",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "1958",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bde81cf5aeeb0aaec2d07bfc253885d4323bfafa76143c2f7a8f8eb53d187cb5i2",
+    "meta": {
+      "name": "Americana #417",
+      "attributes": [
+        {
+          "value": "Rhode Island",
+          "trait_type": "State"
+        },
+        {
+          "value": "1958",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bde81cf5aeeb0aaec2d07bfc253885d4323bfafa76143c2f7a8f8eb53d187cb5i3",
+    "meta": {
+      "name": "Americana #418",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bde81cf5aeeb0aaec2d07bfc253885d4323bfafa76143c2f7a8f8eb53d187cb5i4",
+    "meta": {
+      "name": "Americana #419",
+      "attributes": [
+        {
+          "value": "Ohio",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "01fea2420aa83296c40fd1f9b7dcacd40ed17585a3c3cbd84d7c977eed7c01d5i0",
+    "meta": {
+      "name": "Americana #420",
+      "attributes": [
+        {
+          "value": "Kansas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1970",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "01fea2420aa83296c40fd1f9b7dcacd40ed17585a3c3cbd84d7c977eed7c01d5i1",
+    "meta": {
+      "name": "Americana #421",
+      "attributes": [
+        {
+          "value": "Hawaii",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "01fea2420aa83296c40fd1f9b7dcacd40ed17585a3c3cbd84d7c977eed7c01d5i2",
+    "meta": {
+      "name": "Americana #422",
+      "attributes": [
+        {
+          "value": "Maine",
+          "trait_type": "State"
+        },
+        {
+          "value": "1962",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "01fea2420aa83296c40fd1f9b7dcacd40ed17585a3c3cbd84d7c977eed7c01d5i3",
+    "meta": {
+      "name": "Americana #423",
+      "attributes": [
+        {
+          "value": "Washington",
+          "trait_type": "State"
+        },
+        {
+          "value": "1960",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "01fea2420aa83296c40fd1f9b7dcacd40ed17585a3c3cbd84d7c977eed7c01d5i4",
+    "meta": {
+      "name": "Americana #424",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1984",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2e6a7a12ea3ded71245b5ec052401711a2807d120ee1ffb0144e6b1d8f462628i0",
+    "meta": {
+      "name": "Americana #425",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1966",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2e6a7a12ea3ded71245b5ec052401711a2807d120ee1ffb0144e6b1d8f462628i1",
+    "meta": {
+      "name": "Americana #426",
+      "attributes": [
+        {
+          "value": "Maryland",
+          "trait_type": "State"
+        },
+        {
+          "value": "1967",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2e6a7a12ea3ded71245b5ec052401711a2807d120ee1ffb0144e6b1d8f462628i2",
+    "meta": {
+      "name": "Americana #427",
+      "attributes": [
+        {
+          "value": "Arkansas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2e6a7a12ea3ded71245b5ec052401711a2807d120ee1ffb0144e6b1d8f462628i3",
+    "meta": {
+      "name": "Americana #428",
+      "attributes": [
+        {
+          "value": "Arizona",
+          "trait_type": "State"
+        },
+        {
+          "value": "1961",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2e6a7a12ea3ded71245b5ec052401711a2807d120ee1ffb0144e6b1d8f462628i4",
+    "meta": {
+      "name": "Americana #429",
+      "attributes": [
+        {
+          "value": "Illinois",
+          "trait_type": "State"
+        },
+        {
+          "value": "1963",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0471f09a5b78c006646b54230d342b2a75cd3391a227fce4aa62c6c95c71e987i0",
+    "meta": {
+      "name": "Americana #430",
+      "attributes": [
+        {
+          "value": "Missouri",
+          "trait_type": "State"
+        },
+        {
+          "value": "1978",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0471f09a5b78c006646b54230d342b2a75cd3391a227fce4aa62c6c95c71e987i1",
+    "meta": {
+      "name": "Americana #431",
+      "attributes": [
+        {
+          "value": "Maryland",
+          "trait_type": "State"
+        },
+        {
+          "value": "1968",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0471f09a5b78c006646b54230d342b2a75cd3391a227fce4aa62c6c95c71e987i2",
+    "meta": {
+      "name": "Americana #432",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1974",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0471f09a5b78c006646b54230d342b2a75cd3391a227fce4aa62c6c95c71e987i3",
+    "meta": {
+      "name": "Americana #433",
+      "attributes": [
+        {
+          "value": "Missouri",
+          "trait_type": "State"
+        },
+        {
+          "value": "1971",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0471f09a5b78c006646b54230d342b2a75cd3391a227fce4aa62c6c95c71e987i4",
+    "meta": {
+      "name": "Americana #434",
+      "attributes": [
+        {
+          "value": "Virginia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1953",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "eddf2c191fe32561ed9245297da60a600f68ac0421dafbba7b258c7e008b91e1i0",
+    "meta": {
+      "name": "Americana #435",
+      "attributes": [
+        {
+          "value": "North Dakota",
+          "trait_type": "State"
+        },
+        {
+          "value": "1983",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "eddf2c191fe32561ed9245297da60a600f68ac0421dafbba7b258c7e008b91e1i1",
+    "meta": {
+      "name": "Americana #436",
+      "attributes": [
+        {
+          "value": "Arkansas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1964",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "eddf2c191fe32561ed9245297da60a600f68ac0421dafbba7b258c7e008b91e1i2",
+    "meta": {
+      "name": "Americana #437",
+      "attributes": [
+        {
+          "value": "Pennsylvania",
+          "trait_type": "State"
+        },
+        {
+          "value": "1964",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "eddf2c191fe32561ed9245297da60a600f68ac0421dafbba7b258c7e008b91e1i3",
+    "meta": {
+      "name": "Americana #438",
+      "attributes": [
+        {
+          "value": "Ohio",
+          "trait_type": "State"
+        },
+        {
+          "value": "1971",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "eddf2c191fe32561ed9245297da60a600f68ac0421dafbba7b258c7e008b91e1i4",
+    "meta": {
+      "name": "Americana #439",
+      "attributes": [
+        {
+          "value": "Colorado",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2af565e838e8e75419d5c566ece46e76609b2f1a8ee094542078c1a9e23ad258i0",
+    "meta": {
+      "name": "Americana #440",
+      "attributes": [
+        {
+          "value": "South Carolina",
+          "trait_type": "State"
+        },
+        {
+          "value": "1956",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2af565e838e8e75419d5c566ece46e76609b2f1a8ee094542078c1a9e23ad258i1",
+    "meta": {
+      "name": "Americana #441",
+      "attributes": [
+        {
+          "value": "Mississippi",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2af565e838e8e75419d5c566ece46e76609b2f1a8ee094542078c1a9e23ad258i2",
+    "meta": {
+      "name": "Americana #442",
+      "attributes": [
+        {
+          "value": "New Hampshire",
+          "trait_type": "State"
+        },
+        {
+          "value": "1952",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2af565e838e8e75419d5c566ece46e76609b2f1a8ee094542078c1a9e23ad258i3",
+    "meta": {
+      "name": "Americana #443",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2af565e838e8e75419d5c566ece46e76609b2f1a8ee094542078c1a9e23ad258i4",
+    "meta": {
+      "name": "Americana #444",
+      "attributes": [
+        {
+          "value": "North Carolina",
+          "trait_type": "State"
+        },
+        {
+          "value": "1963",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "18e5a616559ed8ec197ed21c6dce5dfd0271cd7f53160a60a52cf7b89958f19ai0",
+    "meta": {
+      "name": "Americana #445",
+      "attributes": [
+        {
+          "value": "Vermont",
+          "trait_type": "State"
+        },
+        {
+          "value": "1962",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "18e5a616559ed8ec197ed21c6dce5dfd0271cd7f53160a60a52cf7b89958f19ai1",
+    "meta": {
+      "name": "Americana #446",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1963",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "18e5a616559ed8ec197ed21c6dce5dfd0271cd7f53160a60a52cf7b89958f19ai2",
+    "meta": {
+      "name": "Americana #447",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1979",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "18e5a616559ed8ec197ed21c6dce5dfd0271cd7f53160a60a52cf7b89958f19ai3",
+    "meta": {
+      "name": "Americana #448",
+      "attributes": [
+        {
+          "value": "Arkansas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1968",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "18e5a616559ed8ec197ed21c6dce5dfd0271cd7f53160a60a52cf7b89958f19ai4",
+    "meta": {
+      "name": "Americana #449",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1963",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e7876eaae46cdf65da3e116755fb2cc5dd5863f34a52fead09babb3b692bd238i0",
+    "meta": {
+      "name": "Americana #450",
+      "attributes": [
+        {
+          "value": "New Mexico",
+          "trait_type": "State"
+        },
+        {
+          "value": "1978",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e7876eaae46cdf65da3e116755fb2cc5dd5863f34a52fead09babb3b692bd238i1",
+    "meta": {
+      "name": "Americana #451",
+      "attributes": [
+        {
+          "value": "Colorado",
+          "trait_type": "State"
+        },
+        {
+          "value": "1976",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e7876eaae46cdf65da3e116755fb2cc5dd5863f34a52fead09babb3b692bd238i2",
+    "meta": {
+      "name": "Americana #452",
+      "attributes": [
+        {
+          "value": "Washington",
+          "trait_type": "State"
+        },
+        {
+          "value": "1927",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e7876eaae46cdf65da3e116755fb2cc5dd5863f34a52fead09babb3b692bd238i3",
+    "meta": {
+      "name": "Americana #453",
+      "attributes": [
+        {
+          "value": "Michigan",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e7876eaae46cdf65da3e116755fb2cc5dd5863f34a52fead09babb3b692bd238i4",
+    "meta": {
+      "name": "Americana #454",
+      "attributes": [
+        {
+          "value": "Minnesota",
+          "trait_type": "State"
+        },
+        {
+          "value": "1962",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f582b94529c40471769870a6df6463abe2cf8651490ae5e066f8e82d024835a7i0",
+    "meta": {
+      "name": "Americana #455",
+      "attributes": [
+        {
+          "value": "Pennsylvania",
+          "trait_type": "State"
+        },
+        {
+          "value": "1941",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f582b94529c40471769870a6df6463abe2cf8651490ae5e066f8e82d024835a7i1",
+    "meta": {
+      "name": "Americana #456",
+      "attributes": [
+        {
+          "value": "Virginia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1965",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f582b94529c40471769870a6df6463abe2cf8651490ae5e066f8e82d024835a7i2",
+    "meta": {
+      "name": "Americana #457",
+      "attributes": [
+        {
+          "value": "Idaho",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f582b94529c40471769870a6df6463abe2cf8651490ae5e066f8e82d024835a7i3",
+    "meta": {
+      "name": "Americana #458",
+      "attributes": [
+        {
+          "value": "North Carolina",
+          "trait_type": "State"
+        },
+        {
+          "value": "1959",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f582b94529c40471769870a6df6463abe2cf8651490ae5e066f8e82d024835a7i4",
+    "meta": {
+      "name": "Americana #459",
+      "attributes": [
+        {
+          "value": "Illinois",
+          "trait_type": "State"
+        },
+        {
+          "value": "1970",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fef26606fecd963858719a14a20f8cf59209428259719066cfeefbeb066b1a52i0",
+    "meta": {
+      "name": "Americana #460",
+      "attributes": [
+        {
+          "value": "North Carolina",
+          "trait_type": "State"
+        },
+        {
+          "value": "1971",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fef26606fecd963858719a14a20f8cf59209428259719066cfeefbeb066b1a52i1",
+    "meta": {
+      "name": "Americana #461",
+      "attributes": [
+        {
+          "value": "Mississippi",
+          "trait_type": "State"
+        },
+        {
+          "value": "1961",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fef26606fecd963858719a14a20f8cf59209428259719066cfeefbeb066b1a52i2",
+    "meta": {
+      "name": "Americana #462",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1964",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fef26606fecd963858719a14a20f8cf59209428259719066cfeefbeb066b1a52i3",
+    "meta": {
+      "name": "Americana #463",
+      "attributes": [
+        {
+          "value": "Kentucky",
+          "trait_type": "State"
+        },
+        {
+          "value": "1967",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fef26606fecd963858719a14a20f8cf59209428259719066cfeefbeb066b1a52i4",
+    "meta": {
+      "name": "Americana #464",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "1972",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1f155fe98876bfb162b752ad4e5edcf688d6c48bcf7cbc402712451059e98b36i0",
+    "meta": {
+      "name": "Americana #465",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "State"
+        },
+        {
+          "value": "1940",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1f155fe98876bfb162b752ad4e5edcf688d6c48bcf7cbc402712451059e98b36i1",
+    "meta": {
+      "name": "Americana #466",
+      "attributes": [
+        {
+          "value": "Oklahoma",
+          "trait_type": "State"
+        },
+        {
+          "value": "1970",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1f155fe98876bfb162b752ad4e5edcf688d6c48bcf7cbc402712451059e98b36i2",
+    "meta": {
+      "name": "Americana #467",
+      "attributes": [
+        {
+          "value": "Washington",
+          "trait_type": "State"
+        },
+        {
+          "value": "1928",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1f155fe98876bfb162b752ad4e5edcf688d6c48bcf7cbc402712451059e98b36i3",
+    "meta": {
+      "name": "Americana #468",
+      "attributes": [
+        {
+          "value": "Ohio",
+          "trait_type": "State"
+        },
+        {
+          "value": "1975",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1f155fe98876bfb162b752ad4e5edcf688d6c48bcf7cbc402712451059e98b36i4",
+    "meta": {
+      "name": "Americana #469",
+      "attributes": [
+        {
+          "value": "Illinois",
+          "trait_type": "State"
+        },
+        {
+          "value": "1975",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ce1242d3368f19a7e4f7b244ded6a8cfec0d0792763dc05b787423ab7bd9863i0",
+    "meta": {
+      "name": "Americana #470",
+      "attributes": [
+        {
+          "value": "Tennessee",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ce1242d3368f19a7e4f7b244ded6a8cfec0d0792763dc05b787423ab7bd9863i1",
+    "meta": {
+      "name": "Americana #471",
+      "attributes": [
+        {
+          "value": "Oregon",
+          "trait_type": "State"
+        },
+        {
+          "value": "1958",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ce1242d3368f19a7e4f7b244ded6a8cfec0d0792763dc05b787423ab7bd9863i2",
+    "meta": {
+      "name": "Americana #472",
+      "attributes": [
+        {
+          "value": "Illinois",
+          "trait_type": "State"
+        },
+        {
+          "value": "1960",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ce1242d3368f19a7e4f7b244ded6a8cfec0d0792763dc05b787423ab7bd9863i3",
+    "meta": {
+      "name": "Americana #473",
+      "attributes": [
+        {
+          "value": "Montana",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ce1242d3368f19a7e4f7b244ded6a8cfec0d0792763dc05b787423ab7bd9863i4",
+    "meta": {
+      "name": "Americana #474",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1963",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1a73d392a2f89da898f0247764d1c215a0040e71f4dd12be03d12aa517bec89di0",
+    "meta": {
+      "name": "Americana #475",
+      "attributes": [
+        {
+          "value": "Alabama",
+          "trait_type": "State"
+        },
+        {
+          "value": "1964",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1a73d392a2f89da898f0247764d1c215a0040e71f4dd12be03d12aa517bec89di1",
+    "meta": {
+      "name": "Americana #476",
+      "attributes": [
+        {
+          "value": "Wisconsin",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1a73d392a2f89da898f0247764d1c215a0040e71f4dd12be03d12aa517bec89di2",
+    "meta": {
+      "name": "Americana #477",
+      "attributes": [
+        {
+          "value": "North Carolina",
+          "trait_type": "State"
+        },
+        {
+          "value": "1966",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1a73d392a2f89da898f0247764d1c215a0040e71f4dd12be03d12aa517bec89di3",
+    "meta": {
+      "name": "Americana #478",
+      "attributes": [
+        {
+          "value": "North Carolina",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1a73d392a2f89da898f0247764d1c215a0040e71f4dd12be03d12aa517bec89di4",
+    "meta": {
+      "name": "Americana #479",
+      "attributes": [
+        {
+          "value": "South Carolina",
+          "trait_type": "State"
+        },
+        {
+          "value": "1974",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "65f9f2d1be8feead3169679d1d920632919e9b41435d7fb0923ef4e2f545a123i0",
+    "meta": {
+      "name": "Americana #480",
+      "attributes": [
+        {
+          "value": "Massachusetts",
+          "trait_type": "State"
+        },
+        {
+          "value": "1966",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "65f9f2d1be8feead3169679d1d920632919e9b41435d7fb0923ef4e2f545a123i1",
+    "meta": {
+      "name": "Americana #481",
+      "attributes": [
+        {
+          "value": "Pennsylvania",
+          "trait_type": "State"
+        },
+        {
+          "value": "1993",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "65f9f2d1be8feead3169679d1d920632919e9b41435d7fb0923ef4e2f545a123i2",
+    "meta": {
+      "name": "Americana #482",
+      "attributes": [
+        {
+          "value": "Montana",
+          "trait_type": "State"
+        },
+        {
+          "value": "1992",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "65f9f2d1be8feead3169679d1d920632919e9b41435d7fb0923ef4e2f545a123i3",
+    "meta": {
+      "name": "Americana #483",
+      "attributes": [
+        {
+          "value": "Colorado",
+          "trait_type": "State"
+        },
+        {
+          "value": "1966",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "65f9f2d1be8feead3169679d1d920632919e9b41435d7fb0923ef4e2f545a123i4",
+    "meta": {
+      "name": "Americana #484",
+      "attributes": [
+        {
+          "value": "New Jersey",
+          "trait_type": "State"
+        },
+        {
+          "value": "None",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8b9e71efd9bd52ec4a95d4311780f377a4347d001f08731f32af15c0239fe302i0",
+    "meta": {
+      "name": "Americana #485",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1966",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8b9e71efd9bd52ec4a95d4311780f377a4347d001f08731f32af15c0239fe302i1",
+    "meta": {
+      "name": "Americana #486",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8b9e71efd9bd52ec4a95d4311780f377a4347d001f08731f32af15c0239fe302i2",
+    "meta": {
+      "name": "Americana #487",
+      "attributes": [
+        {
+          "value": "North Carolina",
+          "trait_type": "State"
+        },
+        {
+          "value": "1974",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8b9e71efd9bd52ec4a95d4311780f377a4347d001f08731f32af15c0239fe302i3",
+    "meta": {
+      "name": "Americana #488",
+      "attributes": [
+        {
+          "value": "Alabama",
+          "trait_type": "State"
+        },
+        {
+          "value": "1955",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8b9e71efd9bd52ec4a95d4311780f377a4347d001f08731f32af15c0239fe302i4",
+    "meta": {
+      "name": "Americana #489",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1966",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ce6a9efdbcc5ca5960564cab4bf77bea251571bd25c4d7f0078c19826e467b56i0",
+    "meta": {
+      "name": "Americana #490",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1972",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ce6a9efdbcc5ca5960564cab4bf77bea251571bd25c4d7f0078c19826e467b56i1",
+    "meta": {
+      "name": "Americana #491",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1984",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ce6a9efdbcc5ca5960564cab4bf77bea251571bd25c4d7f0078c19826e467b56i2",
+    "meta": {
+      "name": "Americana #492",
+      "attributes": [
+        {
+          "value": "Pennsylvania",
+          "trait_type": "State"
+        },
+        {
+          "value": "1948",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ce6a9efdbcc5ca5960564cab4bf77bea251571bd25c4d7f0078c19826e467b56i3",
+    "meta": {
+      "name": "Americana #493",
+      "attributes": [
+        {
+          "value": "Kentucky",
+          "trait_type": "State"
+        },
+        {
+          "value": "1970",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ce6a9efdbcc5ca5960564cab4bf77bea251571bd25c4d7f0078c19826e467b56i4",
+    "meta": {
+      "name": "Americana #494",
+      "attributes": [
+        {
+          "value": "North Carolina",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9a626bc328470b4adb7c02572c17ed5f6da346f974b0b917b143a03d2a98f11bi0",
+    "meta": {
+      "name": "Americana #495",
+      "attributes": [
+        {
+          "value": "Pennsylvania",
+          "trait_type": "State"
+        },
+        {
+          "value": "1987",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9a626bc328470b4adb7c02572c17ed5f6da346f974b0b917b143a03d2a98f11bi1",
+    "meta": {
+      "name": "Americana #496",
+      "attributes": [
+        {
+          "value": "Maine",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9a626bc328470b4adb7c02572c17ed5f6da346f974b0b917b143a03d2a98f11bi2",
+    "meta": {
+      "name": "Americana #497",
+      "attributes": [
+        {
+          "value": "Louisiana",
+          "trait_type": "State"
+        },
+        {
+          "value": "1960",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9a626bc328470b4adb7c02572c17ed5f6da346f974b0b917b143a03d2a98f11bi3",
+    "meta": {
+      "name": "Americana #498",
+      "attributes": [
+        {
+          "value": "Washington",
+          "trait_type": "State"
+        },
+        {
+          "value": "1958",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9a626bc328470b4adb7c02572c17ed5f6da346f974b0b917b143a03d2a98f11bi4",
+    "meta": {
+      "name": "Americana #499",
+      "attributes": [
+        {
+          "value": "New Mexico",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "46aafcc8b81e9b19bdda4b947b0964ad7a00a3117f4e9ca62a8fa0140f587772i0",
+    "meta": {
+      "name": "Americana #500",
+      "attributes": [
+        {
+          "value": "Indiana",
+          "trait_type": "State"
+        },
+        {
+          "value": "1961",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "46aafcc8b81e9b19bdda4b947b0964ad7a00a3117f4e9ca62a8fa0140f587772i1",
+    "meta": {
+      "name": "Americana #501",
+      "attributes": [
+        {
+          "value": "Massachusetts",
+          "trait_type": "State"
+        },
+        {
+          "value": "1961",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "46aafcc8b81e9b19bdda4b947b0964ad7a00a3117f4e9ca62a8fa0140f587772i2",
+    "meta": {
+      "name": "Americana #502",
+      "attributes": [
+        {
+          "value": "North Carolina",
+          "trait_type": "State"
+        },
+        {
+          "value": "1970",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "46aafcc8b81e9b19bdda4b947b0964ad7a00a3117f4e9ca62a8fa0140f587772i3",
+    "meta": {
+      "name": "Americana #503",
+      "attributes": [
+        {
+          "value": "Massachusetts",
+          "trait_type": "State"
+        },
+        {
+          "value": "1957",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "46aafcc8b81e9b19bdda4b947b0964ad7a00a3117f4e9ca62a8fa0140f587772i4",
+    "meta": {
+      "name": "Americana #504",
+      "attributes": [
+        {
+          "value": "Missouri",
+          "trait_type": "State"
+        },
+        {
+          "value": "1942",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d0915002e436034f30f419e590bcb86cfbda7507be678fe6a42d655a8fa28d4ci0",
+    "meta": {
+      "name": "Americana #505",
+      "attributes": [
+        {
+          "value": "Delaware",
+          "trait_type": "State"
+        },
+        {
+          "value": "1978",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d0915002e436034f30f419e590bcb86cfbda7507be678fe6a42d655a8fa28d4ci1",
+    "meta": {
+      "name": "Americana #506",
+      "attributes": [
+        {
+          "value": "Ohio",
+          "trait_type": "State"
+        },
+        {
+          "value": "1958",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d0915002e436034f30f419e590bcb86cfbda7507be678fe6a42d655a8fa28d4ci2",
+    "meta": {
+      "name": "Americana #507",
+      "attributes": [
+        {
+          "value": "New Jersey",
+          "trait_type": "State"
+        },
+        {
+          "value": "1968",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d0915002e436034f30f419e590bcb86cfbda7507be678fe6a42d655a8fa28d4ci3",
+    "meta": {
+      "name": "Americana #508",
+      "attributes": [
+        {
+          "value": "Indiana",
+          "trait_type": "State"
+        },
+        {
+          "value": "1963",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d0915002e436034f30f419e590bcb86cfbda7507be678fe6a42d655a8fa28d4ci4",
+    "meta": {
+      "name": "Americana #509",
+      "attributes": [
+        {
+          "value": "Oregon",
+          "trait_type": "State"
+        },
+        {
+          "value": "1971",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bf34576aa6da0623cc2488fccaf5a9c2731f5587d4a5c4bce4d388a585f1942di0",
+    "meta": {
+      "name": "Americana #510",
+      "attributes": [
+        {
+          "value": "Michigan",
+          "trait_type": "State"
+        },
+        {
+          "value": "1967",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bf34576aa6da0623cc2488fccaf5a9c2731f5587d4a5c4bce4d388a585f1942di1",
+    "meta": {
+      "name": "Americana #511",
+      "attributes": [
+        {
+          "value": "Pennsylvania",
+          "trait_type": "State"
+        },
+        {
+          "value": "1966",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bf34576aa6da0623cc2488fccaf5a9c2731f5587d4a5c4bce4d388a585f1942di2",
+    "meta": {
+      "name": "Americana #512",
+      "attributes": [
+        {
+          "value": "Nevada",
+          "trait_type": "State"
+        },
+        {
+          "value": "1971",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bf34576aa6da0623cc2488fccaf5a9c2731f5587d4a5c4bce4d388a585f1942di3",
+    "meta": {
+      "name": "Americana #513",
+      "attributes": [
+        {
+          "value": "Ohio",
+          "trait_type": "State"
+        },
+        {
+          "value": "1968",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bf34576aa6da0623cc2488fccaf5a9c2731f5587d4a5c4bce4d388a585f1942di4",
+    "meta": {
+      "name": "Americana #514",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1957",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6c0a6e09c7e06d91dc72bd711bd22ff714e5f8467970ac8d2ee94947c0071e02i0",
+    "meta": {
+      "name": "Americana #515",
+      "attributes": [
+        {
+          "value": "Tennessee",
+          "trait_type": "State"
+        },
+        {
+          "value": "1975",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6c0a6e09c7e06d91dc72bd711bd22ff714e5f8467970ac8d2ee94947c0071e02i1",
+    "meta": {
+      "name": "Americana #516",
+      "attributes": [
+        {
+          "value": "Washington",
+          "trait_type": "State"
+        },
+        {
+          "value": "1981",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6c0a6e09c7e06d91dc72bd711bd22ff714e5f8467970ac8d2ee94947c0071e02i2",
+    "meta": {
+      "name": "Americana #517",
+      "attributes": [
+        {
+          "value": "Texas",
+          "trait_type": "State"
+        },
+        {
+          "value": "1974",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6c0a6e09c7e06d91dc72bd711bd22ff714e5f8467970ac8d2ee94947c0071e02i3",
+    "meta": {
+      "name": "Americana #518",
+      "attributes": [
+        {
+          "value": "Washington",
+          "trait_type": "State"
+        },
+        {
+          "value": "1985",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6c0a6e09c7e06d91dc72bd711bd22ff714e5f8467970ac8d2ee94947c0071e02i4",
+    "meta": {
+      "name": "Americana #519",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1997",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "83427b788ff9b3ce53242afd0cfe7c2f0b90e72b00e6784d2b9c16ea446cd4a4i0",
+    "meta": {
+      "name": "Americana #520",
+      "attributes": [
+        {
+          "value": "Illinois",
+          "trait_type": "State"
+        },
+        {
+          "value": "1939",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "83427b788ff9b3ce53242afd0cfe7c2f0b90e72b00e6784d2b9c16ea446cd4a4i1",
+    "meta": {
+      "name": "Americana #521",
+      "attributes": [
+        {
+          "value": "Pennsylvania",
+          "trait_type": "State"
+        },
+        {
+          "value": "1946",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "83427b788ff9b3ce53242afd0cfe7c2f0b90e72b00e6784d2b9c16ea446cd4a4i2",
+    "meta": {
+      "name": "Americana #522",
+      "attributes": [
+        {
+          "value": "Minnesota",
+          "trait_type": "State"
+        },
+        {
+          "value": "1958",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "83427b788ff9b3ce53242afd0cfe7c2f0b90e72b00e6784d2b9c16ea446cd4a4i3",
+    "meta": {
+      "name": "Americana #523",
+      "attributes": [
+        {
+          "value": "Minnesota",
+          "trait_type": "State"
+        },
+        {
+          "value": "1972",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "83427b788ff9b3ce53242afd0cfe7c2f0b90e72b00e6784d2b9c16ea446cd4a4i4",
+    "meta": {
+      "name": "Americana #524",
+      "attributes": [
+        {
+          "value": "Washington",
+          "trait_type": "State"
+        },
+        {
+          "value": "1970",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b9d31c71107ba15986eca458ce6d7b023850c20a7fa8769020acb7b8f40a9330i0",
+    "meta": {
+      "name": "Americana #525",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1973",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b9d31c71107ba15986eca458ce6d7b023850c20a7fa8769020acb7b8f40a9330i1",
+    "meta": {
+      "name": "Americana #526",
+      "attributes": [
+        {
+          "value": "Virginia",
+          "trait_type": "State"
+        },
+        {
+          "value": "1951",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b9d31c71107ba15986eca458ce6d7b023850c20a7fa8769020acb7b8f40a9330i2",
+    "meta": {
+      "name": "Americana #527",
+      "attributes": [
+        {
+          "value": "Indiana",
+          "trait_type": "State"
+        },
+        {
+          "value": "1961",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b9d31c71107ba15986eca458ce6d7b023850c20a7fa8769020acb7b8f40a9330i3",
+    "meta": {
+      "name": "Americana #528",
+      "attributes": [
+        {
+          "value": "Alabama",
+          "trait_type": "State"
+        },
+        {
+          "value": "1972",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b9d31c71107ba15986eca458ce6d7b023850c20a7fa8769020acb7b8f40a9330i4",
+    "meta": {
+      "name": "Americana #529",
+      "attributes": [
+        {
+          "value": "North Carolina",
+          "trait_type": "State"
+        },
+        {
+          "value": "1962",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "734aa5e22a4f73ec776de148ed84a4ca30e616ff726d2f3a2908e92929a6020ei0",
+    "meta": {
+      "name": "Americana #530",
+      "attributes": [
+        {
+          "value": "North Carolina",
+          "trait_type": "State"
+        },
+        {
+          "value": "1974",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "734aa5e22a4f73ec776de148ed84a4ca30e616ff726d2f3a2908e92929a6020ei1",
+    "meta": {
+      "name": "Americana #531",
+      "attributes": [
+        {
+          "value": "Pennsylvania",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "734aa5e22a4f73ec776de148ed84a4ca30e616ff726d2f3a2908e92929a6020ei2",
+    "meta": {
+      "name": "Americana #532",
+      "attributes": [
+        {
+          "value": "North Carolina",
+          "trait_type": "State"
+        },
+        {
+          "value": "1983",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "734aa5e22a4f73ec776de148ed84a4ca30e616ff726d2f3a2908e92929a6020ei3",
+    "meta": {
+      "name": "Americana #533",
+      "attributes": [
+        {
+          "value": "California",
+          "trait_type": "State"
+        },
+        {
+          "value": "1991",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "734aa5e22a4f73ec776de148ed84a4ca30e616ff726d2f3a2908e92929a6020ei4",
+    "meta": {
+      "name": "Americana #534",
+      "attributes": [
+        {
+          "value": "Utah",
+          "trait_type": "State"
+        },
+        {
+          "value": "1969",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "64f56e06371b322d4aa7d857c7651753063f2eba40869e8ad420bb2e69eaa2e7i0",
+    "meta": {
+      "name": "Americana #535",
+      "attributes": [
+        {
+          "value": "Wisconsin",
+          "trait_type": "State"
+        },
+        {
+          "value": "1958",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "64f56e06371b322d4aa7d857c7651753063f2eba40869e8ad420bb2e69eaa2e7i1",
+    "meta": {
+      "name": "Americana #536",
+      "attributes": [
+        {
+          "value": "Massachusetts",
+          "trait_type": "State"
+        },
+        {
+          "value": "1963",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "64f56e06371b322d4aa7d857c7651753063f2eba40869e8ad420bb2e69eaa2e7i2",
+    "meta": {
+      "name": "Americana #537",
+      "attributes": [
+        {
+          "value": "New Mexico",
+          "trait_type": "State"
+        },
+        {
+          "value": "1963",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  },
+  {
+    "id": "713b1a9317d7e647e094a888598aec052311ac32fdfb89c5415d549c098095e0i0",
+    "meta": {
+      "name": "Americana #538",
+      "attributes": [
+        {
+          "value": "Florida",
+          "trait_type": "State"
+        },
+        {
+          "value": "1964",
+          "trait_type": "Year"
+        }
+      ]
+    }
+  }
+]

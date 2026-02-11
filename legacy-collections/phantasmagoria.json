@@ -1,0 +1,6323 @@
+[
+  {
+    "id": "da75ac264ee5d2513541827b80ba4600a53745b496eb0300e6c3edec4c79e8a1i0",
+    "meta": {
+      "name": "Phantasmagoria #0",
+      "attributes": [
+        {
+          "value": "▒",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "8",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "18",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "28×28",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "16×16",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "2",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/000_k9s4snmuusdf1wp8b922s16lylitiw6sv87vwsrskjn5s7m5g82ghqvvwvn2evnt.jpg"
+    }
+  },
+  {
+    "id": "2a6c0322a631727b4fa726ecb4af0ae85a83b1f0d233850064241b0216d52583i0",
+    "meta": {
+      "name": "Phantasmagoria #1",
+      "attributes": [
+        {
+          "value": "⦲",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "6",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "11",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "25×25",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "8×8",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/001_h4dl2t50srvcbvb4hgg5edq2uaz0zfbo0ry34fp6accrjcr9cgbgp62ztkhm37qc.jpg"
+    }
+  },
+  {
+    "id": "f02a8477b4c2a7f4bd846b42fbd31ba896094f1ed4407f471da0b91d2516d6a1i0",
+    "meta": {
+      "name": "Phantasmagoria #2",
+      "attributes": [
+        {
+          "value": "░",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "4",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "5",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "19×52",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×8",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "1",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/002_pyt5h2f3nw5ohhe4msdzcsejys4e6hlocja8kbr5uaefs33uqzhkynbub121c1ly.jpg"
+    }
+  },
+  {
+    "id": "69b92026794a36b9e13be2f3ce983b6e8ef6b78f05ea78fc539585cdfe5e79a5i0",
+    "meta": {
+      "name": "Phantasmagoria #3",
+      "attributes": [
+        {
+          "value": "⌽",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "8",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "20",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "21×21",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "8×8",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "S",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "8",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/003_oz9ccljzizrzson6wjgfrrls5vwbjyr02cyfa9qsphyapylieqvsur8jlsezb6fw.jpg"
+    }
+  },
+  {
+    "id": "bc12184953a75e871eec6cd0813216fb84e73ae37c5aa681ee0bef8a553c8549i0",
+    "meta": {
+      "name": "Phantasmagoria #4",
+      "attributes": [
+        {
+          "value": "⦵",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "11",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "21",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "26×26",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "48×48",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "19",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/004_v16ynlwsw2zus6arj5hspsgjzcjh52en2z3hpqew9osp6c77vlzragtphswfdcqs.jpg"
+    }
+  },
+  {
+    "id": "dcbeacd5dafa3b51833e09141085b0aa436ccc108f03f74e8faeab8ffd9977bci0",
+    "meta": {
+      "name": "Phantasmagoria #5",
+      "attributes": [
+        {
+          "value": "⌽",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "7",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "6",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "28×28",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×12",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/005_bsdstd1lqbbeb6synmpjb3wcckcnqvhv2jpmqnbq4fhqwi164aqucqc94caklmib.jpg"
+    }
+  },
+  {
+    "id": "a8712990e99e4abbac2a988a93ed2119a29f689ce52d335086018963c46ef0f8i0",
+    "meta": {
+      "name": "Phantasmagoria #6",
+      "attributes": [
+        {
+          "value": "░",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "9",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "16",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "25×25",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×12",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "S",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "2",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/006_u3mfthqepa28zlp947jes1eapemnf45mmnzh9rhc16kcawv4olh40h6oas1glycc.jpg"
+    }
+  },
+  {
+    "id": "c8219e65b7dcbd8799d42a7bd9463bad2e87ac4787188921c491d27754708937i0",
+    "meta": {
+      "name": "Phantasmagoria #7",
+      "attributes": [
+        {
+          "value": "Ω",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "11",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "27",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "24×24",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "16×16",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "17",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/007_kfsm3pq0kks3f467eqkri0yh4hpuimkyruyadffnpuy43vs8cuzq73163nwbymeh.jpg"
+    }
+  },
+  {
+    "id": "63ba13f691b21b1015a82afa7977bdf659d2e2cac3f8f319acab6481d2d9a35ai0",
+    "meta": {
+      "name": "Phantasmagoria #8",
+      "attributes": [
+        {
+          "value": "⌽",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "7",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "14",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "24×24",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "4×4",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "15",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/008_mvfg6esh4r4sojzhv50ojlwyo2gsnt01sr1n7oue149rwmjm7ngvfvjm2j5wzsri.jpg"
+    }
+  },
+  {
+    "id": "a251f3fbeeb60c70a089f24ee57a75d41d1bf976357a53c3be1762a57c1a2f9ei0",
+    "meta": {
+      "name": "Phantasmagoria #9",
+      "attributes": [
+        {
+          "value": "Ω",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "6",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "9",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "16×62",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×4",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "S",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "11",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/009_z232i1bqs56l36yhs79hu2k7c6utgzfn164ao4ievgj0vs2zc8zcsarp7qq5sab5.jpg"
+    }
+  },
+  {
+    "id": "22b28794c62f03dd74b898eb729b8613146449dbba8e696c9179f6ea9b0a4febi0",
+    "meta": {
+      "name": "Phantasmagoria #10",
+      "attributes": [
+        {
+          "value": "⦵",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "9",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "14",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "29×34",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "8×4",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "S",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "19",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/010_3jityd9vdv5umajnefa4vuw901v81og1s0spusu1clkzh9uebsodb6iqz2bg222h.jpg"
+    }
+  },
+  {
+    "id": "23a85ddfc9274c7e6414ae1de09cbd025dbbdf694eb248cf9e1de44dd8a0c923i0",
+    "meta": {
+      "name": "Phantasmagoria #11",
+      "attributes": [
+        {
+          "value": "░",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "10",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "20",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "29×34",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×8",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "S",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "7",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/011_6102sl0go6eksero9lu7n1cq9mpsm0bardddh220sbtaosldyj53wt53kt5ubslm.jpg"
+    }
+  },
+  {
+    "id": "46adc67d3ba520f3654d4ccb87858d690712304ba56d39c1e5001d01131ae5d0i0",
+    "meta": {
+      "name": "Phantasmagoria #12",
+      "attributes": [
+        {
+          "value": "▒",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "9",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "26",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "20×20",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "4×4",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "S",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/012_sedvebhvyhy40osr657qu00mdirs3rtvtal5nlcupl8golwquhjfqp4jjem8qf2i.jpg"
+    }
+  },
+  {
+    "id": "726bc6d6625320a1d44450fefa31334367ee817a6be3164784a54f90e8a3f518i0",
+    "meta": {
+      "name": "Phantasmagoria #13",
+      "attributes": [
+        {
+          "value": "░",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "8",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "15",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "25×40",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "8×12",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "11",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/013_5347ue7mc5ouppbbiv803j8slwfj6ubunktydtvj2tkd960ygdu7vd1okjd5nk2u.jpg"
+    }
+  },
+  {
+    "id": "20b96517cad442cef936532d5ca2fdcbf897ce3c1f46e9a35eea8968cc1747b6i0",
+    "meta": {
+      "name": "Phantasmagoria #14",
+      "attributes": [
+        {
+          "value": "Ω",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "9",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "18",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "20×50",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "4×20",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "19",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/014_vcjf6u1ka3hg8npsq1drm969zyuck1wsau2w33zbr2080ggbfky2pbumbiv7s3a2.jpg"
+    }
+  },
+  {
+    "id": "7e88a61343982206ea400daa9a1d355a8d678c844066952026b85db055c690eai0",
+    "meta": {
+      "name": "Phantasmagoria #15",
+      "attributes": [
+        {
+          "value": "⦵",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "11",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "35",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "65×15",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "24×16",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "3",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/015_dyiu2b39jaqwaqov2dmle2mm2svrv3ape2c5a8psn547mafimrv3j79ysoya6h5y.jpg"
+    }
+  },
+  {
+    "id": "2166146be685b31b72cf16de74dfe02a3596ad82f8f4e58fe964d73490ed42b3i0",
+    "meta": {
+      "name": "Phantasmagoria #16",
+      "attributes": [
+        {
+          "value": "⌽",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "5",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "7",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "26×38",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×4",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "14",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/016_2yyyshzrdjn3mod3hp16bg08pb6m0iwiooe4coi8smpjju9034u4sfkq5a0woghl.jpg"
+    }
+  },
+  {
+    "id": "e232a2f0080130075b6498d6e95203668ac9b9f3a965233e56d25bc1bf6266c4i0",
+    "meta": {
+      "name": "Phantasmagoria #17",
+      "attributes": [
+        {
+          "value": "⌽",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "10",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "11",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "64×15",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "8×32",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "12",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/017_3bviws3bkigdqs2yls1svszf2hi7mulf5r96kdk1sjar27bbbz4b61nblq4qpa3u.jpg"
+    }
+  },
+  {
+    "id": "64913bce148c6648700d9b520b128947a8a9e1d053b2b16ee9dcecc907bbf2a4i0",
+    "meta": {
+      "name": "Phantasmagoria #18",
+      "attributes": [
+        {
+          "value": "▒",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "6",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "11",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "26×26",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "40×40",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "4",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/018_o4shtqbewyjdb7irequqesohzs1ll07j77cin7bi0bf8ayne6s3m4q9qe52ysegc.jpg"
+    }
+  },
+  {
+    "id": "0d1e8ddd83038ff3c9656634e2bffc3598313b45c16105c61991e429b8d79003i0",
+    "meta": {
+      "name": "Phantasmagoria #19",
+      "attributes": [
+        {
+          "value": "⦰",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "4",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "2",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "37×27",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "4×20",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "15",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/019_1of54k5fku7ahszs73atf4duzv6as8wn02svvcttjhkqb71r7kdsm4nb23nclkwd.jpg"
+    }
+  },
+  {
+    "id": "5368171f8d57391a4ff4fa19a51758a629a6ce4e2b4da05c422cbb1cdc8b9628i0",
+    "meta": {
+      "name": "Phantasmagoria #20",
+      "attributes": [
+        {
+          "value": "▒",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "10",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "21",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "30×30",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "16×16",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "18",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/020_sp2fczs9jo9p6ashg7sa0qqa9dbtgk8s43z01b7gporb1wmklq5jnon4dhbjnma8.jpg"
+    }
+  },
+  {
+    "id": "425edcf0d75024d2cd8110880f50ca26ad04b1534049f3b60a764276b73d6412i0",
+    "meta": {
+      "name": "Phantasmagoria #21",
+      "attributes": [
+        {
+          "value": "⌽",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "11",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "19",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "34×29",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "8×40",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "5",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/021_b3e127278fuj0q7c6br0ou65s8cm3eg7s9145yhz8ufp2kyc9suudtesa87j69vs.jpg"
+    }
+  },
+  {
+    "id": "52ce64d2815ca7c02be233fa29433555069a514e03982d76b0676ac36d101411i0",
+    "meta": {
+      "name": "Phantasmagoria #22",
+      "attributes": [
+        {
+          "value": "⌽",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "7",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "12",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "25×25",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "16×16",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "11",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/022_6lo4ela20yu2yys0qb9olf63n6uq3bs0mw4i42u1roybistdtsdq7ziv37z803k0.jpg"
+    }
+  },
+  {
+    "id": "07e6e73e613d33c71b8c57f91146edbbf00eef15cfe0b0103aff486bdb62b6edi0",
+    "meta": {
+      "name": "Phantasmagoria #23",
+      "attributes": [
+        {
+          "value": "⦰",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "5",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "7",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "37×27",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "8×4",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "2",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/023_33cto2g3r9st13h73l59bs444a4byt4ts585i1rz5wvszgssv0o3hj1bubrv3csv.jpg"
+    }
+  },
+  {
+    "id": "a36994180d54b50ae6902e07f65706e411bc7e01e8df7efed72b3d8042dbb65ai0",
+    "meta": {
+      "name": "Phantasmagoria #24",
+      "attributes": [
+        {
+          "value": "⌽",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "6",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "12",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "30×30",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "4×4",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/024_yjl5sl6rdie9nvl53rrzbufhb7lnml6i5c97fz24zimf2qclimq9ypgk9n8qc9of.jpg"
+    }
+  },
+  {
+    "id": "7dc5e911faf38b3bda324c7d1186fb29eecb39e762b1210bd179772faeaadcf3i0",
+    "meta": {
+      "name": "Phantasmagoria #25",
+      "attributes": [
+        {
+          "value": "⌽",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "7",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "19",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "48×20",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "64×12",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "16",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/025_ji7l02vzm0os4sj87rkcs1onnp9et92ojbev1ohhthociomulrh4p49vvy2rswei.jpg"
+    }
+  },
+  {
+    "id": "63d9ed060e07a244ea881d088b2632c85e8bddae37507b46cbfbe26bcba1803ai0",
+    "meta": {
+      "name": "Phantasmagoria #26",
+      "attributes": [
+        {
+          "value": "⌽",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "4",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "9",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "31×31",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "40×40",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "S",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/026_asjn5st1la96fig0yrk8qwt5rsy8hbj5o6v1mu9kvdel4vr9uc093u7sfkktl6nl.jpg"
+    }
+  },
+  {
+    "id": "81444183ea2393e6a873bf84a5015a26a11baa4549a91f5fa26739f0db7b32bfi0",
+    "meta": {
+      "name": "Phantasmagoria #27",
+      "attributes": [
+        {
+          "value": "Ω",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "9",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "20",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "51×19",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "48×4",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "0",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/027_cgq32w3da9s94h0khojpgmml9m01603d02q2ok8kfu43pqy6t0dmu3zuwz8wyd1f.jpg"
+    }
+  },
+  {
+    "id": "e685d863c1381dee9367bc69973497846c948fa78d4bf9705d8f3bce3809a83fi0",
+    "meta": {
+      "name": "Phantasmagoria #28",
+      "attributes": [
+        {
+          "value": "⦵",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "12",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "28",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "42×23",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "32×32",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "18",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/028_eowsg0yl8a9mnry4vlfs2diks1v3s48wkcsiegpjdnwhblv7ijos59vlpsdbcf30.jpg"
+    }
+  },
+  {
+    "id": "33bdc7df00bac85e54934dd40b84d49870162e906ce2c52d72e287d3ed643ed1i0",
+    "meta": {
+      "name": "Phantasmagoria #29",
+      "attributes": [
+        {
+          "value": "⦵",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "6",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "15",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "25×25",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "16×16",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "15",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/029_6oqfczeakas5z6cuj4gj04lchu0am4gksvjq1m7sjejq7uw3sw7rpmlvysfvay6p.jpg"
+    }
+  },
+  {
+    "id": "97db31d8f3e1150b62acbd06241fe74a82ba7b24163d5db50644a183a1287a74i0",
+    "meta": {
+      "name": "Phantasmagoria #30",
+      "attributes": [
+        {
+          "value": "⦵",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "10",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "14",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "39×25",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "20×48",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "16",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/030_bp1in63r5vfjdjaq51nabr7d54uz0y2qa99f4es05kydpstoypnl27htq71jh2rn.jpg"
+    }
+  },
+  {
+    "id": "6ec76a1d98b4b5dc2db28ecafb2f4590b94f9bc080742a81a94c1cb626730614i0",
+    "meta": {
+      "name": "Phantasmagoria #31",
+      "attributes": [
+        {
+          "value": "⦵",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "11",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "26",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "20×50",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "32×12",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "8",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/031_4zzsmnjdvzpoeu7gijpsnqh5spnkf5tfqpv33rg3g6ki77kwhuc28orihccedae6.jpg"
+    }
+  },
+  {
+    "id": "600e069b1b8d706438953059914872190e18abb0e4094563fa41a959d9b4e185i0",
+    "meta": {
+      "name": "Phantasmagoria #32",
+      "attributes": [
+        {
+          "value": "⦰",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "5",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "8",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "24×24",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "8×8",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/032_fmfluc1bgzla8ai80em3a802jgny80qvo4yrc28zdjfheofztqw2glb8arh6r1uj.jpg"
+    }
+  },
+  {
+    "id": "630540731e6d279add6fdab684a899dca06936fb9bcb942d4e6e8cb361707540i0",
+    "meta": {
+      "name": "Phantasmagoria #33",
+      "attributes": [
+        {
+          "value": "Ω",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "10",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "22",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "29×29",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "8×8",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/033_t8z3w300o9j1d2u3w521w4dnsz1rpfgy5t38i63op3i4s845df4hn1bp2b68jmv0.jpg"
+    }
+  },
+  {
+    "id": "b19468002d6ced07a964648de7f336c576b3c0170fc1fb898f6fac1af3420a97i0",
+    "meta": {
+      "name": "Phantasmagoria #34",
+      "attributes": [
+        {
+          "value": "▒",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "4",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "3",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "56×17",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "20×8",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/034_yol2hluoreq0v3syyfbmzmg7tec5by2wwt5dpt9znnh5b8adj7c6esiqhc4oapv9.jpg"
+    }
+  },
+  {
+    "id": "0992d6e51917ae7d1236b0039e0b6293938aee32f81f5929cad048580aedfcc6i0",
+    "meta": {
+      "name": "Phantasmagoria #35",
+      "attributes": [
+        {
+          "value": "⦵",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "12",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "16",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "25×25",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×12",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "6",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/035_mu2tck57t2ffj737pspqpk9zyy4s2w1zd20a2icsrke55idswu9pivku27oh3zra.jpg"
+    }
+  },
+  {
+    "id": "69ed1f7b8f4f085a6b9e1806e561ce9eaf66d42c65a17a751ac414c3db1406d4i0",
+    "meta": {
+      "name": "Phantasmagoria #36",
+      "attributes": [
+        {
+          "value": "⦲",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "5",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "10",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "21×21",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "8×8",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/036_tqjr7ahjv6y89aq3saqm4ikljrsfm9ep1j4thl1s48ng7n3p77wgkytq679k99rl.jpg"
+    }
+  },
+  {
+    "id": "e04f3c12727a42e7b70ee756fb2f1586ba997b33840c6c29b96c8c1ce242b7d1i0",
+    "meta": {
+      "name": "Phantasmagoria #37",
+      "attributes": [
+        {
+          "value": "░",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "11",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "22",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "47×21",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "8×12",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "14",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/037_eomswol69773drtz65r4oivmfov3aj7aqn05r0edyvlikdn2nkuuwag82hsp5i3o.jpg"
+    }
+  },
+  {
+    "id": "478424c54e818265585e416374af9445336c22d2f6f51299ae559dd4f6d12795i0",
+    "meta": {
+      "name": "Phantasmagoria #38",
+      "attributes": [
+        {
+          "value": "⦵",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "8",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "12",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "24×24",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "20×20",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "5",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/038_cdalmjessrhtp78gsheqmja5mgsp2ze2bsqpnw1araecsfnr8juslvmb4j8fvqms.jpg"
+    }
+  },
+  {
+    "id": "5f578b2e392fd4b7a2b7522c2ad3d0b3785929f75c8aa83d32f4e11e95b06d3ci0",
+    "meta": {
+      "name": "Phantasmagoria #39",
+      "attributes": [
+        {
+          "value": "⌽",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "8",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "18",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "63×15",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "4×40",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "17",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/039_8jtgsm3uzuws40gpih0l7n4o4k34sfvi3ycb6iatr79q8umivv13tep4yq7wdzyq.jpg"
+    }
+  },
+  {
+    "id": "4bbf5af597d3d7c3572614eb57b211daf8eeba3f6aabf9153ff0e2b9ec9f1a4bi0",
+    "meta": {
+      "name": "Phantasmagoria #40",
+      "attributes": [
+        {
+          "value": "░",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "8",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "14",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "28×28",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "16×16",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "3",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/040_rldgc9qenqj6rp5ljhgh7c74cva2c6bei77n07yka2l904pjmb5guak0g5cooq1k.jpg"
+    }
+  },
+  {
+    "id": "db9c220b772e85aa95b26dc70f11ebaed1c5583243e926f80bc43a43efbff306i0",
+    "meta": {
+      "name": "Phantasmagoria #41",
+      "attributes": [
+        {
+          "value": "Ω",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "12",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "32",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "28×28",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "24×24",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "8",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/041_nscqd3phlc17y5fsmknpom8nao0ksekdrduopncekaet01daa2reuhlh2a8j8y8h.jpg"
+    }
+  },
+  {
+    "id": "715d88149b7f4cfe89702fd70bfdbb6fa223103b81e51822bd0648c06c9b5638i0",
+    "meta": {
+      "name": "Phantasmagoria #42",
+      "attributes": [
+        {
+          "value": "⌽",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "8",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "11",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "29×29",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "32×32",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "13",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/042_gkvb403hf7b1dzyh8o6dlg3jl28ocl6qsu8447qps70csufzemmogvvn4fy1sway.jpg"
+    }
+  },
+  {
+    "id": "17072f2ab146c157a3a983c4ac25ceb92e1a4366d28e98b9e18f14288d4d8332i0",
+    "meta": {
+      "name": "Phantasmagoria #43",
+      "attributes": [
+        {
+          "value": "░",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "11",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "20",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "27×27",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "20×20",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "S",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "7",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/043_ay8r7znmc6527pglb63qadj4iilyepr8vavl5latqynsj06tgdja6eq1vfkynslu.jpg"
+    }
+  },
+  {
+    "id": "e59fc2b48592ed3bc8a78f9480f8a4812da1ba3e8668c2844aac5f7719cdb8f9i0",
+    "meta": {
+      "name": "Phantasmagoria #44",
+      "attributes": [
+        {
+          "value": "⌽",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "12",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "21",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "31×31",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "16×16",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "11",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/044_wssy7iqykb7v40n9jarkcrnt7rv65nusknbspkdmmkiztd0fstmwmfofa9y7srvs.jpg"
+    }
+  },
+  {
+    "id": "6eee64527e016633fffb46f65a12f0c271999b2a91490aa1673aaf9972236fd8i0",
+    "meta": {
+      "name": "Phantasmagoria #45",
+      "attributes": [
+        {
+          "value": "⦵",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "9",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "18",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "28×35",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "8×24",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/045_7qrg71q6q0b2dolr5z9wpkcwqmudlglsvzepkpbpj7sr44mvib9sahzy8kl7ia4y.jpg"
+    }
+  },
+  {
+    "id": "d633ddca2579ccbaebed958896e5c1bdf5fa564fd5b432267f7e89bee98f082fi0",
+    "meta": {
+      "name": "Phantasmagoria #46",
+      "attributes": [
+        {
+          "value": "░",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "8",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "18",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "31×31",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "16×16",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "4",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/046_c9km67i7463hltmlckn0w4cyjs6sig0hujuu7bpsq005c3advsb1apw1csq7nw00.jpg"
+    }
+  },
+  {
+    "id": "652e13a635e581aa9755114b89211d02744d3796fa78b3014fb8d9927606fbd4i0",
+    "meta": {
+      "name": "Phantasmagoria #47",
+      "attributes": [
+        {
+          "value": "⦵",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "5",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "5",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "20×50",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "24×32",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "15",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/047_bl9whhnk8u7ezkw724bhpie4h31le1ifd1uoc5vzz463twi1dafz1o004omria0b.jpg"
+    }
+  },
+  {
+    "id": "a9ca14aca0d48b3e86d1f58716e49832b1c3fb33f9f37f96c00eb83ec85ba583i0",
+    "meta": {
+      "name": "Phantasmagoria #48",
+      "attributes": [
+        {
+          "value": "▒",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "7",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "15",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "24×24",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "8×8",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/048_j95rj1ivjo9oc4lsftlpy7li00r6chu064ndf58pe6kdpj9vgjc7v7ow8l0du0v4.jpg"
+    }
+  },
+  {
+    "id": "7d73148e48eb4cfa5cd468f1fd1f8c2e10777a630db2805bbbe22b42d8111a43i0",
+    "meta": {
+      "name": "Phantasmagoria #49",
+      "attributes": [
+        {
+          "value": "⦵",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "7",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "4",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "20×20",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×12",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "11",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/049_904vfeclmfc1m5ekfpcuz7bggqvwp2wvz2snfwvagq0v6i78w9j8b050eny9vynb.jpg"
+    }
+  },
+  {
+    "id": "73cdadd313074325f98c3c8379c7b3b91769309c38126f5cf40b58bb33cd5b16i0",
+    "meta": {
+      "name": "Phantasmagoria #50",
+      "attributes": [
+        {
+          "value": "░",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "6",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "13",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "57×17",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "20×4",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "18",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/050_49y7so2s1ntyj20qg7yzyzdomk7um0my7nnit1bysn9764ss1s6e79983p6y2vdo.jpg"
+    }
+  },
+  {
+    "id": "9c83047424635e648106a4c13ee4e0fe88c9cb123fb98db5aa9fea3320249967i0",
+    "meta": {
+      "name": "Phantasmagoria #51",
+      "attributes": [
+        {
+          "value": "░",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "10",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "20",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "36×27",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "4×20",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "7",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/051_nswrzud4fo09z3db4o62daveh25v4sqs5ted7unz5i6mj3hiygnzfesee2fbprcg.jpg"
+    }
+  },
+  {
+    "id": "4c65119374ca344542d4d9f5334d9297c18365746c1c74e1cd14bab9a8caf4bdi0",
+    "meta": {
+      "name": "Phantasmagoria #52",
+      "attributes": [
+        {
+          "value": "Ω",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "12",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "30",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "23×23",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "24×24",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "14",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/052_prkzske1t6rc5ha26id6c4coy9loiiqt52k0csvywuotiajltu1mg6iw2w27spsw.jpg"
+    }
+  },
+  {
+    "id": "69f0534dcc0aca0bf8f68c92ed71088d9f13138168f72495e602f2a78a8b8ca5i0",
+    "meta": {
+      "name": "Phantasmagoria #53",
+      "attributes": [
+        {
+          "value": "░",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "4",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "4",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "27×27",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "16×16",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "7",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/053_jrre9h1knpwqna83cjob4stv2rkheoni0o2hj7r5al466fv5alvcm1g3l0hqlw57.jpg"
+    }
+  },
+  {
+    "id": "817d1a38ee741bbddd7d4018f765ce31456305c00b20fe48d859e57cb9076fd1i0",
+    "meta": {
+      "name": "Phantasmagoria #54",
+      "attributes": [
+        {
+          "value": "Ω",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "9",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "11",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "55×18",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "4×4",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "10",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/054_g145o4crqgqgntjawfdzhr5mmv6vjyk85injkhagmmljryi3asi91pmvntc47nel.jpg"
+    }
+  },
+  {
+    "id": "7ce292d284da8dfe5eba4658a327d32df3bbb1719eabc2a7db9fc420e462de6di0",
+    "meta": {
+      "name": "Phantasmagoria #55",
+      "attributes": [
+        {
+          "value": "⦰",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "7",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "17",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "66×15",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×20",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "S",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "4",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/055_kjqao879iowj38k7t7tzt79r39ywblyuu1ff8u6uzv41grdedhjcskimn2uug8iv.jpg"
+    }
+  },
+  {
+    "id": "8bde7017c6276d52816790a8706bdfbfb2c1e7dea02580937a1b91994a696794i0",
+    "meta": {
+      "name": "Phantasmagoria #56",
+      "attributes": [
+        {
+          "value": "Ω",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "8",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "8",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "35×28",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "4×48",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/056_6tgl6ges9qptv1zchuy5rmj5v8y3m6zyf7h50aik4yjkbun23ph01j2no18spzef.jpg"
+    }
+  },
+  {
+    "id": "5ad07259775e5d057442c63766bb3afdd4f1477920b75da7321ba1e0708ede68i0",
+    "meta": {
+      "name": "Phantasmagoria #57",
+      "attributes": [
+        {
+          "value": "⦰",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "8",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "20",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "42×23",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "40×40",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "8",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/057_zz2wwolfmiaiyp3yw26iaohzqtpfu9sm4ivt795nz5m21vfjk7034dngb2cbhto4.jpg"
+    }
+  },
+  {
+    "id": "8e36f1838971e443ab34860ea77c4bd4ac2d205bd6db0e0ab6720bc97f6d7281i0",
+    "meta": {
+      "name": "Phantasmagoria #58",
+      "attributes": [
+        {
+          "value": "⦰",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "9",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "23",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "23×23",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "16×16",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "S",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/058_gqrcr5p1udkec70pt1yfcz5lso5r3lctusbs3fsbz5js3yday8926hl5p381jmat.jpg"
+    }
+  },
+  {
+    "id": "01c6f6c7971ad6838bc0bba965fe1c9ddfdec989dea591351d544272904a600ci0",
+    "meta": {
+      "name": "Phantasmagoria #59",
+      "attributes": [
+        {
+          "value": "Ω",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "5",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "8",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "66×15",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "32×32",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "2",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/059_m5ys6ll41rskg3yyh6916dfccsq2aop57f2k42l2a2kyilcshq4tupzr5f2ievfi.jpg"
+    }
+  },
+  {
+    "id": "cbbf74df953306061544c55e3430d8939e0c071cd7de04e6b02a7bb818eaf77fi0",
+    "meta": {
+      "name": "Phantasmagoria #60",
+      "attributes": [
+        {
+          "value": "⌽",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "11",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "24",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "29×29",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×12",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "10",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/060_mbhc12uysbsit4h9q9llw1ek7dmb2f4378sagrhhs0pua741ok1am2gkdt77qcsj.jpg"
+    }
+  },
+  {
+    "id": "a8971fc3b9c00e4a445066a32fff74216ac516871472fff8306a9e854647526ci0",
+    "meta": {
+      "name": "Phantasmagoria #61",
+      "attributes": [
+        {
+          "value": "⦰",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "12",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "31",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "54×18",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "4×4",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "14",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/061_f0yeb5ty71tou83gnmbhj78kggrkjpyj0aizw9yr9y5rbz4jpkohmnthwls5520n.jpg"
+    }
+  },
+  {
+    "id": "7670a27416e8b681ef81931e2568b9151c3377a9c926889cf8f3676ce6a79af1i0",
+    "meta": {
+      "name": "Phantasmagoria #62",
+      "attributes": [
+        {
+          "value": "⌽",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "9",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "14",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "25×25",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×12",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "18",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/062_davodq8owjspg2vo4spqa6m7sklcsokc92d7pykoptikrmr2kvyhzs33iphmzsmg.jpg"
+    }
+  },
+  {
+    "id": "a3dbd033f1eb0fc46d242c9319a2293e60d9df420606d0c6fd575751bbc626fai0",
+    "meta": {
+      "name": "Phantasmagoria #63",
+      "attributes": [
+        {
+          "value": "⌽",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "7",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "11",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "61×16",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×12",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/063_w6tocr73sseb3fn1thu4kvpd1ivuonknpn860vmjlp69oy3bqw22kljwrtamc8jn.jpg"
+    }
+  },
+  {
+    "id": "a6d633ee991675f92399ead891bb1cee961a5e85a60e7214281a8c93d3e7e892i0",
+    "meta": {
+      "name": "Phantasmagoria #64",
+      "attributes": [
+        {
+          "value": "⦵",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "7",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "10",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "61×16",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×40",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "14",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/064_g5sfbf53hnj37isdngvln99fnqcz13hrihsbqq8ctqnrzge7b23ryft3ecvdm0sv.jpg"
+    }
+  },
+  {
+    "id": "0eb8eb16a773a39e5b31bc01fecba80a66bea56383c0d5a764863de45a3210b1i0",
+    "meta": {
+      "name": "Phantasmagoria #65",
+      "attributes": [
+        {
+          "value": "▒",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "10",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "8",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "54×18",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "8×20",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "S",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "10",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/065_4kmo2yi3kmrawpaw24qoowchrlpfnmg1u5s69vdw4qy1uchvg4rzszw0osntu3p7.jpg"
+    }
+  },
+  {
+    "id": "8db4e5c8fd542069e3a74ea42f6f0ff17fb13bec84199f0b9c5dcdb038fd862ei0",
+    "meta": {
+      "name": "Phantasmagoria #66",
+      "attributes": [
+        {
+          "value": "▒",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "8",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "15",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "48×20",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×12",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/066_92oq43r5qgkvdok2d46tomz63hfph55v5mtm61wie1mlnsspoesi9bfksy1z6wri.jpg"
+    }
+  },
+  {
+    "id": "25f7a53feff17596008bd9cfe2eaab6a29f449c0a73e9e9eafeb8aebe5606e70i0",
+    "meta": {
+      "name": "Phantasmagoria #67",
+      "attributes": [
+        {
+          "value": "⦵",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "5",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "12",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "30×30",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "16×16",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/067_lof7eb8cose2gkgevlda36kqv9rbfaczhr3lqam60o6gzq8rdkjnm6lh51zfuqs7.jpg"
+    }
+  },
+  {
+    "id": "d3167d188a8e2c721cc82a58125d7b7ba4ad86539aa51b99252146969f89c71ai0",
+    "meta": {
+      "name": "Phantasmagoria #68",
+      "attributes": [
+        {
+          "value": "⦵",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "11",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "26",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "15×66",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×16",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/068_bjrc6lyn73bihjksicaqnov3p15cgydiwgp9wsisd002vmeh2ms4pfesmsk97apc.jpg"
+    }
+  },
+  {
+    "id": "97a8a4f23e16881bef489d15b1066629ddbbde3da370b79dae4c01c97593cb8fi0",
+    "meta": {
+      "name": "Phantasmagoria #69",
+      "attributes": [
+        {
+          "value": "⌽",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "7",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "12",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "21×21",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "8×8",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "18",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/069_ke0pufi4mhhr559vp43uzhvsnwb28kcu0nd58c7y4d2zap8wts7rg0a6q5279yqc.jpg"
+    }
+  },
+  {
+    "id": "5603a6e873d1ab120495ce23b864832609ba03a1aabda57bf1272a0369d378ebi0",
+    "meta": {
+      "name": "Phantasmagoria #70",
+      "attributes": [
+        {
+          "value": "Ω",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "11",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "16",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "30×30",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "4×4",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "6",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/070_pfphv7bodtqi4ya2ur4ne3wte0gq9jy8hqnar54r7sem7ta3cb6aa74wtfsn9eim.jpg"
+    }
+  },
+  {
+    "id": "0bc7f2ee153494197b73d23b560ae15c56545c2dd4426e23e88ea06abeccc544i0",
+    "meta": {
+      "name": "Phantasmagoria #71",
+      "attributes": [
+        {
+          "value": "⦰",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "11",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "34",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "44×22",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "20×4",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "4",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/071_t9rtypsukzy85qc1cwsy0cqskhyargzws1k5ami1zblc2ph0twmlp4dnsmoll7et.jpg"
+    }
+  },
+  {
+    "id": "6877595c409dfc75101c27aa16e5889ce34bd0d94c73c2ad5722482c9440cc8fi0",
+    "meta": {
+      "name": "Phantasmagoria #72",
+      "attributes": [
+        {
+          "value": "⦲",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "11",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "24",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "55×18",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "4×12",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "12",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/072_7hgut7lcvkg868tnk1a25hhlcgyv7nd250mfc46tsqf9j78qbcbkyy6y9d01nyez.jpg"
+    }
+  },
+  {
+    "id": "2327c878e47527ce02d69289e7573d2cde2fc053d1f40bb6245a0fb44a15bb2ai0",
+    "meta": {
+      "name": "Phantasmagoria #73",
+      "attributes": [
+        {
+          "value": "░",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "6",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "11",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "22×45",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "40×4",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "4",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/073_ws7m4htue9lih2rnrilwwt6jhonemdlydhmk3byg7qnazh8z6pd8ri6r08c5s38r.jpg"
+    }
+  },
+  {
+    "id": "01ca8e7f55a319f6385d6e415bd72a82633baee0dcec08cff2f0bfe231d5c079i0",
+    "meta": {
+      "name": "Phantasmagoria #74",
+      "attributes": [
+        {
+          "value": "⦲",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "12",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "28",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "30×30",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "16×16",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "11",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/074_doopssscegr5567squ3uj5cteiedn5kapwqdlhdvp3qtpwhv4vldnwr9tuv8w52q.jpg"
+    }
+  },
+  {
+    "id": "cc9e5e993c2d9e408972f343ad714385314ab06bcdc20674379db6cfee557b19i0",
+    "meta": {
+      "name": "Phantasmagoria #75",
+      "attributes": [
+        {
+          "value": "Ω",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "4",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "6",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "63×15",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "4×4",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/075_agciso82y25sis80tyv2qzp16ssjpggm4905e9s8hvjpyeg5vb31g00rklqsst83.jpg"
+    }
+  },
+  {
+    "id": "07fe97caf077f8a8d0d88dcf0df066fe90cacda8eb44d7bd9b69f11b0de99176i0",
+    "meta": {
+      "name": "Phantasmagoria #76",
+      "attributes": [
+        {
+          "value": "░",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "8",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "10",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "45×22",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×16",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "S",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "11",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/076_d20t0tlfdofru3qc2pue1ied811u05g4fjg0yoqodd21nm5jd6o2122gv5llqjoa.jpg"
+    }
+  },
+  {
+    "id": "f9dd80fb4dc21ace0a5d25554e22bedb5f9140bd9d94a36ecd6623b7d3fb0afbi0",
+    "meta": {
+      "name": "Phantasmagoria #77",
+      "attributes": [
+        {
+          "value": "⌽",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "9",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "9",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "28×28",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×12",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "19",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/077_gcmp1811tjmqqdt3d7sjkf2rw9he5sswuoh78a290rbklsyiy1nacnhwjsfd831s.jpg"
+    }
+  },
+  {
+    "id": "77ca3784f4fa21ded8c83d0bfff6081666265e042db178f2fd595438a8240cb4i0",
+    "meta": {
+      "name": "Phantasmagoria #78",
+      "attributes": [
+        {
+          "value": "⦵",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "5",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "5",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "44×22",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "4×12",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "11",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/078_msu1533ygvl9bhv0rsm227njak66oap2grl8vq8cp3znst4rillguisuiji83y00.jpg"
+    }
+  },
+  {
+    "id": "d82574591b74bb05b7db4b9ee0d4aa8704dfdaaabdd315e6c8bcb16c05e8b7b2i0",
+    "meta": {
+      "name": "Phantasmagoria #79",
+      "attributes": [
+        {
+          "value": "Ω",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "9",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "13",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "40×25",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "32×12",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "6",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/079_iwl4dpyu79sq828qglc8s7yjsk966gcd0yqdqjhfms3g81jtsnllf5qzvpqfs68s.jpg"
+    }
+  },
+  {
+    "id": "418b655e8508b97efc73e8b740a673785d49fb736f6270eb36ff843b7bd79698i0",
+    "meta": {
+      "name": "Phantasmagoria #80",
+      "attributes": [
+        {
+          "value": "⦵",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "4",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "9",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "62×16",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×12",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "0",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/080_2w76k7838rrea4ep764v8w8mhsjefstsgyyad3oq3pbkwzd20gvdg29d30fna2ie.jpg"
+    }
+  },
+  {
+    "id": "3eb4aef12c3b7775b17b53356ece6e7063055091d867a2459c54516ec396f54ci0",
+    "meta": {
+      "name": "Phantasmagoria #81",
+      "attributes": [
+        {
+          "value": "Ω",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "8",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "17",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "26×38",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "20×12",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "11",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/081_y39b1g981c6jol02v659om0ag9ne0d69y56kbrvd817148zgys4oj7evsg7undtb.jpg"
+    }
+  },
+  {
+    "id": "026b6a6143ef96eaad55cc1de9dc9b3e2cbbcfb03359e54f0c85d42363552c32i0",
+    "meta": {
+      "name": "Phantasmagoria #82",
+      "attributes": [
+        {
+          "value": "Ω",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "5",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "11",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "66×15",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "4×8",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "5",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/082_e0fbfcfji0h4pk0ijnlitd3de1m0p1p9lmpoihdsss9t73p86vm5svbsawj0lcjh.jpg"
+    }
+  },
+  {
+    "id": "c801bb56ae651676b2077556d51f5f1b6843c8d5e04cff15fd544258364f2bddi0",
+    "meta": {
+      "name": "Phantasmagoria #83",
+      "attributes": [
+        {
+          "value": "▒",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "6",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "11",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "24×24",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "16×16",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "14",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/083_7899rga7vsaywn9vw0fczzepen6e98s7eg3y5p8dcuoiwo7bp2rsssvtac3dfge1.jpg"
+    }
+  },
+  {
+    "id": "a08c378c6472bfe546e050ac2002d19aeea7584dbf3767ba060f4dd039e0dbf7i0",
+    "meta": {
+      "name": "Phantasmagoria #84",
+      "attributes": [
+        {
+          "value": "⌽",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "8",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "10",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "45×22",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "16×32",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "15",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/084_j8l2i6g8u6w5easv5zdda7416718ba4ktia0eajpa5gdd8lz9jgiikzustvgsj6k.jpg"
+    }
+  },
+  {
+    "id": "94affa358fb592472a637940628eec238308e7412e70f8be0107e14d138ca335i0",
+    "meta": {
+      "name": "Phantasmagoria #85",
+      "attributes": [
+        {
+          "value": "⦰",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "10",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "31",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "28×35",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×48",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "12",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/085_oqwohqijzjsrczrgj6ss95nsqsniv93p3v1z971y3c16lt9trlin1l29luz6ffwc.jpg"
+    }
+  },
+  {
+    "id": "8d81eb3d2ef970039b68fd3c211bf04bf29d3c0bf1b436428a2ea06ffb08b6ebi0",
+    "meta": {
+      "name": "Phantasmagoria #86",
+      "attributes": [
+        {
+          "value": "░",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "8",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "23",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "35×28",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "4×12",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/086_4lh7siets6s5pmydz3u4j90w6cf6v3e8l3z30vnsntmicjq3v041ichl5visn6i1.jpg"
+    }
+  },
+  {
+    "id": "0f7857250109b984452248940b7386567bdfaa9e2a52e21160694732847148f6i0",
+    "meta": {
+      "name": "Phantasmagoria #87",
+      "attributes": [
+        {
+          "value": "⌽",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "6",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "9",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "44×22",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "4×8",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "14",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/087_57dsro2z9spbi11goyv1zsqpholm7swp3ysmzwbowi5o3jmtgzdgaipuzrlhvbi7.jpg"
+    }
+  },
+  {
+    "id": "fffc256f61f566e4db091be91b22ad5435a99d2a284c125118aaac81b7a78a6ai0",
+    "meta": {
+      "name": "Phantasmagoria #88",
+      "attributes": [
+        {
+          "value": "▒",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "9",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "20",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "25×40",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "8×4",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/088_d7sz1swasofdsl1n1noj89riv5ip6p3vd39976u1si97opfyg8337skmhhtlecvs.jpg"
+    }
+  },
+  {
+    "id": "9e0743cfc2adcab2420c1fcc807a167115b967f3c546f27ab2c5c2eaebc6a469i0",
+    "meta": {
+      "name": "Phantasmagoria #89",
+      "attributes": [
+        {
+          "value": "⦰",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "9",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "23",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "20×20",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "24×24",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "19",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/089_rvkhza1blvm8qhevkdda4pt9kec7c60mqening3ez9zztr4t51pskswsgu29tw69.jpg"
+    }
+  },
+  {
+    "id": "b76553d754a927e02fac7004a48d07aef711f95f7bae9d0e845ad22ff7ec820di0",
+    "meta": {
+      "name": "Phantasmagoria #90",
+      "attributes": [
+        {
+          "value": "░",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "7",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "20",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "37×27",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "4×8",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/090_52c63zyrz5grl4ycasy1k3spgsivdfssv5vqfa2uh3suly3kaequms2r5047jn3g.jpg"
+    }
+  },
+  {
+    "id": "49a98ef33b2406c62e7a8447db42e38a07d950f6a5aa43e2ab0fd03386727019i0",
+    "meta": {
+      "name": "Phantasmagoria #91",
+      "attributes": [
+        {
+          "value": "⦰",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "8",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "13",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "59×16",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "4×8",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "S",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "1",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/091_uopwanetfdcns3rs7ocus8egciediq50yuigbw9fwnvi4aj8vmsl5eiroo87wcso.jpg"
+    }
+  },
+  {
+    "id": "8f325e35089f3fece1edbfaf42a02e4ee21db8da590b8f29aeb30d1359715d02i0",
+    "meta": {
+      "name": "Phantasmagoria #92",
+      "attributes": [
+        {
+          "value": "⦲",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "9",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "18",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "36×27",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "20×20",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "S",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "6",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/092_ijyhwlbmskd22d5ir2f60f6vm0mem23d1y0y964103527sm581ja4fvbu14il9f5.jpg"
+    }
+  },
+  {
+    "id": "ed9426952dd899d07224ee997599f1751a363f3a20795c399eda45860dc957e7i0",
+    "meta": {
+      "name": "Phantasmagoria #93",
+      "attributes": [
+        {
+          "value": "⌽",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "6",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "10",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "57×17",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "4×4",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "10",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/093_4y4is32su7gmzaq7u7rto3ojb94f2mzpghj2n2wdrgoeqc65jjrifseliqgj06d9.jpg"
+    }
+  },
+  {
+    "id": "319978b173801188f917780c73ecd79eb8934ec6f57ded96c7da042df5758ca8i0",
+    "meta": {
+      "name": "Phantasmagoria #94",
+      "attributes": [
+        {
+          "value": "▒",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "7",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "18",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "49×20",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "8×24",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/094_g3bjqof79ufj3atn3d1gisjenjw73gm7cgt88enhn7pvuz8ua34gsicv7wice0ds.jpg"
+    }
+  },
+  {
+    "id": "802bb216d26decde9856c8e50659380aa475ff553fdc3b995458bfdf47da5329i0",
+    "meta": {
+      "name": "Phantasmagoria #95",
+      "attributes": [
+        {
+          "value": "⦵",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "8",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "16",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "26×26",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "16×16",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "6",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/095_wp819fmme620dfstj8vu26iectqbnhdv9oltfsvpekqs338tqoyuzt3eyeh83e7y.jpg"
+    }
+  },
+  {
+    "id": "1b9e958c3bff9a586b4851065e9224e01c106b0d2cffd6e68d7ba1337e5af51ei0",
+    "meta": {
+      "name": "Phantasmagoria #96",
+      "attributes": [
+        {
+          "value": "⦰",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "9",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "15",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "31×31",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "8×8",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/096_4er0pz65sddhssbe9p9y7hrfah1im2v1p4s2j2ycud2iqqvsc6gifisi8pqdzt70.jpg"
+    }
+  },
+  {
+    "id": "5b4e55dfa738061f88ee6bb88d8aa7695ae29d54503b51ce84395a69913c46d3i0",
+    "meta": {
+      "name": "Phantasmagoria #97",
+      "attributes": [
+        {
+          "value": "Ω",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "9",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "11",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "21×21",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "32×32",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "0",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/097_8b2py0g1pmbt6nmo8she44rcreb0b0sykl1j0fe8o0fvkaplfanik66ca8qqisdr.jpg"
+    }
+  },
+  {
+    "id": "f151d4e624e6fd73c72ed484a201464c9989a86800c58d395765c52712b198aai0",
+    "meta": {
+      "name": "Phantasmagoria #98",
+      "attributes": [
+        {
+          "value": "Ω",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "10",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "21",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "19×52",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "4×4",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "S",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "5",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/098_mo3osht9hu61asvbalilg2dpt94rnnf8utay0yf1735nly3efssut9sjp6imkiys.jpg"
+    }
+  },
+  {
+    "id": "1ae26dddcd44ed594f39e4575378bbf764e46e9501dcd23bb9372abd3b0bcab2i0",
+    "meta": {
+      "name": "Phantasmagoria #99",
+      "attributes": [
+        {
+          "value": "▒",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "4",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "5",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "31×31",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "8×8",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "S",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "10",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/099_0eum0qna8ivulaekcw6t161bsk7ane4ssl9b8s83lqwdk65hwtpzj0r6gszu3gvg.jpg"
+    }
+  },
+  {
+    "id": "bea7ab4d18006950284fe7453f3ab67967b7efc9e5a8b2ad8c37a0bd01e331f5i0",
+    "meta": {
+      "name": "Phantasmagoria #100",
+      "attributes": [
+        {
+          "value": "Ω",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "11",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "18",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "47×21",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×4",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/100_6vapk2cb5kbb7n459ozd8bafqlrhmrdnjq8bgbdbf9lh99cw922a48s8z1i3r9a3.jpg"
+    }
+  },
+  {
+    "id": "b984a51cb669bd9e5a5873463a77f56be016d02303abb86ec31c8df3962ee3f6i0",
+    "meta": {
+      "name": "Phantasmagoria #101",
+      "attributes": [
+        {
+          "value": "⦵",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "4",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "8",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "60×16",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "4×8",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "7",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/101_rn3uzlesstv1v2wdrgrqe5d5gdpzcc6wyzw8mpa51409s8spq0onycldvckqqcqe.jpg"
+    }
+  },
+  {
+    "id": "158416ea91e61fad4cb5cfb0b9c170cb5181ef72ce64b5c426440713151fb8bci0",
+    "meta": {
+      "name": "Phantasmagoria #102",
+      "attributes": [
+        {
+          "value": "░",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "11",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "21",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "33×30",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "4×40",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "7",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/102_cz7t8oe2prpgewwab0p02g9v1npm9kylscma3twc9i7lptjwr3kdh4kvqe9uytzn.jpg"
+    }
+  },
+  {
+    "id": "828242df49e55c90040b81e3f15a5ebbaff4cebc920841e3e97d4202241192c2i0",
+    "meta": {
+      "name": "Phantasmagoria #103",
+      "attributes": [
+        {
+          "value": "░",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "5",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "11",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "31×31",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×12",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/103_4vaaf8rj4fw5gackhdg6h67v2r6n7pe67cso9oopm8jlbawaoohoosstm9q72gh6.jpg"
+    }
+  },
+  {
+    "id": "7c5e25a1a41c30e2a306827c8c41a2cf246c41eb824e6a730eabb795861601f4i0",
+    "meta": {
+      "name": "Phantasmagoria #104",
+      "attributes": [
+        {
+          "value": "Ω",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "9",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "19",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "31×31",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "8×8",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/104_b0ye3hf4cwyo0qsd4k8s3sq7k72q1l2u8w9eq9genjgnibhi3zblaeac2h82tmc0.jpg"
+    }
+  },
+  {
+    "id": "f7b11a9bd14843acc4da7ca08c7554e815471526ccb98a578c0920f59d205f5fi0",
+    "meta": {
+      "name": "Phantasmagoria #105",
+      "attributes": [
+        {
+          "value": "⦵",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "5",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "9",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "57×17",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "32×4",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/105_f5afgl4sy0uhg3cnculoeji0nnm1lfa3zagdm39l2o8ggvpduz15q2b8qmzs4wyr.jpg"
+    }
+  },
+  {
+    "id": "99937f54a13bc1147fcc5b637b2048b1ff1be927adc4f3142ce143a03dda9869i0",
+    "meta": {
+      "name": "Phantasmagoria #106",
+      "attributes": [
+        {
+          "value": "⦲",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "12",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "19",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "32×31",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "40×4",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "11",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/106_ftcvvwfza7stglcv5711witlgwsoj1f98nbftedspiz7kksw02qi6mytnprle601.jpg"
+    }
+  },
+  {
+    "id": "362e79d6d94388ae756cad86c0014f758d42b8f219e49c5c01181e42bf9b2b1ai0",
+    "meta": {
+      "name": "Phantasmagoria #107",
+      "attributes": [
+        {
+          "value": "▒",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "10",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "13",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "65×15",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "4×24",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "13",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/107_k7zzf45s9ei0e2klf9hb85kktv8vmeqig8ytccw1jq6u6k8sh9assqjkgvg7a8rt.jpg"
+    }
+  },
+  {
+    "id": "c462cd761cffbbcc490cb4ba332d0b301cfebd161c868a332ff2f02c5fa36959i0",
+    "meta": {
+      "name": "Phantasmagoria #108",
+      "attributes": [
+        {
+          "value": "▒",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "10",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "12",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "31×31",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "40×40",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/108_8mq9pg6mo0pbjlz8i9kcyyu9dbrpoqqn470irqqyp2rqz7igqavpcu3e0ijm2235.jpg"
+    }
+  },
+  {
+    "id": "f0df2c8e7fb83c16c02f05fe3b2faaffd4199797819932d14161dbdb0292d07ci0",
+    "meta": {
+      "name": "Phantasmagoria #109",
+      "attributes": [
+        {
+          "value": "⦵",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "7",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "12",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "15×66",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "8×4",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "17",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/109_p8i7vrmjaat6ycmd2naf1o4ea6fb9lcjccdhz3wgcrqjqar86bekyszts19jswze.jpg"
+    }
+  },
+  {
+    "id": "9893a87a4833064e6377a3266a859b0ac892faa1395f6d54409c3f3d1dfd5a5ai0",
+    "meta": {
+      "name": "Phantasmagoria #110",
+      "attributes": [
+        {
+          "value": "Ω",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "8",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "13",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "29×29",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "20×20",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "0",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/110_ii5zlgcs4wgqsiwh1wjgt9hwq3j76mhn3ys68m85yooeujk2cj7ws8yr4ipc9jfk.jpg"
+    }
+  },
+  {
+    "id": "87efaf744b04edd51e49d107eb1f3e325e163f6b9a28f020b4f79bfebf5e1c19i0",
+    "meta": {
+      "name": "Phantasmagoria #111",
+      "attributes": [
+        {
+          "value": "⌽",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "10",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "20",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "23×23",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "16×16",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "12",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/111_9qvo97fehjl9ekgdmqtqsc3zsujjwqgsj4vs5oovbs2vs0wvsqlhbwccrtwhsmh7.jpg"
+    }
+  },
+  {
+    "id": "2037ce3aaa8771ddbef0e6badf646568276aba860f6bfd6ca6c8cc681de330c9i0",
+    "meta": {
+      "name": "Phantasmagoria #112",
+      "attributes": [
+        {
+          "value": "Ω",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "4",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "2",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "20×20",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×12",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "11",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/112_kf0sjszm8fnm84y84du4rh9t4kgd1e9swksqksrmp99dq31jfnemb0fy7c85rgyu.jpg"
+    }
+  },
+  {
+    "id": "cfa2959735538c0d1e22f44f50b184a871a9863ddbdffab9f66f44039727ea53i0",
+    "meta": {
+      "name": "Phantasmagoria #113",
+      "attributes": [
+        {
+          "value": "▒",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "5",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "11",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "42×23",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×48",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "18",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/113_gte8qkvjskwms334aasarh8tbwbbq62smuzsptr94s9s5cuuf7h5ipeb3gfr1m8n.jpg"
+    }
+  },
+  {
+    "id": "33b451f2874e4801dc2390a236503761cd80bfb914a4a8d39c1e37314a1bc66fi0",
+    "meta": {
+      "name": "Phantasmagoria #114",
+      "attributes": [
+        {
+          "value": "⦲",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "8",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "19",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "22×22",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "8×8",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/114_pqahvsit4bcarpj1489askj26vymljgylc7v8qalduk560s7zl53wcvznen955r1.jpg"
+    }
+  },
+  {
+    "id": "beb499a582e4c77283edb32a47e374e0cb5b98092ec7811182171e2fb941bffai0",
+    "meta": {
+      "name": "Phantasmagoria #115",
+      "attributes": [
+        {
+          "value": "░",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "11",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "17",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "29×29",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "8×8",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "6",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/115_vww7508j8l2a9a77qiqss7c32fydbz4dj5z5qmy6y79ug7h47bmwqf7rsafnplmj.jpg"
+    }
+  },
+  {
+    "id": "cdd6596955b68d674515521b02a4e37b7158c4c8496187c4750dc5563bd2e952i0",
+    "meta": {
+      "name": "Phantasmagoria #116",
+      "attributes": [
+        {
+          "value": "░",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "10",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "14",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "31×31",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "40×40",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "5",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/116_ct4jy45yrch3kia7ow4s5hntkg4lzsfr7v9b9ctc0s7hh0zfy9kmpyjtkq7ys10v.jpg"
+    }
+  },
+  {
+    "id": "1f8f5c2ded8df167f1a8e9aa1ae8598856c9ea082ddfa5a525c6718159c22d43i0",
+    "meta": {
+      "name": "Phantasmagoria #117",
+      "attributes": [
+        {
+          "value": "⦰",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "11",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "33",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "23×23",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×12",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "7",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/117_b5fwst2p2pn0yfjlsdb5mf6ods24sj76azlzt531faka7n4fm37jpzkg0ts9gi1g.jpg"
+    }
+  },
+  {
+    "id": "7e1dba138ecddbb18cde6d7bf00df1240a9856096bd4585682669b7e07f28724i0",
+    "meta": {
+      "name": "Phantasmagoria #118",
+      "attributes": [
+        {
+          "value": "⦰",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "11",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "26",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "59×16",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "64×8",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "S",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "13",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/118_a43sfsg7ajjjl9s7172ekkegzjvdtnfqwgbk10s2oyqji5uz6mgwa0mb67crt45i.jpg"
+    }
+  },
+  {
+    "id": "c451debb2cf8c32685e57cae8709c33b016353ff9d92ff2174dec83127513a47i0",
+    "meta": {
+      "name": "Phantasmagoria #119",
+      "attributes": [
+        {
+          "value": "⌽",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "11",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "20",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "61×16",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×16",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "7",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/119_c0r15s9v8z7w7g47vqozvbasqisr0vsqdbc8smh9qpt0zjp6ls0zftncz4kkz2vs.jpg"
+    }
+  },
+  {
+    "id": "b990498197ec045d85d5458f7b4849291630136e911c7fc51ed98e5fe8f2c9e2i0",
+    "meta": {
+      "name": "Phantasmagoria #120",
+      "attributes": [
+        {
+          "value": "░",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "10",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "31",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "28×28",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "12×12",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "9",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/120_saeyf8ea9eibtrwk0svcqwf026gss1crsjnggihf4g55nkcpdd84qoi45a651so9.jpg"
+    }
+  },
+  {
+    "id": "277b3b6ddfd014b68f3ec6d9bb4eb305440de1104734cb75b369f37f0b0b4c50i0",
+    "meta": {
+      "name": "Phantasmagoria #121",
+      "attributes": [
+        {
+          "value": "⦰",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "8",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "9",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "26×26",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "8×8",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "S",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "4",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/121_6l18svt428788w1jo57upouzri9oqkskcd0spm0vh6orac7h2i06l2o2ghg4wf2k.jpg"
+    }
+  },
+  {
+    "id": "48d10525b4d9724290c5f36cd374350cbad3838790a5e4ecd2c6b19984ac9273i0",
+    "meta": {
+      "name": "Phantasmagoria #122",
+      "attributes": [
+        {
+          "value": "░",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "10",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "21",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "25×25",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "48×48",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "6",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/122_t50awro7q1nwaneh7qcsmq3sd4hl656k7u5nds4qwbijgldv2tyi0tq5bq3eynq6.jpg"
+    }
+  },
+  {
+    "id": "5d01de2c3ff6af35ac20bdaff8a8db2884e548599894aa9db126f410cfc640c6i0",
+    "meta": {
+      "name": "Phantasmagoria #123",
+      "attributes": [
+        {
+          "value": "Ω",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "4",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "6",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "21×21",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "16×16",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "7",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/123_o3a89cpyi9t28ple0whcyzsz4rjh6hs26ssavshgdgss0svbi6mq5h90av5nsh4n.jpg"
+    }
+  },
+  {
+    "id": "10b7253bfd17ab286bbd55b89441217a7cb8d12f88c59569049ea1f833daf6c3i0",
+    "meta": {
+      "name": "Phantasmagoria #124",
+      "attributes": [
+        {
+          "value": "░",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "12",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "23",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "51×19",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "8×48",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "5",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/124_00ljvfz2a2ezk0e9e682i259fqettmts8dzay6l31rh0hj1ao5ee6ulocrr6ft4w.jpg"
+    }
+  },
+  {
+    "id": "e4b0cae4bf477945f5783a0844bddc4d497a9bd69ae7de8a30f81712dd418dd3i0",
+    "meta": {
+      "name": "Phantasmagoria #125",
+      "attributes": [
+        {
+          "value": "⦲",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "11",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "22",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "false",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "23×23",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "20×20",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/125_o9mt4slv3mnpoirsevym9w4s7nl2s0uyuw8ysw30m1wm86qcbr0isdpndmwlgo4g.jpg"
+    }
+  },
+  {
+    "id": "0b9a9c026b858a08b9b29be23a58281d2f0af31b61f2601faa3f84a13ebac316i0",
+    "meta": {
+      "name": "Phantasmagoria #126",
+      "attributes": [
+        {
+          "value": "░",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "10",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "28",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "22×45",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "40×8",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "false",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "20",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/126_5dm0lstivuselo1q9ouectkcffecoo2r95w7dct0ls33t9vqa99k1ufs54kaf19q.jpg"
+    }
+  },
+  {
+    "id": "b67ece82b294e733348d5be156379f982851d32fb0af873e9c38a4caeaff17d6i0",
+    "meta": {
+      "name": "Phantasmagoria #127",
+      "attributes": [
+        {
+          "value": "⦵",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "11",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "20",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "20×20",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "32×32",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "M",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "true",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "14",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/127_knv9shp3ygh5vkpefl7becwumbeczs4mumy8z8s8s6vo3hsbpz13eluhd984dvwu.jpg"
+    }
+  },
+  {
+    "id": "ea44e53473114394479500d73fa6905bc9652552449d306a987005b789a6f97di0",
+    "meta": {
+      "name": "Phantasmagoria #128",
+      "attributes": [
+        {
+          "value": "⌽",
+          "trait_type": "Creation"
+        },
+        {
+          "value": "10",
+          "trait_type": "Planets"
+        },
+        {
+          "value": "20",
+          "trait_type": "Satellites"
+        },
+        {
+          "value": "true",
+          "trait_type": "Aligned"
+        },
+        {
+          "value": "64×15",
+          "trait_type": "Grid"
+        },
+        {
+          "value": "20×48",
+          "trait_type": "Scale"
+        },
+        {
+          "value": "L",
+          "trait_type": "Flow strength"
+        },
+        {
+          "value": "false",
+          "trait_type": "Symmetry"
+        },
+        {
+          "value": "true",
+          "trait_type": "Human error"
+        },
+        {
+          "value": "14",
+          "trait_type": "Palette"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/phantasmagoria/thumb/128_rr8dv9u99u3vjnyaal2m78j62t7futru5w818odbshw0incsehns6ffvimniiz3d.jpg"
+    }
+  }
+]

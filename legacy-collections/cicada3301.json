@@ -1,0 +1,382 @@
+[
+  {
+    "id": "72331fe2121bf8172a654e2d9848c69689bf61039f236626d94c67a0b6594ec6i0",
+    "meta": {
+      "name": "RUNIC ECHO",
+      "attributes": [
+        {
+          "value": "2013",
+          "trait_type": "YEAR"
+        },
+        {
+          "value": "Cryptographic",
+          "trait_type": "TYPE"
+        },
+        {
+          "value": "Unresolved",
+          "trait_type": "STATUS"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3ae5d05caf84194def0726f055a3ee2692fcd5305dac0b11bdfdccfeda435b52i0",
+    "meta": {
+      "name": "WELCOME",
+      "attributes": [
+        {
+          "value": "2012",
+          "trait_type": "YEAR"
+        },
+        {
+          "value": "Cryptographic",
+          "trait_type": "TYPE"
+        },
+        {
+          "value": "Partial",
+          "trait_type": "STATUS"
+        }
+      ]
+    }
+  },
+  {
+    "id": "752cbe7f6735cddd4b2c9cfba3d4c3d91ee3680c041573cc48e06181ad275c85i0",
+    "meta": {
+      "name": "PROBLEMS",
+      "attributes": [
+        {
+          "value": "2012",
+          "trait_type": "YEAR"
+        },
+        {
+          "value": "Cryptographic",
+          "trait_type": "TYPE"
+        },
+        {
+          "value": "Solved",
+          "trait_type": "STATUS"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8a5ab0e4e02f67160baa91e84a388b35c1418781ebf5675581c4f7852ed523aei0",
+    "meta": {
+      "name": "LIBER PRIMUS",
+      "attributes": [
+        {
+          "value": "2014",
+          "trait_type": "YEAR"
+        },
+        {
+          "value": "Cryptographic",
+          "trait_type": "TYPE"
+        },
+        {
+          "value": "Partial",
+          "trait_type": "STATUS"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d90d9f4f74a8ca87db3ed82a10ed365036226e6f7ad1d144a60be8d186d6b63ai0",
+    "meta": {
+      "name": "GENESIS",
+      "attributes": [
+        {
+          "value": "2012",
+          "trait_type": "YEAR"
+        },
+        {
+          "value": "Cryptographic",
+          "trait_type": "TYPE"
+        },
+        {
+          "value": "Partial",
+          "trait_type": "STATUS"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5111356274a8d8e21635eb6c8040bba1ffcd8ae32cb8e182423e1a59efdafee2i0",
+    "meta": {
+      "name": "THE DUCK",
+      "attributes": [
+        {
+          "value": "2012",
+          "trait_type": "YEAR"
+        },
+        {
+          "value": "Cryptographic",
+          "trait_type": "TYPE"
+        },
+        {
+          "value": "Solved",
+          "trait_type": "STATUS"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0ea4f9137022142f6af3a1a81837113cb98364a36cf99bc15093649613bd7859i0",
+    "meta": {
+      "name": "CHECKPOINT",
+      "attributes": [
+        {
+          "value": "2012",
+          "trait_type": "YEAR"
+        },
+        {
+          "value": "Cryptographic",
+          "trait_type": "TYPE"
+        },
+        {
+          "value": "Partial",
+          "trait_type": "STATUS"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8ab6c181fa80ace6be14f478d37593d9857d92751ae0fd85082bf870f64be7ebi0",
+    "meta": {
+      "name": "SYMBOLS",
+      "attributes": [
+        {
+          "value": "2012",
+          "trait_type": "YEAR"
+        },
+        {
+          "value": "Cryptographic",
+          "trait_type": "TYPE"
+        },
+        {
+          "value": "Partial",
+          "trait_type": "STATUS"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a85f1a999e75770ed815455e2e028effaf596fe87ae6c0a95aaf908134c12c67i0",
+    "meta": {
+      "name": "REPEAT SIGNAL",
+      "attributes": [
+        {
+          "value": "2012",
+          "trait_type": "YEAR"
+        },
+        {
+          "value": "Cryptographic",
+          "trait_type": "TYPE"
+        },
+        {
+          "value": "Partial",
+          "trait_type": "STATUS"
+        }
+      ]
+    }
+  },
+  {
+    "id": "68d9706ce54a686f20872f2eb304f7c01e95e725c73c8051e05451a5e0ebfecai0",
+    "meta": {
+      "name": "THE GEOMETER",
+      "attributes": [
+        {
+          "value": "2013",
+          "trait_type": "YEAR"
+        },
+        {
+          "value": "Cryptographic",
+          "trait_type": "TYPE"
+        },
+        {
+          "value": "Partial",
+          "trait_type": "STATUS"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7dd2bd0320932d5980a5e0484c1bf9c29b03e38a75f4acd856995cd7d85f070di0",
+    "meta": {
+      "name": "WILLIAM BLAKE",
+      "attributes": [
+        {
+          "value": "2012",
+          "trait_type": "YEAR"
+        },
+        {
+          "value": "Cryptographic",
+          "trait_type": "TYPE"
+        },
+        {
+          "value": "Partial",
+          "trait_type": "STATUS"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b3a57794a5873141bdba23a58de758e4b459e503d90615188ccb26a4b6c93c5fi0",
+    "meta": {
+      "name": "SHALOTT",
+      "attributes": [
+        {
+          "value": "2012",
+          "trait_type": "YEAR"
+        },
+        {
+          "value": "Cryptographic",
+          "trait_type": "TYPE"
+        },
+        {
+          "value": "Partial",
+          "trait_type": "STATUS"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bf1a40460007a5f8a00233a8af0d9f78fe5d08c6819015fa287688f55cab57a1i0",
+    "meta": {
+      "name": "CONTINUITY",
+      "attributes": [
+        {
+          "value": "2013",
+          "trait_type": "YEAR"
+        },
+        {
+          "value": "Cryptographic",
+          "trait_type": "TYPE"
+        },
+        {
+          "value": "Partial",
+          "trait_type": "STATUS"
+        }
+      ]
+    }
+  },
+  {
+    "id": "76ce99127b8c4e7fe8c31718dcc0d98f810c45b6293cec53aa4123427b14a07ai0",
+    "meta": {
+      "name": "KING",
+      "attributes": [
+        {
+          "value": "2013",
+          "trait_type": "YEAR"
+        },
+        {
+          "value": "Cryptographic",
+          "trait_type": "TYPE"
+        },
+        {
+          "value": "Partial",
+          "trait_type": "STATUS"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7d385899868b2bfbd5c925224fc300d4575071bd44f80f7cd022ab5d875e980di0",
+    "meta": {
+      "name": "CONSTRAINT",
+      "attributes": [
+        {
+          "value": "2012",
+          "trait_type": "YEAR"
+        },
+        {
+          "value": "Logical",
+          "trait_type": "TYPE"
+        },
+        {
+          "value": "Partial",
+          "trait_type": "STATUS"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f5380b4a8a258dde9c0aa12689c5d7501b5d6cdf886f0f7a38904a06d13e2824i0",
+    "meta": {
+      "name": "LIBER PRIMUS",
+      "attributes": [
+        {
+          "value": "2014",
+          "trait_type": "YEAR"
+        },
+        {
+          "value": "Cryptographic",
+          "trait_type": "TYPE"
+        },
+        {
+          "value": "Partial",
+          "trait_type": "STATUS"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bcbeb0a847d7e4fca479071c59daae91f1e1ae2d2d73c26f4ae1f05289282da4i0",
+    "meta": {
+      "name": "CONTAINER",
+      "attributes": [
+        {
+          "value": "2012",
+          "trait_type": "YEAR"
+        },
+        {
+          "value": "Cryptographic",
+          "trait_type": "TYPE"
+        },
+        {
+          "value": "Partial",
+          "trait_type": "STATUS"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d57c52e691537e2686571448ccca93b906af1e9c9c14771ccb5e852f7f3b3a68i0",
+    "meta": {
+      "name": "MAGIC SQUARE",
+      "attributes": [
+        {
+          "value": "2013",
+          "trait_type": "YEAR"
+        },
+        {
+          "value": "Cryptographic",
+          "trait_type": "TYPE"
+        },
+        {
+          "value": "Partial",
+          "trait_type": "STATUS"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c073faea209ecf0fb3c0e79faf1fda7f5b0e12f4990ded5bf56a501c331b44b0i0",
+    "meta": {
+      "name": "FALSE PATHS",
+      "attributes": [
+        {
+          "value": "2013",
+          "trait_type": "YEAR"
+        },
+        {
+          "value": "Cryptographic",
+          "trait_type": "TYPE"
+        },
+        {
+          "value": "Partial",
+          "trait_type": "STATUS"
+        }
+      ]
+    }
+  }
+]

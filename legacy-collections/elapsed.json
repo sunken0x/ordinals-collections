@@ -1,0 +1,5145 @@
+[
+  {
+    "id": "fa8284cbef3b34c946bf89bc7a4b64a1170a7269eff6dd065d49918e446ac088i0",
+    "meta": {
+      "name": "Elapsed #0 Lissajous Curve [1/1 Ordinal Kintsugi Vindicated]",
+      "attributes": [
+        {
+          "value": "variable",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Lissajous",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "variable",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "variable",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "—",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "—",
+          "trait_type": "Size"
+        },
+        {
+          "value": "variable",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_000.webp"
+    }
+  },
+  {
+    "id": "a42a9cfbd8dee8e1baeb41ba882f5d61ac40f8dcd1678dd440db31fdac7acbbfi0",
+    "meta": {
+      "name": "Elapsed #1",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "8",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "8",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_001.jpg"
+    }
+  },
+  {
+    "id": "3fa652af6add0697206b3e9790deb4292ce8d78cedb812bd6a2fb0520b170030i0",
+    "meta": {
+      "name": "Elapsed #2",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "5",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_002.jpg"
+    }
+  },
+  {
+    "id": "a42e3bbaa8b03b7a355d30a518d39eeba0002e63add3165e3366db07f32b4d78i0",
+    "meta": {
+      "name": "Elapsed #3",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "3",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_003.jpg"
+    }
+  },
+  {
+    "id": "4bd5cc6abb186661423627927633e7b1c346cdc92cf874c62a559c4f0595e9c8i0",
+    "meta": {
+      "name": "Elapsed #4",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "4",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "L",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_004.jpg"
+    }
+  },
+  {
+    "id": "fabbe570899814b0ae9991a3f938e7724cea0e3ca2b3e3e5a40261be81e54009i0",
+    "meta": {
+      "name": "Elapsed #5",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "4",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "L",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_005.jpg"
+    }
+  },
+  {
+    "id": "c3afdd670d1506c9a941f6bc46e86c226ac9e03840eeb3cd472c443076dab96fi0",
+    "meta": {
+      "name": "Elapsed #6",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "6",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "4",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_006.jpg"
+    }
+  },
+  {
+    "id": "53e4ad460bcc15d337a5b4a83a8eb670526cb93a845e054a713f2ad788b75a10i0",
+    "meta": {
+      "name": "Elapsed #7",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "9",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "8",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_007.jpg"
+    }
+  },
+  {
+    "id": "6f7c82bbe662b7ac3cea2cf245d21e4954be22c562f49009e0d359e8d24a957di0",
+    "meta": {
+      "name": "Elapsed #8",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "1",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "4",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_008.jpg"
+    }
+  },
+  {
+    "id": "8cf3267a516a33e365c9ba1ab3e52d2ba2b3aa02a2d65e55983d242d07df7d8bi0",
+    "meta": {
+      "name": "Elapsed #9",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "5",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_009.jpg"
+    }
+  },
+  {
+    "id": "b3bd5e015403d12e7b8fb766663e0ae920503a2907a1eae5ab535b33fd4d4dabi0",
+    "meta": {
+      "name": "Elapsed #10",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "9",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "9",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_010.jpg"
+    }
+  },
+  {
+    "id": "0b14ef2031e7dc5f92840b4419266d4210ce9a53f1fad6bc653276c562e955d7i0",
+    "meta": {
+      "name": "Elapsed #11",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "9",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "8",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_011.jpg"
+    }
+  },
+  {
+    "id": "174a5090de1e7a097dfa20863d37949ba60c6bade8aa3c86179f66aab2ef00dfi0",
+    "meta": {
+      "name": "Elapsed #12",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "6",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "4",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_012.jpg"
+    }
+  },
+  {
+    "id": "fb7501bd9ef94eb66b9e3a0cb74d6692b64f45dda72d32bc54630a119ecfc602i0",
+    "meta": {
+      "name": "Elapsed #13",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "8",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_013.jpg"
+    }
+  },
+  {
+    "id": "7c984f87b4422d289018fa4e96959e2513caea7cef40453da1abe96d8a1b7518i0",
+    "meta": {
+      "name": "Elapsed #14",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "3",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_014.jpg"
+    }
+  },
+  {
+    "id": "06cc49519bd2183861ef745f5c6152a60d16a6033ea7d168719b02e1b3e4f074i0",
+    "meta": {
+      "name": "Elapsed #15",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "6",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "6",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_015.jpg"
+    }
+  },
+  {
+    "id": "dce5bd1b342b3ae0fa738541473357db82fece1bd2b13084690907aeaa742079i0",
+    "meta": {
+      "name": "Elapsed #16",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "6",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "6",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_016.jpg"
+    }
+  },
+  {
+    "id": "3abac78f285fd24347e86d79d7afb478b5a45534c9b2a63da14e46617b7cf9e2i0",
+    "meta": {
+      "name": "Elapsed #17",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "8",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_017.jpg"
+    }
+  },
+  {
+    "id": "04bcc70a2a644d35f8abc3890716eb61ab1d2a4c12b487ccd7e44fe89ff327eci0",
+    "meta": {
+      "name": "Elapsed #18",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "6",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "S",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_018.jpg"
+    }
+  },
+  {
+    "id": "5a2a2306117c3f4056934401932b97fc6d1d736d1911799cfd818f2afb4e3a6ci0",
+    "meta": {
+      "name": "Elapsed #19",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "8",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "7",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "S",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_019.jpg"
+    }
+  },
+  {
+    "id": "44fca3aae0fdb8ce60c0af0192efaf566254235310cdea68f4458332552daae9i0",
+    "meta": {
+      "name": "Elapsed #20",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "4",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_020.jpg"
+    }
+  },
+  {
+    "id": "04f2171b89b3e560a7e87b0579866338267736502906bdb8e5face0788c0efbci0",
+    "meta": {
+      "name": "Elapsed #21",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "6",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "L",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_021.jpg"
+    }
+  },
+  {
+    "id": "451e0bcded27e5c5d0bd700770f954154ade55bb7a01d3482c7e51e212b4ab1ai0",
+    "meta": {
+      "name": "Elapsed #22",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "5",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_022.jpg"
+    }
+  },
+  {
+    "id": "c9e8b938aff2e5e49e656180ba3af5bebcc19da9edba63239601b306a01e121ei0",
+    "meta": {
+      "name": "Elapsed #23",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "3",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_023.jpg"
+    }
+  },
+  {
+    "id": "1870e83e263ed142de56a80f377a4fa0e45dcabbffbd6cd3907156065abcd331i0",
+    "meta": {
+      "name": "Elapsed #24",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "7",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "4",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_024.jpg"
+    }
+  },
+  {
+    "id": "fc6ca1fa346fbc457eecd9b03300afd93f22d5668677e2c4040932c32a7ef035i0",
+    "meta": {
+      "name": "Elapsed #25",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "6",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "4",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_025.jpg"
+    }
+  },
+  {
+    "id": "81a3361b6e178e05c03213688d517926048b2294a4993cdcaeb0e68e2af86f40i0",
+    "meta": {
+      "name": "Elapsed #26",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "3",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_026.jpg"
+    }
+  },
+  {
+    "id": "a9c4ee95b82841da0ce4134c9e60b7153343f90c249e6efb5c6c9b39b8d1b551i0",
+    "meta": {
+      "name": "Elapsed #27",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "3",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_027.jpg"
+    }
+  },
+  {
+    "id": "e25eee122a9c02abe267f9a5b5020d57b92fb58dbb15d3a3202a37eb85118977i0",
+    "meta": {
+      "name": "Elapsed #28",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "3",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_028.jpg"
+    }
+  },
+  {
+    "id": "2e0a9e751cc55d2159b1ecf0ba87e456365a4bd9ba52a318f39f7000715b2e9di0",
+    "meta": {
+      "name": "Elapsed #29",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "8",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "4",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_029.jpg"
+    }
+  },
+  {
+    "id": "002495bfec652a910521748f412b5db17ce682ece46951850fbb05cc3e54679ei0",
+    "meta": {
+      "name": "Elapsed #30",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "9",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_030.jpg"
+    }
+  },
+  {
+    "id": "f2dc9cd5aee5b6476d37f6ef11425696283ecdc95894b2adbf6d69b77b3536eai0",
+    "meta": {
+      "name": "Elapsed #31",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "4",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_031.jpg"
+    }
+  },
+  {
+    "id": "35a2baa7edcbe12c67cd1cba1c41f5922682454ebacb933809f26b809b396939i0",
+    "meta": {
+      "name": "Elapsed #32",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "5",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_032.jpg"
+    }
+  },
+  {
+    "id": "4b91600bba000d753e04fb73832a6fee86177bc9069fe5e8be371b9515ef88dai0",
+    "meta": {
+      "name": "Elapsed #33",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "4",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_033.jpg"
+    }
+  },
+  {
+    "id": "dc4a7f114ce6f8b57bbbf5b7566332c6bf7845cb2700a39cc17ea056a489157ei0",
+    "meta": {
+      "name": "Elapsed #34",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "4",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "4",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_034.jpg"
+    }
+  },
+  {
+    "id": "9528e9ee6706540baf54c16aa569c614b8074e8f9ea12987cb7f8c898118ab1fi0",
+    "meta": {
+      "name": "Elapsed #35",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "8",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "4",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_035.jpg"
+    }
+  },
+  {
+    "id": "460e21a4fca308ceebce61418ab3e60a1f4f14956db08a63247663ee89c26a7di0",
+    "meta": {
+      "name": "Elapsed #36",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "9",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "4",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_036.jpg"
+    }
+  },
+  {
+    "id": "304a9622eb52868cd4cf96088e84fe4497aa363a8b67caadac091287f817cb03i0",
+    "meta": {
+      "name": "Elapsed #37",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "7",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "5",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "L",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_037.jpg"
+    }
+  },
+  {
+    "id": "4b5c8a2102217fb49602b32db6e64b59f9d4072eb3c86093495c8002974c3e3fi0",
+    "meta": {
+      "name": "Elapsed #38",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "7",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "5",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_038.jpg"
+    }
+  },
+  {
+    "id": "f6fbb7df616bcae7e8583a194deef95ace30f2e4d46f45705e2b3eba2bbf215ei0",
+    "meta": {
+      "name": "Elapsed #39",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "9",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_039.jpg"
+    }
+  },
+  {
+    "id": "7b71ec41c72b36911753e0dad77ad05879e4b5d4dbcf55fa4af219ecac7e3503i0",
+    "meta": {
+      "name": "Elapsed #40",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "7",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_040.jpg"
+    }
+  },
+  {
+    "id": "7ccc004d299f607d36ec14dd2badd54e99aa661bfb6fb2f9f869896e6166d07ei0",
+    "meta": {
+      "name": "Elapsed #41",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "4",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_041.jpg"
+    }
+  },
+  {
+    "id": "963a933a197fb27978b64ad90bbf5f9d090861a5f7213a4e73458ba75ff7f686i0",
+    "meta": {
+      "name": "Elapsed #42",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "3",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_042.jpg"
+    }
+  },
+  {
+    "id": "1768c288f27c35705de081085b03567d4b850f5bbc7e613961e474e5b792343ei0",
+    "meta": {
+      "name": "Elapsed #43",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "3",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_043.jpg"
+    }
+  },
+  {
+    "id": "9f6738bbcd4a2982d108b0b6e0a9ef9a07630c4941966c3fb496f2b82a9cc379i0",
+    "meta": {
+      "name": "Elapsed #44",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "8",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "S",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_044.jpg"
+    }
+  },
+  {
+    "id": "dfe3c1eedc59096cc9c6e1c9399fc80d570d686ddc9106dd01eb39c450e59f4ci0",
+    "meta": {
+      "name": "Elapsed #45",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "5",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_045.jpg"
+    }
+  },
+  {
+    "id": "ba1af601d2b6144bcee0aea9d6be6443b4ed60d67c92a5dc5c2c9c476e1fee02i0",
+    "meta": {
+      "name": "Elapsed #46",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "7",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_046.jpg"
+    }
+  },
+  {
+    "id": "db443d5b8b7018266b90979cb15c10d2a3935921c77fda9d17ad83d88876725di0",
+    "meta": {
+      "name": "Elapsed #47",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "6",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "6",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_047.jpg"
+    }
+  },
+  {
+    "id": "80dd2e9012d96c8be1181f5b37db023f30707d65626e37c88b3135eca90ddf03i0",
+    "meta": {
+      "name": "Elapsed #48",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "8",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "8",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_048.jpg"
+    }
+  },
+  {
+    "id": "2edc1068bddc8ed24098932d321a0a010ea5509b62dad13247c95b185985486ci0",
+    "meta": {
+      "name": "Elapsed #49",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "6",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "S",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_049.jpg"
+    }
+  },
+  {
+    "id": "5927346e9abb163be7bdcaefe42d29077d5be5cc345a0c39288025a805772713i0",
+    "meta": {
+      "name": "Elapsed #50",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "5",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "L",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_050.jpg"
+    }
+  },
+  {
+    "id": "3815fbb86d7dd4b9b4c18d5983b65d7399d980111f8c502027a511e367de0210i0",
+    "meta": {
+      "name": "Elapsed #51",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "6",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "4",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_051.jpg"
+    }
+  },
+  {
+    "id": "ddeb234e1b3879d595f9f9c588e78b83d22dd8dbd97261d3747a5c8beede87bai0",
+    "meta": {
+      "name": "Elapsed #52",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "4",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "4",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_052.jpg"
+    }
+  },
+  {
+    "id": "77595f091904254dc7e4b762db1f1cd5fdbd9b13a8e9d638f5af7915d8daf0adi0",
+    "meta": {
+      "name": "Elapsed #53",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "5",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "S",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_053.jpg"
+    }
+  },
+  {
+    "id": "8879d5a7f33ec2a3242377a16b559f094e3c38bff06512bb0da495b8d00311d2i0",
+    "meta": {
+      "name": "Elapsed #54",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "3",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_054.jpg"
+    }
+  },
+  {
+    "id": "3a59535dd17af1ba421dd32ff7b98df5de5bae5d4891196af398c69c7be5c6b4i0",
+    "meta": {
+      "name": "Elapsed #55",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "4",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_055.jpg"
+    }
+  },
+  {
+    "id": "388590ca03d3e6d75fd1cc88eb252fcf31c73605b0d55befae380c66ec8f0b38i0",
+    "meta": {
+      "name": "Elapsed #56",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "3",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_056.jpg"
+    }
+  },
+  {
+    "id": "2586314c0e6193fc9114c5627279e16e0f916345bbd5bfd1fd1630f01e2a55bai0",
+    "meta": {
+      "name": "Elapsed #57",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "9",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "7",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_057.jpg"
+    }
+  },
+  {
+    "id": "99c5da51b3ed378367e080e789affd80c0dd02259e3b7cc33ac4ddd906346008i0",
+    "meta": {
+      "name": "Elapsed #58",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "3",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_058.jpg"
+    }
+  },
+  {
+    "id": "baa5f48b993f11fd824d613122fd8ea48a55b0fc0ace0c61f5359c4a92589be0i0",
+    "meta": {
+      "name": "Elapsed #59",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "6",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "5",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_059.jpg"
+    }
+  },
+  {
+    "id": "2169e0c7f65468c59d521f2bc8b86723384a02cd44411145ca4c6162ab79aa07i0",
+    "meta": {
+      "name": "Elapsed #60",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "5",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_060.jpg"
+    }
+  },
+  {
+    "id": "dd3f2ea7aa9fab6fe57ad73d3d599983fdcc9d615bf57f9473c994eee21be3a3i0",
+    "meta": {
+      "name": "Elapsed #61",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "4",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_061.jpg"
+    }
+  },
+  {
+    "id": "6a9b343a8af5d73ddd3726666c9b65562329762ef5017acb7a97ad0bc7198efai0",
+    "meta": {
+      "name": "Elapsed #62",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "6",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "6",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_062.jpg"
+    }
+  },
+  {
+    "id": "f21a283d2f67c867fb30c2d5896c0e5a35e8caa6a447266d964254d6a4ae6a88i0",
+    "meta": {
+      "name": "Elapsed #63",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "3",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_063.jpg"
+    }
+  },
+  {
+    "id": "b57451ccdcf5f8c8caaac915015e5a8073adf8ca688a355edaec7bf17ff935aei0",
+    "meta": {
+      "name": "Elapsed #64",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "3",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_064.jpg"
+    }
+  },
+  {
+    "id": "8997ab329f32e8979e1a3a2545fd4ff132cf2e8ddcbed6fca89f62cafc059306i0",
+    "meta": {
+      "name": "Elapsed #65",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "5",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "S",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_065.jpg"
+    }
+  },
+  {
+    "id": "aa1d9361d0e4243a05cefdf6e614bfe1dec5a7269ecd68d3058d782962bdd42ci0",
+    "meta": {
+      "name": "Elapsed #66",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "9",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_066.jpg"
+    }
+  },
+  {
+    "id": "bc58891fc0c611654f8ac19a51e09fab59f383d5584349da53e664ad2f80dd85i0",
+    "meta": {
+      "name": "Elapsed #67",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "3",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_067.jpg"
+    }
+  },
+  {
+    "id": "d934b87137eb3d2ad9bb9d2b43d9f116749e60e6baa518b59bd0431823c3c80fi0",
+    "meta": {
+      "name": "Elapsed #68",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "7",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "7",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_068.jpg"
+    }
+  },
+  {
+    "id": "64985a7d6202ea72dc78ff63556e7351f1b4075d4bff743eda60c4a9f0ca9994i0",
+    "meta": {
+      "name": "Elapsed #69",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "3",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_069.jpg"
+    }
+  },
+  {
+    "id": "5396ee818047ed2ff4cec7dad46226257fa69e962e060ba43fe262a11b2a3ccfi0",
+    "meta": {
+      "name": "Elapsed #70",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "9",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "8",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_070.jpg"
+    }
+  },
+  {
+    "id": "147e46fb2efd42d62c9bc0bc844a839ec19c3a08ad60e9642a328bf55e7b1396i0",
+    "meta": {
+      "name": "Elapsed #71",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "4",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_071.jpg"
+    }
+  },
+  {
+    "id": "9b3371a575ac5a10aca5fb3d6ec9f5498c1dba17a7a0ee1f06e8af60c1e2b4e9i0",
+    "meta": {
+      "name": "Elapsed #72",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "3",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_072.jpg"
+    }
+  },
+  {
+    "id": "c8c8a6e45cc9747d354b857db65277836a5e28f4894563e488d8a15cd33ce198i0",
+    "meta": {
+      "name": "Elapsed #73",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "7",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_073.jpg"
+    }
+  },
+  {
+    "id": "41923e0cbe2b68093fce8e625a0bfa9b9f2acc140c06a6316b020c665ff4cb11i0",
+    "meta": {
+      "name": "Elapsed #74",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "5",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_074.jpg"
+    }
+  },
+  {
+    "id": "6008c6166d813834431ec2eeca04a543dabe891b107f63a1407783aa30d2b737i0",
+    "meta": {
+      "name": "Elapsed #75",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "9",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "8",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_075.jpg"
+    }
+  },
+  {
+    "id": "a41794b55143e385d318aff6e0bdd6ea4a3818067861fd1c10c4c6b451937211i0",
+    "meta": {
+      "name": "Elapsed #76",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "5",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "4",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_076.jpg"
+    }
+  },
+  {
+    "id": "1d0b960324a6a6777a3735ae6ba4d4b743d6cd7901a8eed2fe6ccfe461063be7i0",
+    "meta": {
+      "name": "Elapsed #77",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "3",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_077.jpg"
+    }
+  },
+  {
+    "id": "be0b2123e55f35c9ce7260d69faadd36c38ecc89183823276fc9f479165e5b96i0",
+    "meta": {
+      "name": "Elapsed #78",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "9",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "4",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_078.jpg"
+    }
+  },
+  {
+    "id": "6d477eebd98b2340cd902d8e6814326d9fa83c2caed2b591ce8cc68cd06a4e89i0",
+    "meta": {
+      "name": "Elapsed #79",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "6",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_079.jpg"
+    }
+  },
+  {
+    "id": "b2011fb93aa0e883ce443e31a39c19889023eadd506439f19ab6b28675681856i0",
+    "meta": {
+      "name": "Elapsed #80",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "8",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "5",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "L",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_080.jpg"
+    }
+  },
+  {
+    "id": "1671298a8770f734d79aedd9e37ef313cccb63ce5b6476e2521a00b9ddb65a69i0",
+    "meta": {
+      "name": "Elapsed #81",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "9",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "8",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_081.jpg"
+    }
+  },
+  {
+    "id": "985bc573ad5eab4843559035394d4904d80126608a45101481ea68426dbbad33i0",
+    "meta": {
+      "name": "Elapsed #82",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "6",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "4",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_082.jpg"
+    }
+  },
+  {
+    "id": "d7444c84aa6a4c1a6b6efd3336c7ee3339f455d9a860622863a375e708b46347i0",
+    "meta": {
+      "name": "Elapsed #83",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "7",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "5",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_083.jpg"
+    }
+  },
+  {
+    "id": "d15a80d3896afd900e2596347ff29bca5bbf49e76ad1b64e5fcd2e69a0fb0dcai0",
+    "meta": {
+      "name": "Elapsed #84",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "9",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "5",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_084.jpg"
+    }
+  },
+  {
+    "id": "ada96a7926e20be83e940825500af4c84416d337cfabd1bf53aca2c4ade54a12i0",
+    "meta": {
+      "name": "Elapsed #85",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "1",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_085.jpg"
+    }
+  },
+  {
+    "id": "c237f5f32333e25fc2d14b4cfc141000a61dfba1e6db4d77a77858ea02c0e750i0",
+    "meta": {
+      "name": "Elapsed #86",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "4",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_086.jpg"
+    }
+  },
+  {
+    "id": "2f9428d9e6a7a3de55871b602137561480519743feb410af368356bc2db78348i0",
+    "meta": {
+      "name": "Elapsed #87",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "8",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_087.jpg"
+    }
+  },
+  {
+    "id": "989f6207f85f3feb42e09c92abaddc000bb531107d21f34b5447cb8e64daa006i0",
+    "meta": {
+      "name": "Elapsed #88",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "7",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "6",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_088.jpg"
+    }
+  },
+  {
+    "id": "233716b9af1330ecaea27830e21441979e5d3fad06db8ff3a127e626e9a3e06ei0",
+    "meta": {
+      "name": "Elapsed #89",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "7",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "7",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_089.jpg"
+    }
+  },
+  {
+    "id": "a34ca7a0421a04ac0698757ac40029234faa45c04360fb0c2ed1dcf99dd8bf71i0",
+    "meta": {
+      "name": "Elapsed #90",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "8",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "8",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_090.jpg"
+    }
+  },
+  {
+    "id": "b079caae77b858ba5f14ff7b2e8943c36ee278bc9b43bfa2351ab6a22b4c3d00i0",
+    "meta": {
+      "name": "Elapsed #91",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "3",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_091.jpg"
+    }
+  },
+  {
+    "id": "6722f3871c4ff8aa99c90e3264b5023658c58f13a8d28346d4215c636b68ce2bi0",
+    "meta": {
+      "name": "Elapsed #92",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "5",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "5",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_092.jpg"
+    }
+  },
+  {
+    "id": "db0e8034f82358a0cc36e45a2193e4712c771848addfc0c1e1eee52df3fb25b5i0",
+    "meta": {
+      "name": "Elapsed #93",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "4",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_093.jpg"
+    }
+  },
+  {
+    "id": "79467911bf24212366930c2ffd0a17205d4a003b7e44fed5c2c11e2ebb4c7c02i0",
+    "meta": {
+      "name": "Elapsed #94",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "6",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "6",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_094.jpg"
+    }
+  },
+  {
+    "id": "4a56629a08e771eda1c1ce6ad052cb580699ca02e2adadb820d02faf49461805i0",
+    "meta": {
+      "name": "Elapsed #95",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "9",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_095.jpg"
+    }
+  },
+  {
+    "id": "0f70ceaac07ea73a603145a9161aea1f2871cf3a12d9223b4813a6acbf2ce666i0",
+    "meta": {
+      "name": "Elapsed #96",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "4",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_096.jpg"
+    }
+  },
+  {
+    "id": "2db393cbf1c2e2676eda313f361b48cd31b65ab1df3b727e4e40972b92e185a4i0",
+    "meta": {
+      "name": "Elapsed #97",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "5",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_097.jpg"
+    }
+  },
+  {
+    "id": "8a0c48d70e614d2671a9f4cb04a197f638ce1d9a5533ef84348ba3d702b5b453i0",
+    "meta": {
+      "name": "Elapsed #98",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "8",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_098.jpg"
+    }
+  },
+  {
+    "id": "d8311850b67861a4f5a65f3fc2e34732af7b70cd23a6f3c3b801c8883edd5942i0",
+    "meta": {
+      "name": "Elapsed #99",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "8",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_099.jpg"
+    }
+  },
+  {
+    "id": "af559550deb0f941d5cc4129125de530853e0da176445acd47a58760c4dd6c5di0",
+    "meta": {
+      "name": "Elapsed #100",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "4",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_100.jpg"
+    }
+  },
+  {
+    "id": "e3cd0a2f4257d0ee794bbc94e09f6b6e963073d1a71b6008dceb4bd6b545bf70i0",
+    "meta": {
+      "name": "Elapsed #101",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "8",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_101.jpg"
+    }
+  },
+  {
+    "id": "33c645bcd55458ed47a906f594eddc0f2056d83c2edd9a341531197af7020da8i0",
+    "meta": {
+      "name": "Elapsed #102",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "7",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "7",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_102.jpg"
+    }
+  },
+  {
+    "id": "79c5eb07b559f7b46b550c198a6997c78a32e6edc5ec0f3dc4e646dc08b93e6ai0",
+    "meta": {
+      "name": "Elapsed #103",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "5",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_103.jpg"
+    }
+  },
+  {
+    "id": "71cf7f76243f23d96e69657d9736035b75df71859195f45b30c8a285fb5a36e9i0",
+    "meta": {
+      "name": "Elapsed #104",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "7",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_104.jpg"
+    }
+  },
+  {
+    "id": "9dd367aa041eb03cc47f0f26b874fa8c433a1af9e9b9c10bceae67fa24ee74eai0",
+    "meta": {
+      "name": "Elapsed #105",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "5",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "S",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_105.jpg"
+    }
+  },
+  {
+    "id": "c73c9d1c92d4d93d1df2b4c910ffb6496e27bdf75cd634635ebfd9eff6e4299ai0",
+    "meta": {
+      "name": "Elapsed #106",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "5",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_106.jpg"
+    }
+  },
+  {
+    "id": "fbd4ab53717cfd7c991ed65daf03a41da8fbb20af249db32f38144ef83f4c984i0",
+    "meta": {
+      "name": "Elapsed #107",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "6",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "X",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_107.jpg"
+    }
+  },
+  {
+    "id": "7f45ae8de10a30faada4330c467408460e131c7ba17c237b05ede0884b8aa642i0",
+    "meta": {
+      "name": "Elapsed #108",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "5",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_108.jpg"
+    }
+  },
+  {
+    "id": "8c11034c613bf9fb5648bda318f885aaeb4ce3044189a053f69397f9ede6ea7ai0",
+    "meta": {
+      "name": "Elapsed #109",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "8",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "6",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_109.jpg"
+    }
+  },
+  {
+    "id": "c79534f7ad0fa635ce08183e1fcd3733c1d597af5c4de5b8b7df32265d525aa9i0",
+    "meta": {
+      "name": "Elapsed #110",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "6",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "6",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_110.jpg"
+    }
+  },
+  {
+    "id": "34bcbfb2f4cfe650d147e6d8efcc3973f7af48a1e38a82cda37585b9b6173eefi0",
+    "meta": {
+      "name": "Elapsed #111",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "8",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "4",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_111.jpg"
+    }
+  },
+  {
+    "id": "29aa3528b5e6219a10b7cbc4c35015dd93fe2e0c25d0df7748440930dd8462cci0",
+    "meta": {
+      "name": "Elapsed #112",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "5",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_112.jpg"
+    }
+  },
+  {
+    "id": "ca8e63a91e9a5780c1cb19f3cff7a57e388d26606d06ddfe2690174bc2f6e0bci0",
+    "meta": {
+      "name": "Elapsed #113",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "7",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_113.jpg"
+    }
+  },
+  {
+    "id": "64060b2ba02086bb24a5417d8926495628a826c63508f99e3d70ca7eed751763i0",
+    "meta": {
+      "name": "Elapsed #114",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "6",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "4",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "S",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_114.jpg"
+    }
+  },
+  {
+    "id": "4bb182c696f79b4195d2e90db995794502dcabe1173310574b56dd9c6c4b12a7i0",
+    "meta": {
+      "name": "Elapsed #115",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "6",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_115.jpg"
+    }
+  },
+  {
+    "id": "efdfdb795eab21d9fe0d6ae718571233d7cd1277460e7a56142e175c0b847335i0",
+    "meta": {
+      "name": "Elapsed #116",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "6",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "6",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_116.jpg"
+    }
+  },
+  {
+    "id": "1c4f74af61d482c1cd0df5c0f172e8c7f6d42ef76952fde2b6467830cf66c39ai0",
+    "meta": {
+      "name": "Elapsed #117",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "5",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "4",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_117.jpg"
+    }
+  },
+  {
+    "id": "04062bac1aeecec7a2fb926c1db5da39b7a10545b3148ec6342311a4b99ad8d0i0",
+    "meta": {
+      "name": "Elapsed #118",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "6",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "6",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_118.jpg"
+    }
+  },
+  {
+    "id": "49a7f09aa98a5e63767d0835ed0b775a9b88e0f535ba35df58815b3fa3c94fdbi0",
+    "meta": {
+      "name": "Elapsed #119",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "8",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "7",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_119.jpg"
+    }
+  },
+  {
+    "id": "ca71adf6929141b43a2c648993c918ceee96c0ed771e4fd0f78e4f40741f4af4i0",
+    "meta": {
+      "name": "Elapsed #120",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "3",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_120.jpg"
+    }
+  },
+  {
+    "id": "0aff355067a4883b031be1d787aee17b0c298ad9efa698a99238d785aa6e06f8i0",
+    "meta": {
+      "name": "Elapsed #121",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "4",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "S",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_121.jpg"
+    }
+  },
+  {
+    "id": "4af0479b12293804ef15494c961d88e40d825ba1353a21919647d00b4b5992dfi0",
+    "meta": {
+      "name": "Elapsed #122",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "6",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_122.jpg"
+    }
+  },
+  {
+    "id": "792b2f221d4c9cc1539a9d5a1ef90e48dacb7509d38b842e5a71c1154a403ba4i0",
+    "meta": {
+      "name": "Elapsed #123",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "5",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "5",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "S",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_123.jpg"
+    }
+  },
+  {
+    "id": "50de0f491571df80ae58450c2ed3e71a6317bfd7922c924908f1470b7f037a1bi0",
+    "meta": {
+      "name": "Elapsed #124",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "6",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_124.jpg"
+    }
+  },
+  {
+    "id": "d64c3569d7e171f6c2b9bffe6a9af6dd57fde1795dbb6598a816d5711971e959i0",
+    "meta": {
+      "name": "Elapsed #125",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "4",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_125.jpg"
+    }
+  },
+  {
+    "id": "6898c57328595126b27ab54c18a901e78e9aa88bfce79c2f4b8daf54ff1faf41i0",
+    "meta": {
+      "name": "Elapsed #126",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "6",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "4",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_126.jpg"
+    }
+  },
+  {
+    "id": "ac57a45f251be43cea57d971180b0db833ff009236481eaaa866a112b7ef8ccai0",
+    "meta": {
+      "name": "Elapsed #127",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "9",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "6",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_127.jpg"
+    }
+  },
+  {
+    "id": "26c7e98de3b27e3f1b3806063ecd9b4bae58e80d729f68fbf54d6fd3960fa482i0",
+    "meta": {
+      "name": "Elapsed #128",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "8",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "4",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_128.jpg"
+    }
+  },
+  {
+    "id": "d05774d44e27ac78d00bf625d2b71a44255f6c19653f29749f743fed1891ea79i0",
+    "meta": {
+      "name": "Elapsed #129",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "4",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "3",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_129.jpg"
+    }
+  },
+  {
+    "id": "473a3f4c4ab8c92a34e9775a065de70e08a06224fba49cb6fc366dd7aa4a3657i0",
+    "meta": {
+      "name": "Elapsed #130",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "5",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "5",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_130.jpg"
+    }
+  },
+  {
+    "id": "5f29f2186a7408b95c7e0de3daf2c1d1e9a6a0301f0285ada5de59e8e8ec6301i0",
+    "meta": {
+      "name": "Elapsed #131",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "9",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_131.jpg"
+    }
+  },
+  {
+    "id": "6e09db6535876ac37cab66dfb55cc812bc8daa94cd98a5bc4c99290be9b1e9cfi0",
+    "meta": {
+      "name": "Elapsed #132",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "6",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "2",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_132.jpg"
+    }
+  },
+  {
+    "id": "d6a63af10fc46525b6ad7cb330000baa7556da9bb8c218fd4195684ec8753bdci0",
+    "meta": {
+      "name": "Elapsed #133",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "4",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "4",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_133.jpg"
+    }
+  },
+  {
+    "id": "f36b220b1a8c82b172c3f16c2249325a80e14b3a3453c74b642f58c04ab2afd4i0",
+    "meta": {
+      "name": "Elapsed #134",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "9",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "9",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_134.jpg"
+    }
+  },
+  {
+    "id": "a1ec99efc3d5d35ce16c3ccdde9b21c090768c1b4a2405f2b3b4df8f588d0e97i0",
+    "meta": {
+      "name": "Elapsed #135",
+      "attributes": [
+        {
+          "value": "Saturnine",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "5",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "4",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "S",
+          "trait_type": "Size"
+        },
+        {
+          "value": "FLOAT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_135.jpg"
+    }
+  },
+  {
+    "id": "606e5c532f8695e98433354425865ce853596a5e0c6f392115ac17bd5b40b24ei0",
+    "meta": {
+      "name": "Elapsed #136",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Sinusoidal",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "9",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "9",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "false",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_136.jpg"
+    }
+  },
+  {
+    "id": "4b9d89fd8e91fc05b654bf561a049cf5e039c15099c746cb929da89835308e42i0",
+    "meta": {
+      "name": "Elapsed #137",
+      "attributes": [
+        {
+          "value": "Mercurial",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "Knot",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "4",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "4",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "true",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "⦿",
+          "trait_type": "Size"
+        },
+        {
+          "value": "INT",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_137.jpg"
+    }
+  },
+  {
+    "id": "ac8bd4379140e8e346f7bff9c4727923ee1c4ffda7d7afdbe4570f3a023b295ai0",
+    "meta": {
+      "name": "Elapsed #-1 [1/1 Ordinal Kintsugi Cursed]",
+      "attributes": [
+        {
+          "value": "variable",
+          "trait_type": "Personality"
+        },
+        {
+          "value": "variable",
+          "trait_type": "Trajectory"
+        },
+        {
+          "value": "variable",
+          "trait_type": "Complexity"
+        },
+        {
+          "value": "variable",
+          "trait_type": "Curvature"
+        },
+        {
+          "value": "—",
+          "trait_type": "Bloom"
+        },
+        {
+          "value": "—",
+          "trait_type": "Size"
+        },
+        {
+          "value": "variable",
+          "trait_type": "VAR"
+        }
+      ],
+      "collection_page_img_url": "https://pdudko.com/p/elapsed/thumb/Elapsed_-1.webp"
+    }
+  }
+]

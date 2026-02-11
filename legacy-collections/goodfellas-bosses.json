@@ -1,0 +1,5202 @@
+[
+  {
+    "id": "655bc522ea6bbc52231e55336b3db17bb70797a1e84530deb65e979cf616b75ei0",
+    "meta": {
+      "name": "Boss #9901",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vengeance",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Vegas",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Ricky Slick",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Gold Rush",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Mangia",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Calabria",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Vito",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f39697b27a527b3f5812aa453067dfcecc85155e28b0fe60a10674c16df278b4i0",
+    "meta": {
+      "name": "Boss #9902",
+      "attributes": [
+        {
+          "value": "Chicago",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Crossunder",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Hong Kong",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Benny Gorgeous",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Flame thrower",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d80ae8184c5ceb3f89c65028b4756a82a7747324e7fe9b92eb0477180795339ei0",
+    "meta": {
+      "name": "Boss #9903",
+      "attributes": [
+        {
+          "value": "Fabulous Las Vegas",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Rebirth",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Vegas",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Tommy Salami",
+          "trait_type": "Head"
+        },
+        {
+          "value": "Blood Red",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Rawr",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Tommy Gun",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1ff36f174204a775a4b32cb7b82483c353ac6bb1f241b2c3994b09a1be234009i0",
+    "meta": {
+      "name": "Boss #9904",
+      "attributes": [
+        {
+          "value": "Golden",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vengeance",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Moscow",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Lenny Lullaby",
+          "trait_type": "Head"
+        },
+        {
+          "value": "Blood Red",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Gold Rush",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Good News",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Manhattan",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Paperhand Paulie",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cfcc318e63f434cfeae0c7b85cbf22d56c380c13c143e36be1094af89346e54ei0",
+    "meta": {
+      "name": "Boss #9905",
+      "attributes": [
+        {
+          "value": "Canada",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Ambivalance",
+          "trait_type": "Face"
+        },
+        {
+          "value": "New York",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Snake Eye Sal",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Rawr",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Flame thrower",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "be55346a9cfde251892dfcee0e50c01222ae6621dd0cf6c9bf23e86107579ee1i0",
+    "meta": {
+      "name": "Boss #9906",
+      "attributes": [
+        {
+          "value": "Line Up",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Venomous",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Mexico City",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Rocky Smothers",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Rawr",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Good Wrench",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fd2a300df40baeb8ada797781907978e878d450e68ca29513c36d7ad08928138i0",
+    "meta": {
+      "name": "Boss #9907",
+      "attributes": [
+        {
+          "value": "Golden",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Melancholy",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Toronto",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Rocky Smothers",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Boom Sauce",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Frame",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "76ebfa586432cc3f7238f5b18d0f0e35681cf964b67acf76eb0c431742b42b9bi0",
+    "meta": {
+      "name": "Boss #9908",
+      "attributes": [
+        {
+          "value": "Papaya",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Euphoria",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Miami",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Cottonmouth Chad",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Good Wrench",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "06b67b5f97e429e2db6d4861941857f466852fd8777f2f0a6e1542be7b4ac658i0",
+    "meta": {
+      "name": "Boss #9909",
+      "attributes": [
+        {
+          "value": "Lemonade",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mesmerized",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Amsterdam",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Lenny Lullaby",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Rawr",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Plated 357",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Carmine 'The Enforcer' Santoro",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a47a76fb516ae5a9c286db61ab71ed6bde5ebc4e424a6874312bb6df5043c555i0",
+    "meta": {
+      "name": "Boss #9910",
+      "attributes": [
+        {
+          "value": "Plum",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Enlightened",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Shanghai",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Vito Drills",
+          "trait_type": "Head"
+        },
+        {
+          "value": "Blood Red",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Boom Sauce",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Kiss Off",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Minneapolis",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Petey 'The Prince' Pacino",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ff01fdf24570fef8f43104d4fd339d8604b297e378379bd17a81b849f5e433ddi0",
+    "meta": {
+      "name": "Boss #9911",
+      "attributes": [
+        {
+          "value": "Guava",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Interstellar",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Amsterdam",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Snake Eye Sal",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Molotov Cocktail",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e0631990393cd0994e36ffb554f63c2204a6477ca98a345e742e332050137bdbi0",
+    "meta": {
+      "name": "Boss #9912",
+      "attributes": [
+        {
+          "value": "Pineapple",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Oblivion",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Belgrade",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Ricky Slick",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Kiss Off",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Novi Sad",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Rider of Last Shadow",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "24c023f2182be302619e7a0003bbd27e1bb34ff14765058415364f0c3053da71i0",
+    "meta": {
+      "name": "Boss #9913",
+      "attributes": [
+        {
+          "value": "Ice",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Melancholy",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Dubai",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Roger Ribbits",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Good News",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Ciaculli",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5225d5eec33d695b8d205d4d650d557e2d5b2f9376b7112fc7a5754adbeca81fi0",
+    "meta": {
+      "name": "Boss #9914",
+      "attributes": [
+        {
+          "value": "Fabulous Las Vegas",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Rebirth",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Berlin",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Luigi Loves",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Flame thrower",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Seoul",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Vincenzo Cassano",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "594eecf049e8c80091f47da1c753a85571952342335b79e9c76c4db30fbdc47ai0",
+    "meta": {
+      "name": "Boss #9915",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Effervescent",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Istanbul",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Henry The Hammer",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Frame",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Brooklyn",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Dundar",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e89e558622c7024ec1feb377a39d21220cd216bdeb894feb9ff1829c8bccdc50i0",
+    "meta": {
+      "name": "Boss #9916",
+      "attributes": [
+        {
+          "value": "Fabulous Las Vegas",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Ethereal",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Moscow",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Jackpot Jerry",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Locked Up",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Montreal",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Renzo Rizzo aka 'Lucky' Rizzo",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fbc42615fde1f314193cd88e357b7b5d7e084c6bde2698296bb2167877edcebfi0",
+    "meta": {
+      "name": "Boss #9917",
+      "attributes": [
+        {
+          "value": "Canada",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Crossover",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Rome",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Tommy Salami",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Gold Rush",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Mangia",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Sicily",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Guiseppe Foggiana",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f1aa13119991f578367f76bca10fc20fcbe4fd6ed3112c1bdb89cf0af13c1aadi0",
+    "meta": {
+      "name": "Boss #9918",
+      "attributes": [
+        {
+          "value": "Golden",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Crossover",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Mexico City",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Slippin Jimmy",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Gold Rush",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Label Whiskey",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Atlantic City",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Winslow 'Whiskey' Wagner",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d13092bc109cdbd20220b6875558d315e04e3eaf93b87a46963acf6b577ef50ci0",
+    "meta": {
+      "name": "Boss #9919",
+      "attributes": [
+        {
+          "value": "Guava",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Obsessive",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Havana",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Vito Drills",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "None",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f4a116130dbdb611b52dce1acb5a3ec4c561e2cd1a7463f4ac77b1fcb919a666i0",
+    "meta": {
+      "name": "Boss #9920",
+      "attributes": [
+        {
+          "value": "Grape",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Euphoria",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Freetown",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Gio on the Rocks",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Gold Rush",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Label Cigar",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Cape Town",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Angelo",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a9f8b2ae68915acff9531edfa929b76e3d2f0fcf1e20551f2040729dd9e5fedai0",
+    "meta": {
+      "name": "Boss #9921",
+      "attributes": [
+        {
+          "value": "Lychee",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Crossover",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Medellin",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Slippin Jimmy",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Meow",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Tommy Gun",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Stockton",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "34607be3b0684d57310435186ac0b6294b983f9fa08529651afbbb1b86fe49fei0",
+    "meta": {
+      "name": "Boss #9922",
+      "attributes": [
+        {
+          "value": "Papaya",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Wicked",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Buenos Aires",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Yoshi Hiroshi",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Good Wrench",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Aberdeen",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3440769f99e3a9c980e6236da5fdf510963e0d0d2b43ec7bed94df81ed4bf715i0",
+    "meta": {
+      "name": "Boss #9923",
+      "attributes": [
+        {
+          "value": "Berry",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Oblivion",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Calabria",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Henry The Hammer",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Frame",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b82e5cc31361e6de82c95a08730e1b5d5652b2ea1add39d893d9fd78791d029ei0",
+    "meta": {
+      "name": "Boss #9924",
+      "attributes": [
+        {
+          "value": "Grape",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Rorschach",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Madrid",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Larry Laughs",
+          "trait_type": "Head"
+        },
+        {
+          "value": "Blood Red",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Boom Sauce",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Tommy Gun",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Barcelona",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Giovanni Santoro",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7c7642b6530b0654407ffdb6462fa8c68e37eef23bb0b6f4fc224d690933f999i0",
+    "meta": {
+      "name": "Boss #9925",
+      "attributes": [
+        {
+          "value": "Ice",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Crossunder",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Kiev",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Charlie Chops",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Vroom",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Molotov Cocktail",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Saint Petersburg",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Luigi Romano",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d3d1ccea89aba3f74ec4fa816b979d1f6566f71a6275f05256cfdb0a0d26b16bi0",
+    "meta": {
+      "name": "Boss #9926",
+      "attributes": [
+        {
+          "value": "Fabulous Las Vegas",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Effervescent",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Berlin",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "The Sandman",
+          "trait_type": "Head"
+        },
+        {
+          "value": "PurpleHaze",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Boom Sauce",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Label Cigar",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7f563ef09cd0963a754563a9594e4c9ecfd37d4a05a2fbac915d2e21a01c2385i0",
+    "meta": {
+      "name": "Boss #9927",
+      "attributes": [
+        {
+          "value": "Papaya",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Crossover",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Glasgow",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Tony Two Guns",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Balloon",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Dallas",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4b43fc73e77b58c3d6028ce81c4620b26ba9c77c96e0d0f35c1a50865864bf7i0",
+    "meta": {
+      "name": "Boss #9928",
+      "attributes": [
+        {
+          "value": "Line Up",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mesmerized",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Freetown",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Roger Ribbits",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Pew Pew",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Tommy Gun",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b0ef31e73a82ccd64953610266c39b914d3bcc970c85a28ba8a576ffde9a9649i0",
+    "meta": {
+      "name": "Boss #9929",
+      "attributes": [
+        {
+          "value": "Line Up",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Euphoria",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Birmingham",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Will the Thrill",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Gold Rush",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Plated 357",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Harlem",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Godfrey 'Gold' Gamberini",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e6dce2a696d5ee26f892e58ffc00450da77a08fc3ec929851af58cb80ce66b81i0",
+    "meta": {
+      "name": "Boss #9930",
+      "attributes": [
+        {
+          "value": "Lemonade",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Oblivion",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Moscow",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Gio on the Rocks",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Rawr",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gaston Glock",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f65adab74bd2e0e75b25df76695325c3eb2faea69a01c5834ba31517c0845b85i0",
+    "meta": {
+      "name": "Boss #9931",
+      "attributes": [
+        {
+          "value": "Fabulous Las Vegas",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Nostalgic",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Moscow",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Rocky Smothers",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Good Wrench",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "92159c4e47b67afbd00db21ef5e0c89ae69cbc2c6ba20aa8a1f7e56e53875b98i0",
+    "meta": {
+      "name": "Boss #9932",
+      "attributes": [
+        {
+          "value": "Guava",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Crossunder",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Istanbul",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Dennnis the Menace",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gaston Glock",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Istanbul",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Vincenzo Marino",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7e0b563d38b2c5ea0967cc800c1d88b999338d62a79e820a5aac710ab2f1c705i0",
+    "meta": {
+      "name": "Boss #9933",
+      "attributes": [
+        {
+          "value": "Golden",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mesmerized",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Moscow",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Luigi Loves",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Flame thrower",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "London",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Tony 'The Tiger' Tribiani",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f0cbf9639f3dfa72826c4e95e4e2ce1e63cc2c1f01e6dabf81f43393358ba620i0",
+    "meta": {
+      "name": "Boss #9934",
+      "attributes": [
+        {
+          "value": "Plum",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Venomous",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Moscow",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Slippin Jimmy",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Gold Rush",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Kiss Off",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "78e853e1271a3eb68532481ee4f791e36aac0a0e3755e93f5709bd0e064e3353i0",
+    "meta": {
+      "name": "Boss #9935",
+      "attributes": [
+        {
+          "value": "Coconut",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Obsessive",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Havana",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Deathrow Joe",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Sword",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Alexandria",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fdc2058f3307cd3a05548729bcd77cf0eed0db8f79ebe4e9143070b0ae948f1ei0",
+    "meta": {
+      "name": "Boss #9936",
+      "attributes": [
+        {
+          "value": "Ice",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Crossunder",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Cibola",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Babyface Joey",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Gold Rush",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Label Whiskey",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Dubai",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Billy 'Bull Nose' Nanni",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8d922ecec80385f4a9ef1c3da03e7454797922272a212eb7507295e322404818i0",
+    "meta": {
+      "name": "Boss #9937",
+      "attributes": [
+        {
+          "value": "Farts",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Invisible",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Belfast",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Roger Ribbits",
+          "trait_type": "Head"
+        },
+        {
+          "value": "Crip Blue",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Bang",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Frame",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Luca 'The Unseen Mean' Lucci",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "75a628a3c19eac2f405285d0c5e64e5401c48d32e81094a3bd8684209da07d03i0",
+    "meta": {
+      "name": "Boss #9938",
+      "attributes": [
+        {
+          "value": "Canada",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Crossover",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Belfast",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Ricky Slick",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Tommy Gun",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7048cc7221e9dff1847648ae490d2b160eafab58f839d5a7833f4c3c97f4ff62i0",
+    "meta": {
+      "name": "Boss #9939",
+      "attributes": [
+        {
+          "value": "Pineapple",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Melancholy",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Kashmir",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Charlie Chops",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Mangia",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "17eecad422cb0d5800896963f1540fd9bd591dd99f7cb4d1f225c504bdd23f39i0",
+    "meta": {
+      "name": "Boss #9940",
+      "attributes": [
+        {
+          "value": "Kiwi",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Gold Obsessed",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Berlin",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Roger Ribbits",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Rawr",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Kiss Off",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b8c962db479ba4d0436fd4e4b27ff9f201a8e080dd337612b20abcd06e3ece7i0",
+    "meta": {
+      "name": "Boss #9941",
+      "attributes": [
+        {
+          "value": "Kiwi",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Crossunder",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Berlin",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Luigi Loves",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Meow",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Plated 357",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "35d0d5b3af89d3c27c30508392e1bc1e67584d459e3526ce65b6b3af59e64afci0",
+    "meta": {
+      "name": "Boss #9942",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vengeance",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Detroit",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Donnie Tobasco",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Bam",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Wrench",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5b5070f68c24c22d85bd467f194d8c510c2b24c4b381fbb4fc294e93c6bcbad0i0",
+    "meta": {
+      "name": "Boss #9943",
+      "attributes": [
+        {
+          "value": "Line Up",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Oblivion",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Berlin",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Tommy Salami",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Meow",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Kiss Off",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "San Diego",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Lover's Quarrel",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d26a78566e9d8e65edf9c1adf4ee722c60e6dc235fea8895568b40ec64060778i0",
+    "meta": {
+      "name": "Boss #9944",
+      "attributes": [
+        {
+          "value": "Grape",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Obsessive",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Vegas",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Ding Don",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Mangia",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Campania",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Pino",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "32e36470a70e51778035129c5d83277e47d2e6f1a97051755eb05b1a453dc3c9i0",
+    "meta": {
+      "name": "Boss #9945",
+      "attributes": [
+        {
+          "value": "Kiwi",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Rorschach",
+          "trait_type": "Face"
+        },
+        {
+          "value": "El Dorado",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "The Wizard of Odds",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "None",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Seattle",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Whitey Fudge",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e5d815b985b2066ca78ebd1278de327f1457bb00748bc473d3d6707540e97c27i0",
+    "meta": {
+      "name": "Boss #9946",
+      "attributes": [
+        {
+          "value": "Farts",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Gold Obsessed",
+          "trait_type": "Face"
+        },
+        {
+          "value": "New Delhi",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Benny Gorgeous",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Mangia",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "723bb616523f1ce3c9f8bed597c2fc44846ef552ee03d5ddbc5f332be320276di0",
+    "meta": {
+      "name": "Boss #9947",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Obsessive",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Havana",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Lucky Knuckles",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Plated 357",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3b2d7da6a30e87e83e889d64d46227176df004287314b09b045254ad816ed819i0",
+    "meta": {
+      "name": "Boss #9948",
+      "attributes": [
+        {
+          "value": "Line Up",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Nostalgic",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Brooklyn",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Charlie Chops",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Tommy Gun",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Osaka",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Takashi 'Triple Tap' Tanaka",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b535e1c95c2a25b17252c4d15ac768e65f57d5f0f6af10cc3c749506efda2710i0",
+    "meta": {
+      "name": "Boss #9949",
+      "attributes": [
+        {
+          "value": "Bubblegum",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vengeance",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Atlanta",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Rocky Smothers",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Good News",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f44179966e3530e522014383022a65c9cb849dd012e0919cbe1d2079d74bac4ci0",
+    "meta": {
+      "name": "Boss #9950",
+      "attributes": [
+        {
+          "value": "Line Up",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Gold Obsessed",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Berlin",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Rocky Smothers",
+          "trait_type": "Head"
+        },
+        {
+          "value": "Crip Blue",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Bang",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Mangia",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "09932babf65b7dd733a85be464f2393bad6a6288613e9d7a854675f4be13fceai0",
+    "meta": {
+      "name": "Boss #9951",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Oblivion",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Birmingham",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Yoshi Hiroshi",
+          "trait_type": "Head"
+        },
+        {
+          "value": "Blood Red",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Wrench",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Beqaa Valley",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Donnie Tobasco",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dd2ce253a636a55bd214fcdeae72450e35e32aff233feec32ccd328a80d07c33i0",
+    "meta": {
+      "name": "Boss #9952",
+      "attributes": [
+        {
+          "value": "Ice",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Crossunder",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Miami",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Gio on the Rocks",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Gold Rush",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Label Cigar",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "834cb705185363b2ee1d2edff22e92b53b02c4618a0c78cce3ca2ebeeaaef78fi0",
+    "meta": {
+      "name": "Boss #9953",
+      "attributes": [
+        {
+          "value": "Lychee",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Interstellar",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Brooklyn",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "The Wizard of Odds",
+          "trait_type": "Head"
+        },
+        {
+          "value": "Blood Red",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Rawr",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "None",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f7d82a7d4e4869e9415be61308c9fa74a51bd39ff93fa4ff6fadbf58db205913i0",
+    "meta": {
+      "name": "Boss #9954",
+      "attributes": [
+        {
+          "value": "Bubblegum",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Interstellar",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Atlanta",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Ricky Slick",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Gold Rush",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Espresso",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6a66748189ab99c718f387990fb518ebbd2c55c1ebada46676c89f1b18af30cci0",
+    "meta": {
+      "name": "Boss #9955",
+      "attributes": [
+        {
+          "value": "Pineapple",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Gold Obsessed",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Brooklyn",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Sinner Sammy",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Rawr",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Good News",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2913f0e965326652a32a4a338a0554f8049b86651ea951985447acfe6b8a1e90i0",
+    "meta": {
+      "name": "Boss #9956",
+      "attributes": [
+        {
+          "value": "Pineapple",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Melancholy",
+          "trait_type": "Face"
+        },
+        {
+          "value": "New Delhi",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "The Sandman",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Label Cigar",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Sapporo",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Yakuza",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9bc8c187289c95043db5b5dc09b40815ac2497e770f37d301c139afa8b88b634i0",
+    "meta": {
+      "name": "Boss #9957",
+      "attributes": [
+        {
+          "value": "Fabulous Las Vegas",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Hypnotic",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Miami",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Slippin Jimmy",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Label Cigar",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ed7eb9e628a83c870f915b344ad56b42dfaf659f94708d8b1238c2fa90a09e2fi0",
+    "meta": {
+      "name": "Boss #9958",
+      "attributes": [
+        {
+          "value": "Bubblegum",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Enlightened",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Seoul",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Henry The Hammer",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Boom Sauce",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Kiss Off",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Busan",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Marco DeLuca",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "479506d630b9c4401c95df7fd2648c09a05f0716fc5a8773cca6dda359cb66dai0",
+    "meta": {
+      "name": "Boss #9959",
+      "attributes": [
+        {
+          "value": "Coconut",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Enlightened",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Shanghai",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Frank The Tank",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gaston Glock",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Oakland",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f138b9e5ac9204b6e69ebf0031fba8c600929e394cf0eb15b24633f4d0048acai0",
+    "meta": {
+      "name": "Boss #9960",
+      "attributes": [
+        {
+          "value": "Lychee",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Obsessive",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Medellin",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Yoshi Hiroshi",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Rawr",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Label Whiskey",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "St. Louis",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ba79ab60e0f9a5326667b379fabfb6ad4feb8ab8519f9b000ad68aea9113e84ci0",
+    "meta": {
+      "name": "Boss #9961",
+      "attributes": [
+        {
+          "value": "Ice",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Nostalgic",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Beirut",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Billie Blues",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gaston Glock",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "587bd1fe197e65977a75daab377e943abd4231d4fe41686b9c9177736d68e0d3i0",
+    "meta": {
+      "name": "Boss #9962",
+      "attributes": [
+        {
+          "value": "Golden",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Wicked",
+          "trait_type": "Face"
+        },
+        {
+          "value": "New Castle",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Pistol Paulie",
+          "trait_type": "Head"
+        },
+        {
+          "value": "PurpleHaze",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Boom Sauce",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gaston Glock",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Chicago",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Mr. Pink",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12d3b3e4a0a4d612d780324c9a7fcad153ffcc74979b7bbe349daa5d118612bci0",
+    "meta": {
+      "name": "Boss #9963",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Enlightened",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Beirut",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Luigi Loves",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Zap",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "None",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Emilio 'The Escape Artist'  Ettori",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "81eef146ebd052e4a72a27b7ac782328c45384736bfce13a7e819e6dfdaf93fci0",
+    "meta": {
+      "name": "Boss #9964",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Ambivalance",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Berlin",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Carlito Noir",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Meow",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Molotov Cocktail",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "16f7825087c153d71eb53d5a70f3861f44d3aa76e23574fb0bca87b7efde46e9i0",
+    "meta": {
+      "name": "Boss #9965",
+      "attributes": [
+        {
+          "value": "Coconut",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Venomous",
+          "trait_type": "Face"
+        },
+        {
+          "value": "New Delhi",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Deathrow Joe",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Plated 357",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Bombay",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Karid 'The Kid' Lala",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e85c46cb6536bdcdefe1eb01be4674771c6d858a3ab4a2a0a5b3e81c67266dc0i0",
+    "meta": {
+      "name": "Boss #9966",
+      "attributes": [
+        {
+          "value": "Chocolate Mint",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Nostalgic",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Calabria",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Henry The Hammer",
+          "trait_type": "Head"
+        },
+        {
+          "value": "Blood Red",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Meow",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Label Whiskey",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ddd3f943690594ad27123a86d1bfe96faaab2ce2578f8fa3726eb0555e7df94ei0",
+    "meta": {
+      "name": "Boss #9967",
+      "attributes": [
+        {
+          "value": "Chocolate Mint",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Oblivion",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Seoul",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Rocky Smothers",
+          "trait_type": "Head"
+        },
+        {
+          "value": "Blood Red",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Swoosh",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Sledgehammer",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Queens",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Sal 'Soft Touch' Pazzo",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ab71ade5a757455240f9b325610729467f6dca0cad436cc1e7f0ce16b0f158a9i0",
+    "meta": {
+      "name": "Boss #9968",
+      "attributes": [
+        {
+          "value": "Golden",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Rorschach",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Istanbul",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Tony Two Guns",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Jumper Cables",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Scranton",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Louie 'Baby Shocks' Macchio",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "66ebf21f39dee7c3e5e2c272abd39c227fa84c92fdd144cdaefd63473ca935b7i0",
+    "meta": {
+      "name": "Boss #9969",
+      "attributes": [
+        {
+          "value": "Lemonade",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Crossover",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Los Angeles",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Ding Don",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Tommy Gun",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Cape Town",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4d882061cc0fbabd95f1c69f6a8cb76c7b1fa7eaca3062489c750861c9bb2949i0",
+    "meta": {
+      "name": "Boss #9970",
+      "attributes": [
+        {
+          "value": "Papaya",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Nostalgic",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Boston",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "The Wizard of Odds",
+          "trait_type": "Head"
+        },
+        {
+          "value": "Crip Blue",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Woof",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "None",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5a6d73d4b43aa635d51b15a963a3bf65dcb08464474ffe1614d38126fe4d056ai0",
+    "meta": {
+      "name": "Boss #9971",
+      "attributes": [
+        {
+          "value": "Grape",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Obsessive",
+          "trait_type": "Face"
+        },
+        {
+          "value": "El Dorado",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "The Wizard of Odds",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Label Cigar",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0ba104a56bbffa40a35f3de82523b13e155ad336c502f9a9627bfa1c2953660ci0",
+    "meta": {
+      "name": "Boss #9972",
+      "attributes": [
+        {
+          "value": "Guava",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Venomous",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Dublin",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Dennnis the Menace",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Frame",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Kentucky",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Bobby Ray Shewmaker",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "df2f86338ecef365addaf689cb287737f6b7e5171d30cab8c52979fbca567325i0",
+    "meta": {
+      "name": "Boss #9973",
+      "attributes": [
+        {
+          "value": "Canada",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Interstellar",
+          "trait_type": "Face"
+        },
+        {
+          "value": "New Castle",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Frank The Tank",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Rawr",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Frame",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Toronto",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Brandon 'Blue' Bellucci",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8f441c216f087b9848062323d65d71eef22c958f02979d0c642ea276408f6731i0",
+    "meta": {
+      "name": "Boss #9974",
+      "attributes": [
+        {
+          "value": "Golden",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Effervescent",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Birmingham",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Henry The Hammer",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Molotov Cocktail",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Little Italy",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Salvatore 'Torch' Falconi",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3e80ab60f26741ba13ef0dd806b972a7c4341debfd76b86fc7c77c7cbc4d0438i0",
+    "meta": {
+      "name": "Boss #9975",
+      "attributes": [
+        {
+          "value": "Coconut",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Rorschach",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Toronto",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Billie Blues",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Pow",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Sledgehammer",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Tijuana",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Casper The Hammer",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c809fa866160547929a94eebde80edc193ba14cae52fe9dbdf5fc83e91460cc7i0",
+    "meta": {
+      "name": "Boss #9976",
+      "attributes": [
+        {
+          "value": "Kiwi",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Rorschach",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Hong Kong",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Lenny Lullaby",
+          "trait_type": "Head"
+        },
+        {
+          "value": "Blood Red",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Bam",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "None",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4fec9a47e4bc01e3f882f039d837e1647ea485047833272853d4b84391ae4503i0",
+    "meta": {
+      "name": "Boss #9977",
+      "attributes": [
+        {
+          "value": "Canada",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Gold Obsessed",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Geneva",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Gio on the Rocks",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Swoosh",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "None",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Durham",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Gold Caeser",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7e8017fd9d95ec3a7e5ad039a8092d5551421f625911d43443b5645bddd6a8c7i0",
+    "meta": {
+      "name": "Boss #9978",
+      "attributes": [
+        {
+          "value": "Guava",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Luminescence",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Mexico City",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Cottonmouth Chad",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Gold Rush",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Label Whiskey",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Dublin",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Scotty Irish",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0841a0ed9a1b78521263eed8440bc20581b6ec4e452e9648f309bfb542259d9ci0",
+    "meta": {
+      "name": "Boss #9979",
+      "attributes": [
+        {
+          "value": "Farts",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Crossover",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Atlanta",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "The Owl",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Boom Sauce",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Espresso",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9c19de936d0cc3b75bf69688e067476d86ed0381ae7924536434f10217c667bbi0",
+    "meta": {
+      "name": "Boss #9980",
+      "attributes": [
+        {
+          "value": "Chocolate Mint",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Venomous",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Kashmir",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Yoshi Hiroshi",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Good Wrench",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ebbef21b1ca68ef4241034ac4d2d13f44c19f65becb42c9d0a366508fabd67f5i0",
+    "meta": {
+      "name": "Boss #9981",
+      "attributes": [
+        {
+          "value": "Line Up",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Rorschach",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Glasgow",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Tony Two Guns",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Jumper Cables",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4c008bf76f68f4f741a7bf502151cbb74fc15e43503093f04e10db534ea74019i0",
+    "meta": {
+      "name": "Boss #9982",
+      "attributes": [
+        {
+          "value": "Melon",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Crossover",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Oslo",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Charlie Chops",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Frame",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Chinatown",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Long Wang aka 'Dragon King'",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1738baf6588ed15cb28b680dcb8738a671466c9e625450cf8116d0abd511d4c4i0",
+    "meta": {
+      "name": "Boss #9983",
+      "attributes": [
+        {
+          "value": "Chocolate Mint",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mesmerized",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Detroit",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Carlito Noir",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Meow",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "None",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "66b1203b5ea4e61774fe8fafcb8d7c1eb5294f379f48b78cf5ca3fc2a10ac8a7i0",
+    "meta": {
+      "name": "Boss #9984",
+      "attributes": [
+        {
+          "value": "Lemonade",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Gold Obsessed",
+          "trait_type": "Face"
+        },
+        {
+          "value": "El Dorado",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Rocky Smothers",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "None",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "67d07be5e187305e681bfe2f7b3f66ad1849661c854b3132b237ebe28b2cd17ai0",
+    "meta": {
+      "name": "Boss #9985",
+      "attributes": [
+        {
+          "value": "Guava",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Ethereal",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Milan",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Vito Drills",
+          "trait_type": "Head"
+        },
+        {
+          "value": "PurpleHaze",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Meow",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Plated 357",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "San Giuseppe Jato",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Alessandro 'The Shadow' Romano",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e3f1f13867d521952b5f62e33f546e9ed9d078d6f88845d7a09a319d203230c7i0",
+    "meta": {
+      "name": "Boss #9986",
+      "attributes": [
+        {
+          "value": "Canada",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Ambivalance",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Brooklyn",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Vito Drills",
+          "trait_type": "Head"
+        },
+        {
+          "value": "Blood Red",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Gold Rush",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gaston Glock",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "06c22635e385e972609f074597aa9f550f509b6da46b996b1afeadebaba8c1bai0",
+    "meta": {
+      "name": "Boss #9987",
+      "attributes": [
+        {
+          "value": "Bubblegum",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Euphoria",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Miami",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Dennnis the Menace",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Gold Rush",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Frame",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Fort Lauderdale",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Antonio Russo",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "19e214fc2b42f73a6dca2478b25fc7b51e801c96b52cc303aed783ee9019ae17i0",
+    "meta": {
+      "name": "Boss #9988",
+      "attributes": [
+        {
+          "value": "Kiwi",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Venomous",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Beirut",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Dennnis the Menace",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gaston Glock",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Boston",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Frankie 'Bones'  Buchalter ",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8c54a0d945d76185c2444306572e78db256545e5327457d783ea98f83d79c703i0",
+    "meta": {
+      "name": "Boss #9989",
+      "attributes": [
+        {
+          "value": "Line Up",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Rorschach",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Sicily",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "He Cleaned Up",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Gold Rush Laser",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Label Cigar",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Victoria",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4973b3c4fd63e232357543181ea3984e01d8ab9a6a5b07f87e35ad6e4e696bfei0",
+    "meta": {
+      "name": "Boss #9990",
+      "attributes": [
+        {
+          "value": "Golden",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Enlightened",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Detroit",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "He Could Rap",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Pew Pew Laser",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Plated 357",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Atlanta",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Mario 'Goldfinger' Galante",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8c23e63b24d8f4a84701c07632cf85799a9eab2966449094a57492f19de468f9i0",
+    "meta": {
+      "name": "Boss #9991",
+      "attributes": [
+        {
+          "value": "New York",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Ambivalance",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Vegas",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "He Died In 97",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Meow",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Label Whiskey",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Jersey City",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Dominic 'The Dazzler' Diavolo",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0df72beb0b642a900e82819e946e74e150539fe1002874b4418fa3b22d2d8a9bi0",
+    "meta": {
+      "name": "Boss #9992",
+      "attributes": [
+        {
+          "value": "Fabulous Las Vegas",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Interstellar",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Havana",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "He Got Wild",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Kiss Off",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Las Vegas",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Ronnie Roulette aka The Ring King",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c70af04b22ce64c3ff180a650e29b03ab1424756d38bff49c379c043c0869276i0",
+    "meta": {
+      "name": "Boss #9993",
+      "attributes": [
+        {
+          "value": "Chocolate Mint",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Obsessive",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Moscow",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "He Made It",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Rawr",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Espresso",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "62f6ed2b9115966a26a2380db400f3484d12fff8c051eb0950462c6b058b6269i0",
+    "meta": {
+      "name": "Boss #9994",
+      "attributes": [
+        {
+          "value": "Grape",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Wicked",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Cibola",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "He Was Big",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Good News",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Castel Volturno",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Tony",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "daaaa309a6ff00358f4229ed70721a9872088f95e0fdf8089a3620ec6fb984adi0",
+    "meta": {
+      "name": "Boss #9995",
+      "attributes": [
+        {
+          "value": "Plum",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Nostalgic",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Chicago",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "He Was Chris",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Good Wrench",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Manhattan",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Mechona Yeruka",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ccd5103392d776fa8a582122589b07211c4c4c18ef503c788422ec94b78b9c44i0",
+    "meta": {
+      "name": "Boss #9996",
+      "attributes": [
+        {
+          "value": "Ice",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Luminescence",
+          "trait_type": "Face"
+        },
+        {
+          "value": "New York",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "He Was Small",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gaston Glock",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "New Orleans",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Carmine 'Crackers' Columbo",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c8dd5412da1bb25d80a69de3fe69bf5db633140cb3fefa881f2c11d1f2fc7122i0",
+    "meta": {
+      "name": "Boss #9997",
+      "attributes": [
+        {
+          "value": "Coconut",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Melancholy",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Calabria",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "He Was Wallace",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "None",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Mangia",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Philadelphia",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Frankie 'Fat Boy' Fabbiano",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a89700151f87264193db6127212c71b7f84eb82a41b85084947170655601f573i0",
+    "meta": {
+      "name": "Boss #9998",
+      "attributes": [
+        {
+          "value": "Pineapple",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Ethereal",
+          "trait_type": "Face"
+        },
+        {
+          "value": "El Dorado",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "He Went To Jail",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Boom Sauce",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gold Frame",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Male",
+          "trait_type": "Body"
+        },
+        {
+          "value": "None",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "None",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c3984234ba008a3d38048e75abd6561f6baf11ee5b68eebcda4c68ea3fdc426di0",
+    "meta": {
+      "name": "Boss #9999",
+      "attributes": [
+        {
+          "value": "Guava",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Crossunder",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Havana",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Charlie Chops",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Gold Rush",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Gaston Glock",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Female",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Athens",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Bianca 'The Lady Boss' Russo",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  },
+  {
+    "id": "02ac9d81076e8774f3f5d4acdfa997b05b9bb9d3c9ff7c071aae585318c86f1ei0",
+    "meta": {
+      "name": "Boss #10000",
+      "attributes": [
+        {
+          "value": "Pineapple",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Crossover",
+          "trait_type": "Face"
+        },
+        {
+          "value": "Cibola",
+          "trait_type": "Outfit"
+        },
+        {
+          "value": "Gio on the Rocks",
+          "trait_type": "Head"
+        },
+        {
+          "value": "None",
+          "trait_type": "Face Cover"
+        },
+        {
+          "value": "Meow",
+          "trait_type": "Eyewear"
+        },
+        {
+          "value": "Tommy Gun",
+          "trait_type": "Hands"
+        },
+        {
+          "value": "Female",
+          "trait_type": "Body"
+        },
+        {
+          "value": "Naples",
+          "trait_type": "Owns"
+        },
+        {
+          "value": "Isabella Bianchi",
+          "trait_type": "Name"
+        },
+        {
+          "value": "Boss",
+          "trait_type": "Rank"
+        }
+      ]
+    }
+  }
+]

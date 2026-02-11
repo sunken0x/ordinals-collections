@@ -1,0 +1,4576 @@
+[
+  {
+    "id": "993edfecee674e60003391020bbdd1255f9b9cdb2c5b5dde794970119974f33fi0",
+    "meta": {
+      "name": "Memento Mori #1",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63520988.JPG"
+    }
+  },
+  {
+    "id": "71d7fe111abc908bdaaa88826c0f4df3e8f42345f458ae32c65efa5f445620a6i0",
+    "meta": {
+      "name": "Memento Mori #2",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63522764.JPG"
+    }
+  },
+  {
+    "id": "71d7fe111abc908bdaaa88826c0f4df3e8f42345f458ae32c65efa5f445620a6i1",
+    "meta": {
+      "name": "Memento Mori #3",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Nebula",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63522765.JPG"
+    }
+  },
+  {
+    "id": "71d7fe111abc908bdaaa88826c0f4df3e8f42345f458ae32c65efa5f445620a6i2",
+    "meta": {
+      "name": "Memento Mori #4",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Reef",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63522766.JPG"
+    }
+  },
+  {
+    "id": "71d7fe111abc908bdaaa88826c0f4df3e8f42345f458ae32c65efa5f445620a6i3",
+    "meta": {
+      "name": "Memento Mori #5",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Colosseum",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Gladiator",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63522767.JPG"
+    }
+  },
+  {
+    "id": "71d7fe111abc908bdaaa88826c0f4df3e8f42345f458ae32c65efa5f445620a6i4",
+    "meta": {
+      "name": "Memento Mori #6",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Loom",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Halo",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63522768.JPG"
+    }
+  },
+  {
+    "id": "71d7fe111abc908bdaaa88826c0f4df3e8f42345f458ae32c65efa5f445620a6i5",
+    "meta": {
+      "name": "Memento Mori #7",
+      "attributes": [
+        {
+          "value": "Stoic",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Eden",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63522769.JPG"
+    }
+  },
+  {
+    "id": "71d7fe111abc908bdaaa88826c0f4df3e8f42345f458ae32c65efa5f445620a6i6",
+    "meta": {
+      "name": "Memento Mori #8",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63522770.JPG"
+    }
+  },
+  {
+    "id": "71d7fe111abc908bdaaa88826c0f4df3e8f42345f458ae32c65efa5f445620a6i7",
+    "meta": {
+      "name": "Memento Mori #9",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Reef",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63522771.JPG"
+    }
+  },
+  {
+    "id": "71d7fe111abc908bdaaa88826c0f4df3e8f42345f458ae32c65efa5f445620a6i8",
+    "meta": {
+      "name": "Memento Mori #10",
+      "attributes": [
+        {
+          "value": "Stoic",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Mountains",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "UFO",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63522772.JPG"
+    }
+  },
+  {
+    "id": "84d3fcfd4fcc0df648af5a3717c35afb79b01eff8a9d77d461bed8cacec79f34i0",
+    "meta": {
+      "name": "Memento Mori #11",
+      "attributes": [
+        {
+          "value": "At Rest",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Nebula",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63523722.JPG"
+    }
+  },
+  {
+    "id": "84d3fcfd4fcc0df648af5a3717c35afb79b01eff8a9d77d461bed8cacec79f34i1",
+    "meta": {
+      "name": "Memento Mori #12",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Tessen",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63523723.JPG"
+    }
+  },
+  {
+    "id": "84d3fcfd4fcc0df648af5a3717c35afb79b01eff8a9d77d461bed8cacec79f34i2",
+    "meta": {
+      "name": "Memento Mori #13",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Reef",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63523724.JPG"
+    }
+  },
+  {
+    "id": "84d3fcfd4fcc0df648af5a3717c35afb79b01eff8a9d77d461bed8cacec79f34i3",
+    "meta": {
+      "name": "Memento Mori #14",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63523725.JPG"
+    }
+  },
+  {
+    "id": "84d3fcfd4fcc0df648af5a3717c35afb79b01eff8a9d77d461bed8cacec79f34i4",
+    "meta": {
+      "name": "Memento Mori #15",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63523726.JPG"
+    }
+  },
+  {
+    "id": "84d3fcfd4fcc0df648af5a3717c35afb79b01eff8a9d77d461bed8cacec79f34i5",
+    "meta": {
+      "name": "Memento Mori #16",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63523727.JPG"
+    }
+  },
+  {
+    "id": "84d3fcfd4fcc0df648af5a3717c35afb79b01eff8a9d77d461bed8cacec79f34i6",
+    "meta": {
+      "name": "Memento Mori #17",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Reef",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63523728.JPG"
+    }
+  },
+  {
+    "id": "84d3fcfd4fcc0df648af5a3717c35afb79b01eff8a9d77d461bed8cacec79f34i7",
+    "meta": {
+      "name": "Memento Mori #18",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Temple",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Samurai",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63523729.JPG"
+    }
+  },
+  {
+    "id": "84d3fcfd4fcc0df648af5a3717c35afb79b01eff8a9d77d461bed8cacec79f34i8",
+    "meta": {
+      "name": "Memento Mori #19",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Hades",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Halo",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63523730.JPG"
+    }
+  },
+  {
+    "id": "84d3fcfd4fcc0df648af5a3717c35afb79b01eff8a9d77d461bed8cacec79f34i9",
+    "meta": {
+      "name": "Memento Mori #20",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Loom",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63523731.JPG"
+    }
+  },
+  {
+    "id": "e9d4b31ace0c6448220fe6dd29d78d83f933d26236f81431242936be350f2380i0",
+    "meta": {
+      "name": "Memento Mori #21",
+      "attributes": [
+        {
+          "value": "At Rest",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Reef",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63525810.JPG"
+    }
+  },
+  {
+    "id": "e9d4b31ace0c6448220fe6dd29d78d83f933d26236f81431242936be350f2380i1",
+    "meta": {
+      "name": "Memento Mori #22",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Eden",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Ethereal",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63525811.JPG"
+    }
+  },
+  {
+    "id": "e9d4b31ace0c6448220fe6dd29d78d83f933d26236f81431242936be350f2380i2",
+    "meta": {
+      "name": "Memento Mori #23",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63525812.JPG"
+    }
+  },
+  {
+    "id": "e9d4b31ace0c6448220fe6dd29d78d83f933d26236f81431242936be350f2380i3",
+    "meta": {
+      "name": "Memento Mori #24",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Eden",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63525813.JPG"
+    }
+  },
+  {
+    "id": "e9d4b31ace0c6448220fe6dd29d78d83f933d26236f81431242936be350f2380i4",
+    "meta": {
+      "name": "Memento Mori #25",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63525814.JPG"
+    }
+  },
+  {
+    "id": "e9d4b31ace0c6448220fe6dd29d78d83f933d26236f81431242936be350f2380i5",
+    "meta": {
+      "name": "Memento Mori #26",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "The Void",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63525815.JPG"
+    }
+  },
+  {
+    "id": "e9d4b31ace0c6448220fe6dd29d78d83f933d26236f81431242936be350f2380i6",
+    "meta": {
+      "name": "Memento Mori #27",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "The Void",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63525816.JPG"
+    }
+  },
+  {
+    "id": "e9d4b31ace0c6448220fe6dd29d78d83f933d26236f81431242936be350f2380i7",
+    "meta": {
+      "name": "Memento Mori #28",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63525817.JPG"
+    }
+  },
+  {
+    "id": "e9d4b31ace0c6448220fe6dd29d78d83f933d26236f81431242936be350f2380i8",
+    "meta": {
+      "name": "Memento Mori #29",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Hades",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Halo",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63525818.JPG"
+    }
+  },
+  {
+    "id": "e9d4b31ace0c6448220fe6dd29d78d83f933d26236f81431242936be350f2380i9",
+    "meta": {
+      "name": "Memento Mori #30",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Nebula",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Halo",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63525819.JPG"
+    }
+  },
+  {
+    "id": "a5f68769ed1f537aab2801a8d76416e3dd6ea0d79828ce044be748883ed588b9i0",
+    "meta": {
+      "name": "Memento Mori #31",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Ethereal",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63528657.JPG"
+    }
+  },
+  {
+    "id": "a5f68769ed1f537aab2801a8d76416e3dd6ea0d79828ce044be748883ed588b9i1",
+    "meta": {
+      "name": "Memento Mori #32",
+      "attributes": [
+        {
+          "value": "Stoic",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Eden",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63528658.JPG"
+    }
+  },
+  {
+    "id": "a5f68769ed1f537aab2801a8d76416e3dd6ea0d79828ce044be748883ed588b9i2",
+    "meta": {
+      "name": "Memento Mori #33",
+      "attributes": [
+        {
+          "value": "Stoic",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Crypt",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63528659.JPG"
+    }
+  },
+  {
+    "id": "a5f68769ed1f537aab2801a8d76416e3dd6ea0d79828ce044be748883ed588b9i3",
+    "meta": {
+      "name": "Memento Mori #34",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Reef",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63528660.JPG"
+    }
+  },
+  {
+    "id": "a5f68769ed1f537aab2801a8d76416e3dd6ea0d79828ce044be748883ed588b9i4",
+    "meta": {
+      "name": "Memento Mori #35",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Loom",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Halo",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63528661.JPG"
+    }
+  },
+  {
+    "id": "a5f68769ed1f537aab2801a8d76416e3dd6ea0d79828ce044be748883ed588b9i5",
+    "meta": {
+      "name": "Memento Mori #36",
+      "attributes": [
+        {
+          "value": "Stoic",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Pixel",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63528662.JPG"
+    }
+  },
+  {
+    "id": "a5f68769ed1f537aab2801a8d76416e3dd6ea0d79828ce044be748883ed588b9i6",
+    "meta": {
+      "name": "Memento Mori #37",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Hades",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63528663.JPG"
+    }
+  },
+  {
+    "id": "a5f68769ed1f537aab2801a8d76416e3dd6ea0d79828ce044be748883ed588b9i7",
+    "meta": {
+      "name": "Memento Mori #38",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Mountains",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "UFO",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63528664.JPG"
+    }
+  },
+  {
+    "id": "a5f68769ed1f537aab2801a8d76416e3dd6ea0d79828ce044be748883ed588b9i8",
+    "meta": {
+      "name": "Memento Mori #39",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63528665.JPG"
+    }
+  },
+  {
+    "id": "a5f68769ed1f537aab2801a8d76416e3dd6ea0d79828ce044be748883ed588b9i9",
+    "meta": {
+      "name": "Memento Mori #40",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Muertos",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63528666.JPG"
+    }
+  },
+  {
+    "id": "a8d099f666c2dbe96a24c0e9ee68ed5306db8e035f00aa9195bf50cf04d3cc1di0",
+    "meta": {
+      "name": "Memento Mori #41",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Loom",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Halo",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63533463.JPG"
+    }
+  },
+  {
+    "id": "a8d099f666c2dbe96a24c0e9ee68ed5306db8e035f00aa9195bf50cf04d3cc1di1",
+    "meta": {
+      "name": "Memento Mori #42",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63533464.JPG"
+    }
+  },
+  {
+    "id": "a8d099f666c2dbe96a24c0e9ee68ed5306db8e035f00aa9195bf50cf04d3cc1di2",
+    "meta": {
+      "name": "Memento Mori #43",
+      "attributes": [
+        {
+          "value": "Stoic",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Eden",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63533465.JPG"
+    }
+  },
+  {
+    "id": "a8d099f666c2dbe96a24c0e9ee68ed5306db8e035f00aa9195bf50cf04d3cc1di3",
+    "meta": {
+      "name": "Memento Mori #44",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Nebula",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63533466.JPG"
+    }
+  },
+  {
+    "id": "a8d099f666c2dbe96a24c0e9ee68ed5306db8e035f00aa9195bf50cf04d3cc1di4",
+    "meta": {
+      "name": "Memento Mori #45",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63533467.JPG"
+    }
+  },
+  {
+    "id": "a8d099f666c2dbe96a24c0e9ee68ed5306db8e035f00aa9195bf50cf04d3cc1di5",
+    "meta": {
+      "name": "Memento Mori #46",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Eden",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63533468.JPG"
+    }
+  },
+  {
+    "id": "a8d099f666c2dbe96a24c0e9ee68ed5306db8e035f00aa9195bf50cf04d3cc1di6",
+    "meta": {
+      "name": "Memento Mori #47",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Nebula",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Muertos",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63533469.JPG"
+    }
+  },
+  {
+    "id": "a8d099f666c2dbe96a24c0e9ee68ed5306db8e035f00aa9195bf50cf04d3cc1di7",
+    "meta": {
+      "name": "Memento Mori #48",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63533470.JPG"
+    }
+  },
+  {
+    "id": "a8d099f666c2dbe96a24c0e9ee68ed5306db8e035f00aa9195bf50cf04d3cc1di8",
+    "meta": {
+      "name": "Memento Mori #49",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Eden",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Halo",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63533471.JPG"
+    }
+  },
+  {
+    "id": "a8d099f666c2dbe96a24c0e9ee68ed5306db8e035f00aa9195bf50cf04d3cc1di9",
+    "meta": {
+      "name": "Memento Mori #50",
+      "attributes": [
+        {
+          "value": "Stoic",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63533472.JPG"
+    }
+  },
+  {
+    "id": "b4eab1453e87a250821a4a03fb5c212c59e38f774fc70f16d11c6e2f8fd32985i0",
+    "meta": {
+      "name": "Memento Mori #51",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63538209.JPG"
+    }
+  },
+  {
+    "id": "b4eab1453e87a250821a4a03fb5c212c59e38f774fc70f16d11c6e2f8fd32985i1",
+    "meta": {
+      "name": "Memento Mori #52",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63538210.JPG"
+    }
+  },
+  {
+    "id": "b4eab1453e87a250821a4a03fb5c212c59e38f774fc70f16d11c6e2f8fd32985i2",
+    "meta": {
+      "name": "Memento Mori #53",
+      "attributes": [
+        {
+          "value": "Stoic",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63538211.JPG"
+    }
+  },
+  {
+    "id": "b4eab1453e87a250821a4a03fb5c212c59e38f774fc70f16d11c6e2f8fd32985i3",
+    "meta": {
+      "name": "Memento Mori #54",
+      "attributes": [
+        {
+          "value": "Stoic",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Reef",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63538212.JPG"
+    }
+  },
+  {
+    "id": "b4eab1453e87a250821a4a03fb5c212c59e38f774fc70f16d11c6e2f8fd32985i4",
+    "meta": {
+      "name": "Memento Mori #55",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63538213.JPG"
+    }
+  },
+  {
+    "id": "b4eab1453e87a250821a4a03fb5c212c59e38f774fc70f16d11c6e2f8fd32985i5",
+    "meta": {
+      "name": "Memento Mori #56",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Reef",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63538214.JPG"
+    }
+  },
+  {
+    "id": "b4eab1453e87a250821a4a03fb5c212c59e38f774fc70f16d11c6e2f8fd32985i6",
+    "meta": {
+      "name": "Memento Mori #57",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Reef",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63538215.JPG"
+    }
+  },
+  {
+    "id": "b4eab1453e87a250821a4a03fb5c212c59e38f774fc70f16d11c6e2f8fd32985i7",
+    "meta": {
+      "name": "Memento Mori #58",
+      "attributes": [
+        {
+          "value": "Stoic",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63538216.JPG"
+    }
+  },
+  {
+    "id": "b4eab1453e87a250821a4a03fb5c212c59e38f774fc70f16d11c6e2f8fd32985i8",
+    "meta": {
+      "name": "Memento Mori #59",
+      "attributes": [
+        {
+          "value": "Stoic",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Crypt",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63538217.JPG"
+    }
+  },
+  {
+    "id": "b4eab1453e87a250821a4a03fb5c212c59e38f774fc70f16d11c6e2f8fd32985i9",
+    "meta": {
+      "name": "Memento Mori #60",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Eden",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63538218.JPG"
+    }
+  },
+  {
+    "id": "f38fe165800f29f01eb3fb0f8a856e31fff4692759782a286f1c671d6decadc8i0",
+    "meta": {
+      "name": "Memento Mori #61",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63539031.JPG"
+    }
+  },
+  {
+    "id": "f38fe165800f29f01eb3fb0f8a856e31fff4692759782a286f1c671d6decadc8i1",
+    "meta": {
+      "name": "Memento Mori #62",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Pixel",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63539032.JPG"
+    }
+  },
+  {
+    "id": "f38fe165800f29f01eb3fb0f8a856e31fff4692759782a286f1c671d6decadc8i2",
+    "meta": {
+      "name": "Memento Mori #63",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63539033.JPG"
+    }
+  },
+  {
+    "id": "f38fe165800f29f01eb3fb0f8a856e31fff4692759782a286f1c671d6decadc8i3",
+    "meta": {
+      "name": "Memento Mori #64",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63539034.JPG"
+    }
+  },
+  {
+    "id": "f38fe165800f29f01eb3fb0f8a856e31fff4692759782a286f1c671d6decadc8i4",
+    "meta": {
+      "name": "Memento Mori #65",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Nebula",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63539035.JPG"
+    }
+  },
+  {
+    "id": "f38fe165800f29f01eb3fb0f8a856e31fff4692759782a286f1c671d6decadc8i5",
+    "meta": {
+      "name": "Memento Mori #66",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Eden",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63539036.JPG"
+    }
+  },
+  {
+    "id": "f38fe165800f29f01eb3fb0f8a856e31fff4692759782a286f1c671d6decadc8i6",
+    "meta": {
+      "name": "Memento Mori #67",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Crown",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63539037.JPG"
+    }
+  },
+  {
+    "id": "f38fe165800f29f01eb3fb0f8a856e31fff4692759782a286f1c671d6decadc8i7",
+    "meta": {
+      "name": "Memento Mori #68",
+      "attributes": [
+        {
+          "value": "At Rest",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63539038.JPG"
+    }
+  },
+  {
+    "id": "f38fe165800f29f01eb3fb0f8a856e31fff4692759782a286f1c671d6decadc8i8",
+    "meta": {
+      "name": "Memento Mori #69",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63539039.JPG"
+    }
+  },
+  {
+    "id": "f38fe165800f29f01eb3fb0f8a856e31fff4692759782a286f1c671d6decadc8i9",
+    "meta": {
+      "name": "Memento Mori #70",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Hades",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63539040.JPG"
+    }
+  },
+  {
+    "id": "2c9660cd77ceefe87bc8baf3ad0220fe15fd29d2bf737720f623e59c58ad2aa3i0",
+    "meta": {
+      "name": "Memento Mori #71",
+      "attributes": [
+        {
+          "value": "At Rest",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Eden",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63543011.JPG"
+    }
+  },
+  {
+    "id": "2c9660cd77ceefe87bc8baf3ad0220fe15fd29d2bf737720f623e59c58ad2aa3i1",
+    "meta": {
+      "name": "Memento Mori #72",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63543012.JPG"
+    }
+  },
+  {
+    "id": "2c9660cd77ceefe87bc8baf3ad0220fe15fd29d2bf737720f623e59c58ad2aa3i2",
+    "meta": {
+      "name": "Memento Mori #73",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Eden",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63543013.JPG"
+    }
+  },
+  {
+    "id": "2c9660cd77ceefe87bc8baf3ad0220fe15fd29d2bf737720f623e59c58ad2aa3i3",
+    "meta": {
+      "name": "Memento Mori #74",
+      "attributes": [
+        {
+          "value": "Stoic",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Mountains",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63543014.JPG"
+    }
+  },
+  {
+    "id": "2c9660cd77ceefe87bc8baf3ad0220fe15fd29d2bf737720f623e59c58ad2aa3i4",
+    "meta": {
+      "name": "Memento Mori #75",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Eden",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63543015.JPG"
+    }
+  },
+  {
+    "id": "2c9660cd77ceefe87bc8baf3ad0220fe15fd29d2bf737720f623e59c58ad2aa3i5",
+    "meta": {
+      "name": "Memento Mori #76",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Reef",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Crown",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63543016.JPG"
+    }
+  },
+  {
+    "id": "2c9660cd77ceefe87bc8baf3ad0220fe15fd29d2bf737720f623e59c58ad2aa3i6",
+    "meta": {
+      "name": "Memento Mori #77",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "The Void",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63543017.JPG"
+    }
+  },
+  {
+    "id": "2c9660cd77ceefe87bc8baf3ad0220fe15fd29d2bf737720f623e59c58ad2aa3i7",
+    "meta": {
+      "name": "Memento Mori #78",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63543018.JPG"
+    }
+  },
+  {
+    "id": "2c9660cd77ceefe87bc8baf3ad0220fe15fd29d2bf737720f623e59c58ad2aa3i8",
+    "meta": {
+      "name": "Memento Mori #79",
+      "attributes": [
+        {
+          "value": "Stoic",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63543019.JPG"
+    }
+  },
+  {
+    "id": "2c9660cd77ceefe87bc8baf3ad0220fe15fd29d2bf737720f623e59c58ad2aa3i9",
+    "meta": {
+      "name": "Memento Mori #80",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "The Void",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Muertos",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63543020.JPG"
+    }
+  },
+  {
+    "id": "b69f7ec8685a48306fa45a5196162c1421887e6c98d5c4271c82014500dbee22i0",
+    "meta": {
+      "name": "Memento Mori #81",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Mountains",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63543192.JPG"
+    }
+  },
+  {
+    "id": "b69f7ec8685a48306fa45a5196162c1421887e6c98d5c4271c82014500dbee22i1",
+    "meta": {
+      "name": "Memento Mori #82",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Temple",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Samurai",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63543193.JPG"
+    }
+  },
+  {
+    "id": "b69f7ec8685a48306fa45a5196162c1421887e6c98d5c4271c82014500dbee22i2",
+    "meta": {
+      "name": "Memento Mori #83",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Ethereal",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63543194.JPG"
+    }
+  },
+  {
+    "id": "b69f7ec8685a48306fa45a5196162c1421887e6c98d5c4271c82014500dbee22i3",
+    "meta": {
+      "name": "Memento Mori #84",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63543195.JPG"
+    }
+  },
+  {
+    "id": "b69f7ec8685a48306fa45a5196162c1421887e6c98d5c4271c82014500dbee22i4",
+    "meta": {
+      "name": "Memento Mori #85",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63543196.JPG"
+    }
+  },
+  {
+    "id": "b69f7ec8685a48306fa45a5196162c1421887e6c98d5c4271c82014500dbee22i5",
+    "meta": {
+      "name": "Memento Mori #86",
+      "attributes": [
+        {
+          "value": "At Rest",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Eden",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Crown",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63543197.JPG"
+    }
+  },
+  {
+    "id": "b69f7ec8685a48306fa45a5196162c1421887e6c98d5c4271c82014500dbee22i6",
+    "meta": {
+      "name": "Memento Mori #87",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Eden",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63543198.JPG"
+    }
+  },
+  {
+    "id": "b69f7ec8685a48306fa45a5196162c1421887e6c98d5c4271c82014500dbee22i7",
+    "meta": {
+      "name": "Memento Mori #88",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "The Void",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63543199.JPG"
+    }
+  },
+  {
+    "id": "b69f7ec8685a48306fa45a5196162c1421887e6c98d5c4271c82014500dbee22i8",
+    "meta": {
+      "name": "Memento Mori #89",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Colosseum",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Gladiator",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63543200.JPG"
+    }
+  },
+  {
+    "id": "b69f7ec8685a48306fa45a5196162c1421887e6c98d5c4271c82014500dbee22i9",
+    "meta": {
+      "name": "Memento Mori #90",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Nebula",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63543201.JPG"
+    }
+  },
+  {
+    "id": "ee26c51e4d100a1c6ac990a926c15088526f24af9e45fc09243e0760eed382d2i0",
+    "meta": {
+      "name": "Memento Mori #91",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63545879.JPG"
+    }
+  },
+  {
+    "id": "ee26c51e4d100a1c6ac990a926c15088526f24af9e45fc09243e0760eed382d2i1",
+    "meta": {
+      "name": "Memento Mori #92",
+      "attributes": [
+        {
+          "value": "Stoic",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Mountains",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63545880.JPG"
+    }
+  },
+  {
+    "id": "ee26c51e4d100a1c6ac990a926c15088526f24af9e45fc09243e0760eed382d2i2",
+    "meta": {
+      "name": "Memento Mori #93",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Temple",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Samurai",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63545881.JPG"
+    }
+  },
+  {
+    "id": "ee26c51e4d100a1c6ac990a926c15088526f24af9e45fc09243e0760eed382d2i3",
+    "meta": {
+      "name": "Memento Mori #94",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Samurai",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63545882.JPG"
+    }
+  },
+  {
+    "id": "ee26c51e4d100a1c6ac990a926c15088526f24af9e45fc09243e0760eed382d2i4",
+    "meta": {
+      "name": "Memento Mori #95",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Ethereal",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63545883.JPG"
+    }
+  },
+  {
+    "id": "ee26c51e4d100a1c6ac990a926c15088526f24af9e45fc09243e0760eed382d2i5",
+    "meta": {
+      "name": "Memento Mori #96",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63545884.JPG"
+    }
+  },
+  {
+    "id": "ee26c51e4d100a1c6ac990a926c15088526f24af9e45fc09243e0760eed382d2i6",
+    "meta": {
+      "name": "Memento Mori #97",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63545885.JPG"
+    }
+  },
+  {
+    "id": "ee26c51e4d100a1c6ac990a926c15088526f24af9e45fc09243e0760eed382d2i7",
+    "meta": {
+      "name": "Memento Mori #98",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Loom",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63545886.JPG"
+    }
+  },
+  {
+    "id": "ee26c51e4d100a1c6ac990a926c15088526f24af9e45fc09243e0760eed382d2i8",
+    "meta": {
+      "name": "Memento Mori #99",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Hades",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63545887.JPG"
+    }
+  },
+  {
+    "id": "ee26c51e4d100a1c6ac990a926c15088526f24af9e45fc09243e0760eed382d2i9",
+    "meta": {
+      "name": "Memento Mori #100",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Reef",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63545888.JPG"
+    }
+  },
+  {
+    "id": "0ac620e777071c1092ceb37ba9a142b491ded92d0ac8e9029f4af647ff5d47cbi0",
+    "meta": {
+      "name": "Memento Mori #101",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63546244.JPG"
+    }
+  },
+  {
+    "id": "0ac620e777071c1092ceb37ba9a142b491ded92d0ac8e9029f4af647ff5d47cbi1",
+    "meta": {
+      "name": "Memento Mori #102",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63546245.JPG"
+    }
+  },
+  {
+    "id": "0ac620e777071c1092ceb37ba9a142b491ded92d0ac8e9029f4af647ff5d47cbi2",
+    "meta": {
+      "name": "Memento Mori #103",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63546246.JPG"
+    }
+  },
+  {
+    "id": "0ac620e777071c1092ceb37ba9a142b491ded92d0ac8e9029f4af647ff5d47cbi3",
+    "meta": {
+      "name": "Memento Mori #104",
+      "attributes": [
+        {
+          "value": "Stoic",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Reef",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63546247.JPG"
+    }
+  },
+  {
+    "id": "0ac620e777071c1092ceb37ba9a142b491ded92d0ac8e9029f4af647ff5d47cbi4",
+    "meta": {
+      "name": "Memento Mori #105",
+      "attributes": [
+        {
+          "value": "Stoic",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "The Void",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63546248.JPG"
+    }
+  },
+  {
+    "id": "0ac620e777071c1092ceb37ba9a142b491ded92d0ac8e9029f4af647ff5d47cbi5",
+    "meta": {
+      "name": "Memento Mori #106",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Nebula",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63546249.JPG"
+    }
+  },
+  {
+    "id": "0ac620e777071c1092ceb37ba9a142b491ded92d0ac8e9029f4af647ff5d47cbi6",
+    "meta": {
+      "name": "Memento Mori #107",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63546250.JPG"
+    }
+  },
+  {
+    "id": "0ac620e777071c1092ceb37ba9a142b491ded92d0ac8e9029f4af647ff5d47cbi7",
+    "meta": {
+      "name": "Memento Mori #108",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Reef",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63546251.JPG"
+    }
+  },
+  {
+    "id": "0ac620e777071c1092ceb37ba9a142b491ded92d0ac8e9029f4af647ff5d47cbi8",
+    "meta": {
+      "name": "Memento Mori #109",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Hades",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63546252.JPG"
+    }
+  },
+  {
+    "id": "0ac620e777071c1092ceb37ba9a142b491ded92d0ac8e9029f4af647ff5d47cbi9",
+    "meta": {
+      "name": "Memento Mori #110",
+      "attributes": [
+        {
+          "value": "Stoic",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Pixel",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63546253.JPG"
+    }
+  },
+  {
+    "id": "001f18b6eab3ab1460cf66aa32db9318ce57e9d3f8194c2f9d361471d5c16002i0",
+    "meta": {
+      "name": "Memento Mori #111",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63547201.JPG"
+    }
+  },
+  {
+    "id": "001f18b6eab3ab1460cf66aa32db9318ce57e9d3f8194c2f9d361471d5c16002i1",
+    "meta": {
+      "name": "Memento Mori #112",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Eden",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Ethereal",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63547202.JPG"
+    }
+  },
+  {
+    "id": "001f18b6eab3ab1460cf66aa32db9318ce57e9d3f8194c2f9d361471d5c16002i2",
+    "meta": {
+      "name": "Memento Mori #113",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "The Void",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Muertos",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63547203.JPG"
+    }
+  },
+  {
+    "id": "001f18b6eab3ab1460cf66aa32db9318ce57e9d3f8194c2f9d361471d5c16002i3",
+    "meta": {
+      "name": "Memento Mori #114",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Crassus",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63547204.JPG"
+    }
+  },
+  {
+    "id": "001f18b6eab3ab1460cf66aa32db9318ce57e9d3f8194c2f9d361471d5c16002i4",
+    "meta": {
+      "name": "Memento Mori #115",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "The Void",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63547205.JPG"
+    }
+  },
+  {
+    "id": "001f18b6eab3ab1460cf66aa32db9318ce57e9d3f8194c2f9d361471d5c16002i5",
+    "meta": {
+      "name": "Memento Mori #116",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63547206.JPG"
+    }
+  },
+  {
+    "id": "001f18b6eab3ab1460cf66aa32db9318ce57e9d3f8194c2f9d361471d5c16002i6",
+    "meta": {
+      "name": "Memento Mori #117",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Hades",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Halo",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63547207.JPG"
+    }
+  },
+  {
+    "id": "001f18b6eab3ab1460cf66aa32db9318ce57e9d3f8194c2f9d361471d5c16002i7",
+    "meta": {
+      "name": "Memento Mori #118",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Nebula",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63547208.JPG"
+    }
+  },
+  {
+    "id": "001f18b6eab3ab1460cf66aa32db9318ce57e9d3f8194c2f9d361471d5c16002i8",
+    "meta": {
+      "name": "Memento Mori #119",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63547209.JPG"
+    }
+  },
+  {
+    "id": "001f18b6eab3ab1460cf66aa32db9318ce57e9d3f8194c2f9d361471d5c16002i9",
+    "meta": {
+      "name": "Memento Mori #120",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "The Void",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Luminous stare",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63547210.JPG"
+    }
+  },
+  {
+    "id": "40a2436629e3b4f69678f850e03dabd8b67b911af5510bee872fdd043f1d41c8i0",
+    "meta": {
+      "name": "Memento Mori #121",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63550263.JPG"
+    }
+  },
+  {
+    "id": "40a2436629e3b4f69678f850e03dabd8b67b911af5510bee872fdd043f1d41c8i1",
+    "meta": {
+      "name": "Memento Mori #122",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Reef",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63550264.JPG"
+    }
+  },
+  {
+    "id": "40a2436629e3b4f69678f850e03dabd8b67b911af5510bee872fdd043f1d41c8i2",
+    "meta": {
+      "name": "Memento Mori #123",
+      "attributes": [
+        {
+          "value": "Stoic",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Eden",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63550265.JPG"
+    }
+  },
+  {
+    "id": "40a2436629e3b4f69678f850e03dabd8b67b911af5510bee872fdd043f1d41c8i3",
+    "meta": {
+      "name": "Memento Mori #124",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Loom",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63550266.JPG"
+    }
+  },
+  {
+    "id": "40a2436629e3b4f69678f850e03dabd8b67b911af5510bee872fdd043f1d41c8i4",
+    "meta": {
+      "name": "Memento Mori #125",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Reef",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63550267.JPG"
+    }
+  },
+  {
+    "id": "40a2436629e3b4f69678f850e03dabd8b67b911af5510bee872fdd043f1d41c8i5",
+    "meta": {
+      "name": "Memento Mori #126",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Loom",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63550268.JPG"
+    }
+  },
+  {
+    "id": "40a2436629e3b4f69678f850e03dabd8b67b911af5510bee872fdd043f1d41c8i6",
+    "meta": {
+      "name": "Memento Mori #127",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63550269.JPG"
+    }
+  },
+  {
+    "id": "40a2436629e3b4f69678f850e03dabd8b67b911af5510bee872fdd043f1d41c8i7",
+    "meta": {
+      "name": "Memento Mori #128",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Loom",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63550270.JPG"
+    }
+  },
+  {
+    "id": "40a2436629e3b4f69678f850e03dabd8b67b911af5510bee872fdd043f1d41c8i8",
+    "meta": {
+      "name": "Memento Mori #129",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Hades",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63550271.JPG"
+    }
+  },
+  {
+    "id": "40a2436629e3b4f69678f850e03dabd8b67b911af5510bee872fdd043f1d41c8i9",
+    "meta": {
+      "name": "Memento Mori #130",
+      "attributes": [
+        {
+          "value": "At Rest",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Crypt",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63550272.JPG"
+    }
+  },
+  {
+    "id": "e1dea3b9b93b8fe31c6dd3fab30d874cd36d1e6f4e1d9ed42b83d106bc95d469i0",
+    "meta": {
+      "name": "Memento Mori #131",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Crypt",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63550951.JPG"
+    }
+  },
+  {
+    "id": "e1dea3b9b93b8fe31c6dd3fab30d874cd36d1e6f4e1d9ed42b83d106bc95d469i1",
+    "meta": {
+      "name": "Memento Mori #132",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "The Void",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63550952.JPG"
+    }
+  },
+  {
+    "id": "e1dea3b9b93b8fe31c6dd3fab30d874cd36d1e6f4e1d9ed42b83d106bc95d469i2",
+    "meta": {
+      "name": "Memento Mori #133",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Eden",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Muertos",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63550953.JPG"
+    }
+  },
+  {
+    "id": "e1dea3b9b93b8fe31c6dd3fab30d874cd36d1e6f4e1d9ed42b83d106bc95d469i3",
+    "meta": {
+      "name": "Memento Mori #134",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Crypt",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63550954.JPG"
+    }
+  },
+  {
+    "id": "e1dea3b9b93b8fe31c6dd3fab30d874cd36d1e6f4e1d9ed42b83d106bc95d469i4",
+    "meta": {
+      "name": "Memento Mori #135",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63550955.JPG"
+    }
+  },
+  {
+    "id": "e1dea3b9b93b8fe31c6dd3fab30d874cd36d1e6f4e1d9ed42b83d106bc95d469i5",
+    "meta": {
+      "name": "Memento Mori #136",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63550956.JPG"
+    }
+  },
+  {
+    "id": "e1dea3b9b93b8fe31c6dd3fab30d874cd36d1e6f4e1d9ed42b83d106bc95d469i6",
+    "meta": {
+      "name": "Memento Mori #137",
+      "attributes": [
+        {
+          "value": "Stoic",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Crypt",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63550957.JPG"
+    }
+  },
+  {
+    "id": "e1dea3b9b93b8fe31c6dd3fab30d874cd36d1e6f4e1d9ed42b83d106bc95d469i7",
+    "meta": {
+      "name": "Memento Mori #138",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Samurai",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63550958.JPG"
+    }
+  },
+  {
+    "id": "e1dea3b9b93b8fe31c6dd3fab30d874cd36d1e6f4e1d9ed42b83d106bc95d469i8",
+    "meta": {
+      "name": "Memento Mori #139",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Hades",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63550959.JPG"
+    }
+  },
+  {
+    "id": "e1dea3b9b93b8fe31c6dd3fab30d874cd36d1e6f4e1d9ed42b83d106bc95d469i9",
+    "meta": {
+      "name": "Memento Mori #140",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Crypt",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63550960.JPG"
+    }
+  },
+  {
+    "id": "c6bad71f9240ed95a602c683333461d9e4b06dfc61bf2f2a49ca2b55b704d915i0",
+    "meta": {
+      "name": "Memento Mori #141",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Ethereal",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63551256.JPG"
+    }
+  },
+  {
+    "id": "c6bad71f9240ed95a602c683333461d9e4b06dfc61bf2f2a49ca2b55b704d915i1",
+    "meta": {
+      "name": "Memento Mori #142",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Ethereal",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63551257.JPG"
+    }
+  },
+  {
+    "id": "c6bad71f9240ed95a602c683333461d9e4b06dfc61bf2f2a49ca2b55b704d915i2",
+    "meta": {
+      "name": "Memento Mori #143",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Ethereal",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63551258.JPG"
+    }
+  },
+  {
+    "id": "c6bad71f9240ed95a602c683333461d9e4b06dfc61bf2f2a49ca2b55b704d915i3",
+    "meta": {
+      "name": "Memento Mori #144",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63551259.JPG"
+    }
+  },
+  {
+    "id": "c6bad71f9240ed95a602c683333461d9e4b06dfc61bf2f2a49ca2b55b704d915i4",
+    "meta": {
+      "name": "Memento Mori #145",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63551260.JPG"
+    }
+  },
+  {
+    "id": "c6bad71f9240ed95a602c683333461d9e4b06dfc61bf2f2a49ca2b55b704d915i5",
+    "meta": {
+      "name": "Memento Mori #146",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Eden",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Ethereal",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63551261.JPG"
+    }
+  },
+  {
+    "id": "c6bad71f9240ed95a602c683333461d9e4b06dfc61bf2f2a49ca2b55b704d915i6",
+    "meta": {
+      "name": "Memento Mori #147",
+      "attributes": [
+        {
+          "value": "Stoic",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Crypt",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63551262.JPG"
+    }
+  },
+  {
+    "id": "c6bad71f9240ed95a602c683333461d9e4b06dfc61bf2f2a49ca2b55b704d915i7",
+    "meta": {
+      "name": "Memento Mori #148",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Loom",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63551263.JPG"
+    }
+  },
+  {
+    "id": "c6bad71f9240ed95a602c683333461d9e4b06dfc61bf2f2a49ca2b55b704d915i8",
+    "meta": {
+      "name": "Memento Mori #149",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63551264.JPG"
+    }
+  },
+  {
+    "id": "c6bad71f9240ed95a602c683333461d9e4b06dfc61bf2f2a49ca2b55b704d915i9",
+    "meta": {
+      "name": "Memento Mori #150",
+      "attributes": [
+        {
+          "value": "At Rest",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63551265.JPG"
+    }
+  },
+  {
+    "id": "32b4ee6edae15ba745bb5f42eabae912e945864cfd78bab2aed85851a0cc81a7i0",
+    "meta": {
+      "name": "Memento Mori #151",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Eden",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Luminous stare",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63553476.JPG"
+    }
+  },
+  {
+    "id": "32b4ee6edae15ba745bb5f42eabae912e945864cfd78bab2aed85851a0cc81a7i1",
+    "meta": {
+      "name": "Memento Mori #152",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Pixel",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63553477.JPG"
+    }
+  },
+  {
+    "id": "32b4ee6edae15ba745bb5f42eabae912e945864cfd78bab2aed85851a0cc81a7i2",
+    "meta": {
+      "name": "Memento Mori #153",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63553478.JPG"
+    }
+  },
+  {
+    "id": "32b4ee6edae15ba745bb5f42eabae912e945864cfd78bab2aed85851a0cc81a7i3",
+    "meta": {
+      "name": "Memento Mori #154",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63553479.JPG"
+    }
+  },
+  {
+    "id": "32b4ee6edae15ba745bb5f42eabae912e945864cfd78bab2aed85851a0cc81a7i4",
+    "meta": {
+      "name": "Memento Mori #155",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "The Void",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63553480.JPG"
+    }
+  },
+  {
+    "id": "32b4ee6edae15ba745bb5f42eabae912e945864cfd78bab2aed85851a0cc81a7i5",
+    "meta": {
+      "name": "Memento Mori #156",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Eden",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Muertos",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63553481.JPG"
+    }
+  },
+  {
+    "id": "32b4ee6edae15ba745bb5f42eabae912e945864cfd78bab2aed85851a0cc81a7i6",
+    "meta": {
+      "name": "Memento Mori #157",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Loom",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63553482.JPG"
+    }
+  },
+  {
+    "id": "32b4ee6edae15ba745bb5f42eabae912e945864cfd78bab2aed85851a0cc81a7i7",
+    "meta": {
+      "name": "Memento Mori #158",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Loom",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63553483.JPG"
+    }
+  },
+  {
+    "id": "32b4ee6edae15ba745bb5f42eabae912e945864cfd78bab2aed85851a0cc81a7i8",
+    "meta": {
+      "name": "Memento Mori #159",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Reef",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63553484.JPG"
+    }
+  },
+  {
+    "id": "32b4ee6edae15ba745bb5f42eabae912e945864cfd78bab2aed85851a0cc81a7i9",
+    "meta": {
+      "name": "Memento Mori #160",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Luminous stare",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63553485.JPG"
+    }
+  },
+  {
+    "id": "b1374aafcf48d7558163352183aa5557969e6858a23bb9e3a5793430669c7bcdi0",
+    "meta": {
+      "name": "Memento Mori #161",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Temple",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Samurai",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63565806.JPG"
+    }
+  },
+  {
+    "id": "b1374aafcf48d7558163352183aa5557969e6858a23bb9e3a5793430669c7bcdi1",
+    "meta": {
+      "name": "Memento Mori #162",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Mountains",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Lemures",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63565807.JPG"
+    }
+  },
+  {
+    "id": "b1374aafcf48d7558163352183aa5557969e6858a23bb9e3a5793430669c7bcdi2",
+    "meta": {
+      "name": "Memento Mori #163",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "The Void",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63565808.JPG"
+    }
+  },
+  {
+    "id": "b1374aafcf48d7558163352183aa5557969e6858a23bb9e3a5793430669c7bcdi3",
+    "meta": {
+      "name": "Memento Mori #164",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63565809.JPG"
+    }
+  },
+  {
+    "id": "b1374aafcf48d7558163352183aa5557969e6858a23bb9e3a5793430669c7bcdi4",
+    "meta": {
+      "name": "Memento Mori #165",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63565810.JPG"
+    }
+  },
+  {
+    "id": "b1374aafcf48d7558163352183aa5557969e6858a23bb9e3a5793430669c7bcdi5",
+    "meta": {
+      "name": "Memento Mori #166",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Loom",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63565811.JPG"
+    }
+  },
+  {
+    "id": "b1374aafcf48d7558163352183aa5557969e6858a23bb9e3a5793430669c7bcdi6",
+    "meta": {
+      "name": "Memento Mori #167",
+      "attributes": [
+        {
+          "value": "At Rest",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Crown",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63565812.JPG"
+    }
+  },
+  {
+    "id": "b1374aafcf48d7558163352183aa5557969e6858a23bb9e3a5793430669c7bcdi7",
+    "meta": {
+      "name": "Memento Mori #168",
+      "attributes": [
+        {
+          "value": "At Rest",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63565813.JPG"
+    }
+  },
+  {
+    "id": "b1374aafcf48d7558163352183aa5557969e6858a23bb9e3a5793430669c7bcdi8",
+    "meta": {
+      "name": "Memento Mori #169",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Nebula",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63565814.JPG"
+    }
+  },
+  {
+    "id": "b1374aafcf48d7558163352183aa5557969e6858a23bb9e3a5793430669c7bcdi9",
+    "meta": {
+      "name": "Memento Mori #170",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "The Void",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Muertos",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63565815.JPG"
+    }
+  },
+  {
+    "id": "5c9cd445bb96f2053fd0a373b97db37713afaad5ce0b79648bab52de2a68010ci0",
+    "meta": {
+      "name": "Memento Mori #171",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Luminous stare",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63608732.JPG"
+    }
+  },
+  {
+    "id": "5c9cd445bb96f2053fd0a373b97db37713afaad5ce0b79648bab52de2a68010ci1",
+    "meta": {
+      "name": "Memento Mori #172",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Samurai",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63608733.JPG"
+    }
+  },
+  {
+    "id": "5c9cd445bb96f2053fd0a373b97db37713afaad5ce0b79648bab52de2a68010ci2",
+    "meta": {
+      "name": "Memento Mori #173",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63608734.JPG"
+    }
+  },
+  {
+    "id": "5c9cd445bb96f2053fd0a373b97db37713afaad5ce0b79648bab52de2a68010ci3",
+    "meta": {
+      "name": "Memento Mori #174",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63608735.JPG"
+    }
+  },
+  {
+    "id": "5c9cd445bb96f2053fd0a373b97db37713afaad5ce0b79648bab52de2a68010ci4",
+    "meta": {
+      "name": "Memento Mori #175",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "The Void",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63608736.JPG"
+    }
+  },
+  {
+    "id": "5c9cd445bb96f2053fd0a373b97db37713afaad5ce0b79648bab52de2a68010ci5",
+    "meta": {
+      "name": "Memento Mori #176",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "The Void",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63608737.JPG"
+    }
+  },
+  {
+    "id": "5c9cd445bb96f2053fd0a373b97db37713afaad5ce0b79648bab52de2a68010ci6",
+    "meta": {
+      "name": "Memento Mori #177",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Eden",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63608738.JPG"
+    }
+  },
+  {
+    "id": "5c9cd445bb96f2053fd0a373b97db37713afaad5ce0b79648bab52de2a68010ci7",
+    "meta": {
+      "name": "Memento Mori #178",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Eden",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Ethereal",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63608739.JPG"
+    }
+  },
+  {
+    "id": "5c9cd445bb96f2053fd0a373b97db37713afaad5ce0b79648bab52de2a68010ci8",
+    "meta": {
+      "name": "Memento Mori #179",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Loom",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63608740.JPG"
+    }
+  },
+  {
+    "id": "5c9cd445bb96f2053fd0a373b97db37713afaad5ce0b79648bab52de2a68010ci9",
+    "meta": {
+      "name": "Memento Mori #180",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "The Void",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Crown",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63608741.JPG"
+    }
+  },
+  {
+    "id": "33527bb65169349d0d2c5a7f7418b7176b1115e08448a6b60421205f66fce7bfi0",
+    "meta": {
+      "name": "Memento Mori #181",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63611830.JPG"
+    }
+  },
+  {
+    "id": "33527bb65169349d0d2c5a7f7418b7176b1115e08448a6b60421205f66fce7bfi1",
+    "meta": {
+      "name": "Memento Mori #182",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Loom",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Halo",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63611831.JPG"
+    }
+  },
+  {
+    "id": "33527bb65169349d0d2c5a7f7418b7176b1115e08448a6b60421205f66fce7bfi2",
+    "meta": {
+      "name": "Memento Mori #183",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Ethereal",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63611832.JPG"
+    }
+  },
+  {
+    "id": "33527bb65169349d0d2c5a7f7418b7176b1115e08448a6b60421205f66fce7bfi3",
+    "meta": {
+      "name": "Memento Mori #184",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "The Void",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Halo",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63611833.JPG"
+    }
+  },
+  {
+    "id": "33527bb65169349d0d2c5a7f7418b7176b1115e08448a6b60421205f66fce7bfi4",
+    "meta": {
+      "name": "Memento Mori #185",
+      "attributes": [
+        {
+          "value": "Stoic",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Eden",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63611834.JPG"
+    }
+  },
+  {
+    "id": "33527bb65169349d0d2c5a7f7418b7176b1115e08448a6b60421205f66fce7bfi5",
+    "meta": {
+      "name": "Memento Mori #186",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Loom",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63611835.JPG"
+    }
+  },
+  {
+    "id": "33527bb65169349d0d2c5a7f7418b7176b1115e08448a6b60421205f66fce7bfi6",
+    "meta": {
+      "name": "Memento Mori #187",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Luminous stare",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63611836.JPG"
+    }
+  },
+  {
+    "id": "33527bb65169349d0d2c5a7f7418b7176b1115e08448a6b60421205f66fce7bfi7",
+    "meta": {
+      "name": "Memento Mori #188",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Phoebus",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63611837.JPG"
+    }
+  },
+  {
+    "id": "33527bb65169349d0d2c5a7f7418b7176b1115e08448a6b60421205f66fce7bfi8",
+    "meta": {
+      "name": "Memento Mori #189",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Loom",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Halo",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63611838.JPG"
+    }
+  },
+  {
+    "id": "33527bb65169349d0d2c5a7f7418b7176b1115e08448a6b60421205f66fce7bfi9",
+    "meta": {
+      "name": "Memento Mori #190",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "The Void",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Muertos",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63611839.JPG"
+    }
+  },
+  {
+    "id": "226122f1e7797603cce4a7d20ae367bf76040431945f8f759f8bf7eabdbe73dai0",
+    "meta": {
+      "name": "Memento Mori #191",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63630975.JPG"
+    }
+  },
+  {
+    "id": "226122f1e7797603cce4a7d20ae367bf76040431945f8f759f8bf7eabdbe73dai1",
+    "meta": {
+      "name": "Memento Mori #192",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63630976.JPG"
+    }
+  },
+  {
+    "id": "226122f1e7797603cce4a7d20ae367bf76040431945f8f759f8bf7eabdbe73dai2",
+    "meta": {
+      "name": "Memento Mori #193",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Loom",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63630977.JPG"
+    }
+  },
+  {
+    "id": "226122f1e7797603cce4a7d20ae367bf76040431945f8f759f8bf7eabdbe73dai3",
+    "meta": {
+      "name": "Memento Mori #194",
+      "attributes": [
+        {
+          "value": "Sentinel",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "The Void",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Muertos",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63630978.JPG"
+    }
+  },
+  {
+    "id": "226122f1e7797603cce4a7d20ae367bf76040431945f8f759f8bf7eabdbe73dai4",
+    "meta": {
+      "name": "Memento Mori #195",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "The Void",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63630979.JPG"
+    }
+  },
+  {
+    "id": "226122f1e7797603cce4a7d20ae367bf76040431945f8f759f8bf7eabdbe73dai5",
+    "meta": {
+      "name": "Memento Mori #196",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Loom",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63630980.JPG"
+    }
+  },
+  {
+    "id": "226122f1e7797603cce4a7d20ae367bf76040431945f8f759f8bf7eabdbe73dai6",
+    "meta": {
+      "name": "Memento Mori #197",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Loom",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63630981.JPG"
+    }
+  },
+  {
+    "id": "226122f1e7797603cce4a7d20ae367bf76040431945f8f759f8bf7eabdbe73dai7",
+    "meta": {
+      "name": "Memento Mori #198",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "The Void",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Muertos",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63630982.JPG"
+    }
+  },
+  {
+    "id": "226122f1e7797603cce4a7d20ae367bf76040431945f8f759f8bf7eabdbe73dai8",
+    "meta": {
+      "name": "Memento Mori #199",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63630983.JPG"
+    }
+  },
+  {
+    "id": "226122f1e7797603cce4a7d20ae367bf76040431945f8f759f8bf7eabdbe73dai9",
+    "meta": {
+      "name": "Memento Mori #200",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "The Void",
+          "trait_type": "Scene"
+        },
+        {
+          "value": "Ethereal",
+          "trait_type": "Special"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63630984.JPG"
+    }
+  },
+  {
+    "id": "f1ac18dfe04154cad35b82fb5edd3a7d241dba9cd6d95d3db19ffacf1757c5cci0",
+    "meta": {
+      "name": "Memento Mori #201",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63632561.JPG"
+    }
+  },
+  {
+    "id": "f1ac18dfe04154cad35b82fb5edd3a7d241dba9cd6d95d3db19ffacf1757c5cci1",
+    "meta": {
+      "name": "Memento Mori #202",
+      "attributes": [
+        {
+          "value": "Zen",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Elysian Fields",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63632562.JPG"
+    }
+  },
+  {
+    "id": "f1ac18dfe04154cad35b82fb5edd3a7d241dba9cd6d95d3db19ffacf1757c5cci2",
+    "meta": {
+      "name": "Memento Mori #203",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "The Void",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63632563.JPG"
+    }
+  },
+  {
+    "id": "f1ac18dfe04154cad35b82fb5edd3a7d241dba9cd6d95d3db19ffacf1757c5cci3",
+    "meta": {
+      "name": "Memento Mori #204",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Crypt",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63632564.JPG"
+    }
+  },
+  {
+    "id": "f1ac18dfe04154cad35b82fb5edd3a7d241dba9cd6d95d3db19ffacf1757c5cci4",
+    "meta": {
+      "name": "Memento Mori #205",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Loom",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63632565.JPG"
+    }
+  },
+  {
+    "id": "f1ac18dfe04154cad35b82fb5edd3a7d241dba9cd6d95d3db19ffacf1757c5cci5",
+    "meta": {
+      "name": "Memento Mori #206",
+      "attributes": [
+        {
+          "value": "Portrait",
+          "trait_type": "Pose"
+        },
+        {
+          "value": "No",
+          "trait_type": "Satoshi's Obol"
+        },
+        {
+          "value": "Woods",
+          "trait_type": "Scene"
+        }
+      ],
+      "high_res_img_url": "https://gmscribe.mypinata.cloud/ipfs/QmZPxAxQrCorFpiVcXiUXsNt4VkiKxRSpaVAMSztG2DqvN/63632566.JPG"
+    }
+  }
+]

@@ -1,0 +1,2562 @@
+[
+  {
+    "id": "f5b23929357fbcd097bf54bb553bdf8c364d2b343fdcbfa4fa1ddd8f6b11c1cbi0",
+    "meta": {
+      "name": "swarm_64",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "alert",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "elite",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "bugged",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "executive",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "03",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dce317efe9ea4cca758f03e63db3b7a3970787c7c3fd9db3d4d69ce68d79dff8i0",
+    "meta": {
+      "name": "swarm_61",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "alert",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "stealth",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "corrupt",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "executive",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "06",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8b8724de0a1317fa168ce002b62e038dd13f72e90a748066baa35713edcefd46i0",
+    "meta": {
+      "name": "swarm_59",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "alert",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "quant",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "error",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "executive",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "09",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "60e91c68bda4678522aca5495db393666b8900e9e03971d47f9bcbfd146132d9i0",
+    "meta": {
+      "name": "swarm_49",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "stalk",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "matrix",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "bugged",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "factory",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "12",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "faf5745539eec7ec387123b83fcfe1aa178f6b1f29846d021a567f1ee81253fei0",
+    "meta": {
+      "name": "swarm_47",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "scavenge",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "pearl",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "corrupt",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "advanced",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "94",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5b2d07f240ea4f28e0efb3e820e9f7cf698977cfcd5471afbcad13baec7a3bb0i0",
+    "meta": {
+      "name": "swarm_46",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "scavenge",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "chrome",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "limited",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "advanced",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "98",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "91c737e710fcafa06022b03047d318fb57b6c47ba36f2f0ce62232a8623d2b17i0",
+    "meta": {
+      "name": "swarm_32",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "guard",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "elite",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "limited",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "factory",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "23",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8e65d04f4f69e6037a56a84965fa0c741b37fc7169d09f347058a071f4ba255ei0",
+    "meta": {
+      "name": "swarm_30",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "guard",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "chrome",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "restricted",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "factory",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "23",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7525f3112bd6c1931b75a39d6a0e3bc6a1c674b7ecb2350619664ad1769e241bi0",
+    "meta": {
+      "name": "swarm_24",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "control",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "elite",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "error",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "gold",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "54",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fead641658b91654682cda8aa1ac2d983283f872d51773b229b447c31565549ai0",
+    "meta": {
+      "name": "swarm_16",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "track",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "elite",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "restricted",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "infrared",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "68",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f71f4f3ae0510494364ffcc37d801b22945a1b03841a0700eadea647b2d304c1i0",
+    "meta": {
+      "name": "swarm_11",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "track",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "quant",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "corrupt",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "infrared",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "69",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c773eaf0e488298a09073cefd57553b6f40ff2a21421e62aafdea5622b0edab7i0",
+    "meta": {
+      "name": "swarm_08",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "default",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "elite",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "compromised",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "factory",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "80",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "13af64b3121451e26bc5c229c72c6556e7376bbbcad51874dc13b6595be78b50i0",
+    "meta": {
+      "name": "swarm_06",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "default",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "chrome",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "incomplete",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "factory",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "80",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1e92f44c5d3346f745fda9b4a930db7a13df29a8f679962149252d317c373902i0",
+    "meta": {
+      "name": "swarm_02",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "default",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "mirage",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "error",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "factory",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "80",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "85af1bb667fec4b3dee5b0e8c686cfb28b4349d102187fc6941ec864f6393a37i0",
+    "meta": {
+      "name": "swarm_63",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "alert",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "pearl",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "incomplete",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "executive",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "03",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0b5f127079e8d9751147a044e789953a215845debc5a0fec2c25a462370d449ai0",
+    "meta": {
+      "name": "swarm_62",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "alert",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "chrome",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "intermittent",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "executive",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "03",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9c06e94db61f675b218f032433723ef1e09943eec021b64a6d396b21bc5b5019i0",
+    "meta": {
+      "name": "swarm_60",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "alert",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "apex",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "limited",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "executive",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "03",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3593f90b84e1e6ad9c025a458d11f80d747b820dc5e4b5782387acb6c6180fcai0",
+    "meta": {
+      "name": "swarm_58",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "alert",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "mirage",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "restricted",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "executive",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "01",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6eb39efab8985daca425f57b1dbe0b0425c7825aaa56c7d6b66b00c3531c44aei0",
+    "meta": {
+      "name": "swarm_57",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "alert",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "matrix",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "compromised",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "executive",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "01",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8432d093e155db89ca843fc4ef895a1a1c3c75c243271b19f6fd540736d31672i0",
+    "meta": {
+      "name": "swarm_56",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "stalk",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "elite",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "incomplete",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "factory",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "13",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "65efb5c76b6588f545eb40c2db7ac03b336900284922d070cad6a814fc20fe46i0",
+    "meta": {
+      "name": "swarm_55",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "stalk",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "pearl",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "intermittent",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "factory",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "13",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a10f4554c98963f633536134e86a3903214e5f1cbe03294eb3216e57efe8dd8ai0",
+    "meta": {
+      "name": "swarm_54",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "stalk",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "chrome",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "corrupt",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "factory",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "13",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a07309cfedf558a439122d2a8bacea9f22bea23782342c1c3cb90fd3cc2ec1f5i0",
+    "meta": {
+      "name": "swarm_53",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "stalk",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "stealth",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "limited",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "factory",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "13",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "48362d38b2601eec1109c8dd9a20f1586aca9b9b01e8782e06426ca0e85c8883i0",
+    "meta": {
+      "name": "swarm_52",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "stalk",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "apex",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "error",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "factory",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "12",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "42916d5b600845677d990f198a5c66de6209f3959200987b7a01ade89081681ei0",
+    "meta": {
+      "name": "swarm_51",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "stalk",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "quant",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "restricted",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "factory",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "12",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "159ff4056ad941110087e4595338bd30717363a88f27dfb61cb4e8570d8120aei0",
+    "meta": {
+      "name": "swarm_50",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "stalk",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "mirage",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "compromised",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "factory",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "12",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "af0dc1b61dcf903d4c3aee78d27bce463436b77a4c8573a853d3b1bbb3b529b4i0",
+    "meta": {
+      "name": "swarm_48",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "scavenge",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "elite",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "intermittent",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "advanced",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "94",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9ab6ccf05af0a8efd2603117deca9b2c1588b9fa6c20e8cc085bad8952b5817fi0",
+    "meta": {
+      "name": "swarm_45",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "scavenge",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "stealth",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "error",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "advanced",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "98",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "716c37b0bf3941f11486adef4a7a41c91b05b5b1a04ea5441d0bdef551d24e1di0",
+    "meta": {
+      "name": "swarm_44",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "scavenge",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "apex",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "restricted",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "advanced",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "98",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dfacb25a11e8b60e421588b268557055d9aece8ddc83e09dd687673dfe7a4a2ei0",
+    "meta": {
+      "name": "swarm_43",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "scavenge",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "quant",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "compromised",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "advanced",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "99",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "8e2607707bac3890377cd1344d27e2505b0ebe089cbf674a3836b1fcf1ba8c8ei0",
+    "meta": {
+      "name": "swarm_42",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "scavenge",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "mirage",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "bugged",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "advanced",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "92",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "10776431b3ca5f71afc620ea86a44980a14e20b5402440740bbb6bdb2cf8ffe9i0",
+    "meta": {
+      "name": "swarm_41",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "scavenge",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "matrix",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "incomplete",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "advanced",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "98",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6eff13306a0c6056aa85269058680555b415d1589729114ec7422f0a811f886fi0",
+    "meta": {
+      "name": "swarm_40",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "trace",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "elite",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "corrupt",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "infrared",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "76",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "255f6aed9d740a820f552a8a218b8130eda99da90f384d9fd5c41735c595fa83i0",
+    "meta": {
+      "name": "swarm_39",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "trace",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "pearl",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "limited",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "infrared",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "77",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7a0fc2116e0fe07eaa702ebe2219bc94935113f6da4f5fe9bda83272fe876311i0",
+    "meta": {
+      "name": "swarm_38",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "trace",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "chrome",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "error",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "infrared",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "71",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9e07f4a1b821182a19a8d2f1b707fba479538222d4465e150346cb6cc4f1f53bi0",
+    "meta": {
+      "name": "swarm_37",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "trace",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "stealth",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "restricted",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "infrared",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "71",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a9d166aefb63a10e03726919fd9476cd72ecdc90a4675135000ccd0e7d8f3a04i0",
+    "meta": {
+      "name": "swarm_36",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "trace",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "apex",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "compromised",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "infrared",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "71",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9a849f86e3f816bac85d295c66a374b8eb8aacf469d472700e6ba7e66ae59a0di0",
+    "meta": {
+      "name": "swarm_35",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "trace",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "quant",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "bugged",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "infrared",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "71",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9d59302f623852fff6ccca91ddf84e60c49c2a5da5d4d808e2a930bab1a4a32di0",
+    "meta": {
+      "name": "swarm_34",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "trace",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "mirage",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "incomplete",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "infrared",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "77",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "467c5ea6e380b54ad166fbb94e9edae1046f11b07759f4f09781fb943e7b085ai0",
+    "meta": {
+      "name": "swarm_33",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "trace",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "matrix",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "intermittent",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "infrared",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "76",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c4dacbca685d6f33a9a3d9786d012c236762681d131541ba6e6ac97333d50265i0",
+    "meta": {
+      "name": "swarm_31",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "guard",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "pearl",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "error",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "factory",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "23",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9514d0e7d67306ba34ccf2bd66a5b5c77e0076015dbb5c43aa3b28f0f5fe3b54i0",
+    "meta": {
+      "name": "swarm_29",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "guard",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "stealth",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "compromised",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "factory",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "23",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f00040bc2144b371625ab18f476e3e6cfe7bab1a55adb550037512737606d690i0",
+    "meta": {
+      "name": "swarm_28",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "guard",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "apex",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "bugged",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "factory",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "23",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b9f02e8ab8ea99e57e409b291fa15783eaa7c1a3eeba2a28e097ecc4083d5727i0",
+    "meta": {
+      "name": "swarm_27",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "guard",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "quant",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "incomplete",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "factory",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "23",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a49dc20c934a9210e16df01fe6ca21bbdd6fb30340398c4c02fb574f545641d3i0",
+    "meta": {
+      "name": "swarm_26",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "guard",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "mirage",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "intermittent",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "factory",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "23",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "27d3d2e11dc4072bbbc9f00f153b0fb1d768064011a91cfa227be03e1be3f5f3i0",
+    "meta": {
+      "name": "swarm_25",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "guard",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "matrix",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "corrupt",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "factory",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "23",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1ba963cb3c0383b85dc2f0cbae08d15584d7a60792614041f87d040582e140f8i0",
+    "meta": {
+      "name": "swarm_23",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "control",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "pearl",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "restricted",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "premium",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "51",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a2341a0d357768dd73cf239057cf05d2ce6ae00ea5b396214045a1c17d655f13i0",
+    "meta": {
+      "name": "swarm_22",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "control",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "chrome",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "compromised",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "premium",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "57",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "360c2e99e13ff124db0ac8a3ee6b047bab70f88dea01f2aaa7b9a7078d2ffc33i0",
+    "meta": {
+      "name": "swarm_21",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "control",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "stealth",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "bugged",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "premium",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "57",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "36a4c695097b608be99109cf60817b9e7bdfde50344a6cf132cda6b137df3087i0",
+    "meta": {
+      "name": "swarm_20",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "control",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "apex",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "incomplete",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "premium",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "50",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "81a19fc2c142bf8048a96e811552ad8b72d662136dd12d7c405bb7ae1119612ci0",
+    "meta": {
+      "name": "swarm_19",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "control",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "quant",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "intermittent",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "premium",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "59",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c630be7acbd70ed802b9aa2b4c26ac2da6ba11cea51e29c7ed49b25d02a61696i0",
+    "meta": {
+      "name": "swarm_18",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "control",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "mirage",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "corrupt",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "premium",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "55",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2cd94b4cd84a353d0825a74ed6e3efea15d08b03323110b11dcd89e2cebb0654i0",
+    "meta": {
+      "name": "swarm_17",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "control",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "matrix",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "limited",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "premium",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "50",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "95c24b9cf15ae2f14d938ed28946e35b74c44a6c81681d9839deb3b8748d6e45i0",
+    "meta": {
+      "name": "swarm_15",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "track",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "pearl",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "compromised",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "infrared",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "67",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6f08c6991f38ab8bfdfdd1bfcc714d7dc4caf2ad84a0174c1e2d0d80d10989aai0",
+    "meta": {
+      "name": "swarm_14",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "track",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "chrome",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "bugged",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "infrared",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "69",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b19653a7553341944417f0eb9fbc6a0668e7cb7fa581a1e00c29da09bda717e4i0",
+    "meta": {
+      "name": "swarm_13",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "track",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "stealth",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "incomplete",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "infrared",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "69",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "18b1ea3f84cbf98121e43514c86c0b34c9229fb611af13d21aa468ac326d3cb1i0",
+    "meta": {
+      "name": "swarm_12",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "track",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "apex",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "intermittent",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "infrared",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "69",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "929c88ef1202e31fa722f7e8b4b53d3381b94d02b3fb11efcae7f6b87495d365i0",
+    "meta": {
+      "name": "swarm_10",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "track",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "mirage",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "limited",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "infrared",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "67",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "20f171781b33120861393098c7a053b763e89dff8bf1db1c4d5e603ebc72efb4i0",
+    "meta": {
+      "name": "swarm_09",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "track",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "matrix",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "error",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "infrared",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "68",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "90ac5c090570f0c3bb76a337ea28fdffb54f66422dc9e68fd96c8911ebd5247ai0",
+    "meta": {
+      "name": "swarm_07",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "default",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "pearl",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "bugged",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "factory",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "80",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9d8c04f515836d37ee639ca757d545094d55a16881d316bce6ff9c2d7c0b720ci0",
+    "meta": {
+      "name": "swarm_05",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "default",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "stealth",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "intermittent",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "factory",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "80",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c3c9e284f7d60b472dce07e7e4497f53dfe90f9d933af252ddb166d53196a676i0",
+    "meta": {
+      "name": "swarm_04",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "default",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "apex",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "corrupt",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "factory",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "80",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b01e542557d3480f64ec8857fd0d0342222c55288347a4f4f543d0f8867edab7i0",
+    "meta": {
+      "name": "swarm_03",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "default",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "quant",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "limited",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "factory",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "80",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0b1b6dc879228c4aae77318492676a11f58e632d5a4a646f605f0682a1b5675fi0",
+    "meta": {
+      "name": "swarm_01",
+      "attributes": [
+        {
+          "value": "ripcache",
+          "trait_type": "Artist"
+        },
+        {
+          "value": "64 bitcoin bot net crawlerz",
+          "trait_type": "Description"
+        },
+        {
+          "value": "prototype v2",
+          "trait_type": "Model"
+        },
+        {
+          "value": "default",
+          "trait_type": "Protocol"
+        },
+        {
+          "value": "matrix",
+          "trait_type": "Signature"
+        },
+        {
+          "value": "restricted",
+          "trait_type": "Diagnostics"
+        },
+        {
+          "value": "factory",
+          "trait_type": "Hardware"
+        },
+        {
+          "value": "80",
+          "trait_type": "Power"
+        }
+      ]
+    }
+  }
+]

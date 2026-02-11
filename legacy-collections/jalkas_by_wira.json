@@ -1,0 +1,3186 @@
+[
+  {
+    "id": "4b56feef4a2664c9ed27deca12971818de09bb97c9e15ae1df2ea1a5b4ff5537i0",
+    "meta": {
+      "name": "Jalkas #1",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6732179e6ff28a8079175cb1b98a65a046548fa198edb193eb904b1ea6fec696i0",
+    "meta": {
+      "name": "Jalkas #2",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f477ee482142728b57fbf3ded8fb447df6c399d8b03987c850c95e5713369f60i0",
+    "meta": {
+      "name": "Jalkas #3",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f477ee482142728b57fbf3ded8fb447df6c399d8b03987c850c95e5713369f60i1",
+    "meta": {
+      "name": "Jalkas #4",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f477ee482142728b57fbf3ded8fb447df6c399d8b03987c850c95e5713369f60i2",
+    "meta": {
+      "name": "Jalkas #5",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f477ee482142728b57fbf3ded8fb447df6c399d8b03987c850c95e5713369f60i3",
+    "meta": {
+      "name": "Jalkas #6",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f477ee482142728b57fbf3ded8fb447df6c399d8b03987c850c95e5713369f60i4",
+    "meta": {
+      "name": "Jalkas #7",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f477ee482142728b57fbf3ded8fb447df6c399d8b03987c850c95e5713369f60i5",
+    "meta": {
+      "name": "Jalkas #8",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f477ee482142728b57fbf3ded8fb447df6c399d8b03987c850c95e5713369f60i6",
+    "meta": {
+      "name": "Jalkas #9",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f477ee482142728b57fbf3ded8fb447df6c399d8b03987c850c95e5713369f60i7",
+    "meta": {
+      "name": "Jalkas #10",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b2cd1955c72c30de8f2f8d07bfd1fb824687f0a2852fccbb88d0ad0c1f049027i0",
+    "meta": {
+      "name": "Jalkas #11",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b2cd1955c72c30de8f2f8d07bfd1fb824687f0a2852fccbb88d0ad0c1f049027i1",
+    "meta": {
+      "name": "Jalkas #12",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b2cd1955c72c30de8f2f8d07bfd1fb824687f0a2852fccbb88d0ad0c1f049027i2",
+    "meta": {
+      "name": "Jalkas #13",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "285263e6ebf67343a4eb13046c167d8c5c7e991520503ae662ea56cfbed6068di0",
+    "meta": {
+      "name": "Jalkas #14",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "285263e6ebf67343a4eb13046c167d8c5c7e991520503ae662ea56cfbed6068di1",
+    "meta": {
+      "name": "Jalkas #15",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "285263e6ebf67343a4eb13046c167d8c5c7e991520503ae662ea56cfbed6068di2",
+    "meta": {
+      "name": "Jalkas #16",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "285263e6ebf67343a4eb13046c167d8c5c7e991520503ae662ea56cfbed6068di3",
+    "meta": {
+      "name": "Jalkas #17",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "285263e6ebf67343a4eb13046c167d8c5c7e991520503ae662ea56cfbed6068di4",
+    "meta": {
+      "name": "Jalkas #18",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "285263e6ebf67343a4eb13046c167d8c5c7e991520503ae662ea56cfbed6068di5",
+    "meta": {
+      "name": "Jalkas #19",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4927ad9ff5408ae0ce6a5ace9d8e2cf05279381bbee58fed3922e559296d6c1ai0",
+    "meta": {
+      "name": "Jalkas #20",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4927ad9ff5408ae0ce6a5ace9d8e2cf05279381bbee58fed3922e559296d6c1ai1",
+    "meta": {
+      "name": "Jalkas #21",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4927ad9ff5408ae0ce6a5ace9d8e2cf05279381bbee58fed3922e559296d6c1ai2",
+    "meta": {
+      "name": "Jalkas #22",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4927ad9ff5408ae0ce6a5ace9d8e2cf05279381bbee58fed3922e559296d6c1ai3",
+    "meta": {
+      "name": "Jalkas #23",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "df39998b61f80d3f3fd5b9cbd26796d08a0d5f19cf7456225143363273bb7160i0",
+    "meta": {
+      "name": "Jalkas #24",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "df39998b61f80d3f3fd5b9cbd26796d08a0d5f19cf7456225143363273bb7160i1",
+    "meta": {
+      "name": "Jalkas #25",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "df39998b61f80d3f3fd5b9cbd26796d08a0d5f19cf7456225143363273bb7160i2",
+    "meta": {
+      "name": "Jalkas #26",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "df39998b61f80d3f3fd5b9cbd26796d08a0d5f19cf7456225143363273bb7160i3",
+    "meta": {
+      "name": "Jalkas #27",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "df39998b61f80d3f3fd5b9cbd26796d08a0d5f19cf7456225143363273bb7160i4",
+    "meta": {
+      "name": "Jalkas #28",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "df39998b61f80d3f3fd5b9cbd26796d08a0d5f19cf7456225143363273bb7160i5",
+    "meta": {
+      "name": "Jalkas #29",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "df39998b61f80d3f3fd5b9cbd26796d08a0d5f19cf7456225143363273bb7160i6",
+    "meta": {
+      "name": "Jalkas #30",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "df39998b61f80d3f3fd5b9cbd26796d08a0d5f19cf7456225143363273bb7160i7",
+    "meta": {
+      "name": "Jalkas #31",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0fddb58d60a5574c88c7abadbbb95eb4be4fe8735e053bef7fc99da1bc2ca484i0",
+    "meta": {
+      "name": "Jalkas #32",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0fddb58d60a5574c88c7abadbbb95eb4be4fe8735e053bef7fc99da1bc2ca484i1",
+    "meta": {
+      "name": "Jalkas #33",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0fddb58d60a5574c88c7abadbbb95eb4be4fe8735e053bef7fc99da1bc2ca484i2",
+    "meta": {
+      "name": "Jalkas #34",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0fddb58d60a5574c88c7abadbbb95eb4be4fe8735e053bef7fc99da1bc2ca484i3",
+    "meta": {
+      "name": "Jalkas #35",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0fddb58d60a5574c88c7abadbbb95eb4be4fe8735e053bef7fc99da1bc2ca484i4",
+    "meta": {
+      "name": "Jalkas #36",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9f684b92766fce24149f70a7730859130f5f615952884076018513e2e9440195i0",
+    "meta": {
+      "name": "Jalkas #37",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9f684b92766fce24149f70a7730859130f5f615952884076018513e2e9440195i1",
+    "meta": {
+      "name": "Jalkas #38",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9f684b92766fce24149f70a7730859130f5f615952884076018513e2e9440195i2",
+    "meta": {
+      "name": "Jalkas #39",
+      "attributes": [
+        {
+          "value": "Honorary",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Ordinal Maxi Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9f684b92766fce24149f70a7730859130f5f615952884076018513e2e9440195i3",
+    "meta": {
+      "name": "Jalkas #40",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9f684b92766fce24149f70a7730859130f5f615952884076018513e2e9440195i4",
+    "meta": {
+      "name": "Jalkas #41",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9f684b92766fce24149f70a7730859130f5f615952884076018513e2e9440195i5",
+    "meta": {
+      "name": "Jalkas #42",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9f684b92766fce24149f70a7730859130f5f615952884076018513e2e9440195i6",
+    "meta": {
+      "name": "Jalkas #43",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d2672487b389158d74441425478bf36c730e73123e1a9856dba3240269fe2414i0",
+    "meta": {
+      "name": "Jalkas #44",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dcf386e375a38401571dcd5de2b45291d21be0e696da6acca6f7bb2499148d40i0",
+    "meta": {
+      "name": "Jalkas #45",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dcf386e375a38401571dcd5de2b45291d21be0e696da6acca6f7bb2499148d40i1",
+    "meta": {
+      "name": "Jalkas #46",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dcf386e375a38401571dcd5de2b45291d21be0e696da6acca6f7bb2499148d40i2",
+    "meta": {
+      "name": "Jalkas #47",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dcf386e375a38401571dcd5de2b45291d21be0e696da6acca6f7bb2499148d40i3",
+    "meta": {
+      "name": "Jalkas #48",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dcf386e375a38401571dcd5de2b45291d21be0e696da6acca6f7bb2499148d40i4",
+    "meta": {
+      "name": "Jalkas #49",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "55414d45179511734afd3cf8500141bc593c19adbb47b746603e70b3b2fc73e0i0",
+    "meta": {
+      "name": "Jalkas #50",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "55414d45179511734afd3cf8500141bc593c19adbb47b746603e70b3b2fc73e0i1",
+    "meta": {
+      "name": "Jalkas #51",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "55414d45179511734afd3cf8500141bc593c19adbb47b746603e70b3b2fc73e0i2",
+    "meta": {
+      "name": "Jalkas #52",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "16ace5663190ba006054895a27d943a6c3ffe81299a4f944722c439264783d77i0",
+    "meta": {
+      "name": "Jalkas #53",
+      "attributes": [
+        {
+          "value": "Honorary",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Medusa",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "16ace5663190ba006054895a27d943a6c3ffe81299a4f944722c439264783d77i1",
+    "meta": {
+      "name": "Jalkas #54",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "95cd7fc55a32bf0b6eb5e4c9f9af4fca95914ed550fd5761ad887e7b77b4a03ei0",
+    "meta": {
+      "name": "Jalkas #55",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "95cd7fc55a32bf0b6eb5e4c9f9af4fca95914ed550fd5761ad887e7b77b4a03ei1",
+    "meta": {
+      "name": "Jalkas #56",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "95cd7fc55a32bf0b6eb5e4c9f9af4fca95914ed550fd5761ad887e7b77b4a03ei2",
+    "meta": {
+      "name": "Jalkas #57",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2f3babccf4019d36ebb812e9aae1b24d7333b2b416ba4dd8c6e50ef407cc89bfi0",
+    "meta": {
+      "name": "Jalkas #58",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2f3babccf4019d36ebb812e9aae1b24d7333b2b416ba4dd8c6e50ef407cc89bfi1",
+    "meta": {
+      "name": "Jalkas #59",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2f3babccf4019d36ebb812e9aae1b24d7333b2b416ba4dd8c6e50ef407cc89bfi2",
+    "meta": {
+      "name": "Jalkas #60",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2f3babccf4019d36ebb812e9aae1b24d7333b2b416ba4dd8c6e50ef407cc89bfi3",
+    "meta": {
+      "name": "Jalkas #61",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2f3babccf4019d36ebb812e9aae1b24d7333b2b416ba4dd8c6e50ef407cc89bfi4",
+    "meta": {
+      "name": "Jalkas #62",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2f3babccf4019d36ebb812e9aae1b24d7333b2b416ba4dd8c6e50ef407cc89bfi5",
+    "meta": {
+      "name": "Jalkas #63",
+      "attributes": [
+        {
+          "value": "Honorary",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Badger",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2f3babccf4019d36ebb812e9aae1b24d7333b2b416ba4dd8c6e50ef407cc89bfi6",
+    "meta": {
+      "name": "Jalkas #64",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2f3babccf4019d36ebb812e9aae1b24d7333b2b416ba4dd8c6e50ef407cc89bfi7",
+    "meta": {
+      "name": "Jalkas #65",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5a091414bab91d85dd8dcdaf634520e85de4ceb0930e02c3c8a898fc81bf5cd4i0",
+    "meta": {
+      "name": "Jalkas #66",
+      "attributes": [
+        {
+          "value": "Honorary",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Cobra",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1921211dec1d893b886d90c7705a801e4a581e8927814a53bfb2f12b08fa8620i0",
+    "meta": {
+      "name": "Jalkas #67",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1921211dec1d893b886d90c7705a801e4a581e8927814a53bfb2f12b08fa8620i1",
+    "meta": {
+      "name": "Jalkas #68",
+      "attributes": [
+        {
+          "value": "Honorary",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Puppet",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "341a56fc786cbe9734f782bef7c46efc226384fb76b2b569daec3ed6724b581bi0",
+    "meta": {
+      "name": "Jalkas #69",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "341a56fc786cbe9734f782bef7c46efc226384fb76b2b569daec3ed6724b581bi1",
+    "meta": {
+      "name": "Jalkas #70",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "341a56fc786cbe9734f782bef7c46efc226384fb76b2b569daec3ed6724b581bi2",
+    "meta": {
+      "name": "Jalkas #71",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "341a56fc786cbe9734f782bef7c46efc226384fb76b2b569daec3ed6724b581bi3",
+    "meta": {
+      "name": "Jalkas #72",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "95a8ae0d38d061af3f4f8c0e94cb9da10a969812fa3f20c791a68da5546d1c8fi0",
+    "meta": {
+      "name": "Jalkas #73",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e26b89534c4ba766dc93cde0a4b5ec536c5df29e485ac4d80f8f9fae33266561i0",
+    "meta": {
+      "name": "Jalkas #74",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e26b89534c4ba766dc93cde0a4b5ec536c5df29e485ac4d80f8f9fae33266561i1",
+    "meta": {
+      "name": "Jalkas #75",
+      "attributes": [
+        {
+          "value": "Honorary",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Gizmo",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e26b89534c4ba766dc93cde0a4b5ec536c5df29e485ac4d80f8f9fae33266561i2",
+    "meta": {
+      "name": "Jalkas #76",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e26b89534c4ba766dc93cde0a4b5ec536c5df29e485ac4d80f8f9fae33266561i3",
+    "meta": {
+      "name": "Jalkas #77",
+      "attributes": [
+        {
+          "value": "Honorary",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Ninja Liza",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e26b89534c4ba766dc93cde0a4b5ec536c5df29e485ac4d80f8f9fae33266561i4",
+    "meta": {
+      "name": "Jalkas #78",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e26b89534c4ba766dc93cde0a4b5ec536c5df29e485ac4d80f8f9fae33266561i5",
+    "meta": {
+      "name": "Jalkas #79",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3681ad9f9e016a3f29d5f8645c70a4bf499311cde0af86446ec30443b104f55fi0",
+    "meta": {
+      "name": "Jalkas #80",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3681ad9f9e016a3f29d5f8645c70a4bf499311cde0af86446ec30443b104f55fi1",
+    "meta": {
+      "name": "Jalkas #81",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3681ad9f9e016a3f29d5f8645c70a4bf499311cde0af86446ec30443b104f55fi2",
+    "meta": {
+      "name": "Jalkas #82",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3681ad9f9e016a3f29d5f8645c70a4bf499311cde0af86446ec30443b104f55fi3",
+    "meta": {
+      "name": "Jalkas #83",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3681ad9f9e016a3f29d5f8645c70a4bf499311cde0af86446ec30443b104f55fi4",
+    "meta": {
+      "name": "Jalkas #84",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7dd5a9656ec75082c0071a8b0fbbe144b7514214b496972d23c02cd3bcb220a1i0",
+    "meta": {
+      "name": "Jalkas #85",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7dd5a9656ec75082c0071a8b0fbbe144b7514214b496972d23c02cd3bcb220a1i1",
+    "meta": {
+      "name": "Jalkas #86",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7dd5a9656ec75082c0071a8b0fbbe144b7514214b496972d23c02cd3bcb220a1i2",
+    "meta": {
+      "name": "Jalkas #87",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7dd5a9656ec75082c0071a8b0fbbe144b7514214b496972d23c02cd3bcb220a1i3",
+    "meta": {
+      "name": "Jalkas #88",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7dd5a9656ec75082c0071a8b0fbbe144b7514214b496972d23c02cd3bcb220a1i4",
+    "meta": {
+      "name": "Jalkas #89",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7dd5a9656ec75082c0071a8b0fbbe144b7514214b496972d23c02cd3bcb220a1i5",
+    "meta": {
+      "name": "Jalkas #90",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7dd5a9656ec75082c0071a8b0fbbe144b7514214b496972d23c02cd3bcb220a1i6",
+    "meta": {
+      "name": "Jalkas #91",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7dd5a9656ec75082c0071a8b0fbbe144b7514214b496972d23c02cd3bcb220a1i7",
+    "meta": {
+      "name": "Jalkas #92",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aaa7627c62518e7e5bb7d8762a12f35cea424328b470ed98df8370a10bbb2461i0",
+    "meta": {
+      "name": "Jalkas #93",
+      "attributes": [
+        {
+          "value": "Honorary",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Billy",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "798f81eb3fd3d65a423335c087f43870911d91a58c6dee1966fab6ac9bbb1e8di0",
+    "meta": {
+      "name": "Jalkas #94",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "798f81eb3fd3d65a423335c087f43870911d91a58c6dee1966fab6ac9bbb1e8di1",
+    "meta": {
+      "name": "Jalkas #95",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "798f81eb3fd3d65a423335c087f43870911d91a58c6dee1966fab6ac9bbb1e8di2",
+    "meta": {
+      "name": "Jalkas #96",
+      "attributes": [
+        {
+          "value": "Honorary",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Diablada",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "798f81eb3fd3d65a423335c087f43870911d91a58c6dee1966fab6ac9bbb1e8di3",
+    "meta": {
+      "name": "Jalkas #97",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "798f81eb3fd3d65a423335c087f43870911d91a58c6dee1966fab6ac9bbb1e8di4",
+    "meta": {
+      "name": "Jalkas #98",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "798f81eb3fd3d65a423335c087f43870911d91a58c6dee1966fab6ac9bbb1e8di5",
+    "meta": {
+      "name": "Jalkas #99",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ed60926ba8f6dc06248cda1c0d28d0ee407909811865720298a33551f6e6625fi0",
+    "meta": {
+      "name": "Jalkas #100",
+      "attributes": [
+        {
+          "value": "Honorary",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Aeon",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "462918dc7e5366554046391666d9074159c3894e067693cb1bd6b3bb8a2e15b8i0",
+    "meta": {
+      "name": "Jalkas #101",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "462918dc7e5366554046391666d9074159c3894e067693cb1bd6b3bb8a2e15b8i1",
+    "meta": {
+      "name": "Jalkas #102",
+      "attributes": [
+        {
+          "value": "Honorary",
+          "trait_type": "Group"
+        },
+        {
+          "value": "WOO",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a63c57dc7865bca532e3ca4516c666d1c3cb297bf5cdfabca96988195922914ai0",
+    "meta": {
+      "name": "Jalkas #103",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a63c57dc7865bca532e3ca4516c666d1c3cb297bf5cdfabca96988195922914ai1",
+    "meta": {
+      "name": "Jalkas #104",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a63c57dc7865bca532e3ca4516c666d1c3cb297bf5cdfabca96988195922914ai2",
+    "meta": {
+      "name": "Jalkas #105",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a63c57dc7865bca532e3ca4516c666d1c3cb297bf5cdfabca96988195922914ai3",
+    "meta": {
+      "name": "Jalkas #106",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a63c57dc7865bca532e3ca4516c666d1c3cb297bf5cdfabca96988195922914ai4",
+    "meta": {
+      "name": "Jalkas #107",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a63c57dc7865bca532e3ca4516c666d1c3cb297bf5cdfabca96988195922914ai5",
+    "meta": {
+      "name": "Jalkas #108",
+      "attributes": [
+        {
+          "value": "Honorary",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Machine",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a63c57dc7865bca532e3ca4516c666d1c3cb297bf5cdfabca96988195922914ai6",
+    "meta": {
+      "name": "Jalkas #109",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cd983599d6773c736786b1864d10ed44aa2efac062cdb98a28839fad81e8e208i0",
+    "meta": {
+      "name": "Jalkas #110",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cd983599d6773c736786b1864d10ed44aa2efac062cdb98a28839fad81e8e208i1",
+    "meta": {
+      "name": "Jalkas #111",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cd983599d6773c736786b1864d10ed44aa2efac062cdb98a28839fad81e8e208i2",
+    "meta": {
+      "name": "Jalkas #112",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cd983599d6773c736786b1864d10ed44aa2efac062cdb98a28839fad81e8e208i3",
+    "meta": {
+      "name": "Jalkas #113",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cd983599d6773c736786b1864d10ed44aa2efac062cdb98a28839fad81e8e208i4",
+    "meta": {
+      "name": "Jalkas #114",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cd983599d6773c736786b1864d10ed44aa2efac062cdb98a28839fad81e8e208i5",
+    "meta": {
+      "name": "Jalkas #115",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cd983599d6773c736786b1864d10ed44aa2efac062cdb98a28839fad81e8e208i6",
+    "meta": {
+      "name": "Jalkas #116",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cd983599d6773c736786b1864d10ed44aa2efac062cdb98a28839fad81e8e208i7",
+    "meta": {
+      "name": "Jalkas #117",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cd983599d6773c736786b1864d10ed44aa2efac062cdb98a28839fad81e8e208i8",
+    "meta": {
+      "name": "Jalkas #118",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cd983599d6773c736786b1864d10ed44aa2efac062cdb98a28839fad81e8e208i9",
+    "meta": {
+      "name": "Jalkas #119",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cd983599d6773c736786b1864d10ed44aa2efac062cdb98a28839fad81e8e208i10",
+    "meta": {
+      "name": "Jalkas #120",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cd983599d6773c736786b1864d10ed44aa2efac062cdb98a28839fad81e8e208i11",
+    "meta": {
+      "name": "Jalkas #121",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cd983599d6773c736786b1864d10ed44aa2efac062cdb98a28839fad81e8e208i12",
+    "meta": {
+      "name": "Jalkas #122",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cd983599d6773c736786b1864d10ed44aa2efac062cdb98a28839fad81e8e208i13",
+    "meta": {
+      "name": "Jalkas #123",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cd983599d6773c736786b1864d10ed44aa2efac062cdb98a28839fad81e8e208i14",
+    "meta": {
+      "name": "Jalkas #124",
+      "attributes": [
+        {
+          "value": "Honorary",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Puppet Artist",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a51edd151e1cf5dc69b2fce076182e11bc0ce295f2951ed9eda43b242132014fi0",
+    "meta": {
+      "name": "Jalkas #125",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a51edd151e1cf5dc69b2fce076182e11bc0ce295f2951ed9eda43b242132014fi1",
+    "meta": {
+      "name": "Jalkas #126",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a51edd151e1cf5dc69b2fce076182e11bc0ce295f2951ed9eda43b242132014fi2",
+    "meta": {
+      "name": "Jalkas #127",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a51edd151e1cf5dc69b2fce076182e11bc0ce295f2951ed9eda43b242132014fi3",
+    "meta": {
+      "name": "Jalkas #128",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a51edd151e1cf5dc69b2fce076182e11bc0ce295f2951ed9eda43b242132014fi4",
+    "meta": {
+      "name": "Jalkas #129",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a51edd151e1cf5dc69b2fce076182e11bc0ce295f2951ed9eda43b242132014fi5",
+    "meta": {
+      "name": "Jalkas #130",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a51edd151e1cf5dc69b2fce076182e11bc0ce295f2951ed9eda43b242132014fi6",
+    "meta": {
+      "name": "Jalkas #131",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a51edd151e1cf5dc69b2fce076182e11bc0ce295f2951ed9eda43b242132014fi7",
+    "meta": {
+      "name": "Jalkas #132",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a51edd151e1cf5dc69b2fce076182e11bc0ce295f2951ed9eda43b242132014fi8",
+    "meta": {
+      "name": "Jalkas #133",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a51edd151e1cf5dc69b2fce076182e11bc0ce295f2951ed9eda43b242132014fi9",
+    "meta": {
+      "name": "Jalkas #134",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "a51edd151e1cf5dc69b2fce076182e11bc0ce295f2951ed9eda43b242132014fi10",
+    "meta": {
+      "name": "Jalkas #135",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ff377031582a8300545629cd47faa409617807928b2df3a43949d28ba941c4f5i0",
+    "meta": {
+      "name": "Jalkas #136",
+      "attributes": [
+        {
+          "value": "Honorary",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Viruz",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i0",
+    "meta": {
+      "name": "Jalkas #137",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i1",
+    "meta": {
+      "name": "Jalkas #138",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i2",
+    "meta": {
+      "name": "Jalkas #139",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i3",
+    "meta": {
+      "name": "Jalkas #140",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i4",
+    "meta": {
+      "name": "Jalkas #141",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i5",
+    "meta": {
+      "name": "Jalkas #142",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i6",
+    "meta": {
+      "name": "Jalkas #143",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i7",
+    "meta": {
+      "name": "Jalkas #144",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i8",
+    "meta": {
+      "name": "Jalkas #145",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i9",
+    "meta": {
+      "name": "Jalkas #146",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i10",
+    "meta": {
+      "name": "Jalkas #147",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i12",
+    "meta": {
+      "name": "Jalkas #148",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i13",
+    "meta": {
+      "name": "Jalkas #149",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i14",
+    "meta": {
+      "name": "Jalkas #150",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i15",
+    "meta": {
+      "name": "Jalkas #151",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i16",
+    "meta": {
+      "name": "Jalkas #152",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i17",
+    "meta": {
+      "name": "Jalkas #153",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i18",
+    "meta": {
+      "name": "Jalkas #154",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i19",
+    "meta": {
+      "name": "Jalkas #155",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i20",
+    "meta": {
+      "name": "Jalkas #156",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i21",
+    "meta": {
+      "name": "Jalkas #157",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i22",
+    "meta": {
+      "name": "Jalkas #158",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i23",
+    "meta": {
+      "name": "Jalkas #159",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i24",
+    "meta": {
+      "name": "Jalkas #160",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i25",
+    "meta": {
+      "name": "Jalkas #161",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i26",
+    "meta": {
+      "name": "Jalkas #162",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i27",
+    "meta": {
+      "name": "Jalkas #163",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i0",
+    "meta": {
+      "name": "Jalkas #164",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i1",
+    "meta": {
+      "name": "Jalkas #165",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i2",
+    "meta": {
+      "name": "Jalkas #166",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i3",
+    "meta": {
+      "name": "Jalkas #167",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i4",
+    "meta": {
+      "name": "Jalkas #168",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i5",
+    "meta": {
+      "name": "Jalkas #169",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i6",
+    "meta": {
+      "name": "Jalkas #170",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i7",
+    "meta": {
+      "name": "Jalkas #171",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i8",
+    "meta": {
+      "name": "Jalkas #172",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i9",
+    "meta": {
+      "name": "Jalkas #173",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i10",
+    "meta": {
+      "name": "Jalkas #174",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i11",
+    "meta": {
+      "name": "Jalkas #175",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i12",
+    "meta": {
+      "name": "Jalkas #176",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i13",
+    "meta": {
+      "name": "Jalkas #177",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i14",
+    "meta": {
+      "name": "Jalkas #178",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i15",
+    "meta": {
+      "name": "Jalkas #179",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i16",
+    "meta": {
+      "name": "Jalkas #180",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i17",
+    "meta": {
+      "name": "Jalkas #181",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i18",
+    "meta": {
+      "name": "Jalkas #182",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i19",
+    "meta": {
+      "name": "Jalkas #183",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i20",
+    "meta": {
+      "name": "Jalkas #184",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i21",
+    "meta": {
+      "name": "Jalkas #185",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i22",
+    "meta": {
+      "name": "Jalkas #186",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Quila Quila Jalq’a",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i23",
+    "meta": {
+      "name": "Jalkas #187",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Tarabuco Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i24",
+    "meta": {
+      "name": "Jalkas #188",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Potolo Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb2b60012613c9d5024f56768147cfbe13e8144d0ccc15646110cf1007d5b1a9i25",
+    "meta": {
+      "name": "Jalkas #189",
+      "attributes": [
+        {
+          "value": "Jalka",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Maragua Jalka",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec82187d807429fa1d7f3f83846ecedc11273640fb94073a72722308d99980ei0",
+    "meta": {
+      "name": "Jalkas #190",
+      "attributes": [
+        {
+          "value": "Legendary",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Ch’askamanta",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec82187d807429fa1d7f3f83846ecedc11273640fb94073a72722308d99980ei1",
+    "meta": {
+      "name": "Jalkas #191",
+      "attributes": [
+        {
+          "value": "Legendary",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Intikuna",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec82187d807429fa1d7f3f83846ecedc11273640fb94073a72722308d99980ei2",
+    "meta": {
+      "name": "Jalkas #192",
+      "attributes": [
+        {
+          "value": "Legendary",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Sumaq Ñawikuq",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec82187d807429fa1d7f3f83846ecedc11273640fb94073a72722308d99980ei3",
+    "meta": {
+      "name": "Jalkas #193",
+      "attributes": [
+        {
+          "value": "Legendary",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Urun Qhantiyuq",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec82187d807429fa1d7f3f83846ecedc11273640fb94073a72722308d99980ei4",
+    "meta": {
+      "name": "Jalkas #194",
+      "attributes": [
+        {
+          "value": "Legendary",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Mayu Runakuna",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec82187d807429fa1d7f3f83846ecedc11273640fb94073a72722308d99980ei5",
+    "meta": {
+      "name": "Jalkas #195",
+      "attributes": [
+        {
+          "value": "Legendary",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Kunturwasi",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec82187d807429fa1d7f3f83846ecedc11273640fb94073a72722308d99980ei6",
+    "meta": {
+      "name": "Jalkas #196",
+      "attributes": [
+        {
+          "value": "Legendary",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Saqrañawi",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec82187d807429fa1d7f3f83846ecedc11273640fb94073a72722308d99980ei7",
+    "meta": {
+      "name": "Jalkas #197",
+      "attributes": [
+        {
+          "value": "Legendary",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Illapa Simi",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2ec82187d807429fa1d7f3f83846ecedc11273640fb94073a72722308d99980ei8",
+    "meta": {
+      "name": "Jalkas #198",
+      "attributes": [
+        {
+          "value": "Legendary",
+          "trait_type": "Group"
+        },
+        {
+          "value": "Wiraqochaq",
+          "trait_type": "Type"
+        }
+      ]
+    }
+  },
+  {
+    "id": "dd212b6f275abc10f4598ee74013d6fe7cd4529381ff669dfe7f821270b70a30i0",
+    "meta": {
+      "name": "Jalkas #199",
+      "attributes": [
+        {
+          "value": "Legendary",
+          "trait_type": "Group"
+        },
+        {
+          "value": "dd212b6f275abc10f4598ee74013d6fe7cd4529381ff669dfe7f821270b70a30i0",
+          "trait_type": "Parent"
+        }
+      ]
+    }
+  }
+]

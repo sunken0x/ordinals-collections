@@ -1,0 +1,5762 @@
+[
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di0",
+    "meta": {
+      "name": "Lights Between Moments #1 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "1",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di1",
+    "meta": {
+      "name": "Lights Between Moments #2 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "2",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di2",
+    "meta": {
+      "name": "Lights Between Moments #3 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "3",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di3",
+    "meta": {
+      "name": "Lights Between Moments #4 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "4",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di4",
+    "meta": {
+      "name": "Lights Between Moments #5 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "5",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:32",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di5",
+    "meta": {
+      "name": "Lights Between Moments #6 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "6",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di6",
+    "meta": {
+      "name": "Lights Between Moments #7 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "7",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Broken",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di7",
+    "meta": {
+      "name": "Lights Between Moments #8 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "8",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di8",
+    "meta": {
+      "name": "Lights Between Moments #9 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "9",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di9",
+    "meta": {
+      "name": "Lights Between Moments #10 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "10",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di10",
+    "meta": {
+      "name": "Lights Between Moments #11 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "11",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di11",
+    "meta": {
+      "name": "Lights Between Moments #12 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "12",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di12",
+    "meta": {
+      "name": "Lights Between Moments #13 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "13",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di13",
+    "meta": {
+      "name": "Lights Between Moments #14 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "14",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di14",
+    "meta": {
+      "name": "Lights Between Moments #15 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "15",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di15",
+    "meta": {
+      "name": "Lights Between Moments #16 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "16",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di16",
+    "meta": {
+      "name": "Lights Between Moments #17 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "17",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di17",
+    "meta": {
+      "name": "Lights Between Moments #18 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "18",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Broken",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di18",
+    "meta": {
+      "name": "Lights Between Moments #19 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "19",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di19",
+    "meta": {
+      "name": "Lights Between Moments #20 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "20",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di20",
+    "meta": {
+      "name": "Lights Between Moments #21 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "21",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di21",
+    "meta": {
+      "name": "Lights Between Moments #22 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "22",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di22",
+    "meta": {
+      "name": "Lights Between Moments #23 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "23",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di23",
+    "meta": {
+      "name": "Lights Between Moments #24 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "24",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Broken",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di24",
+    "meta": {
+      "name": "Lights Between Moments #25 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "25",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di25",
+    "meta": {
+      "name": "Lights Between Moments #26 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "26",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Broken",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di26",
+    "meta": {
+      "name": "Lights Between Moments #27 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "27",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di27",
+    "meta": {
+      "name": "Lights Between Moments #28 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "28",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di28",
+    "meta": {
+      "name": "Lights Between Moments #29 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "29",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di29",
+    "meta": {
+      "name": "Lights Between Moments #30 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "30",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di30",
+    "meta": {
+      "name": "Lights Between Moments #31 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "31",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di31",
+    "meta": {
+      "name": "Lights Between Moments #32 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "32",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di32",
+    "meta": {
+      "name": "Lights Between Moments #33 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "33",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di33",
+    "meta": {
+      "name": "Lights Between Moments #34 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "34",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di34",
+    "meta": {
+      "name": "Lights Between Moments #35 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "35",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di35",
+    "meta": {
+      "name": "Lights Between Moments #36 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "36",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di36",
+    "meta": {
+      "name": "Lights Between Moments #37 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "37",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di37",
+    "meta": {
+      "name": "Lights Between Moments #38 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "38",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di38",
+    "meta": {
+      "name": "Lights Between Moments #39 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "39",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di39",
+    "meta": {
+      "name": "Lights Between Moments #40 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "40",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di40",
+    "meta": {
+      "name": "Lights Between Moments #41 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "41",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:32",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di41",
+    "meta": {
+      "name": "Lights Between Moments #42 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "42",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di42",
+    "meta": {
+      "name": "Lights Between Moments #43 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "43",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di43",
+    "meta": {
+      "name": "Lights Between Moments #44 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "44",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di44",
+    "meta": {
+      "name": "Lights Between Moments #45 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "45",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di45",
+    "meta": {
+      "name": "Lights Between Moments #46 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "46",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di46",
+    "meta": {
+      "name": "Lights Between Moments #47 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "47",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di47",
+    "meta": {
+      "name": "Lights Between Moments #48 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "48",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di48",
+    "meta": {
+      "name": "Lights Between Moments #49 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "49",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di49",
+    "meta": {
+      "name": "Lights Between Moments #50 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "50",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di50",
+    "meta": {
+      "name": "Lights Between Moments #51 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "51",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di51",
+    "meta": {
+      "name": "Lights Between Moments #52 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "52",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di52",
+    "meta": {
+      "name": "Lights Between Moments #53 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "53",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di53",
+    "meta": {
+      "name": "Lights Between Moments #54 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "54",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di54",
+    "meta": {
+      "name": "Lights Between Moments #55 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "55",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di55",
+    "meta": {
+      "name": "Lights Between Moments #56 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "56",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di56",
+    "meta": {
+      "name": "Lights Between Moments #57 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "57",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di57",
+    "meta": {
+      "name": "Lights Between Moments #58 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "58",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di58",
+    "meta": {
+      "name": "Lights Between Moments #59 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "59",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di59",
+    "meta": {
+      "name": "Lights Between Moments #60 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "60",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di60",
+    "meta": {
+      "name": "Lights Between Moments #61 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "61",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di61",
+    "meta": {
+      "name": "Lights Between Moments #62 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "62",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di62",
+    "meta": {
+      "name": "Lights Between Moments #63 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "63",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di63",
+    "meta": {
+      "name": "Lights Between Moments #64 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "64",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di64",
+    "meta": {
+      "name": "Lights Between Moments #65 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "65",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Broken",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di65",
+    "meta": {
+      "name": "Lights Between Moments #66 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "66",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di66",
+    "meta": {
+      "name": "Lights Between Moments #67 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "67",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di67",
+    "meta": {
+      "name": "Lights Between Moments #68 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "68",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di68",
+    "meta": {
+      "name": "Lights Between Moments #69 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "69",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di69",
+    "meta": {
+      "name": "Lights Between Moments #70 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "70",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di70",
+    "meta": {
+      "name": "Lights Between Moments #71 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "71",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di71",
+    "meta": {
+      "name": "Lights Between Moments #72 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "72",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di72",
+    "meta": {
+      "name": "Lights Between Moments #73 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "73",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di73",
+    "meta": {
+      "name": "Lights Between Moments #74 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "74",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di74",
+    "meta": {
+      "name": "Lights Between Moments #75 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "75",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di75",
+    "meta": {
+      "name": "Lights Between Moments #76 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "76",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di76",
+    "meta": {
+      "name": "Lights Between Moments #77 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "77",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di77",
+    "meta": {
+      "name": "Lights Between Moments #78 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "78",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di78",
+    "meta": {
+      "name": "Lights Between Moments #79 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "79",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Broken",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "Yes",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di79",
+    "meta": {
+      "name": "Lights Between Moments #80 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "80",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di80",
+    "meta": {
+      "name": "Lights Between Moments #81 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "81",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di81",
+    "meta": {
+      "name": "Lights Between Moments #82 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "82",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di82",
+    "meta": {
+      "name": "Lights Between Moments #83 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "83",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di83",
+    "meta": {
+      "name": "Lights Between Moments #84 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "84",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:32",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di84",
+    "meta": {
+      "name": "Lights Between Moments #85 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "85",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di85",
+    "meta": {
+      "name": "Lights Between Moments #86 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "86",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di86",
+    "meta": {
+      "name": "Lights Between Moments #87 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "87",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di87",
+    "meta": {
+      "name": "Lights Between Moments #88 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "88",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di88",
+    "meta": {
+      "name": "Lights Between Moments #89 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "89",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di89",
+    "meta": {
+      "name": "Lights Between Moments #90 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "90",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di90",
+    "meta": {
+      "name": "Lights Between Moments #91 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "91",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di91",
+    "meta": {
+      "name": "Lights Between Moments #92 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "92",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di92",
+    "meta": {
+      "name": "Lights Between Moments #93 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "93",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di93",
+    "meta": {
+      "name": "Lights Between Moments #94 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "94",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di94",
+    "meta": {
+      "name": "Lights Between Moments #95 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "95",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di95",
+    "meta": {
+      "name": "Lights Between Moments #96 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "96",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di96",
+    "meta": {
+      "name": "Lights Between Moments #97 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "97",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di97",
+    "meta": {
+      "name": "Lights Between Moments #98 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "98",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di98",
+    "meta": {
+      "name": "Lights Between Moments #99 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "99",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di99",
+    "meta": {
+      "name": "Lights Between Moments #100 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "100",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di100",
+    "meta": {
+      "name": "Lights Between Moments #101 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "101",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di101",
+    "meta": {
+      "name": "Lights Between Moments #102 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "102",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di102",
+    "meta": {
+      "name": "Lights Between Moments #103 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "103",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Broken",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di103",
+    "meta": {
+      "name": "Lights Between Moments #104 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "104",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di104",
+    "meta": {
+      "name": "Lights Between Moments #105 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "105",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:32",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di105",
+    "meta": {
+      "name": "Lights Between Moments #106 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "106",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di106",
+    "meta": {
+      "name": "Lights Between Moments #107 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "107",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di107",
+    "meta": {
+      "name": "Lights Between Moments #108 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "108",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di108",
+    "meta": {
+      "name": "Lights Between Moments #109 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "109",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di109",
+    "meta": {
+      "name": "Lights Between Moments #110 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "110",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di110",
+    "meta": {
+      "name": "Lights Between Moments #111 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "111",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di111",
+    "meta": {
+      "name": "Lights Between Moments #112 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "112",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di112",
+    "meta": {
+      "name": "Lights Between Moments #113 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "113",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di113",
+    "meta": {
+      "name": "Lights Between Moments #114 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "114",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di114",
+    "meta": {
+      "name": "Lights Between Moments #115 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "115",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di115",
+    "meta": {
+      "name": "Lights Between Moments #116 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "116",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di116",
+    "meta": {
+      "name": "Lights Between Moments #117 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "117",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di117",
+    "meta": {
+      "name": "Lights Between Moments #118 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "118",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di118",
+    "meta": {
+      "name": "Lights Between Moments #119 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "119",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di119",
+    "meta": {
+      "name": "Lights Between Moments #120 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "120",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di120",
+    "meta": {
+      "name": "Lights Between Moments #121 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "121",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di121",
+    "meta": {
+      "name": "Lights Between Moments #122 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "122",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di122",
+    "meta": {
+      "name": "Lights Between Moments #123 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "123",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di123",
+    "meta": {
+      "name": "Lights Between Moments #124 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "124",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di124",
+    "meta": {
+      "name": "Lights Between Moments #125 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "125",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di125",
+    "meta": {
+      "name": "Lights Between Moments #126 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "126",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Broken",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di126",
+    "meta": {
+      "name": "Lights Between Moments #127 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "127",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di127",
+    "meta": {
+      "name": "Lights Between Moments #128 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "128",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di128",
+    "meta": {
+      "name": "Lights Between Moments #129 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "129",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di129",
+    "meta": {
+      "name": "Lights Between Moments #130 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "130",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:32",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di130",
+    "meta": {
+      "name": "Lights Between Moments #131 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "131",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di131",
+    "meta": {
+      "name": "Lights Between Moments #132 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "132",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di132",
+    "meta": {
+      "name": "Lights Between Moments #133 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "133",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di133",
+    "meta": {
+      "name": "Lights Between Moments #134 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "134",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di134",
+    "meta": {
+      "name": "Lights Between Moments #135 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "135",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di135",
+    "meta": {
+      "name": "Lights Between Moments #136 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "136",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Mixed",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di136",
+    "meta": {
+      "name": "Lights Between Moments #137 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "137",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di137",
+    "meta": {
+      "name": "Lights Between Moments #138 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "138",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di138",
+    "meta": {
+      "name": "Lights Between Moments #139 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "139",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di139",
+    "meta": {
+      "name": "Lights Between Moments #140 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "140",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di140",
+    "meta": {
+      "name": "Lights Between Moments #141 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "141",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di141",
+    "meta": {
+      "name": "Lights Between Moments #142 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "142",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Vertical",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Regular",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Structured",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di142",
+    "meta": {
+      "name": "Lights Between Moments #143 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "143",
+          "trait_type": "ID"
+        },
+        {
+          "value": "9:16",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "Black",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Round",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Chaotic",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2b86488d8057f0baddb208e7b0974467e747cded07be31a7d5f8605cbd43574di143",
+    "meta": {
+      "name": "Lights Between Moments #144 by Th0mas Art",
+      "attributes": [
+        {
+          "value": "144",
+          "trait_type": "ID"
+        },
+        {
+          "value": "16:9",
+          "trait_type": "AspectRatio"
+        },
+        {
+          "value": "White",
+          "trait_type": "Background"
+        },
+        {
+          "value": "Horizontal",
+          "trait_type": "GridAlignment"
+        },
+        {
+          "value": "Angular",
+          "trait_type": "ObjectAppearance"
+        },
+        {
+          "value": "Random",
+          "trait_type": "Spacing"
+        },
+        {
+          "value": "Disrupted",
+          "trait_type": "ChaosLevel"
+        },
+        {
+          "value": "No",
+          "trait_type": "ChaosStrokes"
+        }
+      ]
+    }
+  }
+]

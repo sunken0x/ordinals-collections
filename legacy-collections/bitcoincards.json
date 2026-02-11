@@ -1,0 +1,170 @@
+[
+  {
+    "id": "d29997a835a38d2c5aed46788c277b4ba1a728bc79313bb505c0ad4e30e68c64i0",
+    "meta": {
+      "name": "Obama Card",
+      "attributes": [
+        {
+          "value": "15",
+          "trait_type": "Heart"
+        },
+        {
+          "value": "3",
+          "trait_type": "Atk"
+        },
+        {
+          "value": "1",
+          "trait_type": "Spd"
+        },
+        {
+          "value": "LOCATE",
+          "trait_type": "Ele"
+        },
+        {
+          "value": "70",
+          "trait_type": "Score"
+        }
+      ]
+    }
+  },
+  {
+    "id": "66f0b7bf08a6ecbb33d78b372152b1d933bf4081d12e6c83fa9f0df127ffaa50i0",
+    "meta": {
+      "name": "Queen Elizabeth Card",
+      "attributes": [
+        {
+          "value": "0",
+          "trait_type": "Heart"
+        },
+        {
+          "value": "5",
+          "trait_type": "Atk"
+        },
+        {
+          "value": "0",
+          "trait_type": "Spd"
+        },
+        {
+          "value": "RELIC",
+          "trait_type": "Ele"
+        },
+        {
+          "value": "67",
+          "trait_type": "Score"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f51427551ea787aae00146a1d26e345346f7173afeec56b295f0826d4ee349cai0",
+    "meta": {
+      "name": "Rodarmor Card",
+      "attributes": [
+        {
+          "value": "15",
+          "trait_type": "Heart"
+        },
+        {
+          "value": "03",
+          "trait_type": "Atk"
+        },
+        {
+          "value": "01",
+          "trait_type": "Spd"
+        },
+        {
+          "value": "RUNES",
+          "trait_type": "Ele"
+        },
+        {
+          "value": "79",
+          "trait_type": "Score"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cc2c254d151a4e5f4f2a17657891432570a33f423bc5e12b690b60cc55eec0c9i0",
+    "meta": {
+      "name": "Trump Card",
+      "attributes": [
+        {
+          "value": "18",
+          "trait_type": "Heart"
+        },
+        {
+          "value": "4",
+          "trait_type": "Atk"
+        },
+        {
+          "value": "2",
+          "trait_type": "Spd"
+        },
+        {
+          "value": "EVASION",
+          "trait_type": "Ele"
+        },
+        {
+          "value": "75",
+          "trait_type": "Score"
+        }
+      ]
+    }
+  },
+  {
+    "id": "29b0cef3a15ccdd69381ac88494cd2f5f835fe5369797b3ab054600f5bddb747i0",
+    "meta": {
+      "name": "Stephen Hawking Card",
+      "attributes": [
+        {
+          "value": "7",
+          "trait_type": "Heart"
+        },
+        {
+          "value": "1",
+          "trait_type": "Atk"
+        },
+        {
+          "value": "1",
+          "trait_type": "Spd"
+        },
+        {
+          "value": "SEE",
+          "trait_type": "Ele"
+        },
+        {
+          "value": "81",
+          "trait_type": "Score"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e4ffbec0a40df52a0e9bde85256f9f2869b6fdc46463ffa7bfe0135b23af6565i0",
+    "meta": {
+      "name": "Crist Card",
+      "attributes": [
+        {
+          "value": "99",
+          "trait_type": "Heart"
+        },
+        {
+          "value": "99",
+          "trait_type": "Atk"
+        },
+        {
+          "value": "99",
+          "trait_type": "Spd"
+        },
+        {
+          "value": "IMMORTAL",
+          "trait_type": "Ele"
+        },
+        {
+          "value": "100",
+          "trait_type": "Score"
+        }
+      ]
+    }
+  }
+]

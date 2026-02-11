@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i0",
+    "meta": {
+      "name": "ARCANE #1",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i1",
+    "meta": {
+      "name": "ARCANE #2",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i2",
+    "meta": {
+      "name": "ARCANE #3",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i3",
+    "meta": {
+      "name": "ARCANE #4",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i4",
+    "meta": {
+      "name": "ARCANE #5",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i5",
+    "meta": {
+      "name": "ARCANE #6",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i6",
+    "meta": {
+      "name": "ARCANE #7",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i7",
+    "meta": {
+      "name": "ARCANE #8",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i8",
+    "meta": {
+      "name": "ARCANE #9",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i9",
+    "meta": {
+      "name": "ARCANE #10",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i10",
+    "meta": {
+      "name": "ARCANE #11",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i11",
+    "meta": {
+      "name": "ARCANE #12",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i12",
+    "meta": {
+      "name": "ARCANE #13",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i13",
+    "meta": {
+      "name": "ARCANE #14",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i14",
+    "meta": {
+      "name": "ARCANE #15",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i15",
+    "meta": {
+      "name": "ARCANE #16",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i16",
+    "meta": {
+      "name": "ARCANE #17",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i17",
+    "meta": {
+      "name": "ARCANE #18",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i18",
+    "meta": {
+      "name": "ARCANE #19",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i19",
+    "meta": {
+      "name": "ARCANE #20",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i20",
+    "meta": {
+      "name": "ARCANE #21",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i21",
+    "meta": {
+      "name": "ARCANE #22",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i22",
+    "meta": {
+      "name": "ARCANE #23",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i23",
+    "meta": {
+      "name": "ARCANE #24",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i24",
+    "meta": {
+      "name": "ARCANE #25",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i25",
+    "meta": {
+      "name": "ARCANE #26",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i26",
+    "meta": {
+      "name": "ARCANE #27",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i27",
+    "meta": {
+      "name": "ARCANE #28",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i28",
+    "meta": {
+      "name": "ARCANE #29",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i29",
+    "meta": {
+      "name": "ARCANE #30",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i30",
+    "meta": {
+      "name": "ARCANE #31",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i31",
+    "meta": {
+      "name": "ARCANE #32",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i32",
+    "meta": {
+      "name": "ARCANE #33",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i33",
+    "meta": {
+      "name": "ARCANE #34",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i34",
+    "meta": {
+      "name": "ARCANE #35",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i35",
+    "meta": {
+      "name": "ARCANE #36",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i36",
+    "meta": {
+      "name": "ARCANE #37",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i37",
+    "meta": {
+      "name": "ARCANE #38",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i38",
+    "meta": {
+      "name": "ARCANE #39",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i39",
+    "meta": {
+      "name": "ARCANE #40",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i40",
+    "meta": {
+      "name": "ARCANE #41",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i41",
+    "meta": {
+      "name": "ARCANE #42",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i42",
+    "meta": {
+      "name": "ARCANE #43",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i43",
+    "meta": {
+      "name": "ARCANE #44",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i44",
+    "meta": {
+      "name": "ARCANE #45",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i45",
+    "meta": {
+      "name": "ARCANE #46",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i46",
+    "meta": {
+      "name": "ARCANE #47",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i47",
+    "meta": {
+      "name": "ARCANE #48",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i48",
+    "meta": {
+      "name": "ARCANE #49",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i49",
+    "meta": {
+      "name": "ARCANE #50",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i50",
+    "meta": {
+      "name": "ARCANE #51",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i51",
+    "meta": {
+      "name": "ARCANE #52",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i52",
+    "meta": {
+      "name": "ARCANE #53",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i53",
+    "meta": {
+      "name": "ARCANE #54",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i54",
+    "meta": {
+      "name": "ARCANE #55",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i55",
+    "meta": {
+      "name": "ARCANE #56",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i56",
+    "meta": {
+      "name": "ARCANE #57",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i57",
+    "meta": {
+      "name": "ARCANE #58",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i58",
+    "meta": {
+      "name": "ARCANE #59",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i59",
+    "meta": {
+      "name": "ARCANE #60",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i60",
+    "meta": {
+      "name": "ARCANE #61",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i61",
+    "meta": {
+      "name": "ARCANE #62",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i62",
+    "meta": {
+      "name": "ARCANE #63",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i63",
+    "meta": {
+      "name": "ARCANE #64",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i64",
+    "meta": {
+      "name": "ARCANE #65",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i65",
+    "meta": {
+      "name": "ARCANE #66",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i66",
+    "meta": {
+      "name": "ARCANE #67",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i67",
+    "meta": {
+      "name": "ARCANE #68",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i68",
+    "meta": {
+      "name": "ARCANE #69",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i69",
+    "meta": {
+      "name": "ARCANE #70",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i70",
+    "meta": {
+      "name": "ARCANE #71",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i71",
+    "meta": {
+      "name": "ARCANE #72",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i72",
+    "meta": {
+      "name": "ARCANE #73",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i73",
+    "meta": {
+      "name": "ARCANE #74",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i74",
+    "meta": {
+      "name": "ARCANE #75",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i75",
+    "meta": {
+      "name": "ARCANE #76",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i76",
+    "meta": {
+      "name": "ARCANE #77",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i77",
+    "meta": {
+      "name": "ARCANE #78",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i78",
+    "meta": {
+      "name": "ARCANE #79",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i79",
+    "meta": {
+      "name": "ARCANE #80",
+      "attributes": [
+        {
+          "value": "TYPE A",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i80",
+    "meta": {
+      "name": "ARCANE #81",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i81",
+    "meta": {
+      "name": "ARCANE #82",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i82",
+    "meta": {
+      "name": "ARCANE #83",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i83",
+    "meta": {
+      "name": "ARCANE #84",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i84",
+    "meta": {
+      "name": "ARCANE #85",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i85",
+    "meta": {
+      "name": "ARCANE #86",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i86",
+    "meta": {
+      "name": "ARCANE #87",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i87",
+    "meta": {
+      "name": "ARCANE #88",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i88",
+    "meta": {
+      "name": "ARCANE #89",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i89",
+    "meta": {
+      "name": "ARCANE #90",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i90",
+    "meta": {
+      "name": "ARCANE #91",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i91",
+    "meta": {
+      "name": "ARCANE #92",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i92",
+    "meta": {
+      "name": "ARCANE #93",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i93",
+    "meta": {
+      "name": "ARCANE #94",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i94",
+    "meta": {
+      "name": "ARCANE #95",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i95",
+    "meta": {
+      "name": "ARCANE #96",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i96",
+    "meta": {
+      "name": "ARCANE #97",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i97",
+    "meta": {
+      "name": "ARCANE #98",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i98",
+    "meta": {
+      "name": "ARCANE #99",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "12851612dd7770bf8269742ecb6e079fa3f6c5772a9f2ac369e01cb2221197d2i99",
+    "meta": {
+      "name": "ARCANE #100",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i0",
+    "meta": {
+      "name": "ARCANE #101",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i1",
+    "meta": {
+      "name": "ARCANE #102",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i2",
+    "meta": {
+      "name": "ARCANE #103",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i3",
+    "meta": {
+      "name": "ARCANE #104",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i4",
+    "meta": {
+      "name": "ARCANE #105",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i5",
+    "meta": {
+      "name": "ARCANE #106",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i6",
+    "meta": {
+      "name": "ARCANE #107",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i7",
+    "meta": {
+      "name": "ARCANE #108",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i8",
+    "meta": {
+      "name": "ARCANE #109",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i9",
+    "meta": {
+      "name": "ARCANE #110",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i10",
+    "meta": {
+      "name": "ARCANE #111",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i11",
+    "meta": {
+      "name": "ARCANE #112",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i12",
+    "meta": {
+      "name": "ARCANE #113",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i13",
+    "meta": {
+      "name": "ARCANE #114",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i14",
+    "meta": {
+      "name": "ARCANE #115",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i15",
+    "meta": {
+      "name": "ARCANE #116",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i16",
+    "meta": {
+      "name": "ARCANE #117",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i17",
+    "meta": {
+      "name": "ARCANE #118",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i18",
+    "meta": {
+      "name": "ARCANE #119",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i19",
+    "meta": {
+      "name": "ARCANE #120",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i20",
+    "meta": {
+      "name": "ARCANE #121",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i21",
+    "meta": {
+      "name": "ARCANE #122",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i22",
+    "meta": {
+      "name": "ARCANE #123",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i23",
+    "meta": {
+      "name": "ARCANE #124",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i24",
+    "meta": {
+      "name": "ARCANE #125",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i25",
+    "meta": {
+      "name": "ARCANE #126",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i26",
+    "meta": {
+      "name": "ARCANE #127",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i27",
+    "meta": {
+      "name": "ARCANE #128",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i28",
+    "meta": {
+      "name": "ARCANE #129",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i29",
+    "meta": {
+      "name": "ARCANE #130",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i30",
+    "meta": {
+      "name": "ARCANE #131",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i31",
+    "meta": {
+      "name": "ARCANE #132",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i32",
+    "meta": {
+      "name": "ARCANE #133",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i33",
+    "meta": {
+      "name": "ARCANE #134",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i34",
+    "meta": {
+      "name": "ARCANE #135",
+      "attributes": [
+        {
+          "value": "TYPE C",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i35",
+    "meta": {
+      "name": "ARCANE #136",
+      "attributes": [
+        {
+          "value": "TYPE D",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i36",
+    "meta": {
+      "name": "ARCANE #137",
+      "attributes": [
+        {
+          "value": "TYPE D",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i37",
+    "meta": {
+      "name": "ARCANE #138",
+      "attributes": [
+        {
+          "value": "TYPE D",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i38",
+    "meta": {
+      "name": "ARCANE #139",
+      "attributes": [
+        {
+          "value": "TYPE D",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i39",
+    "meta": {
+      "name": "ARCANE #140",
+      "attributes": [
+        {
+          "value": "TYPE D",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i40",
+    "meta": {
+      "name": "ARCANE #141",
+      "attributes": [
+        {
+          "value": "TYPE D",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i41",
+    "meta": {
+      "name": "ARCANE #142",
+      "attributes": [
+        {
+          "value": "TYPE D",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i42",
+    "meta": {
+      "name": "ARCANE #143",
+      "attributes": [
+        {
+          "value": "TYPE D",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i43",
+    "meta": {
+      "name": "ARCANE #144",
+      "attributes": [
+        {
+          "value": "TYPE D",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i44",
+    "meta": {
+      "name": "ARCANE #145",
+      "attributes": [
+        {
+          "value": "TYPE D",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i45",
+    "meta": {
+      "name": "ARCANE #146",
+      "attributes": [
+        {
+          "value": "TYPE D",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i46",
+    "meta": {
+      "name": "ARCANE #147",
+      "attributes": [
+        {
+          "value": "TYPE D",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i47",
+    "meta": {
+      "name": "ARCANE #148",
+      "attributes": [
+        {
+          "value": "TYPE D",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i48",
+    "meta": {
+      "name": "ARCANE #149",
+      "attributes": [
+        {
+          "value": "TYPE D",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i49",
+    "meta": {
+      "name": "ARCANE #150",
+      "attributes": [
+        {
+          "value": "TYPE D",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i50",
+    "meta": {
+      "name": "ARCANE #151",
+      "attributes": [
+        {
+          "value": "TYPE D",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i51",
+    "meta": {
+      "name": "ARCANE #152",
+      "attributes": [
+        {
+          "value": "TYPE D",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i52",
+    "meta": {
+      "name": "ARCANE #153",
+      "attributes": [
+        {
+          "value": "TYPE D",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i53",
+    "meta": {
+      "name": "ARCANE #154",
+      "attributes": [
+        {
+          "value": "TYPE D",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i54",
+    "meta": {
+      "name": "ARCANE #155",
+      "attributes": [
+        {
+          "value": "TYPE D",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i55",
+    "meta": {
+      "name": "ARCANE #156",
+      "attributes": [
+        {
+          "value": "TYPE D",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i56",
+    "meta": {
+      "name": "ARCANE #157",
+      "attributes": [
+        {
+          "value": "TYPE D",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i57",
+    "meta": {
+      "name": "ARCANE #158",
+      "attributes": [
+        {
+          "value": "TYPE D",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i58",
+    "meta": {
+      "name": "ARCANE #159",
+      "attributes": [
+        {
+          "value": "TYPE D",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i59",
+    "meta": {
+      "name": "ARCANE #160",
+      "attributes": [
+        {
+          "value": "TYPE D",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i60",
+    "meta": {
+      "name": "ARCANE #161",
+      "attributes": [
+        {
+          "value": "TYPE E",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i61",
+    "meta": {
+      "name": "ARCANE #162",
+      "attributes": [
+        {
+          "value": "TYPE E",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i62",
+    "meta": {
+      "name": "ARCANE #163",
+      "attributes": [
+        {
+          "value": "TYPE E",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i63",
+    "meta": {
+      "name": "ARCANE #164",
+      "attributes": [
+        {
+          "value": "TYPE E",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i64",
+    "meta": {
+      "name": "ARCANE #165",
+      "attributes": [
+        {
+          "value": "TYPE E",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i65",
+    "meta": {
+      "name": "ARCANE #166",
+      "attributes": [
+        {
+          "value": "TYPE E",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i66",
+    "meta": {
+      "name": "ARCANE #167",
+      "attributes": [
+        {
+          "value": "TYPE E",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i67",
+    "meta": {
+      "name": "ARCANE #168",
+      "attributes": [
+        {
+          "value": "TYPE E",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i68",
+    "meta": {
+      "name": "ARCANE #169",
+      "attributes": [
+        {
+          "value": "TYPE E",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i69",
+    "meta": {
+      "name": "ARCANE #170",
+      "attributes": [
+        {
+          "value": "TYPE E",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i70",
+    "meta": {
+      "name": "ARCANE #171",
+      "attributes": [
+        {
+          "value": "TYPE E",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i71",
+    "meta": {
+      "name": "ARCANE #172",
+      "attributes": [
+        {
+          "value": "TYPE E",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i72",
+    "meta": {
+      "name": "ARCANE #173",
+      "attributes": [
+        {
+          "value": "TYPE E",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i73",
+    "meta": {
+      "name": "ARCANE #174",
+      "attributes": [
+        {
+          "value": "TYPE E",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i74",
+    "meta": {
+      "name": "ARCANE #175",
+      "attributes": [
+        {
+          "value": "TYPE E",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i75",
+    "meta": {
+      "name": "ARCANE #176",
+      "attributes": [
+        {
+          "value": "TYPE E",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i76",
+    "meta": {
+      "name": "ARCANE #177",
+      "attributes": [
+        {
+          "value": "TYPE E",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i77",
+    "meta": {
+      "name": "ARCANE #178",
+      "attributes": [
+        {
+          "value": "TYPE E",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i78",
+    "meta": {
+      "name": "ARCANE #179",
+      "attributes": [
+        {
+          "value": "TYPE E",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i79",
+    "meta": {
+      "name": "ARCANE #180",
+      "attributes": [
+        {
+          "value": "TYPE E",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i80",
+    "meta": {
+      "name": "ARCANE #181",
+      "attributes": [
+        {
+          "value": "TYPE E",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i81",
+    "meta": {
+      "name": "ARCANE #182",
+      "attributes": [
+        {
+          "value": "TYPE E",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i82",
+    "meta": {
+      "name": "ARCANE #183",
+      "attributes": [
+        {
+          "value": "TYPE E",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i83",
+    "meta": {
+      "name": "ARCANE #184",
+      "attributes": [
+        {
+          "value": "TYPE E",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i84",
+    "meta": {
+      "name": "ARCANE #185",
+      "attributes": [
+        {
+          "value": "TYPE E",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i85",
+    "meta": {
+      "name": "ARCANE #186",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i86",
+    "meta": {
+      "name": "ARCANE #187",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i87",
+    "meta": {
+      "name": "ARCANE #188",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i88",
+    "meta": {
+      "name": "ARCANE #189",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i89",
+    "meta": {
+      "name": "ARCANE #190",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i90",
+    "meta": {
+      "name": "ARCANE #191",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i91",
+    "meta": {
+      "name": "ARCANE #192",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i92",
+    "meta": {
+      "name": "ARCANE #193",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i93",
+    "meta": {
+      "name": "ARCANE #194",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i94",
+    "meta": {
+      "name": "ARCANE #195",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i95",
+    "meta": {
+      "name": "ARCANE #196",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i96",
+    "meta": {
+      "name": "ARCANE #197",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i97",
+    "meta": {
+      "name": "ARCANE #198",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i98",
+    "meta": {
+      "name": "ARCANE #199",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b4017332c26cd6d349bff1b9f8f6c741d0f91273df0258a18330d47fad117202i99",
+    "meta": {
+      "name": "ARCANE #200",
+      "attributes": [
+        {
+          "value": "TYPE B",
+          "trait_type": "TYPE"
+        }
+      ]
+    }
+  }
+]
