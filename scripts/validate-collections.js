@@ -47,6 +47,8 @@ for (const entry of collections) {
 
   if (typeof entry.name !== 'string' || !entry.name.trim()) {
     error(`[${label}] missing or empty name`)
+  } else if (entry.name !== entry.name.trim()) {
+    error(`[${label}] name has leading/trailing whitespace: "${entry.name}"`)
   }
 
   if (!VALID_TYPES.includes(entry.type)) {

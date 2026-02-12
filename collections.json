@@ -1,14 +1,6 @@
 [
   {
-    "name": " OrdiGallery Pass by The Pandemonium",
-    "type": "parent",
-    "ids": [
-      "1e6a41a0cf7105ba80af2e3e0f00f691dfbab410a7701d2f1053a7c6e03c1c93i0"
-    ],
-    "slug": "ordigallery-pass"
-  },
-  {
-    "name": "(AI) Alkane Imperium ",
+    "name": "(AI) Alkane Imperium",
     "type": "parent",
     "ids": [
       "5e5f4bb0f3d63719edd08e2c2ec84431963107fc0f05f18f89f27ddcf3b47966i0"
@@ -362,7 +354,7 @@
     "slug": "exo_recruits"
   },
   {
-    "name": "Experiment 9 ",
+    "name": "Experiment 9",
     "type": "parent",
     "ids": [
       "2312dc77afc774cecac54ab83da4b799d1a14707f79ff51ee892069ded7b7126i0"
@@ -682,7 +674,7 @@
     "slug": "notsaints"
   },
   {
-    "name": "OCM Dimensions 300 by OnChainMonkey® ",
+    "name": "OCM Dimensions 300 by OnChainMonkey®",
     "type": "parent",
     "ids": [
       "2dbdf9ebbec6be793fd16ae9b797c7cf968ab2427166aaf390b90b71778266abi0"
@@ -739,6 +731,14 @@
       "0a38c10cae5ffacab139d8da5c1a64941f688a0b6e8a905eaee01a4ff0594fdai0"
     ],
     "slug": "ordenza"
+  },
+  {
+    "name": "OrdiGallery Pass by The Pandemonium",
+    "type": "parent",
+    "ids": [
+      "1e6a41a0cf7105ba80af2e3e0f00f691dfbab410a7701d2f1053a7c6e03c1c93i0"
+    ],
+    "slug": "ordigallery-pass"
   },
   {
     "name": "Ordinal SigmaX",
