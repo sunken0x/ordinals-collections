@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Black Doges",
+    "slug": "black-doges",
+    "parentIds": [
+      "04f2df6f44a2ca5eef4baae0cca10022e43b74094b276dcc3e65b84bab037621i0"
+    ],
+    "inFileNotApi": [
+      "04f2df6f44a2ca5eef4baae0cca10022e43b74094b276dcc3e65b84bab037621i0"
+    ],
+    "inApiNotFile": []
+  },
+  {
+    "name": "boldinals",
+    "slug": "boldinals",
+    "parentIds": [
+      "bc5f7ea515822472d6da34d6986e1d1fecd0df865098de79e33d913ab743eb7di0"
+    ],
+    "inFileNotApi": [
+      "bc5f7ea515822472d6da34d6986e1d1fecd0df865098de79e33d913ab743eb7di0"
+    ],
+    "inApiNotFile": []
+  },
+  {
+    "name": "Gyrifract by Karmelo",
+    "slug": "gyrifract",
+    "parentIds": [
+      "b90000cc996f948c983c7cd4c22d8a8c753fd6275f505aacb34cd94f4b37ec18i0"
+    ],
+    "inFileNotApi": [
+      "37dedd0de9892d0467ee74d21bdd70bed4e9e3fd9f063f4f74ae617438dd2b27i0"
+    ],
+    "inApiNotFile": [
+      "b945022ae7676a06b5db7814322909cac927200bdf3d35b7c514717ef5b03200i81"
+    ]
+  },
+  {
+    "name": "Jalkas By Wira",
+    "slug": "jalkas_by_wira",
+    "parentIds": [
+      "dd212b6f275abc10f4598ee74013d6fe7cd4529381ff669dfe7f821270b70a30i0"
+    ],
+    "inFileNotApi": [
+      "dd212b6f275abc10f4598ee74013d6fe7cd4529381ff669dfe7f821270b70a30i0"
+    ],
+    "inApiNotFile": [
+      "2ec04c4c536bf05d4af8ee076e2f0e3835b5e29d71eb690922c22f192a195c07i11"
+    ]
+  },
+  {
+    "name": "Mutant Hounds: Inscriptions",
+    "slug": "mhi",
+    "parentIds": [
+      "02bfd6c3a769bb4b4cffae68ddfa43b38835aed5390b7f202900e5c749623dd1i0"
+    ],
+    "inFileNotApi": [
+      "d0788efa4342944c8daa8df6c9ceb1d8fc98a139985f02a363718bf903bb79bci0"
+    ],
+    "inApiNotFile": [
+      "fb36eb6e3557022d9760f8b2b235be9ed2333a8a880eeddf6519cae170632581i32"
+    ]
+  },
+  {
+    "name": "OCM Genesis by OnChainMonkey®",
+    "slug": "ocm-genesis",
+    "parentIds": [
+      "fb162a46943e5d7d31d72ee2c8c850e66c1ca5d0d453068aa63883528285ed21i0",
+      "14bc4de4887332f8d5a5a274874a33e6c7f4b9e5c972e1ce0d41fd450f7660fdi0"
+    ],
+    "inFileNotApi": [
+      "fb162a46943e5d7d31d72ee2c8c850e66c1ca5d0d453068aa63883528285ed21i0"
+    ],
+    "inApiNotFile": []
+  },
+  {
+    "name": "OG Pebbles",
+    "slug": "ogpebbles",
+    "parentIds": [
+      "e8a51ed779d37764718ad28427b9a9a982c3aa9b08ceb72d562ebdcb180d260fi0"
+    ],
+    "inFileNotApi": [
+      "e8a51ed779d37764718ad28427b9a9a982c3aa9b08ceb72d562ebdcb180d260fi0"
+    ],
+    "inApiNotFile": [
+      "78501a186bdfec918ba89fd2fc10303e0401163fb239865e2ab21aa0bc2925f8i0"
+    ]
+  },
+  {
+    "name": "QUEENS by FAR",
+    "slug": "queens",
+    "parentIds": [
+      "68b8d5928a4a78897ebd739343270b88f6c9a53e902f8a5637a4367ef229b432i0"
+    ],
+    "inFileNotApi": [
+      "1c342b2f7f0a3efdd580c261536deb1873b23589915253fb2079aaf6f61925f7i0"
+    ],
+    "inApiNotFile": [
+      "3860b0ca3a51dd8148cf0815a8aa41eb4140e5491abb755e4e71bc1f4db748e3i0"
+    ]
+  },
+  {
+    "name": "Taproot Witches",
+    "slug": "taprootwitches",
+    "parentIds": [
+      "e317a2a5d68bd1004ae15a06175a319272a10389ff125c98820389edef8b0a94i0"
+    ],
+    "inFileNotApi": [
+      "816b94412a46ef1d902e486564359085ae47693c1c4766cf48c1ba78acf06906i0"
+    ],
+    "inApiNotFile": [
+      "8a97194cea88a3b7e75f940a0369a931c9f06c9cb84464775973cd46808e71e3i370"
+    ]
+  }
+]
