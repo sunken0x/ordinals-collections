@@ -7,7 +7,7 @@ Curated on-chain data of Ordinals collections.
 Each entry includes:
 
 - **name**: collection name
-- **type**: `gallery` or `parent/child`
+- **type**: `gallery` or `parent`
 - **id** or **ids**: gallery uses a single `id`, parent/child uses an `ids` array
 - **slug**: URL-friendly identifier for the collection
 
