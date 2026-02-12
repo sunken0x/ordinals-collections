@@ -16,16 +16,16 @@ Each entry includes:
 ```json
 [
   {
-    "name": "Dia De Pixales",
+    "name": "Quantum Cats",
     "type": "parent",
-    "ids": ["681b5373c03e3f819231afd9227f54101395299c9e58356bda278e2f32bef2cdi0"],
-    "slug": "dia-de-pixales"
+    "ids": ["0e383b8af3e7f8767bc9ec0a48fbf837d82b0d537f4dbc7a8853e6828112ea41i0"],
+    "slug": "quantum_cats"
   },
   {
     "name": "The Wizards of Ord",
     "type": "gallery",
-    "id": "aaaaaaaa...i0",
-    "slug": "wizards-of-ord"
+    "id": "b8a6c9e946f0beaa9cbb4d6cc9f9388ae71d0f93c0215b8a85595db69949e64ci0",
+    "slug": "wizards"
   }
 ]
 ```
