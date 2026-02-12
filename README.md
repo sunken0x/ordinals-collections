@@ -30,22 +30,29 @@ Each entry includes:
 ]
 ```
 
-### How to Create Galleries
+### Submitting a Collection
 
-- [ord/ord](https://github.com/ordinals/ord)
-Ordinals reference client
-- [The Wizards of Ord Inscriber](https://inscribe.dev)
-Supports creating galleries from the common marketplace collection JSON file
+1. Add your entry to [`collections.json`](collections.json)
+2. Run `node scripts/format-collections.js` to sort and trim whitespace
+3. Run `node scripts/validate-collections.js` to validate
+4. Open a PR
+
+CI will automatically validate your entry on push.
 
 ### Inclusion Criteria
 
-- **Galleries**: The list of Inscription IDs must exactly match the collection data on the most popular ordinals marketplace at the time.
-- **Parent(s)/child**: All children must share the same parent(s).
-- **Traits**: If included, they should closely resemble the marketplace trait data.  
+- **Parent/child**: All children must share the same parent(s)
+- **Galleries**: Inscription IDs must exactly match the collection data on the most popular ordinals marketplace at the time
+- **Traits**: If included, should closely resemble marketplace trait data
 
-### Updates
+### How to Create Galleries
 
-All updates must be requested through a PR.
+- [ord/ord](https://github.com/ordinals/ord) — Ordinals reference client
+- [The Wizards of Ord Inscriber](https://inscribe.dev) — Supports creating galleries directly from [Magic Eden collection JSON files](legacy/collections) ([demo](https://x.com/lifofifo/status/2021279780667036069))
+
+### Legacy Data
+
+The [`legacy/`](legacy/) directory contains collection data originally sourced from Magic Eden, including per-collection inscription lists and metadata. This can be useful as reference when submitting new entries.
 
 ### Credits
 
