@@ -226,12 +226,22 @@
     "slug": "blobarmy"
   },
   {
-    "name": "Blok Space by Blok",
-    "type": "parent",
-    "ids": [
-      "73d068ca64b5e23e4d723298a590cb7f5741a973a99fd4956b624e905e16c917i0"
-    ],
+    "name": "Blok Boyz",
+    "type": "gallery",
+    "id": "5afbf08ac94a88f5476ed5de882669ae3e6f6696b384e11d2c1b1698dad54226i0",
+    "slug": "blok-boyz"
+  },
+  {
+    "name": "Blok Space",
+    "type": "gallery",
+    "id": "70edd3db9da094bc3dfbdf6cbe0652bcf74b02e49ff9f4c4e572efcaf9203417i0",
     "slug": "blok-space"
+  },
+  {
+    "name": "Blokchain Surveillance",
+    "type": "gallery",
+    "id": "84cc284a31c8f480690a66a388f589031b74093968d35451a5d52df005980f78i0",
+    "slug": "blokchain-surveillance"
   },
   {
     "name": "boldinals",
@@ -775,6 +785,12 @@
       "b0aaf987aaa594a993561de2277f2356b4fae5a8b84335db63e3639964607651i0"
     ],
     "slug": "orpepes-5000"
+  },
+  {
+    "name": "Palindrome Punks",
+    "type": "gallery",
+    "id": "3985bfdaa98e36c2411741a6d27f6408f130c2118ff37b4f1aea66477ffa3d6bi0",
+    "slug": "palindrome-punks"
   },
   {
     "name": "Pizza Ninjas",
