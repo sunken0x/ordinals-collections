@@ -586,6 +586,13 @@
       "2db99ecdae38282e6e6676de9076818ff2fd5b3cd25d92cc9f6551bbc176f7fci0"
     ],
     "slug": "lunatics"
+  },{
+    "name": "LurkersBTC",
+    "type": "parent",
+    "ids": [
+      "fa4a218efacc748f4e4fcad40c134d77a86536f35bd60c6ce72134854a2dc756i0"
+    ],
+    "slug": "lurkersbtc"
   },
   {
     "name": "Manufactured by Lemonhaze",
